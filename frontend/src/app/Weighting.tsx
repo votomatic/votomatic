@@ -14,6 +14,11 @@ interface WeightingProps {
 
 export function Weighting({ theses, answers, weights: initialWeights, onComplete, onBack }: WeightingProps) {
   const [weights, setWeights] = useState<Record<string, number>>(initialWeights || {});
+  const [expandedThesis, setExpandedThesis] = useState<string | null>(null);
+
+  const toggleExpand = (thesisKey: string) => {
+    setExpandedThesis(expandedThesis === thesisKey ? null : thesisKey);
+  };
 
   const toggleWeight = (thesisKey: string) => {
     setWeights((prev) => ({
@@ -72,26 +77,68 @@ export function Weighting({ theses, answers, weights: initialWeights, onComplete
           <div className="space-y-3">
             {thesesWithAnswers.map((thesis) => {
               const isWeighted = weights[thesis._key] === 2;
+              const isExpanded = expandedThesis === thesis._key;
 
               return (
                 <div
                   key={thesis._key}
                   className={cn(
-                    "bg-surface rounded-3xl p-6 flex items-center justify-between gap-4 transition-all",
+                    "bg-surface rounded-3xl overflow-hidden transition-all",
                     isWeighted && "bg-accent text-accent-foreground"
                   )}
                 >
-                  <span className="font-semibold flex-1 min-w-0">{thesis.title}</span>
-                  <button
-                    onClick={() => toggleWeight(thesis._key)}
-                    className={cn(
-                      button({ variant: "default", size: "sm" }),
-                      "!w-auto flex-shrink-0",
-                      isWeighted && "bg-accent text-accent-foreground"
-                    )}
-                  >
-                    {isWeighted ? "Marcado (2x)" : "Marcar"}
-                  </button>
+                  <div className="p-6 flex items-center justify-between gap-4">
+                    {/* Expandable title area */}
+                    <button
+                      onClick={() => toggleExpand(thesis._key)}
+                      className="flex items-center gap-2 flex-1 min-w-0 text-left"
+                    >
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        strokeWidth="2"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        className={cn(
+                          "flex-shrink-0 transition-transform",
+                          isWeighted ? "text-accent-foreground/70" : "text-foreground-secondary",
+                          isExpanded && "rotate-180"
+                        )}
+                      >
+                        <path d="M6 9l6 6 6-6" />
+                      </svg>
+                      <span className="font-semibold">{thesis.title}</span>
+                    </button>
+                    <button
+                      onClick={() => toggleWeight(thesis._key)}
+                      className={cn(
+                        button({ variant: "default", size: "sm" }),
+                        "!w-auto flex-shrink-0",
+                        isWeighted && "bg-accent text-accent-foreground"
+                      )}
+                    >
+                      {isWeighted ? "Marcado (2x)" : "Marcar"}
+                    </button>
+                  </div>
+
+                  {/* Expandable description */}
+                  {isExpanded && (
+                    <div className={cn(
+                      "px-6 pb-6 pt-0",
+                      isWeighted ? "border-t border-accent-foreground/20" : "border-t border-background"
+                    )}>
+                      <p className={cn(
+                        "text-sm leading-relaxed pt-4 pl-7",
+                        isWeighted ? "text-accent-foreground/80" : "text-foreground-secondary"
+                      )}>
+                        {thesis.text}
+                      </p>
+                    </div>
+                  )}
                 </div>
               );
             })}
