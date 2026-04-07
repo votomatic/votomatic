@@ -1,0 +1,3401 @@
+{
+  "party": "Fe en el Perú",
+  "source_pdf": "data/pdfs/fe-en-el-peru.pdf",
+  "extracted_at": "2026-04-05T20:45:40.942029Z",
+  "topics": [
+    {
+      "topic": "Economía",
+      "proposals": [
+        {
+          "statement": "6 Objetivos Generales del Ideario",
+          "original_quote": "6 Objetivos Generales del Ideario",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "objetivos",
+            "generales",
+            "ideario"
+          ]
+        },
+        {
+          "statement": "Promover el desarrollo humano integral con igualdad de oportunidades",
+          "original_quote": "Promover el desarrollo humano integral con igualdad de oportunidades",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "promover",
+            "desarrollo",
+            "humano",
+            "integral",
+            "igualdad"
+          ]
+        },
+        {
+          "statement": "Impulsar una economía dinámica, competitiva e inclusiva",
+          "original_quote": "Impulsar una economía dinámica, competitiva e inclusiva",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "impulsar",
+            "economía",
+            "dinámica",
+            "competitiva",
+            "inclusiva"
+          ]
+        },
+        {
+          "statement": "Fortalecer la cohesión social y la paz social",
+          "original_quote": "Fortalecer la cohesión social y la paz social",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "cohesión",
+            "social",
+            "social"
+          ]
+        },
+        {
+          "statement": "Garantizar la sostenibilidad ambiental y territorial del desarrollo",
+          "original_quote": "Garantizar la sostenibilidad ambiental y territorial del desarrollo",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "garantizar",
+            "sostenibilidad",
+            "ambiental",
+            "territorial",
+            "desarrollo"
+          ]
+        },
+        {
+          "statement": "VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050",
+          "original_quote": "VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "gobierno",
+            "visión"
+          ]
+        },
+        {
+          "statement": "1 Enfoque General de la Visión",
+          "original_quote": "1 Enfoque General de la Visión",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "general",
+            "visión"
+          ]
+        },
+        {
+          "statement": "Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral ,",
+          "original_quote": "Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral ,",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "habrá",
+            "consolidado",
+            "modelo",
+            "desarrollo",
+            "humano"
+          ]
+        },
+        {
+          "statement": "Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los",
+          "original_quote": "Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "alinea",
+            "estratégico",
+            "desarrollo",
+            "nacional"
+          ]
+        },
+        {
+          "statement": "compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 ,",
+          "original_quote": "compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 ,",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "compromisos",
+            "acuerdo",
+            "nacional",
+            "objetivos",
+            "desarrollo"
+          ]
+        },
+        {
+          "statement": "3 Visión del Periodo de Gobierno 2026–2031",
+          "original_quote": "3 Visión del Periodo de Gobierno 2026–2031",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "periodo",
+            "gobierno"
+          ]
+        },
+        {
+          "statement": "Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases",
+          "original_quote": "Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "durante",
+            "eriodo",
+            "gobierno",
+            "orientará",
+            "acciones"
+          ]
+        },
+        {
+          "statement": "Reducir brechas sociales y territoriales persistentes",
+          "original_quote": "Reducir brechas sociales y territoriales persistentes",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "reducir",
+            "brechas",
+            "sociales",
+            "territoriales",
+            "persistentes"
+          ]
+        },
+        {
+          "statement": "Fortalecer la capacidad del Estado para brindar servicios de calidad",
+          "original_quote": "Fortalecer la capacidad del Estado para brindar servicios de calidad",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "capacidad",
+            "estado",
+            "brindar",
+            "servicios"
+          ]
+        },
+        {
+          "statement": "Impulsar la reactivación económica con inclusión y sostenibilidad",
+          "original_quote": "Impulsar la reactivación económica con inclusión y sostenibilidad",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "impulsar",
+            "reactivación",
+            "económica",
+            "inclusión",
+            "sostenibilidad"
+          ]
+        },
+        {
+          "statement": "4 Principios que Orientan la Visión",
+          "original_quote": "4 Principios que Orientan la Visión",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "principios",
+            "orientan",
+            "visión"
+          ]
+        },
+        {
+          "statement": "2 Seguridad alimentaria y nutrición",
+          "original_quote": "2 Seguridad alimentaria y nutrición",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "seguridad",
+            "alimentaria",
+            "nutrición"
+          ]
+        },
+        {
+          "statement": "3 Situación Económica y Productiva",
+          "original_quote": "3 Situación Económica y Productiva",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "situación",
+            "económica",
+            "productiva"
+          ]
+        },
+        {
+          "statement": "1 Estructura productiva y crecimiento",
+          "original_quote": "1 Estructura productiva y crecimiento",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "estructura",
+            "productiva",
+            "crecimiento"
+          ]
+        },
+        {
+          "statement": "4 Brechas Territoriales y Descentralización",
+          "original_quote": "4 Brechas Territoriales y Descentralización",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "brechas",
+            "territoriales",
+            "descentralización"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salud",
+      "proposals": [
+        {
+          "statement": "5 Articulación con los Objetivos de Desarrollo Sostenible",
+          "original_quote": "5 Articulación con los Objetivos de Desarrollo Sostenible",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "articulación",
+            "objetivos",
+            "desarrollo",
+            "sostenible"
+          ]
+        },
+        {
+          "statement": "La visión del Plan se articula de manera transversal con los ODS al 2030, en particular:",
+          "original_quote": "La visión del Plan se articula de manera transversal con los ODS al 2030, en particular:",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "articula",
+            "manera",
+            "transversal",
+            "particular"
+          ]
+        },
+        {
+          "statement": "ODS 8: Trabajo decente y crecimiento económico",
+          "original_quote": "ODS 8: Trabajo decente y crecimiento económico",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "trabajo",
+            "decente",
+            "crecimiento",
+            "económico"
+          ]
+        },
+        {
+          "statement": "ODS 16: Instituciones sólidas y paz",
+          "original_quote": "ODS 16: Instituciones sólidas y paz",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "instituciones",
+            "sólidas"
+          ]
+        },
+        {
+          "statement": "6 Rol del Estado, el Mercado y la Sociedad",
+          "original_quote": "6 Rol del Estado, el Mercado y la Sociedad",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "estado",
+            "mercado",
+            "sociedad"
+          ]
+        },
+        {
+          "statement": "2 Seguridad alimentaria y nutrición",
+          "original_quote": "2 Seguridad alimentaria y nutrición",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "seguridad",
+            "alimentaria",
+            "nutrición"
+          ]
+        },
+        {
+          "statement": "3 Situación Económica y Productiva",
+          "original_quote": "3 Situación Económica y Productiva",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "situación",
+            "económica",
+            "productiva"
+          ]
+        },
+        {
+          "statement": "1 Estructura productiva y crecimiento",
+          "original_quote": "1 Estructura productiva y crecimiento",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "estructura",
+            "productiva",
+            "crecimiento"
+          ]
+        },
+        {
+          "statement": "4 Brechas Territoriales y Descentralización",
+          "original_quote": "4 Brechas Territoriales y Descentralización",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "brechas",
+            "territoriales",
+            "descentralización"
+          ]
+        },
+        {
+          "statement": "5 Situación Ambiental y Riesgos Climáticos",
+          "original_quote": "5 Situación Ambiental y Riesgos Climáticos",
+          "page": 11,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "situación",
+            "ambiental",
+            "riesgos",
+            "climáticos"
+          ]
+        },
+        {
+          "statement": "2 Cambio climático y gestión del riesgo",
+          "original_quote": "2 Cambio climático y gestión del riesgo",
+          "page": 11,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "cambio",
+            "climático",
+            "gestión",
+            "riesgo"
+          ]
+        },
+        {
+          "statement": "6 Situación Institucional y Gobernabilidad",
+          "original_quote": "6 Situación Institucional y Gobernabilidad",
+          "page": 11,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "situación",
+            "institucional",
+            "gobernabilidad"
+          ]
+        },
+        {
+          "statement": "La capacidad del Estado pa ra diseñar e implementar políticas públicas eficaces se ve",
+          "original_quote": "La capacidad del Estado pa ra diseñar e implementar políticas públicas eficaces se ve",
+          "page": 11,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "capacidad",
+            "estado",
+            "diseñar",
+            "implementar",
+            "políticas"
+          ]
+        },
+        {
+          "statement": "2 Corrupción y confianza ciudadana",
+          "original_quote": "2 Corrupción y confianza ciudadana",
+          "page": 11,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "corrupción",
+            "confianza",
+            "ciudadana"
+          ]
+        },
+        {
+          "statement": "7 Principales Brechas Identificadas",
+          "original_quote": "7 Principales Brechas Identificadas",
+          "page": 11,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "principales",
+            "brechas",
+            "identificadas"
+          ]
+        },
+        {
+          "statement": "1 Problema Público Prioritario",
+          "original_quote": "1 Problema Público Prioritario",
+          "page": 12,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "problema",
+            "público",
+            "prioritario"
+          ]
+        },
+        {
+          "statement": "en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios",
+          "original_quote": "en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios",
+          "page": 12,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "capacidad",
+            "estado",
+            "garantizar",
+            "condiciones",
+            "mínimas"
+          ]
+        },
+        {
+          "statement": "2 Objetivo General de la Dimensión Social",
+          "original_quote": "2 Objetivo General de la Dimensión Social",
+          "page": 12,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "objetivo",
+            "general",
+            "dimensión",
+            "social"
+          ]
+        },
+        {
+          "statement": "Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de",
+          "original_quote": "Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de",
+          "page": 12,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "garantizar",
+            "desarrollo",
+            "humano",
+            "integral",
+            "mediante"
+          ]
+        },
+        {
+          "statement": "Mejorar el acceso y la calidad de los servicios de salud en todo el territorio",
+          "original_quote": "Mejorar el acceso y la calidad de los servicios de salud en todo el territorio",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "mejorar",
+            "acceso",
+            "calidad",
+            "servicios",
+            "salud"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Educación",
+      "proposals": [
+        {
+          "statement": "5 Articulación con los Objetivos de Desarrollo Sostenible",
+          "original_quote": "5 Articulación con los Objetivos de Desarrollo Sostenible",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "articulación",
+            "objetivos",
+            "desarrollo",
+            "sostenible"
+          ]
+        },
+        {
+          "statement": "La visión del Plan se articula de manera transversal con los ODS al 2030, en particular:",
+          "original_quote": "La visión del Plan se articula de manera transversal con los ODS al 2030, en particular:",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "articula",
+            "manera",
+            "transversal",
+            "particular"
+          ]
+        },
+        {
+          "statement": "ODS 8: Trabajo decente y crecimiento económico",
+          "original_quote": "ODS 8: Trabajo decente y crecimiento económico",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "trabajo",
+            "decente",
+            "crecimiento",
+            "económico"
+          ]
+        },
+        {
+          "statement": "ODS 16: Instituciones sólidas y paz",
+          "original_quote": "ODS 16: Instituciones sólidas y paz",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "instituciones",
+            "sólidas"
+          ]
+        },
+        {
+          "statement": "6 Rol del Estado, el Mercado y la Sociedad",
+          "original_quote": "6 Rol del Estado, el Mercado y la Sociedad",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "estado",
+            "mercado",
+            "sociedad"
+          ]
+        },
+        {
+          "statement": "2 Seguridad alimentaria y nutrición",
+          "original_quote": "2 Seguridad alimentaria y nutrición",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "seguridad",
+            "alimentaria",
+            "nutrición"
+          ]
+        },
+        {
+          "statement": "3 Situación Económica y Productiva",
+          "original_quote": "3 Situación Económica y Productiva",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "situación",
+            "económica",
+            "productiva"
+          ]
+        },
+        {
+          "statement": "1 Estructura productiva y crecimiento",
+          "original_quote": "1 Estructura productiva y crecimiento",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "estructura",
+            "productiva",
+            "crecimiento"
+          ]
+        },
+        {
+          "statement": "4 Brechas Territoriales y Descentralización",
+          "original_quote": "4 Brechas Territoriales y Descentralización",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "brechas",
+            "territoriales",
+            "descentralización"
+          ]
+        },
+        {
+          "statement": "1 Problema Público Prioritario",
+          "original_quote": "1 Problema Público Prioritario",
+          "page": 12,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "problema",
+            "público",
+            "prioritario"
+          ]
+        },
+        {
+          "statement": "en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios",
+          "original_quote": "en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios",
+          "page": 12,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "capacidad",
+            "estado",
+            "garantizar",
+            "condiciones",
+            "mínimas"
+          ]
+        },
+        {
+          "statement": "2 Objetivo General de la Dimensión Social",
+          "original_quote": "2 Objetivo General de la Dimensión Social",
+          "page": 12,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "objetivo",
+            "general",
+            "dimensión",
+            "social"
+          ]
+        },
+        {
+          "statement": "Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de",
+          "original_quote": "Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de",
+          "page": 12,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "garantizar",
+            "desarrollo",
+            "humano",
+            "integral",
+            "mediante"
+          ]
+        },
+        {
+          "statement": "2 Educación de Calidad y Oportunidades para el Futuro",
+          "original_quote": "2 Educación de Calidad y Oportunidades para el Futuro",
+          "page": 14,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "educación",
+            "calidad",
+            "oportunidades",
+            "futuro"
+          ]
+        },
+        {
+          "statement": "Garantizar aprendizajes fundamentales en todos los niveles",
+          "original_quote": "Garantizar aprendizajes fundamentales en todos los niveles",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "garantizar",
+            "aprendizajes",
+            "fundamentales",
+            "todos",
+            "niveles"
+          ]
+        },
+        {
+          "statement": "Fortalecer la formación docente y la gestión educativa",
+          "original_quote": "Fortalecer la formación docente y la gestión educativa",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "formación",
+            "docente",
+            "gestión",
+            "educativa"
+          ]
+        },
+        {
+          "statement": "Reducir brechas digitales y territoriales",
+          "original_quote": "Reducir brechas digitales y territoriales",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "reducir",
+            "brechas",
+            "digitales",
+            "territoriales"
+          ]
+        },
+        {
+          "statement": "equitativo a la educación y fortalecer el capital humano",
+          "original_quote": "equitativo a la educación y fortalecer el capital humano",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "equitativo",
+            "educación",
+            "fortalecer",
+            "capital",
+            "humano"
+          ]
+        },
+        {
+          "statement": "3 Seguridad Alimentaria y Nutrición",
+          "original_quote": "3 Seguridad Alimentaria y Nutrición",
+          "page": 14,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "seguridad",
+            "alimentaria",
+            "nutrición"
+          ]
+        },
+        {
+          "statement": "Garantizar acceso sostenible a alimentos nutritivos",
+          "original_quote": "Garantizar acceso sostenible a alimentos nutritivos",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "garantizar",
+            "acceso",
+            "sostenible",
+            "alimentos",
+            "nutritivos"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Seguridad",
+      "proposals": [
+        {
+          "statement": "1 Fundamentos del Ideario Político",
+          "original_quote": "1 Fundamentos del Ideario Político",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "fundamentos",
+            "ideario",
+            "político"
+          ]
+        },
+        {
+          "statement": "2 Concepción Económica: Libre Mercado con Responsabilidad Social",
+          "original_quote": "2 Concepción Económica: Libre Mercado con Responsabilidad Social",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "concepción",
+            "económica",
+            "libre",
+            "mercado",
+            "responsabilidad"
+          ]
+        },
+        {
+          "statement": "El rol del Estado es garantizar:",
+          "original_quote": "El rol del Estado es garantizar:",
+          "page": 1,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "estado",
+            "garantizar"
+          ]
+        },
+        {
+          "statement": "3 Sentido Común, Sentido de Urgencia y Sentido del Deber",
+          "original_quote": "3 Sentido Común, Sentido de Urgencia y Sentido del Deber",
+          "page": 2,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "sentido",
+            "común",
+            "sentido",
+            "urgencia",
+            "sentido"
+          ]
+        },
+        {
+          "statement": "4 Principios Rectores del Plan de Gobierno",
+          "original_quote": "4 Principios Rectores del Plan de Gobierno",
+          "page": 2,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "principios",
+            "rectores",
+            "gobierno"
+          ]
+        },
+        {
+          "statement": "3 Articulación con el Plan Estratégico de Desarrollo Nacional al 2050",
+          "original_quote": "3 Articulación con el Plan Estratégico de Desarrollo Nacional al 2050",
+          "page": 7,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "articulación",
+            "estratégico",
+            "desarrollo",
+            "nacional"
+          ]
+        },
+        {
+          "statement": "Nacional (PEDN) al 2050, contribuyendo a:",
+          "original_quote": "Nacional (PEDN) al 2050, contribuyendo a:",
+          "page": 7,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "nacional",
+            "contribuyendo"
+          ]
+        },
+        {
+          "statement": "Las acciones propuestas en el periodo 2026–2031 se conciben como pasos concretos que",
+          "original_quote": "Las acciones propuestas en el periodo 2026–2031 se conciben como pasos concretos que",
+          "page": 7,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "acciones",
+            "propuestas",
+            "periodo",
+            "conciben",
+            "pasos"
+          ]
+        },
+        {
+          "statement": "4 Vinculación con las Políticas Nacionales y el Acuerdo Nacional",
+          "original_quote": "4 Vinculación con las Políticas Nacionales y el Acuerdo Nacional",
+          "page": 7,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "vinculación",
+            "políticas",
+            "nacionales",
+            "acuerdo",
+            "nacional"
+          ]
+        },
+        {
+          "statement": "5 Alineamiento con el Marco Macroeconómico Multianual",
+          "original_quote": "5 Alineamiento con el Marco Macroeconómico Multianual",
+          "page": 7,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "alineamiento",
+            "marco",
+            "macroeconómico",
+            "multianual"
+          ]
+        },
+        {
+          "statement": "8 Enfoque de Derechos Humanos y Protección de la Vida",
+          "original_quote": "8 Enfoque de Derechos Humanos y Protección de la Vida",
+          "page": 9,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "derechos",
+            "humanos",
+            "protección"
+          ]
+        },
+        {
+          "statement": "9 Coherencia, Continuidad y Evaluación Estratégica",
+          "original_quote": "9 Coherencia, Continuidad y Evaluación Estratégica",
+          "page": 9,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "coherencia",
+            "continuidad",
+            "evaluación",
+            "estratégica"
+          ]
+        },
+        {
+          "statement": "El Plan se estructura para garantizar:",
+          "original_quote": "El Plan se estructura para garantizar:",
+          "page": 9,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "estructura",
+            "garantizar"
+          ]
+        },
+        {
+          "statement": "1 Enfoque General del Diagnóstico",
+          "original_quote": "1 Enfoque General del Diagnóstico",
+          "page": 9,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "general",
+            "diagnóstico"
+          ]
+        },
+        {
+          "statement": "2 Situación Social y Brechas de Desarrollo Humano",
+          "original_quote": "2 Situación Social y Brechas de Desarrollo Humano",
+          "page": 9,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "situación",
+            "social",
+            "brechas",
+            "desarrollo",
+            "humano"
+          ]
+        },
+        {
+          "statement": "2 Seguridad alimentaria y nutrición",
+          "original_quote": "2 Seguridad alimentaria y nutrición",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "seguridad",
+            "alimentaria",
+            "nutrición"
+          ]
+        },
+        {
+          "statement": "3 Situación Económica y Productiva",
+          "original_quote": "3 Situación Económica y Productiva",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "situación",
+            "económica",
+            "productiva"
+          ]
+        },
+        {
+          "statement": "1 Estructura productiva y crecimiento",
+          "original_quote": "1 Estructura productiva y crecimiento",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "estructura",
+            "productiva",
+            "crecimiento"
+          ]
+        },
+        {
+          "statement": "4 Brechas Territoriales y Descentralización",
+          "original_quote": "4 Brechas Territoriales y Descentralización",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "brechas",
+            "territoriales",
+            "descentralización"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Medio Ambiente",
+      "proposals": [
+        {
+          "statement": "Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral ,",
+          "original_quote": "Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral ,",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "habrá",
+            "consolidado",
+            "modelo",
+            "desarrollo",
+            "humano"
+          ]
+        },
+        {
+          "statement": "Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los",
+          "original_quote": "Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "alinea",
+            "estratégico",
+            "desarrollo",
+            "nacional"
+          ]
+        },
+        {
+          "statement": "compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 ,",
+          "original_quote": "compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 ,",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "compromisos",
+            "acuerdo",
+            "nacional",
+            "objetivos",
+            "desarrollo"
+          ]
+        },
+        {
+          "statement": "3 Visión del Periodo de Gobierno 2026–2031",
+          "original_quote": "3 Visión del Periodo de Gobierno 2026–2031",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "periodo",
+            "gobierno"
+          ]
+        },
+        {
+          "statement": "Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases",
+          "original_quote": "Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "durante",
+            "eriodo",
+            "gobierno",
+            "orientará",
+            "acciones"
+          ]
+        },
+        {
+          "statement": "Reducir brechas sociales y territoriales persistentes",
+          "original_quote": "Reducir brechas sociales y territoriales persistentes",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "reducir",
+            "brechas",
+            "sociales",
+            "territoriales",
+            "persistentes"
+          ]
+        },
+        {
+          "statement": "Fortalecer la capacidad del Estado para brindar servicios de calidad",
+          "original_quote": "Fortalecer la capacidad del Estado para brindar servicios de calidad",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "capacidad",
+            "estado",
+            "brindar",
+            "servicios"
+          ]
+        },
+        {
+          "statement": "Impulsar la reactivación económica con inclusión y sostenibilidad",
+          "original_quote": "Impulsar la reactivación económica con inclusión y sostenibilidad",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "impulsar",
+            "reactivación",
+            "económica",
+            "inclusión",
+            "sostenibilidad"
+          ]
+        },
+        {
+          "statement": "4 Principios que Orientan la Visión",
+          "original_quote": "4 Principios que Orientan la Visión",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "principios",
+            "orientan",
+            "visión"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Política Social",
+      "proposals": [
+        {
+          "statement": "1 Fundamentos del Ideario Político",
+          "original_quote": "1 Fundamentos del Ideario Político",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "fundamentos",
+            "ideario",
+            "político"
+          ]
+        },
+        {
+          "statement": "2 Concepción Económica: Libre Mercado con Responsabilidad Social",
+          "original_quote": "2 Concepción Económica: Libre Mercado con Responsabilidad Social",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "concepción",
+            "económica",
+            "libre",
+            "mercado",
+            "responsabilidad"
+          ]
+        },
+        {
+          "statement": "El rol del Estado es garantizar:",
+          "original_quote": "El rol del Estado es garantizar:",
+          "page": 1,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "estado",
+            "garantizar"
+          ]
+        },
+        {
+          "statement": "3 Sentido Común, Sentido de Urgencia y Sentido del Deber",
+          "original_quote": "3 Sentido Común, Sentido de Urgencia y Sentido del Deber",
+          "page": 2,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "sentido",
+            "común",
+            "sentido",
+            "urgencia",
+            "sentido"
+          ]
+        },
+        {
+          "statement": "4 Principios Rectores del Plan de Gobierno",
+          "original_quote": "4 Principios Rectores del Plan de Gobierno",
+          "page": 2,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "principios",
+            "rectores",
+            "gobierno"
+          ]
+        },
+        {
+          "statement": "6 Objetivos Generales del Ideario",
+          "original_quote": "6 Objetivos Generales del Ideario",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "objetivos",
+            "generales",
+            "ideario"
+          ]
+        },
+        {
+          "statement": "Promover el desarrollo humano integral con igualdad de oportunidades",
+          "original_quote": "Promover el desarrollo humano integral con igualdad de oportunidades",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "promover",
+            "desarrollo",
+            "humano",
+            "integral",
+            "igualdad"
+          ]
+        },
+        {
+          "statement": "Impulsar una economía dinámica, competitiva e inclusiva",
+          "original_quote": "Impulsar una economía dinámica, competitiva e inclusiva",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "impulsar",
+            "economía",
+            "dinámica",
+            "competitiva",
+            "inclusiva"
+          ]
+        },
+        {
+          "statement": "Fortalecer la cohesión social y la paz social",
+          "original_quote": "Fortalecer la cohesión social y la paz social",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "cohesión",
+            "social",
+            "social"
+          ]
+        },
+        {
+          "statement": "Garantizar la sostenibilidad ambiental y territorial del desarrollo",
+          "original_quote": "Garantizar la sostenibilidad ambiental y territorial del desarrollo",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "garantizar",
+            "sostenibilidad",
+            "ambiental",
+            "territorial",
+            "desarrollo"
+          ]
+        },
+        {
+          "statement": "VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050",
+          "original_quote": "VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "gobierno",
+            "visión"
+          ]
+        },
+        {
+          "statement": "1 Enfoque General de la Visión",
+          "original_quote": "1 Enfoque General de la Visión",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "general",
+            "visión"
+          ]
+        },
+        {
+          "statement": "Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral ,",
+          "original_quote": "Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral ,",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "habrá",
+            "consolidado",
+            "modelo",
+            "desarrollo",
+            "humano"
+          ]
+        },
+        {
+          "statement": "Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los",
+          "original_quote": "Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "alinea",
+            "estratégico",
+            "desarrollo",
+            "nacional"
+          ]
+        },
+        {
+          "statement": "compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 ,",
+          "original_quote": "compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 ,",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "compromisos",
+            "acuerdo",
+            "nacional",
+            "objetivos",
+            "desarrollo"
+          ]
+        },
+        {
+          "statement": "3 Visión del Periodo de Gobierno 2026–2031",
+          "original_quote": "3 Visión del Periodo de Gobierno 2026–2031",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "periodo",
+            "gobierno"
+          ]
+        },
+        {
+          "statement": "Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases",
+          "original_quote": "Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "durante",
+            "eriodo",
+            "gobierno",
+            "orientará",
+            "acciones"
+          ]
+        },
+        {
+          "statement": "Reducir brechas sociales y territoriales persistentes",
+          "original_quote": "Reducir brechas sociales y territoriales persistentes",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "reducir",
+            "brechas",
+            "sociales",
+            "territoriales",
+            "persistentes"
+          ]
+        },
+        {
+          "statement": "Fortalecer la capacidad del Estado para brindar servicios de calidad",
+          "original_quote": "Fortalecer la capacidad del Estado para brindar servicios de calidad",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "capacidad",
+            "estado",
+            "brindar",
+            "servicios"
+          ]
+        },
+        {
+          "statement": "Impulsar la reactivación económica con inclusión y sostenibilidad",
+          "original_quote": "Impulsar la reactivación económica con inclusión y sostenibilidad",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "impulsar",
+            "reactivación",
+            "económica",
+            "inclusión",
+            "sostenibilidad"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Infraestructura",
+      "proposals": [
+        {
+          "statement": "Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral ,",
+          "original_quote": "Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral ,",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "habrá",
+            "consolidado",
+            "modelo",
+            "desarrollo",
+            "humano"
+          ]
+        },
+        {
+          "statement": "Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los",
+          "original_quote": "Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "alinea",
+            "estratégico",
+            "desarrollo",
+            "nacional"
+          ]
+        },
+        {
+          "statement": "compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 ,",
+          "original_quote": "compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 ,",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "compromisos",
+            "acuerdo",
+            "nacional",
+            "objetivos",
+            "desarrollo"
+          ]
+        },
+        {
+          "statement": "3 Visión del Periodo de Gobierno 2026–2031",
+          "original_quote": "3 Visión del Periodo de Gobierno 2026–2031",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "periodo",
+            "gobierno"
+          ]
+        },
+        {
+          "statement": "Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases",
+          "original_quote": "Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "durante",
+            "eriodo",
+            "gobierno",
+            "orientará",
+            "acciones"
+          ]
+        },
+        {
+          "statement": "Reducir brechas sociales y territoriales persistentes",
+          "original_quote": "Reducir brechas sociales y territoriales persistentes",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "reducir",
+            "brechas",
+            "sociales",
+            "territoriales",
+            "persistentes"
+          ]
+        },
+        {
+          "statement": "Fortalecer la capacidad del Estado para brindar servicios de calidad",
+          "original_quote": "Fortalecer la capacidad del Estado para brindar servicios de calidad",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "capacidad",
+            "estado",
+            "brindar",
+            "servicios"
+          ]
+        },
+        {
+          "statement": "Impulsar la reactivación económica con inclusión y sostenibilidad",
+          "original_quote": "Impulsar la reactivación económica con inclusión y sostenibilidad",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "impulsar",
+            "reactivación",
+            "económica",
+            "inclusión",
+            "sostenibilidad"
+          ]
+        },
+        {
+          "statement": "4 Principios que Orientan la Visión",
+          "original_quote": "4 Principios que Orientan la Visión",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "principios",
+            "orientan",
+            "visión"
+          ]
+        },
+        {
+          "statement": "2 Seguridad alimentaria y nutrición",
+          "original_quote": "2 Seguridad alimentaria y nutrición",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "seguridad",
+            "alimentaria",
+            "nutrición"
+          ]
+        },
+        {
+          "statement": "3 Situación Económica y Productiva",
+          "original_quote": "3 Situación Económica y Productiva",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "situación",
+            "económica",
+            "productiva"
+          ]
+        },
+        {
+          "statement": "1 Estructura productiva y crecimiento",
+          "original_quote": "1 Estructura productiva y crecimiento",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "estructura",
+            "productiva",
+            "crecimiento"
+          ]
+        },
+        {
+          "statement": "4 Brechas Territoriales y Descentralización",
+          "original_quote": "4 Brechas Territoriales y Descentralización",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "brechas",
+            "territoriales",
+            "descentralización"
+          ]
+        },
+        {
+          "statement": "5 Situación Ambiental y Riesgos Climáticos",
+          "original_quote": "5 Situación Ambiental y Riesgos Climáticos",
+          "page": 11,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "situación",
+            "ambiental",
+            "riesgos",
+            "climáticos"
+          ]
+        },
+        {
+          "statement": "2 Cambio climático y gestión del riesgo",
+          "original_quote": "2 Cambio climático y gestión del riesgo",
+          "page": 11,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "cambio",
+            "climático",
+            "gestión",
+            "riesgo"
+          ]
+        },
+        {
+          "statement": "6 Situación Institucional y Gobernabilidad",
+          "original_quote": "6 Situación Institucional y Gobernabilidad",
+          "page": 11,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "situación",
+            "institucional",
+            "gobernabilidad"
+          ]
+        },
+        {
+          "statement": "La capacidad del Estado pa ra diseñar e implementar políticas públicas eficaces se ve",
+          "original_quote": "La capacidad del Estado pa ra diseñar e implementar políticas públicas eficaces se ve",
+          "page": 11,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "capacidad",
+            "estado",
+            "diseñar",
+            "implementar",
+            "políticas"
+          ]
+        },
+        {
+          "statement": "2 Corrupción y confianza ciudadana",
+          "original_quote": "2 Corrupción y confianza ciudadana",
+          "page": 11,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "corrupción",
+            "confianza",
+            "ciudadana"
+          ]
+        },
+        {
+          "statement": "7 Principales Brechas Identificadas",
+          "original_quote": "7 Principales Brechas Identificadas",
+          "page": 11,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "principales",
+            "brechas",
+            "identificadas"
+          ]
+        },
+        {
+          "statement": "Mejorar el acceso y la calidad de los servicios de salud en todo el territorio",
+          "original_quote": "Mejorar el acceso y la calidad de los servicios de salud en todo el territorio",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "mejorar",
+            "acceso",
+            "calidad",
+            "servicios",
+            "salud"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Justicia",
+      "proposals": [
+        {
+          "statement": "6 Objetivos Generales del Ideario",
+          "original_quote": "6 Objetivos Generales del Ideario",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "objetivos",
+            "generales",
+            "ideario"
+          ]
+        },
+        {
+          "statement": "Promover el desarrollo humano integral con igualdad de oportunidades",
+          "original_quote": "Promover el desarrollo humano integral con igualdad de oportunidades",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "promover",
+            "desarrollo",
+            "humano",
+            "integral",
+            "igualdad"
+          ]
+        },
+        {
+          "statement": "Impulsar una economía dinámica, competitiva e inclusiva",
+          "original_quote": "Impulsar una economía dinámica, competitiva e inclusiva",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "impulsar",
+            "economía",
+            "dinámica",
+            "competitiva",
+            "inclusiva"
+          ]
+        },
+        {
+          "statement": "Fortalecer la cohesión social y la paz social",
+          "original_quote": "Fortalecer la cohesión social y la paz social",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "cohesión",
+            "social",
+            "social"
+          ]
+        },
+        {
+          "statement": "Garantizar la sostenibilidad ambiental y territorial del desarrollo",
+          "original_quote": "Garantizar la sostenibilidad ambiental y territorial del desarrollo",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "garantizar",
+            "sostenibilidad",
+            "ambiental",
+            "territorial",
+            "desarrollo"
+          ]
+        },
+        {
+          "statement": "VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050",
+          "original_quote": "VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "gobierno",
+            "visión"
+          ]
+        },
+        {
+          "statement": "1 Enfoque General de la Visión",
+          "original_quote": "1 Enfoque General de la Visión",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "general",
+            "visión"
+          ]
+        },
+        {
+          "statement": "3 Lucha Integral contra la Corrupción",
+          "original_quote": "3 Lucha Integral contra la Corrupción",
+          "page": 27,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "lucha",
+            "integral",
+            "contra",
+            "corrupción"
+          ]
+        },
+        {
+          "statement": "4 Sistema de Justicia y Estado de Derecho",
+          "original_quote": "4 Sistema de Justicia y Estado de Derecho",
+          "page": 27,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "sistema",
+            "justicia",
+            "estado",
+            "derecho"
+          ]
+        },
+        {
+          "statement": "Fortalecer independencia y eficiencia del sistema judicial",
+          "original_quote": "Fortalecer independencia y eficiencia del sistema judicial",
+          "page": 27,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "independencia",
+            "eficiencia",
+            "sistema",
+            "judicial"
+          ]
+        },
+        {
+          "statement": "5 Descentralización y Gobernanza Territorial",
+          "original_quote": "5 Descentralización y Gobernanza Territorial",
+          "page": 27,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "descentralización",
+            "gobernanza",
+            "territorial"
+          ]
+        },
+        {
+          "statement": "Fortalecer capacidades regionales y locales",
+          "original_quote": "Fortalecer capacidades regionales y locales",
+          "page": 28,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "capacidades",
+            "regionales",
+            "locales"
+          ]
+        },
+        {
+          "statement": "6 Participación Ciudadana y Control Social",
+          "original_quote": "6 Participación Ciudadana y Control Social",
+          "page": 28,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "participación",
+            "ciudadana",
+            "control",
+            "social"
+          ]
+        },
+        {
+          "statement": "Fortalecer mecanismos de participación y vigilancia",
+          "original_quote": "Fortalecer mecanismos de participación y vigilancia",
+          "page": 28,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "mecanismos",
+            "participación",
+            "vigilancia"
+          ]
+        },
+        {
+          "statement": "7 Articulación con ODS y Compromisos Internacionales",
+          "original_quote": "7 Articulación con ODS y Compromisos Internacionales",
+          "page": 28,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "articulación",
+            "compromisos",
+            "internacionales"
+          ]
+        },
+        {
+          "statement": "ODS 16: Paz, justicia e instituciones sólidas",
+          "original_quote": "ODS 16: Paz, justicia e instituciones sólidas",
+          "page": 28,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "justicia",
+            "instituciones",
+            "sólidas"
+          ]
+        },
+        {
+          "statement": "ODS 17: Alianzas para el desarrollo",
+          "original_quote": "ODS 17: Alianzas para el desarrollo",
+          "page": 28,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "alianzas",
+            "desarrollo"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Política Exterior",
+      "proposals": [
+        {
+          "statement": "7 Resultados Esperados al Final del Periodo de Gobierno",
+          "original_quote": "7 Resultados Esperados al Final del Periodo de Gobierno",
+          "page": 6,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "resultados",
+            "esperados",
+            "final",
+            "periodo",
+            "gobierno"
+          ]
+        },
+        {
+          "statement": "Al culminar el periodo 2026–2031, se espera haber logrado:",
+          "original_quote": "Al culminar el periodo 2026–2031, se espera haber logrado:",
+          "page": 6,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "culminar",
+            "periodo",
+            "espera",
+            "haber",
+            "logrado"
+          ]
+        },
+        {
+          "statement": "1 Enfoque Estratégico del Plan de Gobierno",
+          "original_quote": "1 Enfoque Estratégico del Plan de Gobierno",
+          "page": 6,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "estratégico",
+            "gobierno"
+          ]
+        },
+        {
+          "statement": "2 Alineamiento con el Estado Constitucional de Derecho",
+          "original_quote": "2 Alineamiento con el Estado Constitucional de Derecho",
+          "page": 6,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "alineamiento",
+            "estado",
+            "constitucional",
+            "derecho"
+          ]
+        },
+        {
+          "statement": "La disciplina fiscal se concibe como un medio para garantizar la continuidad de las",
+          "original_quote": "La disciplina fiscal se concibe como un medio para garantizar la continuidad de las",
+          "page": 8,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "disciplina",
+            "fiscal",
+            "concibe",
+            "medio",
+            "garantizar"
+          ]
+        },
+        {
+          "statement": "6 Articulación con la Descentralización y los Planes Territoriales",
+          "original_quote": "6 Articulación con la Descentralización y los Planes Territoriales",
+          "page": 8,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "articulación",
+            "descentralización",
+            "planes",
+            "territoriales"
+          ]
+        },
+        {
+          "statement": "Se prioriza la planificación territorial como instrumento para reducir desigualdades y",
+          "original_quote": "Se prioriza la planificación territorial como instrumento para reducir desigualdades y",
+          "page": 8,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "prioriza",
+            "planificación",
+            "territorial",
+            "instrumento",
+            "reducir"
+          ]
+        },
+        {
+          "statement": "mejorar la eficiencia del gasto público",
+          "original_quote": "mejorar la eficiencia del gasto público",
+          "page": 8,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "mejorar",
+            "eficiencia",
+            "gasto",
+            "público"
+          ]
+        },
+        {
+          "statement": "7 Vinculación con los Objetivos de Desarrollo Sostenible al 2030",
+          "original_quote": "7 Vinculación con los Objetivos de Desarrollo Sostenible al 2030",
+          "page": 8,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "vinculación",
+            "objetivos",
+            "desarrollo",
+            "sostenible"
+          ]
+        },
+        {
+          "statement": "Dimensión social: ODS 1, 2, 3, 4 y 10",
+          "original_quote": "Dimensión social: ODS 1, 2, 3, 4 y 10",
+          "page": 8,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "dimensión",
+            "social"
+          ]
+        },
+        {
+          "statement": "Dimensión económica: ODS 8 y 9",
+          "original_quote": "Dimensión económica: ODS 8 y 9",
+          "page": 8,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "dimensión",
+            "económica"
+          ]
+        },
+        {
+          "statement": "Dimensión ambiental: ODS 12, 13, 14 y 15",
+          "original_quote": "Dimensión ambiental: ODS 12, 13, 14 y 15",
+          "page": 8,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "dimensión",
+            "ambiental"
+          ]
+        },
+        {
+          "statement": "Dimensión institucional: ODS 16 y 17",
+          "original_quote": "Dimensión institucional: ODS 16 y 17",
+          "page": 8,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "dimensión",
+            "institucional"
+          ]
+        },
+        {
+          "statement": "Fortalecer capacidades regionales y locales",
+          "original_quote": "Fortalecer capacidades regionales y locales",
+          "page": 28,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "capacidades",
+            "regionales",
+            "locales"
+          ]
+        },
+        {
+          "statement": "6 Participación Ciudadana y Control Social",
+          "original_quote": "6 Participación Ciudadana y Control Social",
+          "page": 28,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "participación",
+            "ciudadana",
+            "control",
+            "social"
+          ]
+        },
+        {
+          "statement": "Fortalecer mecanismos de participación y vigilancia",
+          "original_quote": "Fortalecer mecanismos de participación y vigilancia",
+          "page": 28,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "mecanismos",
+            "participación",
+            "vigilancia"
+          ]
+        },
+        {
+          "statement": "7 Articulación con ODS y Compromisos Internacionales",
+          "original_quote": "7 Articulación con ODS y Compromisos Internacionales",
+          "page": 28,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "articulación",
+            "compromisos",
+            "internacionales"
+          ]
+        },
+        {
+          "statement": "ODS 16: Paz, justicia e instituciones sólidas",
+          "original_quote": "ODS 16: Paz, justicia e instituciones sólidas",
+          "page": 28,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "justicia",
+            "instituciones",
+            "sólidas"
+          ]
+        },
+        {
+          "statement": "ODS 17: Alianzas para el desarrollo",
+          "original_quote": "ODS 17: Alianzas para el desarrollo",
+          "page": 28,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "alianzas",
+            "desarrollo"
+          ]
+        },
+        {
+          "statement": "La estrategia de la Política para los Peruanos en el Exterior se orienta a garantizar el ejercicio",
+          "original_quote": "La estrategia de la Política para los Peruanos en el Exterior se orienta a garantizar el ejercicio",
+          "page": 30,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "estrategia",
+            "política",
+            "peruanos",
+            "exterior",
+            "orienta"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Agricultura",
+      "proposals": [
+        {
+          "statement": "3 Sentido Común, Sentido de Urgencia y Sentido del Deber",
+          "original_quote": "3 Sentido Común, Sentido de Urgencia y Sentido del Deber",
+          "page": 2,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "sentido",
+            "común",
+            "sentido",
+            "urgencia",
+            "sentido"
+          ]
+        },
+        {
+          "statement": "4 Principios Rectores del Plan de Gobierno",
+          "original_quote": "4 Principios Rectores del Plan de Gobierno",
+          "page": 2,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "principios",
+            "rectores",
+            "gobierno"
+          ]
+        },
+        {
+          "statement": "2 Seguridad alimentaria y nutrición",
+          "original_quote": "2 Seguridad alimentaria y nutrición",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "seguridad",
+            "alimentaria",
+            "nutrición"
+          ]
+        },
+        {
+          "statement": "3 Situación Económica y Productiva",
+          "original_quote": "3 Situación Económica y Productiva",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "situación",
+            "económica",
+            "productiva"
+          ]
+        },
+        {
+          "statement": "1 Estructura productiva y crecimiento",
+          "original_quote": "1 Estructura productiva y crecimiento",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "estructura",
+            "productiva",
+            "crecimiento"
+          ]
+        },
+        {
+          "statement": "4 Brechas Territoriales y Descentralización",
+          "original_quote": "4 Brechas Territoriales y Descentralización",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "brechas",
+            "territoriales",
+            "descentralización"
+          ]
+        },
+        {
+          "statement": "1 Problema Público Prioritario",
+          "original_quote": "1 Problema Público Prioritario",
+          "page": 12,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "problema",
+            "público",
+            "prioritario"
+          ]
+        },
+        {
+          "statement": "en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios",
+          "original_quote": "en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios",
+          "page": 12,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "capacidad",
+            "estado",
+            "garantizar",
+            "condiciones",
+            "mínimas"
+          ]
+        },
+        {
+          "statement": "2 Objetivo General de la Dimensión Social",
+          "original_quote": "2 Objetivo General de la Dimensión Social",
+          "page": 12,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "objetivo",
+            "general",
+            "dimensión",
+            "social"
+          ]
+        },
+        {
+          "statement": "Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de",
+          "original_quote": "Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de",
+          "page": 12,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "garantizar",
+            "desarrollo",
+            "humano",
+            "integral",
+            "mediante"
+          ]
+        },
+        {
+          "statement": "2 Educación de Calidad y Oportunidades para el Futuro",
+          "original_quote": "2 Educación de Calidad y Oportunidades para el Futuro",
+          "page": 14,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "educación",
+            "calidad",
+            "oportunidades",
+            "futuro"
+          ]
+        },
+        {
+          "statement": "Garantizar aprendizajes fundamentales en todos los niveles",
+          "original_quote": "Garantizar aprendizajes fundamentales en todos los niveles",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "garantizar",
+            "aprendizajes",
+            "fundamentales",
+            "todos",
+            "niveles"
+          ]
+        },
+        {
+          "statement": "Fortalecer la formación docente y la gestión educativa",
+          "original_quote": "Fortalecer la formación docente y la gestión educativa",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "formación",
+            "docente",
+            "gestión",
+            "educativa"
+          ]
+        },
+        {
+          "statement": "Reducir brechas digitales y territoriales",
+          "original_quote": "Reducir brechas digitales y territoriales",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "reducir",
+            "brechas",
+            "digitales",
+            "territoriales"
+          ]
+        },
+        {
+          "statement": "equitativo a la educación y fortalecer el capital humano",
+          "original_quote": "equitativo a la educación y fortalecer el capital humano",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "equitativo",
+            "educación",
+            "fortalecer",
+            "capital",
+            "humano"
+          ]
+        },
+        {
+          "statement": "3 Seguridad Alimentaria y Nutrición",
+          "original_quote": "3 Seguridad Alimentaria y Nutrición",
+          "page": 14,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "seguridad",
+            "alimentaria",
+            "nutrición"
+          ]
+        },
+        {
+          "statement": "Garantizar acceso sostenible a alimentos nutritivos",
+          "original_quote": "Garantizar acceso sostenible a alimentos nutritivos",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "garantizar",
+            "acceso",
+            "sostenible",
+            "alimentos",
+            "nutritivos"
+          ]
+        },
+        {
+          "statement": "4 Vivienda Digna, Agua Potable y Saneamiento",
+          "original_quote": "4 Vivienda Digna, Agua Potable y Saneamiento",
+          "page": 15,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "vivienda",
+            "digna",
+            "potable",
+            "saneamiento"
+          ]
+        },
+        {
+          "statement": "Promover soluciones sostenibles y adaptadas al territorio",
+          "original_quote": "Promover soluciones sostenibles y adaptadas al territorio",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "promover",
+            "soluciones",
+            "sostenibles",
+            "adaptadas",
+            "territorio"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Trabajo",
+      "proposals": [
+        {
+          "statement": "5 Articulación con los Objetivos de Desarrollo Sostenible",
+          "original_quote": "5 Articulación con los Objetivos de Desarrollo Sostenible",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "articulación",
+            "objetivos",
+            "desarrollo",
+            "sostenible"
+          ]
+        },
+        {
+          "statement": "La visión del Plan se articula de manera transversal con los ODS al 2030, en particular:",
+          "original_quote": "La visión del Plan se articula de manera transversal con los ODS al 2030, en particular:",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "articula",
+            "manera",
+            "transversal",
+            "particular"
+          ]
+        },
+        {
+          "statement": "ODS 8: Trabajo decente y crecimiento económico",
+          "original_quote": "ODS 8: Trabajo decente y crecimiento económico",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "trabajo",
+            "decente",
+            "crecimiento",
+            "económico"
+          ]
+        },
+        {
+          "statement": "ODS 16: Instituciones sólidas y paz",
+          "original_quote": "ODS 16: Instituciones sólidas y paz",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "instituciones",
+            "sólidas"
+          ]
+        },
+        {
+          "statement": "6 Rol del Estado, el Mercado y la Sociedad",
+          "original_quote": "6 Rol del Estado, el Mercado y la Sociedad",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "estado",
+            "mercado",
+            "sociedad"
+          ]
+        },
+        {
+          "statement": "5 Desarrollo Económico Territorial",
+          "original_quote": "5 Desarrollo Económico Territorial",
+          "page": 20,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "desarrollo",
+            "económico",
+            "territorial"
+          ]
+        },
+        {
+          "statement": "Promover polos de desarrollo regional",
+          "original_quote": "Promover polos de desarrollo regional",
+          "page": 20,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "promover",
+            "polos",
+            "desarrollo",
+            "regional"
+          ]
+        },
+        {
+          "statement": "7 Articulación con ODS y Planes Nacionales",
+          "original_quote": "7 Articulación con ODS y Planes Nacionales",
+          "page": 20,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "articulación",
+            "planes",
+            "nacionales"
+          ]
+        },
+        {
+          "statement": "ODS 9: Industria, innovación e infraestructura",
+          "original_quote": "ODS 9: Industria, innovación e infraestructura",
+          "page": 20,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "industria",
+            "innovación",
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "ODS 10: Reducción de desigualdades",
+          "original_quote": "ODS 10: Reducción de desigualdades",
+          "page": 20,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "reducción",
+            "desigualdades"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Vivienda",
+      "proposals": [
+        {
+          "statement": "2 Seguridad alimentaria y nutrición",
+          "original_quote": "2 Seguridad alimentaria y nutrición",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "seguridad",
+            "alimentaria",
+            "nutrición"
+          ]
+        },
+        {
+          "statement": "3 Situación Económica y Productiva",
+          "original_quote": "3 Situación Económica y Productiva",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "situación",
+            "económica",
+            "productiva"
+          ]
+        },
+        {
+          "statement": "1 Estructura productiva y crecimiento",
+          "original_quote": "1 Estructura productiva y crecimiento",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "estructura",
+            "productiva",
+            "crecimiento"
+          ]
+        },
+        {
+          "statement": "4 Brechas Territoriales y Descentralización",
+          "original_quote": "4 Brechas Territoriales y Descentralización",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "brechas",
+            "territoriales",
+            "descentralización"
+          ]
+        },
+        {
+          "statement": "1 Problema Público Prioritario",
+          "original_quote": "1 Problema Público Prioritario",
+          "page": 12,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "problema",
+            "público",
+            "prioritario"
+          ]
+        },
+        {
+          "statement": "en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios",
+          "original_quote": "en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios",
+          "page": 12,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "capacidad",
+            "estado",
+            "garantizar",
+            "condiciones",
+            "mínimas"
+          ]
+        },
+        {
+          "statement": "2 Objetivo General de la Dimensión Social",
+          "original_quote": "2 Objetivo General de la Dimensión Social",
+          "page": 12,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "objetivo",
+            "general",
+            "dimensión",
+            "social"
+          ]
+        },
+        {
+          "statement": "Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de",
+          "original_quote": "Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de",
+          "page": 12,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "garantizar",
+            "desarrollo",
+            "humano",
+            "integral",
+            "mediante"
+          ]
+        },
+        {
+          "statement": "Mejorar el acceso y la calidad de los servicios de salud en todo el territorio",
+          "original_quote": "Mejorar el acceso y la calidad de los servicios de salud en todo el territorio",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "mejorar",
+            "acceso",
+            "calidad",
+            "servicios",
+            "salud"
+          ]
+        },
+        {
+          "statement": "Reducir la inseguridad alimentaria y la desnutrición infantil",
+          "original_quote": "Reducir la inseguridad alimentaria y la desnutrición infantil",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "reducir",
+            "inseguridad",
+            "alimentaria",
+            "desnutrición",
+            "infantil"
+          ]
+        },
+        {
+          "statement": "Fortalecer los sistemas de protección social con enfoque preventivo",
+          "original_quote": "Fortalecer los sistemas de protección social con enfoque preventivo",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "sistemas",
+            "protección",
+            "social",
+            "enfoque"
+          ]
+        },
+        {
+          "statement": "4 Estrategia General de Intervención Social",
+          "original_quote": "4 Estrategia General de Intervención Social",
+          "page": 13,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "estrategia",
+            "general",
+            "intervención",
+            "social"
+          ]
+        },
+        {
+          "statement": "5 Ejes Programáticos de la Dimensión Social",
+          "original_quote": "5 Ejes Programáticos de la Dimensión Social",
+          "page": 13,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "programáticos",
+            "dimensión",
+            "social"
+          ]
+        },
+        {
+          "statement": "1 Salud Integral y Acceso Universal",
+          "original_quote": "1 Salud Integral y Acceso Universal",
+          "page": 13,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "salud",
+            "integral",
+            "acceso",
+            "universal"
+          ]
+        },
+        {
+          "statement": "Fortalecer el primer nivel de atención como eje del sistema de salud",
+          "original_quote": "Fortalecer el primer nivel de atención como eje del sistema de salud",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "primer",
+            "nivel",
+            "atención",
+            "sistema"
+          ]
+        },
+        {
+          "statement": "Mejorar la cobertura y calidad de los servicios preventivos y promocionales",
+          "original_quote": "Mejorar la cobertura y calidad de los servicios preventivos y promocionales",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "mejorar",
+            "cobertura",
+            "calidad",
+            "servicios",
+            "preventivos"
+          ]
+        },
+        {
+          "statement": "Reducir brechas territoriales en infraestructura y equipamiento",
+          "original_quote": "Reducir brechas territoriales en infraestructura y equipamiento",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "reducir",
+            "brechas",
+            "territoriales",
+            "infraestructura",
+            "equipamiento"
+          ]
+        },
+        {
+          "statement": "Garantizar acceso sostenible a alimentos nutritivos",
+          "original_quote": "Garantizar acceso sostenible a alimentos nutritivos",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "garantizar",
+            "acceso",
+            "sostenible",
+            "alimentos",
+            "nutritivos"
+          ]
+        },
+        {
+          "statement": "4 Vivienda Digna, Agua Potable y Saneamiento",
+          "original_quote": "4 Vivienda Digna, Agua Potable y Saneamiento",
+          "page": 15,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "vivienda",
+            "digna",
+            "potable",
+            "saneamiento"
+          ]
+        },
+        {
+          "statement": "Promover soluciones sostenibles y adaptadas al territorio",
+          "original_quote": "Promover soluciones sostenibles y adaptadas al territorio",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "promover",
+            "soluciones",
+            "sostenibles",
+            "adaptadas",
+            "territorio"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tecnología",
+      "proposals": [
+        {
+          "statement": "2 Educación de Calidad y Oportunidades para el Futuro",
+          "original_quote": "2 Educación de Calidad y Oportunidades para el Futuro",
+          "page": 14,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "educación",
+            "calidad",
+            "oportunidades",
+            "futuro"
+          ]
+        },
+        {
+          "statement": "Garantizar aprendizajes fundamentales en todos los niveles",
+          "original_quote": "Garantizar aprendizajes fundamentales en todos los niveles",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "garantizar",
+            "aprendizajes",
+            "fundamentales",
+            "todos",
+            "niveles"
+          ]
+        },
+        {
+          "statement": "Fortalecer la formación docente y la gestión educativa",
+          "original_quote": "Fortalecer la formación docente y la gestión educativa",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "formación",
+            "docente",
+            "gestión",
+            "educativa"
+          ]
+        },
+        {
+          "statement": "Reducir brechas digitales y territoriales",
+          "original_quote": "Reducir brechas digitales y territoriales",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "reducir",
+            "brechas",
+            "digitales",
+            "territoriales"
+          ]
+        },
+        {
+          "statement": "equitativo a la educación y fortalecer el capital humano",
+          "original_quote": "equitativo a la educación y fortalecer el capital humano",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "equitativo",
+            "educación",
+            "fortalecer",
+            "capital",
+            "humano"
+          ]
+        },
+        {
+          "statement": "3 Seguridad Alimentaria y Nutrición",
+          "original_quote": "3 Seguridad Alimentaria y Nutrición",
+          "page": 14,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "seguridad",
+            "alimentaria",
+            "nutrición"
+          ]
+        },
+        {
+          "statement": "3 Productividad, Innovación y Diversificación Productiva",
+          "original_quote": "3 Productividad, Innovación y Diversificación Productiva",
+          "page": 19,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "productividad",
+            "innovación",
+            "diversificación",
+            "productiva"
+          ]
+        },
+        {
+          "statement": "Promover innovación tecnológica",
+          "original_quote": "Promover innovación tecnológica",
+          "page": 19,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "promover",
+            "innovación",
+            "tecnológica"
+          ]
+        },
+        {
+          "statement": "4 Formalización Laboral y Empresarial",
+          "original_quote": "4 Formalización Laboral y Empresarial",
+          "page": 19,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "formalización",
+            "laboral",
+            "empresarial"
+          ]
+        },
+        {
+          "statement": "3 Uso Sostenible de Recursos Naturales",
+          "original_quote": "3 Uso Sostenible de Recursos Naturales",
+          "page": 23,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "sostenible",
+            "recursos",
+            "naturales"
+          ]
+        },
+        {
+          "statement": "Promover eficiencia y sostenibilidad",
+          "original_quote": "Promover eficiencia y sostenibilidad",
+          "page": 23,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "promover",
+            "eficiencia",
+            "sostenibilidad"
+          ]
+        },
+        {
+          "statement": "4 Ordenamiento Territorial y Desarrollo Urbano Sostenible",
+          "original_quote": "4 Ordenamiento Territorial y Desarrollo Urbano Sostenible",
+          "page": 23,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ordenamiento",
+            "territorial",
+            "desarrollo",
+            "urbano",
+            "sostenible"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Cultura",
+      "proposals": [
+        {
+          "statement": "1 Fundamentos del Ideario Político",
+          "original_quote": "1 Fundamentos del Ideario Político",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "fundamentos",
+            "ideario",
+            "político"
+          ]
+        },
+        {
+          "statement": "2 Concepción Económica: Libre Mercado con Responsabilidad Social",
+          "original_quote": "2 Concepción Económica: Libre Mercado con Responsabilidad Social",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "concepción",
+            "económica",
+            "libre",
+            "mercado",
+            "responsabilidad"
+          ]
+        },
+        {
+          "statement": "El rol del Estado es garantizar:",
+          "original_quote": "El rol del Estado es garantizar:",
+          "page": 1,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "estado",
+            "garantizar"
+          ]
+        },
+        {
+          "statement": "6 Objetivos Generales del Ideario",
+          "original_quote": "6 Objetivos Generales del Ideario",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "objetivos",
+            "generales",
+            "ideario"
+          ]
+        },
+        {
+          "statement": "Promover el desarrollo humano integral con igualdad de oportunidades",
+          "original_quote": "Promover el desarrollo humano integral con igualdad de oportunidades",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "promover",
+            "desarrollo",
+            "humano",
+            "integral",
+            "igualdad"
+          ]
+        },
+        {
+          "statement": "Impulsar una economía dinámica, competitiva e inclusiva",
+          "original_quote": "Impulsar una economía dinámica, competitiva e inclusiva",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "impulsar",
+            "economía",
+            "dinámica",
+            "competitiva",
+            "inclusiva"
+          ]
+        },
+        {
+          "statement": "Fortalecer la cohesión social y la paz social",
+          "original_quote": "Fortalecer la cohesión social y la paz social",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "cohesión",
+            "social",
+            "social"
+          ]
+        },
+        {
+          "statement": "Garantizar la sostenibilidad ambiental y territorial del desarrollo",
+          "original_quote": "Garantizar la sostenibilidad ambiental y territorial del desarrollo",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "garantizar",
+            "sostenibilidad",
+            "ambiental",
+            "territorial",
+            "desarrollo"
+          ]
+        },
+        {
+          "statement": "VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050",
+          "original_quote": "VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "gobierno",
+            "visión"
+          ]
+        },
+        {
+          "statement": "1 Enfoque General de la Visión",
+          "original_quote": "1 Enfoque General de la Visión",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "general",
+            "visión"
+          ]
+        },
+        {
+          "statement": "5 Articulación con los Objetivos de Desarrollo Sostenible",
+          "original_quote": "5 Articulación con los Objetivos de Desarrollo Sostenible",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "articulación",
+            "objetivos",
+            "desarrollo",
+            "sostenible"
+          ]
+        },
+        {
+          "statement": "La visión del Plan se articula de manera transversal con los ODS al 2030, en particular:",
+          "original_quote": "La visión del Plan se articula de manera transversal con los ODS al 2030, en particular:",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "articula",
+            "manera",
+            "transversal",
+            "particular"
+          ]
+        },
+        {
+          "statement": "ODS 8: Trabajo decente y crecimiento económico",
+          "original_quote": "ODS 8: Trabajo decente y crecimiento económico",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "trabajo",
+            "decente",
+            "crecimiento",
+            "económico"
+          ]
+        },
+        {
+          "statement": "ODS 16: Instituciones sólidas y paz",
+          "original_quote": "ODS 16: Instituciones sólidas y paz",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "instituciones",
+            "sólidas"
+          ]
+        },
+        {
+          "statement": "6 Rol del Estado, el Mercado y la Sociedad",
+          "original_quote": "6 Rol del Estado, el Mercado y la Sociedad",
+          "page": 5,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "estado",
+            "mercado",
+            "sociedad"
+          ]
+        },
+        {
+          "statement": "5 Protección Social e Inclusión",
+          "original_quote": "5 Protección Social e Inclusión",
+          "page": 16,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "protección",
+            "social",
+            "inclusión"
+          ]
+        },
+        {
+          "statement": "Fortalecer mecanismos de protección frente a riesgos sociales",
+          "original_quote": "Fortalecer mecanismos de protección frente a riesgos sociales",
+          "page": 16,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecer",
+            "mecanismos",
+            "protección",
+            "frente",
+            "riesgos"
+          ]
+        },
+        {
+          "statement": "6 Enfoques Transversales de la Dimensión Social",
+          "original_quote": "6 Enfoques Transversales de la Dimensión Social",
+          "page": 16,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoques",
+            "transversales",
+            "dimensión",
+            "social"
+          ]
+        },
+        {
+          "statement": "1 Problema público prioritario",
+          "original_quote": "1 Problema público prioritario",
+          "page": 29,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "problema",
+            "público",
+            "prioritario"
+          ]
+        }
+      ]
+    }
+  ],
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "en_contra",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: salario mínimo. Indicadores a favor: 0, en contra: 22."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: impuestos a grandes fortuna. Indicadores a favor: 5, en contra: 22."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: apoyo a energías renovables y sostenibilidad. Menciona 'Política para los Peruanos en el Exterior' pero no aborda políticas migratorias restrictivas o de control de inmigración. No hay propuestas relacionadas con el gasto militar o defensa nacional. Aunque promueve 'Libre Mercado con Responsabilidad Social', no hay menciones explícitas sobre subsidios a empresa, subsidio. Indicadores a favor: 66, en contra: 22."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: pension. Indicadores a favor: 110, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: Protección de la Vida 8 Enfoque de Derechos Humanos y Protección de la Vida 9 Coherencia, Continuidad y Evaluación Estratégica 9 Coherencia, Continuidad y Evaluación Estratégica El Plan se estructura para garantizar: El Plan se estructura para garantizar: 1 Enfoque General del Diagnóstico 1 Enfoque General del Diagnóstico 2 Situación Social y Brechas de Desarrollo Humano 2 Situación Social y Brechas de Desarrollo Humano 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , 3 Visión del Periodo de Gobierno 2026–2031 3 Visión del Periodo de Gobierno 2026–2031 Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Reducir brechas sociales y territoriales persistentes Reducir brechas sociales y territoriales persistentes Fortalecer la capacidad del Estado para brindar servicios de calidad Fortalecer la capacidad del Estado para brindar servicios de calidad Impulsar la reactivación económica con inclusión y sostenibilidad Impulsar la reactivación económica con inclusión y sostenibilidad 4 Principios que Orientan la Visión 4 Principios que Orientan la Visión 1 Fundamentos del Ideario Político 1 Fundamentos del Ideario Político 2 Concepción Económica: Libre Mercado con Responsabilidad Social 2 Concepción Económica: Libre Mercado con Responsabilidad Social El rol del Estado es garantizar: El rol del Estado es garantizar: 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 4 Principios Rectores del Plan de Gobierno 4 Principios Rectores del Plan de Gobierno 6 Objetivos Generales del Ideario 6 Objetivos Generales del Ideario Promover el desarrollo humano integral con igualdad de oportunidades Promover el desarrollo humano integral con igualdad de oportunidades Impulsar una economía dinámica, competitiva e inclusiva Impulsar una economía dinámica, competitiva e inclusiva Fortalecer la cohesión social y la paz social Fortalecer la cohesión social y la paz social Garantizar la sostenibilidad ambiental y territorial del desarrollo Garantizar la sostenibilidad ambiental y territorial del desarrollo VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 1 Enfoque General de la Visión 1 Enfoque General de la Visión Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , 3 Visión del Periodo de Gobierno 2026–2031 3 Visión del Periodo de Gobierno 2026–2031 Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Reducir brechas sociales y territoriales persistentes Reducir brechas sociales y territoriales persistentes Fortalecer la capacidad del Estado para brindar servicios de calidad Fortalecer la capacidad del Estado para brindar servicios de calidad Impulsar la reactivación económica con inclusión y sostenibilidad Impulsar la reactivación económica con inclusión y sostenibilidad Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , 3 Visión del Periodo de Gobierno 2026–2031 3 Visión del Periodo de Gobierno 2026–2031 Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Reducir brechas sociales y territoriales persistentes Reducir brechas sociales y territoriales persistentes Fortalecer la capacidad del Estado para brindar servicios de calidad Fortalecer la capacidad del Estado para brindar servicios de calidad Impulsar la reactivación económica con inclusión y sostenibilidad Impulsar la reactivación económica con inclusión y sostenibilidad 4 Principios que Orientan la Visión 4 Principios que Orientan la Visión 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización 5 Situación Ambiental y Riesgos Climáticos 5 Situación Ambiental y Riesgos Climáticos 2 Cambio climático y gestión del riesgo 2 Cambio climático y gestión del riesgo 6 Situación Institucional y Gobernabilidad 6 Situación Institucional y Gobernabilidad La capacidad del Estado pa ra diseñar e implementar políticas públicas eficaces se ve La capacidad del Estado pa ra diseñar e implementar políticas públicas eficaces se ve 2 Corrupción y confianza ciudadana 2 Corrupción y confianza ciudadana 7 Principales Brechas Identificadas 7 Principales Brechas Identificadas Mejorar el acceso y la calidad de los servicios de salud en todo el territorio Mejorar el acceso y la calidad de los servicios de salud en todo el territorio 6 Objetivos Generales del Ideario 6 Objetivos Generales del Ideario Promover el desarrollo humano integral con igualdad de oportunidades Promover el desarrollo humano integral con igualdad de oportunidades Impulsar una economía dinámica, competitiva e inclusiva Impulsar una economía dinámica, competitiva e inclusiva Fortalecer la cohesión social y la paz social Fortalecer la cohesión social y la paz social Garantizar la sostenibilidad ambiental y territorial del desarrollo Garantizar la sostenibilidad ambiental y territorial del desarrollo VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 1 Enfoque General de la Visión 1 Enfoque General de la Visión 3 Lucha Integral contra la Corrupción 3 Lucha Integral contra la Corrupción 4 Sistema de Justicia y Estado de Derecho 4 Sistema de Justicia y Estado de Derecho Fortalecer independencia y eficiencia del sistema judicial Fortalecer independencia y eficiencia del sistema judicial 5 Descentralización y Gobernanza Territorial 5 Descentralización y Gobernanza Territorial Fortalecer capacidades regionales y locales Fortalecer capacidades regionales y locales 6 Participación Ciudadana y Control Social 6 Participación Ciudadana y Control Social Fortalecer mecanismos de participación y vigilancia Fortalecer mecanismos de participación y vigilancia 7 Articulación con ODS y Compromisos Internacionales 7 Articulación con ODS y Compromisos Internacionales ODS 16: Paz, justicia e instituciones sólidas ODS 16: Paz, justicia e instituciones sólidas ODS 17: Alianzas para el desarrollo ODS 17: Alianzas para el desarrollo 7 Resultados Esperados al Final del Periodo de Gobierno 7 Resultados Esperados al Final del Periodo de Gobierno Al culminar el periodo 2026–2031, se espera haber logrado: Al culminar el periodo 2026–2031, se espera haber logrado: 1 Enfoque Estratégico del Plan de Gobierno 1 Enfoque Estratégico del Plan de Gobierno 2 Alineamiento con el Estado Constitucional de Derecho 2 Alineamiento con el Estado Constitucional de Derecho La disciplina fiscal se concibe como un medio para garantizar la continuidad de las La disciplina fiscal se concibe como un medio para garantizar la continuidad de las 6 Articulación con la Descentralización y los Planes Territoriales 6 Articulación con la Descentralización y los Planes Territoriales Se prioriza la planificación territorial como instrumento para reducir desigualdades y Se prioriza la planificación territorial como instrumento para reducir desigualdades y mejorar la eficiencia del gasto público mejorar la eficiencia del gasto público 7 Vinculación con los Objetivos de Desarrollo Sostenible al 2030 7 Vinculación con los Objetivos de Desarrollo Sostenible al 2030 Dimensión social: ODS 1, 2, 3, 4 y 10 Dimensión social: ODS 1, 2, 3, 4 y 10 Dimensión económica: ODS 8 y 9 Dimensión económica: ODS 8 y 9 Dimensión ambiental: ODS 12, 13, 14 y 15 Dimensión ambiental: ODS 12, 13, 14 y 15 Dimensión institucional: ODS 16 y 17 Dimensión institucional: ODS 16 y 17 Fortalecer capacidades regionales y locales Fortalecer capacidades regionales y locales 6 Participación Ciudadana y Control Social 6 Participación Ciudadana y Control Social Fortalecer mecanismos de participación y vigilancia Fortalecer mecanismos de participación y vigilancia 7 Articulación con ODS y Compromisos Internacionales 7 Articulación con ODS y Compromisos Internacionales ODS 16: Paz, justicia e instituciones sólidas ODS 16: Paz, justicia e instituciones sólidas ODS 17: Alianzas para el desarrollo ODS 17: Alianzas para el desarrollo La estrategia de la Política para los Peruanos en el Exterior se orienta a garantizar el ejercicio La estrategia de la Política para los Peruanos en el Exterior se orienta a garantizar el ejercicio 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 4 Principios Rectores del Plan de Gobierno 4 Principios Rectores del Plan de Gobierno 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización 1 Problema Público Prioritario 1 Problema Público Prioritario en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios 2 Objetivo General de la Dimensión Social 2 Objetivo General de la Dimensión Social Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de 2 Educación de Calidad y Oportunidades para el Futuro 2 Educación de Calidad y Oportunidades para el Futuro Garantizar aprendizajes fundamentales en todos los niveles Garantizar aprendizajes fundamentales en todos los niveles Fortalecer la formación docente y la gestión educativa Fortalecer la formación docente y la gestión educativa Reducir brechas digitales y territoriales Reducir brechas digitales y territoriales equitativo a la educación y fortalecer el capital humano equitativo a la educación y fortalecer el capital humano 3 Seguridad Alimentaria y Nutrición 3 Seguridad Alimentaria y Nutrición Garantizar acceso sostenible a alimentos nutritivos Garantizar acceso sostenible a alimentos nutritivos 4 Vivienda Digna, Agua Potable y Saneamiento 4 Vivienda Digna, Agua Potable y Saneamiento Promover soluciones sostenibles y adaptadas al territorio Promover soluciones sostenibles y adaptadas al territorio 5 Articulación con los Objetivos de Desarrollo Sostenible 5 Articulación con los Objetivos de Desarrollo Sostenible La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: ODS 8: Trabajo decente y crecimiento económico ODS 8: Trabajo decente y crecimiento económico ODS 16: Instituciones sólidas y paz ODS 16: Instituciones sólidas y paz 6 Rol del Estado, el Mercado y la Sociedad 6 Rol del Estado, el Mercado y la Sociedad 5 Desarrollo Económico Territorial 5 Desarrollo Económico Territorial Promover polos de desarrollo regional Promover polos de desarrollo regional 7 Articulación con ODS y Planes Nacionales 7 Articulación con ODS y Planes Nacionales ODS 9: Industria, innovación e infraestructura ODS 9: Industria. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: matrimonio igualitario. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: género. Indicadores a favor: 95, en contra: 0."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: migra. Indicadores a favor: 5, en contra: 29."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de pena de muerte en el plan de gobierno."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de privatización de servicios públicos en el plan de gobierno."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: renovable. Indicadores a favor: 34, en contra: 0."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Educación de Calidad y Oportunidades para el Futuro 2 Educación de Calidad y Oportunidades para el Futuro Garantizar aprendizajes fundamentales en todos los niveles Garantizar aprendizajes fundamentales en todos los niveles Fortalecer la formación docente y la gestión educativa Fortalecer la formación docente y la gestión educativa Reducir brechas digitales y territoriales Reducir brechas digitales y territoriales equitativo a la educación y fortalecer el capital humano equitativo a la educación y fortalecer el capital humano 3 Seguridad Alimentaria y Nutrición 3 Seguridad Alimentaria y Nutrición Garantizar acceso sostenible a alimentos nutritivos Garantizar acceso sostenible a alimentos nutritivos 1 Fundamentos del Ideario Político 1 Fundamentos del Ideario Político 2 Concepción Económica: Libre Mercado con Responsabilidad Social 2 Concepción Económica: Libre Mercado con Responsabilidad Social El rol del Estado es garantizar: El rol del Estado es garantizar: 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 4 Principios Rectores del Plan de Gobierno 4 Principios Rectores del Plan de Gobierno 3 Articulación con el Plan Estratégico de Desarrollo Nacional al 2050 3 Articulación con el Plan Estratégico de Desarrollo Nacional al 2050 Nacional (PEDN) al 2050, contribuyendo a: Nacional (PEDN) al 2050, contribuyendo a: Las acciones propuestas en el periodo 2026–2031 se conciben como pasos concretos que Las acciones propuestas en el periodo 2026–2031 se conciben como pasos concretos que 4 Vinculación con las Políticas Nacionales y el Acuerdo Nacional 4 Vinculación con las Políticas Nacionales y el Acuerdo Nacional 5 Alineamiento con el Marco Macroeconómico Multianual 5 Alineamiento con el Marco Macroeconómico Multianual 8 Enfoque de Derechos Humanos y Protección de la Vida 8 Enfoque de Derechos Humanos y Protección de la Vida 9 Coherencia, Continuidad y Evaluación Estratégica 9 Coherencia, Continuidad y Evaluación Estratégica El Plan se estructura para garantizar: El Plan se estructura para garantizar: 1 Enfoque General del Diagnóstico 1 Enfoque General del Diagnóstico 2 Situación Social y Brechas de Desarrollo Humano 2 Situación Social y Brechas de Desarrollo Humano 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , 3 Visión del Periodo de Gobierno 2026–2031 3 Visión del Periodo de Gobierno 2026–2031 Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Reducir brechas sociales y territoriales persistentes Reducir brechas sociales y territoriales persistentes Fortalecer la capacidad del Estado para brindar servicios de calidad Fortalecer la capacidad del Estado para brindar servicios de calidad Impulsar la reactivación económica con inclusión y sostenibilidad Impulsar la reactivación económica con inclusión y sostenibilidad 4 Principios que Orientan la Visión 4 Principios que Orientan la Visión 1 Fundamentos del Ideario Político 1 Fundamentos del Ideario Político 2 Concepción Económica: Libre Mercado con Responsabilidad Social 2 Concepción Económica: Libre Mercado con Responsabilidad Social El rol del Estado es garantizar: El rol del Estado es garantizar: 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 4 Principios Rectores del Plan de Gobierno 4 Principios Rectores del Plan de Gobierno 6 Objetivos Generales del Ideario 6 Objetivos Generales del Ideario Promover el desarrollo humano integral con igualdad de oportunidades Promover el desarrollo humano integral con igualdad de oportunidades Impulsar una economía dinámica, competitiva e inclusiva Impulsar una economía dinámica, competitiva e inclusiva Fortalecer la cohesión social y la paz social Fortalecer la cohesión social y la paz social Garantizar la sostenibilidad ambiental y territorial del desarrollo Garantizar la sostenibilidad ambiental y territorial del desarrollo VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 1 Enfoque General de la Visión 1 Enfoque General de la Visión Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , 3 Visión del Periodo de Gobierno 2026–2031 3 Visión del Periodo de Gobierno 2026–2031 Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Reducir brechas sociales y territoriales persistentes Reducir brechas sociales y territoriales persistentes Fortalecer la capacidad del Estado para brindar servicios de calidad Fortalecer la capacidad del Estado para brindar servicios de calidad Impulsar la reactivación económica con inclusión y sostenibilidad Impulsar la reactivación económica con inclusión y sostenibilidad Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , 3 Visión del Periodo de Gobierno 2026–2031 3 Visión del Periodo de Gobierno 2026–2031 Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Reducir brechas sociales y territoriales persistentes Reducir brechas sociales y territoriales persistentes Fortalecer la capacidad del Estado para brindar servicios de calidad Fortalecer la capacidad del Estado para brindar servicios de calidad Impulsar la reactivación económica con inclusión y sostenibilidad Impulsar la reactivación económica con inclusión y sostenibilidad 4 Principios que Orientan la Visión 4 Principios que Orientan la Visión 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización 5 Situación Ambiental y Riesgos Climáticos 5 Situación Ambiental y Riesgos Climáticos 2 Cambio climático y gestión del riesgo 2 Cambio climático y gestión del riesgo 6 Situación Institucional y Gobernabilidad 6 Situación Institucional y Gobernabilidad La capacidad del Estado pa ra diseñar e implementar políticas públicas eficaces se ve La capacidad del Estado pa ra diseñar e implementar políticas públicas eficaces se ve 2 Corrupción y confianza ciudadana 2 Corrupción y confianza ciudadana 7 Principales Brechas Identificadas 7 Principales Brechas Identificadas Mejorar el acceso y la calidad de los servicios de salud en todo el territorio Mejorar el acceso y la calidad de los servicios de salud en todo el territorio 6 Objetivos Generales del Ideario 6 Objetivos Generales del Ideario Promover el desarrollo humano integral con igualdad de oportunidades Promover el desarrollo humano integral con igualdad de oportunidades Impulsar una economía dinámica, competitiva e inclusiva Impulsar una economía dinámica, competitiva e inclusiva Fortalecer la cohesión social y la paz social Fortalecer la cohesión social y la paz social Garantizar la sostenibilidad ambiental y territorial del desarrollo Garantizar la sostenibilidad ambiental y territorial del desarrollo VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 1 Enfoque General de la Visión 1 Enfoque General de la Visión 3 Lucha Integral contra la Corrupción 3 Lucha Integral contra la Corrupción 4 Sistema de Justicia y Estado de Derecho 4 Sistema de Justicia y Estado de Derecho Fortalecer independencia y eficiencia del sistema judicial Fortalecer independencia y eficiencia del sistema judicial 5 Descentralización y Gobernanza Territorial 5 Descentralización y Gobernanza Territorial Fortalecer capacidades regionales y locales Fortalecer capacidades regionales y locales 6 Participación Ciudadana y Control Social 6 Participación Ciudadana y Control Social Fortalecer mecanismos de participación y vigilancia Fortalecer mecanismos de participación y vigilancia 7 Articulación con ODS y Compromisos Internacionales 7 Articulación con ODS y Compromisos Internacionales ODS 16: Paz, justicia e instituciones sólidas ODS 16: Paz, justicia e instituciones sólidas ODS 17: Alianzas para el desarrollo ODS 17: Alianzas para el desarrollo 7 Resultados Esperados al Final del Periodo de Gobierno 7 Resultados Esperados al Final del Periodo de Gobierno Al culminar el periodo 2026–2031, se espera haber logrado: Al culminar el periodo 2026–2031, se espera haber logrado: 1 Enfoque Estratégico del Plan de Gobierno 1 Enfoque Estratégico del Plan de Gobierno 2 Alineamiento con el Estado Constitucional de Derecho 2 Alineamiento con el Estado Constitucional de Derecho La disciplina fiscal se concibe como un medio para garantizar la continuidad de las La disciplina fiscal se concibe como un medio para garantizar la continuidad de las 6 Articulación con la Descentralización y los Planes Territoriales 6 Articulación con la Descentralización y los Planes Territoriales Se prioriza la planificación territorial como instrumento para reducir desigualdades y Se prioriza la planificación territorial como instrumento para reducir desigualdades y mejorar la eficiencia del gasto público mejorar la eficiencia del gasto público 7 Vinculación con los Objetivos de Desarrollo Sostenible al 2030 7 Vinculación con los Objetivos de Desarrollo Sostenible al 2030 Dimensión social: ODS 1, 2, 3, 4 y 10 Dimensión social: ODS 1, 2, 3, 4 y 10 Dimensión económica: ODS 8 y 9 Dimensión económica: ODS 8 y 9 Dimensión ambiental: ODS 12, 13, 14 y 15 Dimensión ambiental: ODS 12, 13, 14 y 15 Dimensión institucional: ODS 16 y 17 Dimensión institucional: ODS 16 y 17 Fortalecer capacidades regionales y locales Fortalecer capacidades regionales y locales 6 Participación Ciudadana y Control Social 6 Participación Ciudadana y Control Social Fortalecer mecanismos de participación y vigilancia Fortalecer mecanismos de participación y vigilancia 7 Articulación con ODS y Compromisos Internacionales 7 Articulación con ODS y Compromisos Internacionales ODS 16: Paz, justicia e instituciones sólidas ODS 16: Paz, justicia e instituciones sólidas ODS 17: Alianzas para el desarrollo ODS 17: Alianzas para el desarrollo La estrategia de la Política para los Peruanos en el Exterior se orienta a garantizar el ejercicio La estrategia de la Política para los Peruanos en el Exterior se orienta a garantizar el ejercicio 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 4 Principios Rectores del Plan de Gobierno 4 Principios Rectores del Plan de Gobierno 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización 1 Problema Público Prioritario 1 Problema Público Prioritario en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios 2 Objetivo General de la Dimensión Social 2 Objetivo General de la Dimensión Social Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de 2 Educación de Calidad y Oportunidades para el Futuro 2 Educación de Calidad y Oportunidades para el Futuro Garantizar aprendizajes fundamentales en todos los niveles Garantizar aprendizajes fundamentales en todos los niveles Fortalecer la formación docente y la gestión educativa Fortalecer la formación docente y la gestión educativa Reducir brechas digitales y territoriales Reducir brechas digitales y territoriales equitativo a la educación y fortalecer el capital humano equitativo a la educación y fortalecer el capital humano 3 Seguridad Alimentaria y Nutrición 3 Seguridad Alimentaria y Nutrición Garantizar acceso sostenible a alimentos nutritivos Garantizar acceso sostenible a alimentos nutritivos 4 Vivienda Digna, Agua Potable y Saneamiento 4 Vivienda Digna, Agua Potable y Saneamiento Promover soluciones sostenibles y adaptadas al territorio Promover soluciones sostenibles y adaptadas al territorio 5 Articulación con los Objetivos de Desarrollo Sostenible 5 Articulación con los Objetivos de Desarrollo Sostenible La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: ODS 8: Trabajo decente y crecimiento económico ODS 8: Trabajo decente y crecimiento económico ODS 16: Instituciones sólidas y paz ODS 16: Instituciones sólidas y paz 6 Rol del Estado, el Mercado y la Sociedad 6 Rol del Estado, el Mercado y la Sociedad 5 Desarrollo Económico Territorial 5 Desarrollo Económico Territorial Promover polos de desarrollo regional Promover polos de desarrollo regional 7 Articulación con ODS y Planes Nacionales 7 Articulación con ODS y Planes Nacionales ODS 9: Industria, innovación e infraestructura ODS 9: Industria, innovación e infraestructura ODS 10: Reducción de desigualdades ODS 10: Reducción de desigualdades 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización 1 Problema Público Prioritario 1 Problema Público Prioritario en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios 2 Objetivo General de la Dimensión Social 2 Objetivo General de la Dimensión Social Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de Mejorar el acceso y la calidad de los servicios de salud en todo el territorio Mejorar el acceso y la calidad de los servicios de salud en todo el territorio Reducir la inseguridad alimentaria y la desnutrición infantil Reducir la inseguridad alimentaria y la desnutrición infantil Fortalecer los sistemas de protección social con enfoque preventivo Fortalecer los sistemas de protección social con enfoque preventivo 4 Estrategia General de Intervención Social 4 Estrategia General de Intervención Social 5 Ejes Programáticos de la Dimensión Social 5 Ejes Programáticos de la Dimensión Social 1 Salud Integral y Acceso Universal 1 Salud Integral y Acceso Universal Fortalecer el primer nivel de atención como eje del sistema de salud Fortalecer el primer nivel de atención como eje del sistema de salud Mejorar la cobertura y calidad de los servicios preventivos y promocionales Mejorar la cobertura y calidad de los servicios preventivos y promocionales Reducir brechas territoriales en infraestructura y equipamiento Reducir brechas territoriales en infraestructura y equipamiento Garantizar acceso sostenible a alimentos nutritivos Garantizar acceso sostenible a alimentos nutritivos 4 Vivienda Digna, Agua Potable y Saneamiento 4 Vivienda Digna, Agua Potable y Saneamiento Promover soluciones sostenibles y adaptadas al territorio Promover soluciones sostenibles y adaptadas al territorio 2 Educación de Calidad y Oportunidades para el Futuro 2 Educación de Calidad y Oportunidades para el Futuro Garantizar aprendizajes fundamentales en todos los niveles Garantizar aprendizajes fundamentales en todos los niveles Fortalecer la formación docente y la gestión educativa Fortalecer la formación docente y la gestión educativa Reducir brechas digitales y territoriales Reducir brechas digitales y territoriales equitativo a la educación y fortalecer el capital humano equitativo a la educación y fortalecer el capital humano 3 Seguridad Alimentaria y Nutrición 3 Seguridad Alimentaria y Nutrición 3 Productividad, Innovación y Diversificación Productiva 3 Productividad, Innovación y Diversificación Productiva Promover innovación tecnológica Promover innovación tecnológica 4 Formalización Laboral y Empresarial 4 Formalización Laboral y Empresarial 3 Uso Sostenible de Recursos Naturales 3 Uso Sostenible de Recursos Naturales Promover eficiencia y sostenibilidad Promover eficiencia y sostenibilidad 4 Ordenamiento Territorial y Desarrollo Urbano Sostenible 4 Ordenamiento Territorial y Desarrollo Urbano Sostenible 1 Fundamentos del Ideario Político 1 Fundamentos del Ideario Político 2 Concepción Económica: Libre Mercado con Responsabilidad Social 2 Concepción Económica: Libre Mercado con Responsabilidad Social El rol del Estado es garantizar: El rol del Estado es garantizar: 6 Objetivos Generales del Ideario 6 Objetivos Generales del Ideario Promover el desarrollo humano integral con igualdad de oportunidades Promover el desarrollo humano integral con igualdad de oportunidades Impulsar una economía dinámica, competitiva e inclusiva Impulsar una economía dinámica, competitiva e inclusiva Fortalecer la cohesión social y la paz social Fortalecer la cohesión social y la paz social Garantizar la sostenibilidad ambiental y territorial del desarrollo Garantizar la sostenibilidad ambiental y territorial del desarrollo VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 1 Enfoque General de la Visión 1 Enfoque General de la Visión 5 Articulación con los Objetivos de Desarrollo Sostenible 5 Articulación con los Objetivos de Desarrollo Sostenible La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: ODS 8: Trabajo decente y crecimiento económico ODS 8: Trabajo decente y crecimiento económico ODS 16: Instituciones sólidas y paz ODS 16: Instituciones sólidas y paz 6 Rol del Estado, el Mercado y la Sociedad 6 Rol del Estado, el Mercado y la Sociedad 5 Protección Social e Inclusión 5 Protección Social e Inclusión Fortalecer mecanismos de protección frente a riesgos sociales Fortalecer mecanismos de protección frente a riesgos sociales 6 Enfoques Transversales de la Dimensión Social 6 Enfoques Transversales de la Dimensión Social 1 Problema público prioritario 1 Problema público prioritario No se encuentra ninguna propuesta o mención explícita sobre el salario mínimo en el plan de gobierno. No hay propuestas específicas sobre impuestos a grandes fortunas o redistribución fiscal progresiva. El plan enfatiza 'Fortalecer la capacidad del Estado para brindar servicios de calidad' y promueve 'Libre Mercado con Responsabilidad Social', sugiriendo un rol activo del Estado en la provisión de servicios públicos. No se aborda el tema del matrimonio igualitario en ninguna sección del plan de gobierno. Aunque menciona 'Enfoque de Derechos Humanos y Protección de la Vida', no hay una posición explícita sobre la despenalización del aborto. El plan incluye 'Garantizar la sostenibilidad ambiental y territorial del desarrollo', 'Uso Sostenible de Recursos Naturales' y alineación con ODS 12, 13, 14 y 15, indicando apoyo a energías renovables y sostenibilidad. Menciona 'Política para los Peruanos en el Exterior' pero no aborda políticas migratorias restrictivas o de control de inmigración. No hay propuestas relacionadas con el gasto militar o defensa nacional. Aunque promueve 'Libre Mercado con Responsabilidad Social', no hay menciones explícitas sobre subsidios a empresas privadas. No se encontraron propuestas específicas sobre reforma del sistema de pensiones. El plan propone 'Garantizar aprendizajes fundamentales en todos los niveles', 'acceso equitativo a la educación' y 'Reducir brechas digitales y territoriales', lo que indica apoyo a educación públic. Indicadores a favor: 98, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: sis. Indicadores a favor: 53, en contra: 0."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de transporte público gratuito en el plan de gobierno."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: acceso equitativo, opo rtuno y de Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de Mejorar el acceso y la calidad de los servicios de salud en todo el territorio Mejorar el acceso y la calidad de los servicios de salud en todo el territorio 5 Articulación con los Objetivos de Desarrollo Sostenible 5 Articulación con los Objetivos de Desarrollo Sostenible La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: ODS 8: Trabajo decente y crecimiento económico ODS 8: Trabajo decente y crecimiento económico ODS 16: Instituciones sólidas y paz ODS 16: Instituciones sólidas y paz 6 Rol del Estado, el Mercado y la Sociedad 6 Rol del Estado, el Mercado y la Sociedad 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización 1 Problema Público Prioritario 1 Problema Público Prioritario en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios 2 Objetivo General de la Dimensión Social 2 Objetivo General de la Dimensión Social Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de 2 Educación de Calidad y Oportunidades para el Futuro 2 Educación de Calidad y Oportunidades para el Futuro Garantizar aprendizajes fundamentales en todos los niveles Garantizar aprendizajes fundamentales en todos los niveles Fortalecer la formación docente y la gestión educativa Fortalecer la formación docente y la gestión educativa Reducir brechas digitales y territoriales Reducir brechas digitales y territoriales equitativo a la educación y fortalecer el capital humano equitativo a la educación y fortalecer el capital humano 3 Seguridad Alimentaria y Nutrición 3 Seguridad Alimentaria y Nutrición Garantizar acceso sostenible a alimentos nutritivos Garantizar acceso sostenible a alimentos nutritivos 1 Fundamentos del Ideario Político 1 Fundamentos del Ideario Político 2 Concepción Económica: Libre Mercado con Responsabilidad Social 2 Concepción Económica: Libre Mercado con Responsabilidad Social El rol del Estado es garantizar: El rol del Estado es garantizar: 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 4 Principios Rectores del Plan de Gobierno 4 Principios Rectores del Plan de Gobierno 3 Articulación con el Plan Estratégico de Desarrollo Nacional al 2050 3 Articulación con el Plan Estratégico de Desarrollo Nacional al 2050 Nacional (PEDN) al 2050, contribuyendo a: Nacional (PEDN) al 2050, contribuyendo a: Las acciones propuestas en el periodo 2026–2031 se conciben como pasos concretos que Las acciones propuestas en el periodo 2026–2031 se conciben como pasos concretos que 4 Vinculación con las Políticas Nacionales y el Acuerdo Nacional 4 Vinculación con las Políticas Nacionales y el Acuerdo Nacional 5 Alineamiento con el Marco Macroeconómico Multianual 5 Alineamiento con el Marco Macroeconómico Multianual 8 Enfoque de Derechos Humanos y Protección de la Vida 8 Enfoque de Derechos Humanos y Protección de la Vida 9 Coherencia, Continuidad y Evaluación Estratégica 9 Coherencia, Continuidad y Evaluación Estratégica El Plan se estructura para garantizar: El Plan se estructura para garantizar: 1 Enfoque General del Diagnóstico 1 Enfoque General del Diagnóstico 2 Situación Social y Brechas de Desarrollo Humano 2 Situación Social y Brechas de Desarrollo Humano 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , 3 Visión del Periodo de Gobierno 2026–2031 3 Visión del Periodo de Gobierno 2026–2031 Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Reducir brechas sociales y territoriales persistentes Reducir brechas sociales y territoriales persistentes Fortalecer la capacidad del Estado para brindar servicios de calidad Fortalecer la capacidad del Estado para brindar servicios de calidad Impulsar la reactivación económica con inclusión y sostenibilidad Impulsar la reactivación económica con inclusión y sostenibilidad 4 Principios que Orientan la Visión 4 Principios que Orientan la Visión 1 Fundamentos del Ideario Político 1 Fundamentos del Ideario Político 2 Concepción Económica: Libre Mercado con Responsabilidad Social 2 Concepción Económica: Libre Mercado con Responsabilidad Social El rol del Estado es garantizar: El rol del Estado es garantizar: 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 4 Principios Rectores del Plan de Gobierno 4 Principios Rectores del Plan de Gobierno 6 Objetivos Generales del Ideario 6 Objetivos Generales del Ideario Promover el desarrollo humano integral con igualdad de oportunidades Promover el desarrollo humano integral con igualdad de oportunidades Impulsar una economía dinámica, competitiva e inclusiva Impulsar una economía dinámica, competitiva e inclusiva Fortalecer la cohesión social y la paz social Fortalecer la cohesión social y la paz social Garantizar la sostenibilidad ambiental y territorial del desarrollo Garantizar la sostenibilidad ambiental y territorial del desarrollo VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 1 Enfoque General de la Visión 1 Enfoque General de la Visión Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , 3 Visión del Periodo de Gobierno 2026–2031 3 Visión del Periodo de Gobierno 2026–2031 Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Reducir brechas sociales y territoriales persistentes Reducir brechas sociales y territoriales persistentes Fortalecer la capacidad del Estado para brindar servicios de calidad Fortalecer la capacidad del Estado para brindar servicios de calidad Impulsar la reactivación económica con inclusión y sostenibilidad Impulsar la reactivación económica con inclusión y sostenibilidad Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , 3 Visión del Periodo de Gobierno 2026–2031 3 Visión del Periodo de Gobierno 2026–2031 Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Reducir brechas sociales y territoriales persistentes Reducir brechas sociales y territoriales persistentes Fortalecer la capacidad del Estado para brindar servicios de calidad Fortalecer la capacidad del Estado para brindar servicios de calidad Impulsar la reactivación económica con inclusión y sostenibilidad Impulsar la reactivación económica con inclusión y sostenibilidad 4 Principios que Orientan la Visión 4 Principios que Orientan la Visión 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización 5 Situación Ambiental y Riesgos Climáticos 5 Situación Ambiental y Riesgos Climáticos 2 Cambio climático y gestión del riesgo 2 Cambio climático y gestión del riesgo 6 Situación Institucional y Gobernabilidad 6 Situación Institucional y Gobernabilidad La capacidad del Estado pa ra diseñar e implementar políticas públicas eficaces se ve La capacidad del Estado pa ra diseñar e implementar políticas públicas eficaces se ve 2 Corrupción y confianza ciudadana 2 Corrupción y confianza ciudadana 7 Principales Brechas Identificadas 7 Principales Brechas Identificadas Mejorar el acceso y la calidad de los servicios de salud en todo el territorio Mejorar el acceso y la calidad de los servicios de salud en todo el territorio 6 Objetivos Generales del Ideario 6 Objetivos Generales del Ideario Promover el desarrollo humano integral con igualdad de oportunidades Promover el desarrollo humano integral con igualdad de oportunidades Impulsar una economía dinámica, competitiva e inclusiva Impulsar una economía dinámica, competitiva e inclusiva Fortalecer la cohesión social y la paz social Fortalecer la cohesión social y la paz social Garantizar la sostenibilidad ambiental y territorial del desarrollo Garantizar la sostenibilidad ambiental y territorial del desarrollo VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 1 Enfoque General de la Visión 1 Enfoque General de la Visión 3 Lucha Integral contra la Corrupción 3 Lucha Integral contra la Corrupción 4 Sistema de Justicia y Estado de Derecho 4 Sistema de Justicia y Estado de Derecho Fortalecer independencia y eficiencia del sistema judicial Fortalecer independencia y eficiencia del sistema judicial 5 Descentralización y Gobernanza Territorial 5 Descentralización y Gobernanza Territorial Fortalecer capacidades regionales y locales Fortalecer capacidades regionales y locales 6 Participación Ciudadana y Control Social 6 Participación Ciudadana y Control Social Fortalecer mecanismos de participación y vigilancia Fortalecer mecanismos de participación y vigilancia 7 Articulación con ODS y Compromisos Internacionales 7 Articulación con ODS y Compromisos Internacionales ODS 16: Paz, justicia e instituciones sólidas ODS 16: Paz, justicia e instituciones sólidas ODS 17: Alianzas para el desarrollo ODS 17: Alianzas para el desarrollo 7 Resultados Esperados al Final del Periodo de Gobierno 7 Resultados Esperados al Final del Periodo de Gobierno Al culminar el periodo 2026–2031, se espera haber logrado: Al culminar el periodo 2026–2031, se espera haber logrado: 1 Enfoque Estratégico del Plan de Gobierno 1 Enfoque Estratégico del Plan de Gobierno 2 Alineamiento con el Estado Constitucional de Derecho 2 Alineamiento con el Estado Constitucional de Derecho La disciplina fiscal se concibe como un medio para garantizar la continuidad de las La disciplina fiscal se concibe como un medio para garantizar la continuidad de las 6 Articulación con la Descentralización y los Planes Territoriales 6 Articulación con la Descentralización y los Planes Territoriales Se prioriza la planificación territorial como instrumento para reducir desigualdades y Se prioriza la planificación territorial como instrumento para reducir desigualdades y mejorar la eficiencia del gasto público mejorar la eficiencia del gasto público 7 Vinculación con los Objetivos de Desarrollo Sostenible al 2030 7 Vinculación con los Objetivos de Desarrollo Sostenible al 2030 Dimensión social: ODS 1, 2, 3, 4 y 10 Dimensión social: ODS 1, 2, 3, 4 y 10 Dimensión económica: ODS 8 y 9 Dimensión económica: ODS 8 y 9 Dimensión ambiental: ODS 12, 13, 14 y 15 Dimensión ambiental: ODS 12, 13, 14 y 15 Dimensión institucional: ODS 16 y 17 Dimensión institucional: ODS 16 y 17 Fortalecer capacidades regionales y locales Fortalecer capacidades regionales y locales 6 Participación Ciudadana y Control Social 6 Participación Ciudadana y Control Social Fortalecer mecanismos de participación y vigilancia Fortalecer mecanismos de participación y vigilancia 7 Articulación con ODS y Compromisos Internacionales 7 Articulación con ODS y Compromisos Internacionales ODS 16: Paz, justicia e instituciones sólidas ODS 16: Paz, justicia e instituciones sólidas ODS 17: Alianzas para el desarrollo ODS 17: Alianzas para el desarrollo La estrategia de la Política para los Peruanos en el Exterior se orienta a garantizar el ejercicio La estrategia de la Política para los Peruanos en el Exterior se orienta a garantizar el ejercicio 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 4 Principios Rectores del Plan de Gobierno 4 Principios Rectores del Plan de Gobierno 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización 1 Problema Público Prioritario 1 Problema Público Prioritario en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios 2 Objetivo General de la Dimensión Social 2 Objetivo General de la Dimensión Social Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de 2 Educación de Calidad y Oportunidades para el Futuro 2 Educación de Calidad y Oportunidades para el Futuro Garantizar aprendizajes fundamentales en todos los niveles Garantizar aprendizajes fundamentales en todos los niveles Fortalecer la formación docente y la gestión educativa Fortalecer la formación docente y la gestión educativa Reducir brechas digitales y territoriales Reducir brechas digitales y territoriales equitativo a la educación y fortalecer el capital humano equitativo a la educación y fortalecer el capital humano 3 Seguridad Alimentaria y Nutrición 3 Seguridad Alimentaria y Nutrición Garantizar acceso sostenible a alimentos nutritivos Garantizar acceso sostenible a alimentos nutritivos 4 Vivienda Digna, Agua Potable y Saneamiento 4 Vivienda Digna, Agua Potable y Saneamiento Promover soluciones sostenibles y adaptadas al territorio Promover soluciones sostenibles y adaptadas al territorio 5 Articulación con los Objetivos de Desarrollo Sostenible 5 Articulación con los Objetivos de Desarrollo Sostenible La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: ODS 8: Trabajo decente y crecimiento económico ODS 8: Trabajo decente y crecimiento económico ODS 16: Instituciones sólidas y paz ODS 16: Instituciones sólidas y paz 6 Rol del Estado, el Mercado y la Sociedad 6 Rol del Estado, el Mercado y la Sociedad 5 Desarrollo Económico Territorial 5 Desarrollo Económico Territorial Promover polos de desarrollo regional Promover polos de desarrollo regional 7 Articulación con ODS y Planes Nacionales 7 Articulación con ODS y Planes Nacionales ODS 9: Industria, innovación e infraestructura ODS 9: Industria, innovación e infraestructura ODS 10: Reducción de desigualdades ODS 10: Reducción de desigualdades 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización 1 Problema Público Prioritario 1 Problema Público Prioritario en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios 2 Objetivo General de la Dimensión Social 2 Objetivo General de la Dimensión Social Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de Mejorar el acceso y la calidad de los servicios de salud en todo el territorio Mejorar el acceso y la calidad de los servicios de salud en todo el territorio Reducir la inseguridad alimentaria y la desnutrición infantil Reducir la inseguridad alimentaria y la desnutrición infantil Fortalecer los sistemas de protección social con enfoque preventivo Fortalecer los sistemas de protección social con enfoque preventivo 4 Estrategia General de Intervención Social 4 Estrategia General de Intervención Social 5 Ejes Programáticos de la Dimensión Social 5 Ejes Programáticos de la Dimensión Social 1 Salud Integral y Acceso Universal 1 Salud Integral y Acceso Universal Fortalecer el primer nivel de atención como eje del sistema de salud Fortalecer el primer nivel de atención como eje del sistema de salud Mejorar la cobertura y calidad de los servicios preventivos y promocionales Mejorar la cobertura y calidad de los servicios preventivos y promocionales Reducir brechas territoriales en infraestructura y equipamiento Reducir brechas territoriales en infraestructura y equipamiento Garantizar acceso sostenible a alimentos nutritivos Garantizar acceso sostenible a alimentos nutritivos 4 Vivienda Digna, Agua Potable y Saneamiento 4 Vivienda Digna, Agua Potable y Saneamiento Promover soluciones sostenibles y adaptadas al territorio Promover soluciones sostenibles y adaptadas al territorio 2 Educación de Calidad y Oportunidades para el Futuro 2 Educación de Calidad y Oportunidades para el Futuro Garantizar aprendizajes fundamentales en todos los niveles Garantizar aprendizajes fundamentales en todos los niveles Fortalecer la formación docente y la gestión educativa Fortalecer la formación docente y la gestión educativa Reducir brechas digitales y territoriales Reducir brechas digitales y territoriales equitativo a la educación y fortalecer el capital humano equitativo a la educación y fortalecer el capital humano 3 Seguridad Alimentaria y Nutrición 3 Seguridad Alimentaria y Nutrición 3 Productividad, Innovación y Diversificación Productiva 3 Productividad, Innovación y Diversificación Productiva Promover innovación tecnológica Promover innovación tecnológica 4 Formalización Laboral y Empresarial 4 Formalización Laboral y Empresarial 3 Uso Sostenible de Recursos Naturales 3 Uso Sostenible de Recursos Naturales Promover eficiencia y sostenibilidad Promover eficiencia y sostenibilidad 4 Ordenamiento Territorial y Desarrollo Urbano Sostenible 4 Ordenamiento Territorial y Desarrollo Urbano Sostenible 1 Fundamentos del Ideario Político 1 Fundamentos del Ideario Político 2 Concepción Económica: Libre Mercado con Responsabilidad Social 2 Concepción Económica: Libre Mercado con Responsabilidad Social El rol del Estado es garantizar: El rol del Estado es garantizar: 6 Objetivos Generales del Ideario 6 Objetivos Generales del Ideario Promover el desarrollo humano integral con igualdad de oportunidades Promover el desarrollo humano integral con igualdad de oportunidades Impulsar una economía dinámica, competitiva e inclusiva Impulsar una economía dinámica, competitiva e inclusiva Fortalecer la cohesión social y la paz social Fortalecer la cohesión social y la paz social Garantizar la sostenibilidad ambiental y territorial del desarrollo Garantizar la sostenibilidad ambiental y territorial del desarrollo VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 1 Enfoque General de la Visión 1 Enfoque General de la Visión 5 Articulación con los Objetivos de Desarrollo Sostenible 5 Articulación con los Objetivos de Desarrollo Sostenible La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: ODS 8: Trabajo decente y crecimiento económico ODS 8: Trabajo decente y crecimiento económico ODS 16: Instituciones sólidas y paz ODS 16: Instituciones sólidas y paz 6 Rol del Estado, el Mercado y la Sociedad 6 Rol del Estado, el Mercado y la Sociedad 5 Protección Social e Inclusión 5 Protección Social e Inclusión Fortalecer mecanismos de protección frente a riesgos sociales Fortalecer mecanismos de protección frente a riesgos sociales 6 Enfoques Transversales de la Dimensión Social 6 Enfoques Transversales de la Dimensión Social 1 Problema público prioritario 1 Problema público prioritario No se encuentra ninguna propuesta o mención explícita sobre el salario mínimo en el plan de gobierno. No hay propuestas específicas sobre impuestos a grandes fortunas o redistribución fiscal progresiva. El plan enfatiza 'Fortalecer la capacidad del Estado para brindar servicios de calidad' y promueve 'Libre Mercado con Responsabilidad Social', sugiriendo un rol activo del Estado en la provisión de servicios públicos. No se aborda el tema del matrimonio igualitario en ninguna sección del plan de gobierno. Aunque menciona 'Enfoque de Derechos Humanos y Protección de la Vida', no hay una posición explícita sobre la despenalización del aborto. El plan incluye 'Garantizar la sostenibilidad ambiental y territorial del desarrollo', 'Uso Sostenible de Recursos Naturales' y alineación con ODS 12, 13, 14 y 15, indicando apoyo a energías renovables y sostenibilidad. Menciona 'Política para los Peruanos en el Exterior' pero no aborda políticas migratorias restrictivas o de control de inmigración. No hay propuestas relacionadas con el gasto militar o defensa nacional. Aunque promueve 'Libre Mercado con Responsabilidad Social', no hay menciones explícitas sobre subsidios a empresas privadas. No se encontraron propuestas específicas sobre reforma del sistema de pensiones. El plan propone 'Garantizar aprendizajes fundamentales en todos los niveles', 'acceso equitativo a la educación' y 'Reducir brechas digital. Indicadores a favor: 61, en contra: 0."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: defensa, militar. Indicadores a favor: 48, en contra: 22."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Descentraliza. Indicadores a favor: 82, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Justicia, judicial. Indicadores a favor: 60, en contra: 0."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de elección popular de jueces en el plan de gobierno."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: Periodo de Gobierno 2026–2031 3 Visión del Periodo de Gobierno 2026–2031 Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Reducir brechas sociales y territoriales persistentes Reducir brechas sociales y territoriales persistentes Fortalecer la capacidad del Estado para brindar servicios de calidad Fortalecer la capacidad del Estado para brindar servicios de calidad Impulsar la reactivación económica con inclusión y sostenibilidad Impulsar la reactivación económica con inclusión y sostenibilidad 4 Principios que Orientan la Visión 4 Principios que Orientan la Visión 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización 5 Articulación con los Objetivos de Desarrollo Sostenible 5 Articulación con los Objetivos de Desarrollo Sostenible La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: ODS 8: Trabajo decente y crecimiento económico ODS 8: Trabajo decente y crecimiento económico ODS 16: Instituciones sólidas y paz ODS 16: Instituciones sólidas y paz 6 Rol del Estado, el Mercado y la Sociedad 6 Rol del Estado, el Mercado y la Sociedad 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización 5 Situación Ambiental y Riesgos Climáticos 5 Situación Ambiental y Riesgos Climáticos 2 Cambio climático y gestión del riesgo 2 Cambio climático y gestión del riesgo 6 Situación Institucional y Gobernabilidad 6 Situación Institucional y Gobernabilidad La capacidad del Estado pa ra diseñar e implementar políticas públicas eficaces se ve La capacidad del Estado pa ra diseñar e implementar políticas públicas eficaces se ve 2 Corrupción y confianza ciudadana 2 Corrupción y confianza ciudadana 7 Principales Brechas Identificadas 7 Principales Brechas Identificadas 1 Problema Público Prioritario 1 Problema Público Prioritario en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios 2 Objetivo General de la Dimensión Social 2 Objetivo General de la Dimensión Social Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de Mejorar el acceso y la calidad de los servicios de salud en todo el territorio Mejorar el acceso y la calidad de los servicios de salud en todo el territorio 5 Articulación con los Objetivos de Desarrollo Sostenible 5 Articulación con los Objetivos de Desarrollo Sostenible La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: ODS 8: Trabajo decente y crecimiento económico ODS 8: Trabajo decente y crecimiento económico ODS 16: Instituciones sólidas y paz ODS 16: Instituciones sólidas y paz 6 Rol del Estado, el Mercado y la Sociedad 6 Rol del Estado, el Mercado y la Sociedad 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización 1 Problema Público Prioritario 1 Problema Público Prioritario en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios 2 Objetivo General de la Dimensión Social 2 Objetivo General de la Dimensión Social Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de 2 Educación de Calidad y Oportunidades para el Futuro 2 Educación de Calidad y Oportunidades para el Futuro Garantizar aprendizajes fundamentales en todos los niveles Garantizar aprendizajes fundamentales en todos los niveles Fortalecer la formación docente y la gestión educativa Fortalecer la formación docente y la gestión educativa Reducir brechas digitales y territoriales Reducir brechas digitales y territoriales equitativo a la educación y fortalecer el capital humano equitativo a la educación y fortalecer el capital humano 3 Seguridad Alimentaria y Nutrición 3 Seguridad Alimentaria y Nutrición Garantizar acceso sostenible a alimentos nutritivos Garantizar acceso sostenible a alimentos nutritivos 1 Fundamentos del Ideario Político 1 Fundamentos del Ideario Político 2 Concepción Económica: Libre Mercado con Responsabilidad Social 2 Concepción Económica: Libre Mercado con Responsabilidad Social El rol del Estado es garantizar: El rol del Estado es garantizar: 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 4 Principios Rectores del Plan de Gobierno 4 Principios Rectores del Plan de Gobierno 3 Articulación con el Plan Estratégico de Desarrollo Nacional al 2050 3 Articulación con el Plan Estratégico de Desarrollo Nacional al 2050 Nacional (PEDN) al 2050, contribuyendo a: Nacional (PEDN) al 2050, contribuyendo a: Las acciones propuestas en el periodo 2026–2031 se conciben como pasos concretos que Las acciones propuestas en el periodo 2026–2031 se conciben como pasos concretos que 4 Vinculación con las Políticas Nacionales y el Acuerdo Nacional 4 Vinculación con las Políticas Nacionales y el Acuerdo Nacional 5 Alineamiento con el Marco Macroeconómico Multianual 5 Alineamiento con el Marco Macroeconómico Multianual 8 Enfoque de Derechos Humanos y Protección de la Vida 8 Enfoque de Derechos Humanos y Protección de la Vida 9 Coherencia, Continuidad y Evaluación Estratégica 9 Coherencia, Continuidad y Evaluación Estratégica El Plan se estructura para garantizar: El Plan se estructura para garantizar: 1 Enfoque General del Diagnóstico 1 Enfoque General del Diagnóstico 2 Situación Social y Brechas de Desarrollo Humano 2 Situación Social y Brechas de Desarrollo Humano 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , 3 Visión del Periodo de Gobierno 2026–2031 3 Visión del Periodo de Gobierno 2026–2031 Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Reducir brechas sociales y territoriales persistentes Reducir brechas sociales y territoriales persistentes Fortalecer la capacidad del Estado para brindar servicios de calidad Fortalecer la capacidad del Estado para brindar servicios de calidad Impulsar la reactivación económica con inclusión y sostenibilidad Impulsar la reactivación económica con inclusión y sostenibilidad 4 Principios que Orientan la Visión 4 Principios que Orientan la Visión 1 Fundamentos del Ideario Político 1 Fundamentos del Ideario Político 2 Concepción Económica: Libre Mercado con Responsabilidad Social 2 Concepción Económica: Libre Mercado con Responsabilidad Social El rol del Estado es garantizar: El rol del Estado es garantizar: 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 4 Principios Rectores del Plan de Gobierno 4 Principios Rectores del Plan de Gobierno 6 Objetivos Generales del Ideario 6 Objetivos Generales del Ideario Promover el desarrollo humano integral con igualdad de oportunidades Promover el desarrollo humano integral con igualdad de oportunidades Impulsar una economía dinámica, competitiva e inclusiva Impulsar una economía dinámica, competitiva e inclusiva Fortalecer la cohesión social y la paz social Fortalecer la cohesión social y la paz social Garantizar la sostenibilidad ambiental y territorial del desarrollo Garantizar la sostenibilidad ambiental y territorial del desarrollo VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 1 Enfoque General de la Visión 1 Enfoque General de la Visión Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , 3 Visión del Periodo de Gobierno 2026–2031 3 Visión del Periodo de Gobierno 2026–2031 Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Reducir brechas sociales y territoriales persistentes Reducir brechas sociales y territoriales persistentes Fortalecer la capacidad del Estado para brindar servicios de calidad Fortalecer la capacidad del Estado para brindar servicios de calidad Impulsar la reactivación económica con inclusión y sostenibilidad Impulsar la reactivación económica con inclusión y sostenibilidad Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Al año 2050, el país habrá consolidado un modelo de desarrollo humano integral , Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los Esta visión se alinea con el Plan Estratégico de Desarrollo Nacional al 2050 , los compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , compromisos del Acuerdo Nacional y los Objetivos de Desarrollo Sostenible al 2030 , 3 Visión del Periodo de Gobierno 2026–2031 3 Visión del Periodo de Gobierno 2026–2031 Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Durante el p eriodo 2026 –2031, el gobierno orientará sus acciones a sentar bases Reducir brechas sociales y territoriales persistentes Reducir brechas sociales y territoriales persistentes Fortalecer la capacidad del Estado para brindar servicios de calidad Fortalecer la capacidad del Estado para brindar servicios de calidad Impulsar la reactivación económica con inclusión y sostenibilidad Impulsar la reactivación económica con inclusión y sostenibilidad 4 Principios que Orientan la Visión 4 Principios que Orientan la Visión 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización 5 Situación Ambiental y Riesgos Climáticos 5 Situación Ambiental y Riesgos Climáticos 2 Cambio climático y gestión del riesgo 2 Cambio climático y gestión del riesgo 6 Situación Institucional y Gobernabilidad 6 Situación Institucional y Gobernabilidad La capacidad del Estado pa ra diseñar e implementar políticas públicas eficaces se ve La capacidad del Estado pa ra diseñar e implementar políticas públicas eficaces se ve 2 Corrupción y confianza ciudadana 2 Corrupción y confianza ciudadana 7 Principales Brechas Identificadas 7 Principales Brechas Identificadas Mejorar el acceso y la calidad de los servicios de salud en todo el territorio Mejorar el acceso y la calidad de los servicios de salud en todo el territorio 6 Objetivos Generales del Ideario 6 Objetivos Generales del Ideario Promover el desarrollo humano integral con igualdad de oportunidades Promover el desarrollo humano integral con igualdad de oportunidades Impulsar una economía dinámica, competitiva e inclusiva Impulsar una economía dinámica, competitiva e inclusiva Fortalecer la cohesión social y la paz social Fortalecer la cohesión social y la paz social Garantizar la sostenibilidad ambiental y territorial del desarrollo Garantizar la sostenibilidad ambiental y territorial del desarrollo VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 1 Enfoque General de la Visión 1 Enfoque General de la Visión 3 Lucha Integral contra la Corrupción 3 Lucha Integral contra la Corrupción 4 Sistema de Justicia y Estado de Derecho 4 Sistema de Justicia y Estado de Derecho Fortalecer independencia y eficiencia del sistema judicial Fortalecer independencia y eficiencia del sistema judicial 5 Descentralización y Gobernanza Territorial 5 Descentralización y Gobernanza Territorial Fortalecer capacidades regionales y locales Fortalecer capacidades regionales y locales 6 Participación Ciudadana y Control Social 6 Participación Ciudadana y Control Social Fortalecer mecanismos de participación y vigilancia Fortalecer mecanismos de participación y vigilancia 7 Articulación con ODS y Compromisos Internacionales 7 Articulación con ODS y Compromisos Internacionales ODS 16: Paz, justicia e instituciones sólidas ODS 16: Paz, justicia e instituciones sólidas ODS 17: Alianzas para el desarrollo ODS 17: Alianzas para el desarrollo 7 Resultados Esperados al Final del Periodo de Gobierno 7 Resultados Esperados al Final del Periodo de Gobierno Al culminar el periodo 2026–2031, se espera haber logrado: Al culminar el periodo 2026–2031, se espera haber logrado: 1 Enfoque Estratégico del Plan de Gobierno 1 Enfoque Estratégico del Plan de Gobierno 2 Alineamiento con el Estado Constitucional de Derecho 2 Alineamiento con el Estado Constitucional de Derecho La disciplina fiscal se concibe como un medio para garantizar la continuidad de las La disciplina fiscal se concibe como un medio para garantizar la continuidad de las 6 Articulación con la Descentralización y los Planes Territoriales 6 Articulación con la Descentralización y los Planes Territoriales Se prioriza la planificación territorial como instrumento para reducir desigualdades y Se prioriza la planificación territorial como instrumento para reducir desigualdades y mejorar la eficiencia del gasto público mejorar la eficiencia del gasto público 7 Vinculación con los Objetivos de Desarrollo Sostenible al 2030 7 Vinculación con los Objetivos de Desarrollo Sostenible al 2030 Dimensión social: ODS 1, 2, 3, 4 y 10 Dimensión social: ODS 1, 2, 3, 4 y 10 Dimensión económica: ODS 8 y 9 Dimensión económica: ODS 8 y 9 Dimensión ambiental: ODS 12, 13, 14 y 15 Dimensión ambiental: ODS 12, 13, 14 y 15 Dimensión institucional: ODS 16 y 17 Dimensión institucional: ODS 16 y 17 Fortalecer capacidades regionales y locales Fortalecer capacidades regionales y locales 6 Participación Ciudadana y Control Social 6 Participación Ciudadana y Control Social Fortalecer mecanismos de participación y vigilancia Fortalecer mecanismos de participación y vigilancia 7 Articulación con ODS y Compromisos Internacionales 7 Articulación con ODS y Compromisos Internacionales ODS 16: Paz, justicia e instituciones sólidas ODS 16: Paz, justicia e instituciones sólidas ODS 17: Alianzas para el desarrollo ODS 17: Alianzas para el desarrollo La estrategia de la Política para los Peruanos en el Exterior se orienta a garantizar el ejercicio La estrategia de la Política para los Peruanos en el Exterior se orienta a garantizar el ejercicio 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 3 Sentido Común, Sentido de Urgencia y Sentido del Deber 4 Principios Rectores del Plan de Gobierno 4 Principios Rectores del Plan de Gobierno 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización 1 Problema Público Prioritario 1 Problema Público Prioritario en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios 2 Objetivo General de la Dimensión Social 2 Objetivo General de la Dimensión Social Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de 2 Educación de Calidad y Oportunidades para el Futuro 2 Educación de Calidad y Oportunidades para el Futuro Garantizar aprendizajes fundamentales en todos los niveles Garantizar aprendizajes fundamentales en todos los niveles Fortalecer la formación docente y la gestión educativa Fortalecer la formación docente y la gestión educativa Reducir brechas digitales y territoriales Reducir brechas digitales y territoriales equitativo a la educación y fortalecer el capital humano equitativo a la educación y fortalecer el capital humano 3 Seguridad Alimentaria y Nutrición 3 Seguridad Alimentaria y Nutrición Garantizar acceso sostenible a alimentos nutritivos Garantizar acceso sostenible a alimentos nutritivos 4 Vivienda Digna, Agua Potable y Saneamiento 4 Vivienda Digna, Agua Potable y Saneamiento Promover soluciones sostenibles y adaptadas al territorio Promover soluciones sostenibles y adaptadas al territorio 5 Articulación con los Objetivos de Desarrollo Sostenible 5 Articulación con los Objetivos de Desarrollo Sostenible La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: ODS 8: Trabajo decente y crecimiento económico ODS 8: Trabajo decente y crecimiento económico ODS 16: Instituciones sólidas y paz ODS 16: Instituciones sólidas y paz 6 Rol del Estado, el Mercado y la Sociedad 6 Rol del Estado, el Mercado y la Sociedad 5 Desarrollo Económico Territorial 5 Desarrollo Económico Territorial Promover polos de desarrollo regional Promover polos de desarrollo regional 7 Articulación con ODS y Planes Nacionales 7 Articulación con ODS y Planes Nacionales ODS 9: Industria, innovación e infraestructura ODS 9: Industria, innovación e infraestructura ODS 10: Reducción de desigualdades ODS 10: Reducción de desigualdades 2 Seguridad alimentaria y nutrición 2 Seguridad alimentaria y nutrición 3 Situación Económica y Productiva 3 Situación Económica y Productiva 1 Estructura productiva y crecimiento 1 Estructura productiva y crecimiento 4 Brechas Territoriales y Descentralización 4 Brechas Territoriales y Descentralización 1 Problema Público Prioritario 1 Problema Público Prioritario en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios en la capacidad del Estado para garantizar condiciones mínimas de dignidad a amplios 2 Objetivo General de la Dimensión Social 2 Objetivo General de la Dimensión Social Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de Garantizar el desarrollo humano integral  mediante el acceso equitativo, opo rtuno y de Mejorar el acceso y la calidad de los servicios de salud en todo el territorio Mejorar el acceso y la calidad de los servicios de salud en todo el territorio Reducir la inseguridad alimentaria y la desnutrición infantil Reducir la inseguridad alimentaria y la desnutrición infantil Fortalecer los sistemas de protección social con enfoque preventivo Fortalecer los sistemas de protección social con enfoque preventivo 4 Estrategia General de Intervención Social 4 Estrategia General de Intervención Social 5 Ejes Programáticos de la Dimensión Social 5 Ejes Programáticos de la Dimensión Social 1 Salud Integral y Acceso Universal 1 Salud Integral y Acceso Universal Fortalecer el primer nivel de atención como eje del sistema de salud Fortalecer el primer nivel de atención como eje del sistema de salud Mejorar la cobertura y calidad de los servicios preventivos y promocionales Mejorar la cobertura y calidad de los servicios preventivos y promocionales Reducir brechas territoriales en infraestructura y equipamiento Reducir brechas territoriales en infraestructura y equipamiento Garantizar acceso sostenible a alimentos nutritivos Garantizar acceso sostenible a alimentos nutritivos 4 Vivienda Digna, Agua Potable y Saneamiento 4 Vivienda Digna, Agua Potable y Saneamiento Promover soluciones sostenibles y adaptadas al territorio Promover soluciones sostenibles y adaptadas al territorio 2 Educación de Calidad y Oportunidades para el Futuro 2 Educación de Calidad y Oportunidades para el Futuro Garantizar aprendizajes fundamentales en todos los niveles Garantizar aprendizajes fundamentales en todos los niveles Fortalecer la formación docente y la gestión educativa Fortalecer la formación docente y la gestión educativa Reducir brechas digitales y territoriales Reducir brechas digitales y territoriales equitativo a la educación y fortalecer el capital humano equitativo a la educación y fortalecer el capital humano 3 Seguridad Alimentaria y Nutrición 3 Seguridad Alimentaria y Nutrición 3 Productividad, Innovación y Diversificación Productiva 3 Productividad, Innovación y Diversificación Productiva Promover innovación tecnológica Promover innovación tecnológica 4 Formalización Laboral y Empresarial 4 Formalización Laboral y Empresarial 3 Uso Sostenible de Recursos Naturales 3 Uso Sostenible de Recursos Naturales Promover eficiencia y sostenibilidad Promover eficiencia y sostenibilidad 4 Ordenamiento Territorial y Desarrollo Urbano Sostenible 4 Ordenamiento Territorial y Desarrollo Urbano Sostenible 1 Fundamentos del Ideario Político 1 Fundamentos del Ideario Político 2 Concepción Económica: Libre Mercado con Responsabilidad Social 2 Concepción Económica: Libre Mercado con Responsabilidad Social El rol del Estado es garantizar: El rol del Estado es garantizar: 6 Objetivos Generales del Ideario 6 Objetivos Generales del Ideario Promover el desarrollo humano integral con igualdad de oportunidades Promover el desarrollo humano integral con igualdad de oportunidades Impulsar una economía dinámica, competitiva e inclusiva Impulsar una economía dinámica, competitiva e inclusiva Fortalecer la cohesión social y la paz social Fortalecer la cohesión social y la paz social Garantizar la sostenibilidad ambiental y territorial del desarrollo Garantizar la sostenibilidad ambiental y territorial del desarrollo VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 VISIÓN DEL PLAN DE GOBIERNO Y VISIÓN DE PAÍS AL 2050 1 Enfoque General de la Visión 1 Enfoque General de la Visión 5 Articulación con los Objetivos de Desarrollo Sostenible 5 Articulación con los Objetivos de Desarrollo Sostenible La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: La visión del Plan se articula de manera transversal con los ODS al 2030, en particular: ODS 8: Trabajo decente y crecimiento económico ODS 8: Trabajo decente y crecimiento económico ODS 16: Instituciones sólidas y paz ODS 16: Instituciones sólidas y paz 6 Rol del Estado, el Mercado y la Sociedad 6 Rol del Estado, el Mercado y la Sociedad 5 Protección Social e Inclusión 5 Protección Social e Inclusión Fortalecer mecanismos de protección frente a riesgos sociales Fortalecer mecanismos de protección frente a riesgos sociales 6 Enfoques Transversales de la Dimensión Social 6 Enfoques Transversales de la Dimensión Social 1 Problema público prioritario 1 Problema público prioritario No se encuentra ninguna propuesta o mención explícita sobre el salario mínimo en el plan de gobierno. No hay propuestas específicas sobre impuestos a grandes fortunas o redistribución fiscal progresiva. El plan enfatiza 'Fortalecer la capacidad del Estado para brindar servicios de calidad' y promueve 'Libre Mercado con Responsabilidad Social', sugiriendo un rol activo del Estado en la provisión de servicios públicos. No se aborda el tema del matrimonio igualitario en ninguna sección del plan de gobierno. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "stances_updated_at": "2026-04-06T23:04:02.540592"
+}

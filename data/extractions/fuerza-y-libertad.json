@@ -1,0 +1,1669 @@
+{
+  "party": "Fuerza y Libertad",
+  "source_pdf": "data/pdfs/fuerza-y-libertad.pdf",
+  "extracted_at": "2026-04-05T22:42:56.806148",
+  "topics": [
+    {
+      "topic": "Economía y Desarrollo",
+      "proposals": [
+        {
+          "statement": "un plan de alcance \nnacional orientado a construir clústeres especializados en regiones, articulando agroexportación, \nmanufactura ligera, industria textil, biotecnología y tecnologías avanzadas",
+          "original_quote": "un plan de alcance \nnacional orientado a construir clústeres especializados en regiones, articulando agroexportación, \nmanufactura ligera, industria textil, biotecnología y tecnologías avanzadas",
+          "page": 38,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "tecnología"
+          ]
+        },
+        {
+          "statement": "Desarrollar clústeres productivos y cadenas de valor regionales.",
+          "original_quote": "Desarrollar clústeres productivos y cadenas de valor regionales.",
+          "page": 39,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Reducir costos logísticos y modernizar infraestructura comercial.",
+          "original_quote": "Reducir costos logísticos y modernizar infraestructura comercial.",
+          "page": 39,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "Impulsar formalización, inclusión y sostenibilidad de PYMEs.",
+          "original_quote": "Impulsar formalización, inclusión y sostenibilidad de PYMEs.",
+          "page": 39,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer la economía circular e innovación verde.",
+          "original_quote": "Fortalecer la economía circular e innovación verde.",
+          "page": 40,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Impulsar la capacitación financiera, digital y laboral de trabajadores y emprendedores",
+          "original_quote": "Impulsar la capacitación financiera, digital y laboral de trabajadores y emprendedores",
+          "page": 45,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "el acceso al crédito productivo sin crear nuevas entidades \nfinancieras, utilizando y fortaleciendo los instrumentos existentes del Estado",
+          "original_quote": "el acceso al crédito productivo sin crear nuevas entidades \nfinancieras, utilizando y fortaleciendo los instrumentos existentes del Estado",
+          "page": 45,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "- Impulsar la capacitación financiera, digital y laboral de trabajadores y emprendedores",
+          "original_quote": "- Impulsar la capacitación financiera, digital y laboral de trabajadores y emprendedores",
+          "page": 46,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "la capacitación financiera, digital y laboral de trabajadores y emprendedores  \nSe impulsará una transformación profunda de la capacitación financiera, digital y laboral para \npreparar a trabajadores y emprendedores para el empleo del siglo XXI",
+          "original_quote": "la capacitación financiera, digital y laboral de trabajadores y emprendedores  \nSe impulsará una transformación profunda de la capacitación financiera, digital y laboral para \npreparar a trabajadores y emprendedores para el empleo del siglo XXI",
+          "page": 46,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "empleo"
+          ]
+        },
+        {
+          "statement": "Ampliar la cobertura de programas de capacitación laboral a 130,000 beneficiarios.",
+          "original_quote": "Ampliar la cobertura de programas de capacitación laboral a 130,000 beneficiarios.",
+          "page": 47,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Modernizar y acelerar los mecanismos de APP y Obras por Impuestos",
+          "original_quote": "Modernizar y acelerar los mecanismos de APP y Obras por Impuestos",
+          "page": 50,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar y poner en ejecución los corredores logísticos costa –sierra–selva en los tres",
+          "original_quote": "Implementar y poner en ejecución los corredores logísticos costa –sierra–selva en los tres",
+          "page": 52,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar el Plan Nacional de Represas y Reservorios con 50 % de avance en proyectos",
+          "original_quote": "Implementar el Plan Nacional de Represas y Reservorios con 50 % de avance en proyectos",
+          "page": 53,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Mejorar la calidad y ejecución de la inversión pública y de los servicios públicos a nivel",
+          "original_quote": "Mejorar la calidad y ejecución de la inversión pública y de los servicios públicos a nivel",
+          "page": 56,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar un nuevo modelo de gobernanza multinivel y macro -regional.",
+          "original_quote": "Implementar un nuevo modelo de gobernanza multinivel y macro -regional.",
+          "page": 56,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salud",
+      "proposals": [
+        {
+          "statement": "la calidad de  los \nservicios públicos, fortalecer la gesti ón institucional y asegurar que el crecimiento económico se \ntraduzca en oportunidades reales y una mejor calidad de vida para todos los peruanos",
+          "original_quote": "la calidad de  los \nservicios públicos, fortalecer la gesti ón institucional y asegurar que el crecimiento económico se \ntraduzca en oportunidades reales y una mejor calidad de vida para todos los peruanos",
+          "page": 74,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer la gobernanza institucional, profesionalizando la gestión y eliminando la",
+          "original_quote": "Fortalecer la gobernanza institucional, profesionalizando la gestión y eliminando la",
+          "page": 76,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar un sistema nacional interoperable de datos y calidad, con historia clínica",
+          "original_quote": "Implementar un sistema nacional interoperable de datos y calidad, con historia clínica",
+          "page": 76,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Garantizar financiamiento sostenible y eficiente, basado en resultados y necesidades",
+          "original_quote": "Garantizar financiamiento sostenible y eficiente, basado en resultados y necesidades",
+          "page": 76,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Impulsar una atención primaria preventiva, para reducir mortalidad prevenible.",
+          "original_quote": "Impulsar una atención primaria preventiva, para reducir mortalidad prevenible.",
+          "page": 76,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Modernizar procesos de adquisiciones y asegurar disponibilidad de medicamentos",
+          "original_quote": "Modernizar procesos de adquisiciones y asegurar disponibilidad de medicamentos",
+          "page": 76,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "la calidad y eficiencia de los \nservicios, garantizar una gestión transparente y reducir la influencia de intereses políticos en la \nadministración de recursos públicos",
+          "original_quote": "la calidad y eficiencia de los \nservicios, garantizar una gestión transparente y reducir la influencia de intereses políticos en la \nadministración de recursos públicos",
+          "page": 77,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "continuamente el desempeño de los servicios de salud, se implementará un \nsistema nacional de encuestas de satisfacción , inspirado en el modelo Barton/Kaelin, para medir \nla percepción de los usuarios sobre la calidad del servicio y la eficiencia de los procesos",
+          "original_quote": "continuamente el desempeño de los servicios de salud, se implementará un \nsistema nacional de encuestas de satisfacción , inspirado en el modelo Barton/Kaelin, para medir \nla percepción de los usuarios sobre la calidad del servicio y la eficiencia de los procesos",
+          "page": 77,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "salud"
+          ]
+        },
+        {
+          "statement": "los resultados sanitarios y garantizar un acceso \noportuno y equitativo a los servicios de salud",
+          "original_quote": "los resultados sanitarios y garantizar un acceso \noportuno y equitativo a los servicios de salud",
+          "page": 77,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "salud"
+          ]
+        },
+        {
+          "statement": "una competencia efectiva y garantizar el acceso a medicamentos seguros, \nde calidad y a precios justos",
+          "original_quote": "una competencia efectiva y garantizar el acceso a medicamentos seguros, \nde calidad y a precios justos",
+          "page": 80,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "la cobertura \nefectiva, mejorar la calidad de la atención y devolverle a EsSalud su rol como pilar de un sistema \nde salud digno, confiable y centrado en el ciudadano",
+          "original_quote": "la cobertura \nefectiva, mejorar la calidad de la atención y devolverle a EsSalud su rol como pilar de un sistema \nde salud digno, confiable y centrado en el ciudadano",
+          "page": 80,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "salud"
+          ]
+        },
+        {
+          "statement": "Implementar un Tablero Nacional de Indicadores en Salud, actualizado trimestralmente,",
+          "original_quote": "Implementar un Tablero Nacional de Indicadores en Salud, actualizado trimestralmente,",
+          "page": 82,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "salud"
+          ]
+        },
+        {
+          "statement": "Construir y modernizar al menos 350 establecimientos de salud de primer y segundo nivel",
+          "original_quote": "Construir y modernizar al menos 350 establecimientos de salud de primer y segundo nivel",
+          "page": 82,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "salud"
+          ]
+        },
+        {
+          "statement": "Modernizar 5,000 establecimientos de salud a nivel nacional, considerando",
+          "original_quote": "Modernizar 5,000 establecimientos de salud a nivel nacional, considerando",
+          "page": 82,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "salud"
+          ]
+        },
+        {
+          "statement": "Desarrollar y poner en operación 15 hospitales bajo el esquema de APP, replicando y",
+          "original_quote": "Desarrollar y poner en operación 15 hospitales bajo el esquema de APP, replicando y",
+          "page": 82,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "general"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Educación",
+      "proposals": [
+        {
+          "statement": "y modernizar colegios existentes y reemplazar locales precarios por infraestructura segura, \nresiliente y tecnológicamente equipada, priorizando principalmente zonas rurales, amazónicas y \nurbano-marginales",
+          "original_quote": "y modernizar colegios existentes y reemplazar locales precarios por infraestructura segura, \nresiliente y tecnológicamente equipada, priorizando principalmente zonas rurales, amazónicas y \nurbano-marginales",
+          "page": 92,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "infraestructura"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Trabajo y Protección Social",
+      "proposals": [
+        {
+          "statement": "Inclusión: Impulsar la inserción laboral juvenil y femenina para cerrar brechas históricas.",
+          "original_quote": "Inclusión: Impulsar la inserción laboral juvenil y femenina para cerrar brechas históricas.",
+          "page": 96,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Protección: Fortalecer la inspección del trabajo y el sistema de protección social.",
+          "original_quote": "Protección: Fortalecer la inspección del trabajo y el sistema de protección social.",
+          "page": 96,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Diálogo: Promover el diálogo social y la concertación laboral tripartita como base de la",
+          "original_quote": "Diálogo: Promover el diálogo social y la concertación laboral tripartita como base de la",
+          "page": 96,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Vivienda y Ordenamiento Territorial",
+      "proposals": [
+        {
+          "statement": "Resiliencia: Promover viviendas ecoeficientes y resilientes al cambio climático.",
+          "original_quote": "Resiliencia: Promover viviendas ecoeficientes y resilientes al cambio climático.",
+          "page": 105,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "vivienda"
+          ]
+        },
+        {
+          "statement": "Institucionalidad: Fortalecer la articulación intergubernamental y la gobernanza.",
+          "original_quote": "Institucionalidad: Fortalecer la articulación intergubernamental y la gobernanza.",
+          "page": 105,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Financiamiento: Garantizar financiamiento sostenible y participación privada (APP).",
+          "original_quote": "Financiamiento: Garantizar financiamiento sostenible y participación privada (APP).",
+          "page": 105,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "las condiciones de habitabilidad y seguridad, y \nprevenir riesgos, sin promover la expansión urbana desordenada",
+          "original_quote": "las condiciones de habitabilidad y seguridad, y \nprevenir riesgos, sin promover la expansión urbana desordenada",
+          "page": 105,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "seguridad"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Seguridad Ciudadana",
+      "proposals": [
+        {
+          "statement": "Establecer una conducción nacional única y permanente de la política de seguridad, con",
+          "original_quote": "Establecer una conducción nacional única y permanente de la política de seguridad, con",
+          "page": 138,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Implementar una Plataforma Nacional de Inteligencia Criminal interoperable , que integre",
+          "original_quote": "Implementar una Plataforma Nacional de Inteligencia Criminal interoperable , que integre",
+          "page": 139,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar un esquema de intervenciones territoriales focalizadas , basado en",
+          "original_quote": "Implementar un esquema de intervenciones territoriales focalizadas , basado en",
+          "page": 141,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer la Policía del Orden Público , enfocada en prevención, patrullaje, control del",
+          "original_quote": "Fortalecer la Policía del Orden Público , enfocada en prevención, patrullaje, control del",
+          "page": 142,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer y especializar la estructura operativa de la PNP, logrando que el 100% de las",
+          "original_quote": "Fortalecer y especializar la estructura operativa de la PNP, logrando que el 100% de las",
+          "page": 143,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer la persecución financiera del crimen organizado, identificando, bloqueando y",
+          "original_quote": "Fortalecer la persecución financiera del crimen organizado, identificando, bloqueando y",
+          "page": 146,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer la cooperación internacional, logrando intercambio operativo de información y",
+          "original_quote": "Fortalecer la cooperación internacional, logrando intercambio operativo de información y",
+          "page": 147,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer el marco legal y penal para sancionar con mayor severidad la extorsión y los",
+          "original_quote": "Fortalecer el marco legal y penal para sancionar con mayor severidad la extorsión y los",
+          "page": 149,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar un sistema penal especializado en extorsión y delitos asociados (fiscalías,",
+          "original_quote": "Implementar un sistema penal especializado en extorsión y delitos asociados (fiscalías,",
+          "page": 150,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer el sistema penitenciario, mejorando la infraestructura, el control interno y la",
+          "original_quote": "Fortalecer el sistema penitenciario, mejorando la infraestructura, el control interno y la",
+          "page": 152,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "Garantizar la autonomía, integridad y meritocracia del sistema de justicia, fortaleciendo",
+          "original_quote": "Garantizar la autonomía, integridad y meritocracia del sistema de justicia, fortaleciendo",
+          "page": 152,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "justicia"
+          ]
+        },
+        {
+          "statement": "Fortalecer el patrullaje policial y municipal mediante el uso de análisis predictivo, mapas",
+          "original_quote": "Fortalecer el patrullaje policial y municipal mediante el uso de análisis predictivo, mapas",
+          "page": 155,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar y modernizar sistemas de videovigilancia inteligente, integrados y operativos,",
+          "original_quote": "Implementar y modernizar sistemas de videovigilancia inteligente, integrados y operativos,",
+          "page": 155,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Crear y fortalecer centros de comando digital que integren información policial, municipal",
+          "original_quote": "Crear y fortalecer centros de comando digital que integren información policial, municipal",
+          "page": 155,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "un sistema nacional de prevención del delito basado en tecnología, análisis de \ninformación e inteligencia predictiva, que permita anticipar riesgos, optimizar el patrullaje y \nfortalecer la respuesta temprana del Estado frente a la criminalidad",
+          "original_quote": "un sistema nacional de prevención del delito basado en tecnología, análisis de \ninformación e inteligencia predictiva, que permita anticipar riesgos, optimizar el patrullaje y \nfortalecer la respuesta temprana del Estado frente a la criminalidad",
+          "page": 155,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "tecnología"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Defensa Nacional",
+      "proposals": [
+        {
+          "statement": "Desarrollar y ejecutar un proceso de modernización militar multianual, orientado al cierre",
+          "original_quote": "Desarrollar y ejecutar un proceso de modernización militar multianual, orientado al cierre",
+          "page": 167,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar un sistema nacional de ciberdefensa, enfocado en la protección de",
+          "original_quote": "Implementar un sistema nacional de ciberdefensa, enfocado en la protección de",
+          "page": 167,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Establecer interoperabilidad operativa y de inteligencia efectiva entre Fuerzas Armadas,",
+          "original_quote": "Establecer interoperabilidad operativa y de inteligencia efectiva entre Fuerzas Armadas,",
+          "page": 167,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer los mecanismos de cooperación internacional en defensa y seguridad,",
+          "original_quote": "Fortalecer los mecanismos de cooperación internacional en defensa y seguridad,",
+          "page": 167,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "preparación y fortalecer la capacidad del Estado para responder a amenazas comunes, respetando \nla soberanía y el marco jurídico nacional",
+          "original_quote": "preparación y fortalecer la capacidad del Estado para responder a amenazas comunes, respetando \nla soberanía y el marco jurídico nacional",
+          "page": 169,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Modernizar la infraestructura, el equipamiento y los procesos de control migratorio y",
+          "original_quote": "Modernizar la infraestructura, el equipamiento y los procesos de control migratorio y",
+          "page": 173,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "Crear un sistema nacional integrado de inteligencia estratégica, sustentado en datos,",
+          "original_quote": "Crear un sistema nacional integrado de inteligencia estratégica, sustentado en datos,",
+          "page": 176,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Desarrollar capacidades sostenidas de detección temprana, análisis, gestión y respuesta",
+          "original_quote": "Desarrollar capacidades sostenidas de detección temprana, análisis, gestión y respuesta",
+          "page": 176,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer la prevención frente a desinformación, ataques digitales y vulneraciones a la",
+          "original_quote": "Fortalecer la prevención frente a desinformación, ataques digitales y vulneraciones a la",
+          "page": 176,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Impulsar la cooperación internacional en inteligencia estratégica y ciberseguridad,",
+          "original_quote": "Impulsar la cooperación internacional en inteligencia estratégica y ciberseguridad,",
+          "page": 176,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "seguridad"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Infraestructura y Conectividad",
+      "proposals": [
+        {
+          "statement": "Impulsar la inversión público -privada y la planificación territorial articulados",
+          "original_quote": "Impulsar la inversión público -privada y la planificación territorial articulados",
+          "page": 180,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Ampliar a 90 % la cobertura de agua potable en zonas rurales y 100 % en urbanas.",
+          "original_quote": "Ampliar a 90 % la cobertura de agua potable en zonas rurales y 100 % en urbanas.",
+          "page": 180,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "agua"
+          ]
+        },
+        {
+          "statement": "Mejorar 7 000 km de corredores logísticos y vías departamentales estratégicas.",
+          "original_quote": "Mejorar 7 000 km de corredores logísticos y vías departamentales estratégicas.",
+          "page": 180,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar 100 % de nuevos proyectos  con enfoque de sostenibilidad y resiliencia",
+          "original_quote": "Implementar 100 % de nuevos proyectos  con enfoque de sostenibilidad y resiliencia",
+          "page": 180,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Mejorar corredores viales estratégicos para conectar polos productivos con mercados",
+          "original_quote": "Mejorar corredores viales estratégicos para conectar polos productivos con mercados",
+          "page": 182,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Desarrollar infraestructura ferroviaria moderna y multimodal que facilite el transporte de carga",
+          "original_quote": "Desarrollar infraestructura ferroviaria moderna y multimodal que facilite el transporte de carga",
+          "page": 182,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "Potenciar puertos, terminales logísticos y hubs regionales para fortalecer cadenas de valor.",
+          "original_quote": "Potenciar puertos, terminales logísticos y hubs regionales para fortalecer cadenas de valor.",
+          "page": 182,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "la infraestructura portuaria, mejorar la \neficiencia logística y articular los distintos modos de trans porte",
+          "original_quote": "la infraestructura portuaria, mejorar la \neficiencia logística y articular los distintos modos de trans porte",
+          "page": 184,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "Mejorar 8 000 km de corredores viales estratégicos (nacional + regional).",
+          "original_quote": "Mejorar 8 000 km de corredores viales estratégicos (nacional + regional).",
+          "page": 185,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Construir y poner en operación 2 sistemas ferroviarios prioritarios  (Lima–Huancayo y",
+          "original_quote": "Construir y poner en operación 2 sistemas ferroviarios prioritarios  (Lima–Huancayo y",
+          "page": 185,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Modernizar 4 puertos clave  (Salaverry, Paita, Matarani e Ilo).",
+          "original_quote": "Modernizar 4 puertos clave  (Salaverry, Paita, Matarani e Ilo).",
+          "page": 185,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar 1 hub logístico fluvial  en Iquitos.",
+          "original_quote": "Implementar 1 hub logístico fluvial  en Iquitos.",
+          "page": 185,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Declaratoria de urgencia para modernizar Paita, Salaverry, Matarani e Ilo .",
+          "original_quote": "Declaratoria de urgencia para modernizar Paita, Salaverry, Matarani e Ilo .",
+          "page": 186,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Mejorar la continuidad, calidad y seguridad del servicio, reduciendo pérdidas físicas y",
+          "original_quote": "Mejorar la continuidad, calidad y seguridad del servicio, reduciendo pérdidas físicas y",
+          "page": 187,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "el acceso universal, asegurar la sostenibilidad del recurso \ny restablecer la confianza en los servicios públicos esenciales",
+          "original_quote": "el acceso universal, asegurar la sostenibilidad del recurso \ny restablecer la confianza en los servicios públicos esenciales",
+          "page": 187,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Descentralización",
+      "proposals": [
+        {
+          "statement": "capacidades y establecer reglas claras de coordinación y rendición de cuentas, evitando tanto la \nrecentralización como la transferencia irresponsable de funciones",
+          "original_quote": "capacidades y establecer reglas claras de coordinación y rendición de cuentas, evitando tanto la \nrecentralización como la transferencia irresponsable de funciones",
+          "page": 206,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "un nuevo pacto de competencias entre el Gobierno Nacional y los gobiernos regionales \ny locales, que asegure claridad funcional, autonomía responsable y fortalecimiento institucional, \ncon el fin de mejorar la gestión pública descentralizada y la provisión efectiva de servicios a la \nciudadanía",
+          "original_quote": "un nuevo pacto de competencias entre el Gobierno Nacional y los gobiernos regionales \ny locales, que asegure claridad funcional, autonomía responsable y fortalecimiento institucional, \ncon el fin de mejorar la gestión pública descentralizada y la provisión efectiva de servicios a la \nciudadanía",
+          "page": 206,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar el 100 % de las competencias redefinidas en el marco del nuevo pacto",
+          "original_quote": "Implementar el 100 % de las competencias redefinidas en el marco del nuevo pacto",
+          "page": 208,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Actualización normativa inmediata para el presupuesto participativo. Estableceremos",
+          "original_quote": "Actualización normativa inmediata para el presupuesto participativo. Estableceremos",
+          "page": 215,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Programa intensivo de capacitación para 3,000 actores locales. Crearemos  una \"infantería",
+          "original_quote": "Programa intensivo de capacitación para 3,000 actores locales. Crearemos  una \"infantería",
+          "page": 215,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer la capacidad financiera de los gobiernos locales mediante instrumentos",
+          "original_quote": "Fortalecer la capacidad financiera de los gobiernos locales mediante instrumentos",
+          "page": 216,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Establecer mecanismos de incentivos por desempeño municipal, orientados a premiar",
+          "original_quote": "Establecer mecanismos de incentivos por desempeño municipal, orientados a premiar",
+          "page": 216,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Modernizar la gestión municipal a través de la digitalización de trámites, mejora de",
+          "original_quote": "Modernizar la gestión municipal a través de la digitalización de trámites, mejora de",
+          "page": 216,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Impulsar el desarrollo económico local mediante iniciativas municipales vinculadas a",
+          "original_quote": "Impulsar el desarrollo económico local mediante iniciativas municipales vinculadas a",
+          "page": 216,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "a los gobiernos locales como actores clave del desarrollo territorial , mejorando su \ncapacidad para planificar, ejecutar inversiones, promover actividad económica local y brindar \nservicios públicos de calidad, mediante modernización institucional, autonomía operativa \nresponsable y uso intensivo d",
+          "original_quote": "a los gobiernos locales como actores clave del desarrollo territorial , mejorando su \ncapacidad para planificar, ejecutar inversiones, promover actividad económica local y brindar \nservicios públicos de calidad, mediante modernización institucional, autonomía operativa \nresponsable y uso intensivo de herramientas digitales",
+          "page": 216,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Crear 300 proyectos locales competitivos  vinculados a turismo, comercio, cadenas de",
+          "original_quote": "Crear 300 proyectos locales competitivos  vinculados a turismo, comercio, cadenas de",
+          "page": 217,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar indicadores de competitividad local en todas las regiones  para evaluar",
+          "original_quote": "Implementar indicadores de competitividad local en todas las regiones  para evaluar",
+          "page": 217,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Agricultura y Desarrollo Rural",
+      "proposals": [
+        {
+          "statement": "Ampliar el acceso al financiamiento agrario formal , mediante productos financieros",
+          "original_quote": "Ampliar el acceso al financiamiento agrario formal , mediante productos financieros",
+          "page": 221,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer la asistencia técnica y la capacitación productiva en territorio , orientada a",
+          "original_quote": "Fortalecer la asistencia técnica y la capacitación productiva en territorio , orientada a",
+          "page": 221,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Promover la asociatividad productiva y el fortalecimiento de cooperativas y",
+          "original_quote": "Promover la asociatividad productiva y el fortalecimiento de cooperativas y",
+          "page": 221,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "la asistencia técnica y la capacitación productiva en territorio , orientada a \nmejorar prácticas agrícolas, manejo de suelos y agua, adaptación al cambio climático, \ngestión de riesgos y capacidades básicas de gestión económica del predio",
+          "original_quote": "la asistencia técnica y la capacitación productiva en territorio , orientada a \nmejorar prácticas agrícolas, manejo de suelos y agua, adaptación al cambio climático, \ngestión de riesgos y capacidades básicas de gestión económica del predio",
+          "page": 221,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "agua"
+          ]
+        },
+        {
+          "statement": "la asociatividad productiva y el fortalecimiento de cooperativas y \norganizaciones agrarias , para mejorar el acceso a insumos, tecnología, servicios, \ninfraestructura de acopio y mercados locales, regionales y nacionales",
+          "original_quote": "la asociatividad productiva y el fortalecimiento de cooperativas y \norganizaciones agrarias , para mejorar el acceso a insumos, tecnología, servicios, \ninfraestructura de acopio y mercados locales, regionales y nacionales",
+          "page": 221,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "infraestructura",
+            "tecnología"
+          ]
+        },
+        {
+          "statement": "rendimientos, reducir costos producti vos y fortalecer la \nresiliencia frente a variabilidad climática, considerando las condiciones territoriales de la sierra, la \ncosta y la Amaz onía",
+          "original_quote": "rendimientos, reducir costos producti vos y fortalecer la \nresiliencia frente a variabilidad climática, considerando las condiciones territoriales de la sierra, la \ncosta y la Amaz onía",
+          "page": 222,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Se desplegará la campaña nacional “Agro Digital Perú”, orientada a promover la",
+          "original_quote": "Se desplegará la campaña nacional “Agro Digital Perú”, orientada a promover la",
+          "page": 225,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Finalmente, se implementará el Observatorio Nacional del Agro Tecnológico, como",
+          "original_quote": "Finalmente, se implementará el Observatorio Nacional del Agro Tecnológico, como",
+          "page": 226,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Ampliar el acceso de productos agrarios peruanos a mercados internacionales,",
+          "original_quote": "Ampliar el acceso de productos agrarios peruanos a mercados internacionales,",
+          "page": 226,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Impulsar el desarrollo de agroindustrias regionales, promoviendo el procesamiento local",
+          "original_quote": "Impulsar el desarrollo de agroindustrias regionales, promoviendo el procesamiento local",
+          "page": 226,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer el posicionamiento del Perú como país agroexportador, mediante estrategias",
+          "original_quote": "Fortalecer el posicionamiento del Perú como país agroexportador, mediante estrategias",
+          "page": 227,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "En otra línea de acción se crearán cinco parques agroindustriales piloto , ubicados en",
+          "original_quote": "En otra línea de acción se crearán cinco parques agroindustriales piloto , ubicados en",
+          "page": 230,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Impulsar prácticas de agricultura climáticamente inteligente , integrando tecnología,",
+          "original_quote": "Impulsar prácticas de agricultura climáticamente inteligente , integrando tecnología,",
+          "page": 232,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "tecnología",
+            "agricultura"
+          ]
+        },
+        {
+          "statement": "Fortalecer la gobernanza del agua  con instituciones locales y regionales capacitadas,",
+          "original_quote": "Fortalecer la gobernanza del agua  con instituciones locales y regionales capacitadas,",
+          "page": 232,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "agua"
+          ]
+        },
+        {
+          "statement": "Promover innovación y digitalización agrícola , incorporando sensores, teledetección y",
+          "original_quote": "Promover innovación y digitalización agrícola , incorporando sensores, teledetección y",
+          "page": 232,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Medio Ambiente",
+      "proposals": [
+        {
+          "statement": "Promover la adopción progresiva de procesos circulares y ecoeficientes en industrias,",
+          "original_quote": "Promover la adopción progresiva de procesos circulares y ecoeficientes en industrias,",
+          "page": 245,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer la gestión integral de residuos sólidos, incorporando infraestructura moderna,",
+          "original_quote": "Fortalecer la gestión integral de residuos sólidos, incorporando infraestructura moderna,",
+          "page": 245,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "la transición progresiva hacia un modelo de economía circular , orientado a reducir el \nuso ineficiente de recursos, promover la valorización de residuos y fortalecer la gestión \nambiental, mediante innovación, infraestructura verde y una gobernanza articulada, con el fin de \nminimizar impactos ambi",
+          "original_quote": "la transición progresiva hacia un modelo de economía circular , orientado a reducir el \nuso ineficiente de recursos, promover la valorización de residuos y fortalecer la gestión \nambiental, mediante innovación, infraestructura verde y una gobernanza articulada, con el fin de \nminimizar impactos ambientales y avanzar hac ia un desarrollo sostenible al 2031",
+          "page": 245,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "Desarrollar infraestructura verde urbana y periurbana que contribuya a la resiliencia",
+          "original_quote": "Desarrollar infraestructura verde urbana y periurbana que contribuya a la resiliencia",
+          "page": 246,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "Modernizar y digitalizar el 70 % de los sistemas municipales de gestión de residuos.",
+          "original_quote": "Modernizar y digitalizar el 70 % de los sistemas municipales de gestión de residuos.",
+          "page": 247,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar 100 ciudades verdes con infraestructura ecológica.",
+          "original_quote": "Implementar 100 ciudades verdes con infraestructura ecológica.",
+          "page": 247,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "la gestión de residuos, formalizar \nrecicladores y promover modelos locales de economía circular",
+          "original_quote": "la gestión de residuos, formalizar \nrecicladores y promover modelos locales de economía circular",
+          "page": 248,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Ampliar el acceso a instrumentos de financiamiento verde para MYPE, productores y",
+          "original_quote": "Ampliar el acceso a instrumentos de financiamiento verde para MYPE, productores y",
+          "page": 249,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "un sistema nacional de financiamiento verde  que movilice de manera articulada \nrecursos públicos, privados e internacionales para acelerar la transición climática del país, \nfortalecer la resiliencia territorial y financiar iniciativas sostenibles en sectores estratégicos, con \nénfasis en poblacion",
+          "original_quote": "un sistema nacional de financiamiento verde  que movilice de manera articulada \nrecursos públicos, privados e internacionales para acelerar la transición climática del país, \nfortalecer la resiliencia territorial y financiar iniciativas sostenibles en sectores estratégicos, con \nénfasis en poblaciones vulnerables y gobiernos subnacionales, al horizonte 2031",
+          "page": 249,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer la capacidad técnica para formular proyectos climáticos viables y de alto",
+          "original_quote": "Fortalecer la capacidad técnica para formular proyectos climáticos viables y de alto",
+          "page": 250,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Establecer estándares nacionales para inversiones sostenibles y criterios ambientales,",
+          "original_quote": "Establecer estándares nacionales para inversiones sostenibles y criterios ambientales,",
+          "page": 250,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Impulsar mecanismos de mercado como carbono, eficiencia energética y soluciones",
+          "original_quote": "Impulsar mecanismos de mercado como carbono, eficiencia energética y soluciones",
+          "page": 250,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "En primer lugar, se creará el Fondo Nacional de Financiamiento Verde, administrado por la",
+          "original_quote": "En primer lugar, se creará el Fondo Nacional de Financiamiento Verde, administrado por la",
+          "page": 252,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer los sistemas de alerta temprana y la información climática territorializada,",
+          "original_quote": "Fortalecer los sistemas de alerta temprana y la información climática territorializada,",
+          "page": 254,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar sistemas de alerta temprana integrados en al menos 70 % de las provincias",
+          "original_quote": "Implementar sistemas de alerta temprana integrados en al menos 70 % de las provincias",
+          "page": 255,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "general"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Innovación y Tecnología",
+      "proposals": [
+        {
+          "statement": "Ampliar el acceso a financiamiento público y privado para startups tecnológicas en etapas",
+          "original_quote": "Ampliar el acceso a financiamiento público y privado para startups tecnológicas en etapas",
+          "page": 274,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer la investigación aplicada, el desarrollo tecnológico y la transferencia de",
+          "original_quote": "Fortalecer la investigación aplicada, el desarrollo tecnológico y la transferencia de",
+          "page": 274,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer la articulación entre universidades, institutos tecnológicos y empresas",
+          "original_quote": "Fortalecer la articulación entre universidades, institutos tecnológicos y empresas",
+          "page": 278,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Desarrollar capacidades tecnológicas y de innovación en trabajadores, emprendedores y",
+          "original_quote": "Desarrollar capacidades tecnológicas y de innovación en trabajadores, emprendedores y",
+          "page": 278,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Expandir y modernizar la infraestructura digital nacional, garantizando conectividad de alta",
+          "original_quote": "Expandir y modernizar la infraestructura digital nacional, garantizando conectividad de alta",
+          "page": 281,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "Impulsar la adopción de tecnologías digitales y de automatización en PYMEs e industrias",
+          "original_quote": "Impulsar la adopción de tecnologías digitales y de automatización en PYMEs e industrias",
+          "page": 281,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "tecnología"
+          ]
+        },
+        {
+          "statement": "Desarrollar talento humano especializado en tecnologías digitales, automatización e",
+          "original_quote": "Desarrollar talento humano especializado en tecnologías digitales, automatización e",
+          "page": 281,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "tecnología"
+          ]
+        },
+        {
+          "statement": "Fortalecer la ciberseguridad y la confianza digital como base de la economía digital.",
+          "original_quote": "Fortalecer la ciberseguridad y la confianza digital como base de la economía digital.",
+          "page": 281,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Declaratoria de urgencia para fortalecer y expandir la infraestructura digital en zonas",
+          "original_quote": "Declaratoria de urgencia para fortalecer y expandir la infraestructura digital en zonas",
+          "page": 283,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "infraestructura"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Lucha contra la Corrupción",
+      "proposals": [
+        {
+          "statement": "Garantizar la interoperabilidad efectiva entre entidades públicas de los tres niveles de",
+          "original_quote": "Garantizar la interoperabilidad efectiva entre entidades públicas de los tres niveles de",
+          "page": 289,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "expedientes electrónicos únicos por ciudadano y por empresa, que integren la información \nrelevante a lo largo del ciclo de vida de las personas y organizaciones, evitando la duplicidad de \nregistros y reduciendo la carga administrativa  \nSe impulsará la digitalización integral de los trámites y exp",
+          "original_quote": "expedientes electrónicos únicos por ciudadano y por empresa, que integren la información \nrelevante a lo largo del ciclo de vida de las personas y organizaciones, evitando la duplicidad de \nregistros y reduciendo la carga administrativa  \nSe impulsará la digitalización integral de los trámites y expedientes administrativos según orden \nprioridad, asegurando la capacidad operativa y su validez lega",
+          "page": 289,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecer la formación continua y certificación de competencias de los servidores",
+          "original_quote": "Fortalecer la formación continua y certificación de competencias de los servidores",
+          "page": 292,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Garantizar estabilidad institucional y continuidad de políticas públicas mediante una",
+          "original_quote": "Garantizar estabilidad institucional y continuidad de políticas públicas mediante una",
+          "page": 292,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Mejorar los indicadores de desempeño institucional y calidad del servicio público en todos",
+          "original_quote": "Mejorar los indicadores de desempeño institucional y calidad del servicio público en todos",
+          "page": 293,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Fortalecimiento institucional de SERVIR para supervisar, sancionar y garantizar el",
+          "original_quote": "Fortalecimiento institucional de SERVIR para supervisar, sancionar y garantizar el",
+          "page": 294,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Modernizar el sistema de justicia para garantizar independencia, celeridad, transparencia",
+          "original_quote": "Modernizar el sistema de justicia para garantizar independencia, celeridad, transparencia",
+          "page": 295,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "justicia"
+          ]
+        },
+        {
+          "statement": "Fortalecer la autonomía operativa, funcional y técnica del Ministerio Público para la",
+          "original_quote": "Fortalecer la autonomía operativa, funcional y técnica del Ministerio Público para la",
+          "page": 295,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar procesos meritocráticos, públicos y verificables para la selección,",
+          "original_quote": "Implementar procesos meritocráticos, públicos y verificables para la selección,",
+          "page": 295,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Establecer un sistema integral de protección a denunciantes y testigos de corrupción,",
+          "original_quote": "Establecer un sistema integral de protección a denunciantes y testigos de corrupción,",
+          "page": 295,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "corrupción"
+          ]
+        },
+        {
+          "statement": "el sistema de justicia para garantizar independencia, celeridad, transparencia \ny trazabilidad de los procesos",
+          "original_quote": "el sistema de justicia para garantizar independencia, celeridad, transparencia \ny trazabilidad de los procesos",
+          "page": 295,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "justicia"
+          ]
+        },
+        {
+          "statement": "Garantizar que el 100 % de los procesos de nombramiento, ratificación y ascenso de",
+          "original_quote": "Garantizar que el 100 % de los procesos de nombramiento, ratificación y ascenso de",
+          "page": 297,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar sistemas de integridad y gestión de riesgos institucionales en el 100 % de las",
+          "original_quote": "Implementar sistemas de integridad y gestión de riesgos institucionales en el 100 % de las",
+          "page": 297,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "general"
+          ]
+        },
+        {
+          "statement": "Implementar el control concurrente como mecanismo obligatorio de supervisión en",
+          "original_quote": "Implementar el control concurrente como mecanismo obligatorio de supervisión en",
+          "page": 300,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "general"
+          ]
+        }
+      ]
+    }
+  ],
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: salario mínimo. Indicadores a favor: 1, en contra: 10."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: impuestos a grandes fortuna. Indicadores a favor: 82, en contra: 10."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de subsidios a empresas privadas en el plan de gobierno."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: pension. Indicadores a favor: 123, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: exportación. Indicadores a favor: 1, en contra: 0."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: matrimonio igualitario, LGBT. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: género. Indicadores a favor: 93, en contra: 0."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: migra. Indicadores a favor: 9, en contra: 14."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de pena de muerte en el plan de gobierno."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: APP. Indicadores a favor: 98, en contra: 0."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: fósil. Indicadores a favor: 56, en contra: 0."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: educación pública gratuit, universidades, institutos tecnológicos y empresas Fortalecer la articulación entre universidades, institutos tecnológicos y empresas Desarrollar capacidades tecnológicas y de innovación en trabajadores, emprendedores y Desarrollar capacidades tecnológicas y de innovación en trabajadores, emprendedores y Expandir y modernizar la infraestructura digital nacional, garantizando conectividad de alta Expandir y modernizar la infraestructura digital nacional, garantizando conectividad de alta Impulsar la adopción de tecnologías digitales y de automatización en PYMEs e industrias Impulsar la adopción de tecnologías digitales y de automatización en PYMEs e industrias Desarrollar talento humano especializado en tecnologías digitales, automatización e Desarrollar talento humano especializado en tecnologías digitales, automatización e Fortalecer la ciberseguridad y la confianza digital como base de la economía digital. Fortalecer la ciberseguridad y la confianza digital como base de la economía digital. Declaratoria de urgencia para fortalecer y expandir la infraestructura digital en zonas Declaratoria de urgencia para fortalecer y expandir la infraestructura digital en zonas Garantizar la interoperabilidad efectiva entre entidades públicas de los tres niveles de Garantizar la interoperabilidad efectiva entre entidades públic, educación pública gratuita. 'los resultados sanitarios y garantizar un acceso oportuno y equitativo a los servicios de salud', 'la cobertura efectiva, mejorar la calidad de la atención y devolverle a EsSalud su rol como pilar de un sistema de salud digno', múltiples propuestas para fortalecer el sistema público de salud. Extensas propuestas: 'un nuevo pacto de competencias entre el Gobierno Nacional y los gobiernos regionales y locales', 'Implementar un nuevo modelo de gobernanza multinivel y macro-regional', 'a los gobiernos locales como actores clave del desarrollo territorial', 'Implementar el 100 % de las competencias redefinidas en el marco del nuevo pacto'. 'Modernizar el sistema de justicia para garantizar independencia, celeridad, transparencia', 'Garantizar la autonomía, integridad y meritocracia del sistema de justicia', 'Implementar procesos meritocráticos, públic. Indicadores a favor: 112, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: sis. Indicadores a favor: 43, en contra: 0."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de transporte público gratuito en el plan de gobierno."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: acceso a financiamiento público y privado para startups tecnológicas en etapas Ampliar el acceso a financiamiento público y privado para startups tecnológicas en etapas Fortalecer la investigación aplicada, el desarrollo tecnológico y la transferencia de Fortalecer la investigación aplicada, el desarrollo tecnológico y la transferencia de Fortalecer la articulación entre universidades, institutos tecnológicos y empresas Fortalecer la articulación entre universidades, institutos tecnológicos y empresas Desarrollar capacidades tecnológicas y de innovación en trabajadores, emprendedores y Desarrollar capacidades tecnológicas y de innovación en trabajadores, emprendedores y Expandir y modernizar la infraestructura digital nacional, garantizando conectividad de alta Expandir y modernizar la infraestructura digital nacional, garantizando conectividad de alta Impulsar la adopción de tecnologías digitales y de automatización en PYMEs e industrias Impulsar la adopción de tecnologías digitales y de automatización en PYMEs e industrias Desarrollar talento humano especializado en tecnologías digitales, automatización e Desarrollar talento humano especializado en tecnologías digitales, automatización e Fortalecer la ciberseguridad y la confianza digital como base de la economía digital. Fortalecer la ciberseguridad y la confianza digital como base de la economía digital. Declaratoria de urgencia para fortalecer y expandir la infraestructura digital en zonas Declaratoria de urgencia para fortalecer y expandir la infraestructura digital, conectividad, acceso de productos agrarios peruanos a mercados internacionales, Ampliar el acceso de productos agrarios peruanos a mercados internacionales, Impulsar el desarrollo de agroindustrias regionales, promoviendo el procesamiento local Impulsar el desarrollo de agroindustrias regionales, promoviendo el procesamiento local Fortalecer el posicionamiento del Perú como país agroexportador, mediante estrategias Fortalecer el posicionamiento del Perú como país agroexportador, mediante estrategias En otra línea de acción se crearán cinco parques agroindustriales piloto , ubicados en En otra línea de acción se crearán cinco parques agroindustriales piloto , ubicados en Impulsar prácticas de agricultura climáticamente inteligente , integrando tecnología, Impulsar prácticas de agricultura climáticamente inteligente , integrando tecnología, Fortalecer la gobernanza del agua  con instituciones locales y regionales capacitadas, Fortalecer la gobernanza del agua  con instituciones locales y regionales capacitadas, Promover innovación y digitalización agrícola , incorporando sensores, teledetección y Promover innovación y digital. Indicadores a favor: 32, en contra: 0."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: defensa, militar. Indicadores a favor: 102, en contra: 10."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: descentraliza, region. Indicadores a favor: 122, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: justicia. Indicadores a favor: 127, en contra: 0."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de elección popular de jueces en el plan de gobierno."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de límites a la reelección en el plan de gobierno."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "stances_updated_at": "2026-04-06T23:04:03.749894"
+}

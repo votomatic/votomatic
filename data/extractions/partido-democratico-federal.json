@@ -1,0 +1,419 @@
+{
+  "party": "Partido Democratico Federal",
+  "source_pdf": "data/pdfs/partido-democratico-federal.pdf",
+  "extracted_at": "2026-04-06T00:00:00.000Z",
+  "topics": [
+    {
+      "topic": "Educación",
+      "proposals": [
+        {
+          "statement": "Reducir la deserción escolar, modernizar infraestructura educativa e incorporar docentes jubilados internacionales",
+          "original_quote": "Reducir la deserción escolar, modernizar colegios, institutos y universidades en las 24 regiones e incorporar 20 000 docentes jubilados internacionales en un plazo máximo de 5 años.",
+          "page": 1,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "deserción escolar",
+            "modernización",
+            "docentes internacionales",
+            "24 regiones",
+            "5 años",
+            "20000 docentes"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Economía y Pobreza",
+      "proposals": [
+        {
+          "statement": "Reducir la pobreza mediante crecimiento económico sostenido entre 8% y 10% anual",
+          "original_quote": "Reducir significativamente la pobreza nacional y alcanzar un crecimiento económico anual entre 8 % y 10 %.",
+          "page": 1,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "pobreza",
+            "crecimiento económico",
+            "8%",
+            "10%",
+            "PBI"
+          ]
+        },
+        {
+          "statement": "Fortalecer MYPES e incrementar formalización y exportación",
+          "original_quote": "Incrementar la formalización y exportación de MYPES.",
+          "page": 2,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "MYPES",
+            "formalización",
+            "exportación",
+            "emprendedores"
+          ]
+        },
+        {
+          "statement": "Implementar 30 parques industriales y 8 zonas francas para transformar la estructura productiva",
+          "original_quote": "Implementar 30 parques industriales y 8 zonas francas a nivel nacional.",
+          "page": 4,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "parques industriales",
+            "zonas francas",
+            "industrialización",
+            "manufactura",
+            "30 parques",
+            "8 zonas francas"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Vivienda y Servicios Básicos",
+      "proposals": [
+        {
+          "statement": "Construir 1 millón de viviendas y mejorar 1 millón de viviendas precarias",
+          "original_quote": "Construcción de 1 millón de viviendas y mejoramiento de 1 millón de viviendas precarias.",
+          "page": 1,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "viviendas",
+            "déficit habitacional",
+            "1 millón",
+            "agua",
+            "saneamiento",
+            "electricidad"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salud",
+      "proposals": [
+        {
+          "statement": "Construir y modernizar centros de salud a nivel nacional",
+          "original_quote": "Construcción y modernización de centros de salud a nivel nacional.",
+          "page": 2,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "salud",
+            "centros de salud",
+            "infraestructura sanitaria"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Turismo",
+      "proposals": [
+        {
+          "statement": "Promover el turismo como motor de desarrollo regional e incrementar divisas",
+          "original_quote": "Incrementar significativamente las divisas generadas por turismo.",
+          "page": 3,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "turismo",
+            "desarrollo regional",
+            "divisas",
+            "destinos turísticos"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Agricultura, Pesca y Minería",
+      "proposals": [
+        {
+          "statement": "Incrementar productividad y valor agregado en sectores agrícola, pesquero y minero de pequeña escala",
+          "original_quote": "Incrementar la productividad y el valor agregado en sectores estratégicos.",
+          "page": 3,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "agricultura",
+            "pesca",
+            "minería",
+            "productividad",
+            "valor agregado",
+            "exportaciones"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Infraestructura y Energía",
+      "proposals": [
+        {
+          "statement": "Construir 5,000 km de red ferroviaria e implementar 5 centrales hidroeléctricas",
+          "original_quote": "Construcción de 5,000 km de red ferroviaria e implementación de 5 centrales hidroeléctricas.",
+          "page": 4,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "ferrocarril",
+            "hidroeléctricas",
+            "infraestructura",
+            "energía renovable",
+            "5000 km",
+            "5 centrales"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Medio Ambiente",
+      "proposals": [
+        {
+          "statement": "Implementar 5 centrales hidroeléctricas para desarrollo sostenible y proteger el medio ambiente",
+          "original_quote": "Implementación de 5 centrales hidroeléctricas para el desarrollo sostenible.",
+          "page": 5,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "medio ambiente",
+            "hidroeléctricas",
+            "desarrollo sostenible",
+            "recursos naturales"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Anticorrupción",
+      "proposals": [
+        {
+          "statement": "Combatir la corrupción y modernizar el Estado bajo un modelo federal",
+          "original_quote": "Reducir significativamente las pérdidas anuales por corrupción.",
+          "page": 5,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "corrupción",
+            "Estado federal",
+            "modernización",
+            "entidades reorganizadas"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Reforma del Estado",
+      "proposals": [
+        {
+          "statement": "Modernizar el Estado con modelo federal, reducir burocracia y descentralización efectiva",
+          "original_quote": "Modernizar el Estado bajo un modelo federal a través de una reforma institucional, reducción de la burocracia y descentralización efectiva.",
+          "page": 6,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "federalismo",
+            "descentralización",
+            "burocracia",
+            "reforma institucional"
+          ]
+        },
+        {
+          "statement": "Convocar a Asamblea Constituyente mediante referéndum para nueva Constitución",
+          "original_quote": "Convocar a una Asamblea Constituyente vía referéndum.",
+          "page": 6,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "Asamblea Constituyente",
+            "referéndum",
+            "Constitución",
+            "pacto social"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Seguridad Ciudadana",
+      "proposals": [
+        {
+          "statement": "Reducir drásticamente la delincuencia y criminalidad organizada",
+          "original_quote": "Reducción sostenida de delitos de alto impacto.",
+          "page": 7,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "seguridad ciudadana",
+            "delincuencia",
+            "criminalidad organizada",
+            "extorsión"
+          ]
+        }
+      ]
+    }
+  ],
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de aumento del salario mínimo en el plan de gobierno."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de impuestos a grandes fortunas en el plan de gobierno."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de subsidios a empresas privadas en el plan de gobierno."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: pension. Indicadores a favor: 6, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: exportación. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: LGBT. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: género. Indicadores a favor: 4, en contra: 0."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: migra. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de pena de muerte en el plan de gobierno."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: privatiza. Indicadores a favor: 7, en contra: 0."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: renovable. Indicadores a favor: 7, en contra: 0."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: universidades en las 24 regiones e incorporar 20 000 docentes jubilados internacionales en un plazo máximo de 5 años. Reducir la pobreza mediante crecimiento económico sostenido entre 8% y 10% anual Reducir significativamente la pobreza nacional y alcanzar un crecimiento económico anual entre 8 % y 10 %. Fortalecer MYPES e incrementar formalización y exportación Incrementar la formalización y exportación de MYPES. Implementar 30 parques industriales y 8 zonas francas para transformar la estructura productiva Implementar 30 parques industriales y 8 zonas francas a nivel nacional. Construir 1 millón de viviendas y mejorar 1 millón de viviendas precarias Construcción de 1 millón de viviendas y mejoramiento de 1 millón de viviendas precarias. Construir y modernizar centros de salud a nivel nacional Construcción y modernización de centros de salud a nivel nacional. Promover el turismo como motor de desarrollo regional e incrementar divisas Incrementar significativamente las divisas generadas por turismo. Incrementar productividad y valor agregado en sectores agrícola, pesquero y minero de pequeña escala Incrementar la productividad y el valor agregado en sectores estratégicos. Construir 5,000 km de red ferroviaria e implementar 5 centrales hidroeléctricas Construcción de 5,000 km de red ferroviaria e implementación de 5 centrales hidroeléctricas. Implementar 5 centrales hidroeléctricas para desarrollo sostenible y proteger el medio ambiente Implementación de 5 centrales hidroeléctricas para el desarrollo sostenible. Combatir la corrupción y modernizar el Estado bajo un modelo federal Reducir significativamente las pérdidas anuales por corrupción. Modernizar el Estado con modelo federal, reducir burocracia y descentralización efectiva Modernizar el Estado bajo un modelo federal a través de una reforma institucional, reducción de la burocracia y descentralización efectiva. Convocar a Asamblea Constituyente mediante referéndum para nueva Constitución Convocar a una Asamblea Constituyente vía referéndum. Reducir drásticamente la delincuencia y criminalidad organizada Reducción sostenida de delitos de alto impacto. El documento no menciona políticas salariales específicas El documento no menciona política tributaria El documento no menciona privatizaciones, aunque propone construcción estatal de viviendas e infraestructura El documento no menciona derechos LGBTQ+ ni matrimonio El documento no menciona derechos reproductivos ni aborto Propone implementar 5 centrales hidroeléctricas para desarrollo sostenible y generación de energía renovable El documento no menciona política migratoria El documento no menciona defensa ni gasto militar Propone fortalecer MYPES con acceso a crédito productivo e implementar zonas francas El documento no menciona sistema de pensiones Propone modernizar colegios, institutos y universidades en las 24 regiones con inversión pública Propone fortalecer el sistema nacional de salud públic. Indicadores a favor: 3, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: sis. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de transporte público gratuito en el plan de gobierno."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de internet como derecho básico en el plan de gobierno."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: defensa, militar. Indicadores a favor: 18, en contra: 7."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: descentraliza, region. Indicadores a favor: 4, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de reforma del sistema judicial en el plan de gobierno."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de elección popular de jueces en el plan de gobierno."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de límites a la reelección en el plan de gobierno."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: referéndum. Indicadores a favor: 4, en contra: 0."
+    }
+  ],
+  "stances_updated_at": "2026-04-06T23:04:15.753102"
+}

@@ -1,0 +1,91 @@
+{
+  "generated_at": "2026-04-06T23:07:03.666939",
+  "category": "governance",
+  "total_questions": 2,
+  "questions": [
+    {
+      "id": "gov-001",
+      "issue": "Descentralización del gobierno",
+      "text": "Los gobiernos regionales y locales deberían tener mayor autonomía y recursos.",
+      "category": "governance",
+      "party_positions": {
+        "un-camino-diferente": "a_favor",
+        "podemos-peru": "a_favor",
+        "partido-politico-nacional-peru-libre": "a_favor",
+        "progresemos": "a_favor",
+        "partido-politico-cooperacion-popular": "a_favor",
+        "juntos-por-el-peru": "a_favor",
+        "partido-politico-prin": "a_favor",
+        "alianza-para-el-progreso": "a_favor",
+        "peru-moderno": "a_favor",
+        "fe-en-el-peru": "a_favor",
+        "partido-civico-obras": "a_favor",
+        "fuerza-y-libertad": "a_favor",
+        "partido-aprista-peruano": "a_favor",
+        "partido-democrata-verde": "a_favor",
+        "partido-politico-peru-accion": "a_favor",
+        "unidad-nacional": "a_favor",
+        "libertad-popular": "a_favor",
+        "partido-de-los-trabajadores-y-emprendedores": "a_favor",
+        "renovacion-popular": "a_favor",
+        "primero-la-gente": "a_favor",
+        "partido-politico-peru-primero": "a_favor",
+        "partido-democratico-somos-peru": "a_favor",
+        "partido-pais-para-todos": "a_favor",
+        "partido-democratico-federal": "a_favor",
+        "alianza-electoral-venceremos": "a_favor",
+        "salvemos-al-peru": "a_favor",
+        "partido-sicreo": "a_favor",
+        "partido-morado": "a_favor",
+        "partido-democrata-unido-peru": "en_contra",
+        "ahora-nacion": "neutral",
+        "partido-frente-de-la-esperanza-2021": "neutral",
+        "partido-del-buen-gobierno": "neutral",
+        "fuerza-popular": "neutral",
+        "frente-popular-agricola-fia-del-peru": "neutral",
+        "avanza-pais": "neutral",
+        "partido-politico-integridad-democratica": "neutral",
+        "partido-patriotico-del-peru": "neutral"
+      },
+      "source_evidence": {
+        "un-camino-diferente": "Menciones encontradas: descentraliza, region. Indicadores a favor: 32, en contra: 0.",
+        "podemos-peru": "Menciones encontradas: descentraliza. Indicadores a favor: 5, en contra: 0.",
+        "partido-democrata-unido-peru": "Menciones encontradas: descentraliza, region. Indicadores a favor: 0, en contra: 2."
+      },
+      "divergence_score": 0.1841
+    },
+    {
+      "id": "gov-002",
+      "issue": "Límites a la reelección",
+      "text": "Se deberían establecer límites más estrictos a la reelección de autoridades.",
+      "category": "governance",
+      "party_positions": {
+        "ahora-nacion": "a_favor",
+        "partido-del-buen-gobierno": "a_favor",
+        "avanza-pais": "a_favor",
+        "partido-politico-integridad-democratica": "a_favor",
+        "partido-politico-peru-primero": "a_favor",
+        "partido-pais-para-todos": "a_favor",
+        "podemos-peru": "neutral",
+        "partido-frente-de-la-esperanza-2021": "neutral",
+        "partido-politico-cooperacion-popular": "neutral",
+        "juntos-por-el-peru": "neutral",
+        "fuerza-popular": "neutral",
+        "peru-moderno": "neutral",
+        "fe-en-el-peru": "neutral",
+        "renovacion-popular": "neutral",
+        "primero-la-gente": "neutral",
+        "partido-democratico-somos-peru": "neutral",
+        "salvemos-al-peru": "neutral",
+        "partido-patriotico-del-peru": "neutral",
+        "partido-sicreo": "neutral",
+        "partido-morado": "neutral"
+      },
+      "source_evidence": {
+        "ahora-nacion": "Menciones encontradas: mandato, reelección. Indicadores a favor: 1, en contra: 0.",
+        "partido-del-buen-gobierno": "Menciones encontradas: mandato. Indicadores a favor: 20, en contra: 0."
+      },
+      "divergence_score": 0.0614
+    }
+  ]
+}

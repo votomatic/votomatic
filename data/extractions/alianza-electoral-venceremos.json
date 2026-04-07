@@ -1,0 +1,1555 @@
+{
+  "party": "Alianza Electoral Venceremos",
+  "source_pdf": "/Users/ursulacervantes/Documents/Code/votomatic/data/pdfs/alianza-electoral-venceremos.pdf",
+  "extracted_at": "2026-04-05T22:42:11.867254",
+  "topics": [
+    {
+      "topic": "Economía",
+      "proposals": [
+        {
+          "statement": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "original_quote": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "propuestas",
+            "propuesta",
+            "perú",
+            "para",
+            "cambiar"
+          ]
+        },
+        {
+          "statement": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "original_quote": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "crimen",
+            "propuesta",
+            "aniquilar"
+          ]
+        },
+        {
+          "statement": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "original_quote": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "justicia",
+            "propuesta",
+            "memoria",
+            "reparación"
+          ]
+        },
+        {
+          "statement": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "original_quote": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "transparente",
+            "cero",
+            "propuesta",
+            "impunidad"
+          ]
+        },
+        {
+          "statement": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "original_quote": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "pueblos",
+            "propuesta",
+            "social",
+            "democracia"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "original_quote": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "descentralización",
+            "propuesta",
+            "reforma",
+            "estado"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "original_quote": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "recuperación",
+            "propuesta",
+            "nacional",
+            "soberanía",
+            "recursos"
+          ]
+        },
+        {
+          "statement": "20 \nMedidas a implementar  ...............................",
+          "original_quote": "20 \nMedidas a implementar  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "medidas",
+            "implementar"
+          ]
+        },
+        {
+          "statement": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "original_quote": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "page": 3,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "agro",
+            "impulsar",
+            "revolución",
+            "productiva",
+            "priorizando"
+          ]
+        },
+        {
+          "statement": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "original_quote": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "reforma",
+            "igualdad",
+            "tributaria",
+            "propuesta"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Educación",
+      "proposals": [
+        {
+          "statement": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "original_quote": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "propuestas",
+            "propuesta",
+            "perú",
+            "para",
+            "cambiar"
+          ]
+        },
+        {
+          "statement": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "original_quote": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "crimen",
+            "propuesta",
+            "aniquilar"
+          ]
+        },
+        {
+          "statement": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "original_quote": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "justicia",
+            "propuesta",
+            "memoria",
+            "reparación"
+          ]
+        },
+        {
+          "statement": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "original_quote": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "transparente",
+            "cero",
+            "propuesta",
+            "impunidad"
+          ]
+        },
+        {
+          "statement": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "original_quote": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "pueblos",
+            "propuesta",
+            "social",
+            "democracia"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "original_quote": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "descentralización",
+            "propuesta",
+            "reforma",
+            "estado"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "original_quote": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "recuperación",
+            "propuesta",
+            "nacional",
+            "soberanía",
+            "recursos"
+          ]
+        },
+        {
+          "statement": "20 \nMedidas a implementar  ...............................",
+          "original_quote": "20 \nMedidas a implementar  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "medidas",
+            "implementar"
+          ]
+        },
+        {
+          "statement": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "original_quote": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "page": 3,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "agro",
+            "impulsar",
+            "revolución",
+            "productiva",
+            "priorizando"
+          ]
+        },
+        {
+          "statement": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "original_quote": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "reforma",
+            "igualdad",
+            "tributaria",
+            "propuesta"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Medio Ambiente",
+      "proposals": [
+        {
+          "statement": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "original_quote": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "propuestas",
+            "propuesta",
+            "perú",
+            "para",
+            "cambiar"
+          ]
+        },
+        {
+          "statement": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "original_quote": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "crimen",
+            "propuesta",
+            "aniquilar"
+          ]
+        },
+        {
+          "statement": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "original_quote": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "justicia",
+            "propuesta",
+            "memoria",
+            "reparación"
+          ]
+        },
+        {
+          "statement": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "original_quote": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "transparente",
+            "cero",
+            "propuesta",
+            "impunidad"
+          ]
+        },
+        {
+          "statement": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "original_quote": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "pueblos",
+            "propuesta",
+            "social",
+            "democracia"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "original_quote": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "descentralización",
+            "propuesta",
+            "reforma",
+            "estado"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "original_quote": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "recuperación",
+            "propuesta",
+            "nacional",
+            "soberanía",
+            "recursos"
+          ]
+        },
+        {
+          "statement": "20 \nMedidas a implementar  ...............................",
+          "original_quote": "20 \nMedidas a implementar  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "medidas",
+            "implementar"
+          ]
+        },
+        {
+          "statement": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "original_quote": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "page": 3,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "agro",
+            "impulsar",
+            "revolución",
+            "productiva",
+            "priorizando"
+          ]
+        },
+        {
+          "statement": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "original_quote": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "reforma",
+            "igualdad",
+            "tributaria",
+            "propuesta"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Seguridad",
+      "proposals": [
+        {
+          "statement": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "original_quote": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "propuestas",
+            "propuesta",
+            "perú",
+            "para",
+            "cambiar"
+          ]
+        },
+        {
+          "statement": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "original_quote": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "crimen",
+            "propuesta",
+            "aniquilar"
+          ]
+        },
+        {
+          "statement": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "original_quote": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "justicia",
+            "propuesta",
+            "memoria",
+            "reparación"
+          ]
+        },
+        {
+          "statement": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "original_quote": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "transparente",
+            "cero",
+            "propuesta",
+            "impunidad"
+          ]
+        },
+        {
+          "statement": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "original_quote": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "pueblos",
+            "propuesta",
+            "social",
+            "democracia"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "original_quote": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "descentralización",
+            "propuesta",
+            "reforma",
+            "estado"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "original_quote": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "recuperación",
+            "propuesta",
+            "nacional",
+            "soberanía",
+            "recursos"
+          ]
+        },
+        {
+          "statement": "20 \nMedidas a implementar  ...............................",
+          "original_quote": "20 \nMedidas a implementar  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "medidas",
+            "implementar"
+          ]
+        },
+        {
+          "statement": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "original_quote": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "page": 3,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "agro",
+            "impulsar",
+            "revolución",
+            "productiva",
+            "priorizando"
+          ]
+        },
+        {
+          "statement": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "original_quote": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "reforma",
+            "igualdad",
+            "tributaria",
+            "propuesta"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Política Social",
+      "proposals": [
+        {
+          "statement": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "original_quote": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "propuestas",
+            "propuesta",
+            "perú",
+            "para",
+            "cambiar"
+          ]
+        },
+        {
+          "statement": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "original_quote": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "crimen",
+            "propuesta",
+            "aniquilar"
+          ]
+        },
+        {
+          "statement": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "original_quote": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "justicia",
+            "propuesta",
+            "memoria",
+            "reparación"
+          ]
+        },
+        {
+          "statement": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "original_quote": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "transparente",
+            "cero",
+            "propuesta",
+            "impunidad"
+          ]
+        },
+        {
+          "statement": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "original_quote": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "pueblos",
+            "propuesta",
+            "social",
+            "democracia"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "original_quote": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "descentralización",
+            "propuesta",
+            "reforma",
+            "estado"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "original_quote": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "recuperación",
+            "propuesta",
+            "nacional",
+            "soberanía",
+            "recursos"
+          ]
+        },
+        {
+          "statement": "20 \nMedidas a implementar  ...............................",
+          "original_quote": "20 \nMedidas a implementar  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "medidas",
+            "implementar"
+          ]
+        },
+        {
+          "statement": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "original_quote": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "page": 3,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "agro",
+            "impulsar",
+            "revolución",
+            "productiva",
+            "priorizando"
+          ]
+        },
+        {
+          "statement": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "original_quote": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "reforma",
+            "igualdad",
+            "tributaria",
+            "propuesta"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Justicia",
+      "proposals": [
+        {
+          "statement": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "original_quote": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "propuestas",
+            "propuesta",
+            "perú",
+            "para",
+            "cambiar"
+          ]
+        },
+        {
+          "statement": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "original_quote": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "crimen",
+            "propuesta",
+            "aniquilar"
+          ]
+        },
+        {
+          "statement": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "original_quote": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "justicia",
+            "propuesta",
+            "memoria",
+            "reparación"
+          ]
+        },
+        {
+          "statement": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "original_quote": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "transparente",
+            "cero",
+            "propuesta",
+            "impunidad"
+          ]
+        },
+        {
+          "statement": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "original_quote": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "pueblos",
+            "propuesta",
+            "social",
+            "democracia"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "original_quote": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "descentralización",
+            "propuesta",
+            "reforma",
+            "estado"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "original_quote": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "recuperación",
+            "propuesta",
+            "nacional",
+            "soberanía",
+            "recursos"
+          ]
+        },
+        {
+          "statement": "20 \nMedidas a implementar  ...............................",
+          "original_quote": "20 \nMedidas a implementar  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "medidas",
+            "implementar"
+          ]
+        },
+        {
+          "statement": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "original_quote": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "page": 3,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "agro",
+            "impulsar",
+            "revolución",
+            "productiva",
+            "priorizando"
+          ]
+        },
+        {
+          "statement": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "original_quote": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "reforma",
+            "igualdad",
+            "tributaria",
+            "propuesta"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Cultura",
+      "proposals": [
+        {
+          "statement": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "original_quote": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "propuestas",
+            "propuesta",
+            "perú",
+            "para",
+            "cambiar"
+          ]
+        },
+        {
+          "statement": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "original_quote": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "crimen",
+            "propuesta",
+            "aniquilar"
+          ]
+        },
+        {
+          "statement": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "original_quote": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "justicia",
+            "propuesta",
+            "memoria",
+            "reparación"
+          ]
+        },
+        {
+          "statement": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "original_quote": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "transparente",
+            "cero",
+            "propuesta",
+            "impunidad"
+          ]
+        },
+        {
+          "statement": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "original_quote": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "pueblos",
+            "propuesta",
+            "social",
+            "democracia"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "original_quote": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "descentralización",
+            "propuesta",
+            "reforma",
+            "estado"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "original_quote": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "recuperación",
+            "propuesta",
+            "nacional",
+            "soberanía",
+            "recursos"
+          ]
+        },
+        {
+          "statement": "20 \nMedidas a implementar  ...............................",
+          "original_quote": "20 \nMedidas a implementar  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "medidas",
+            "implementar"
+          ]
+        },
+        {
+          "statement": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "original_quote": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "page": 3,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "agro",
+            "impulsar",
+            "revolución",
+            "productiva",
+            "priorizando"
+          ]
+        },
+        {
+          "statement": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "original_quote": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "reforma",
+            "igualdad",
+            "tributaria",
+            "propuesta"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Infraestructura",
+      "proposals": [
+        {
+          "statement": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "original_quote": "3 \n 31 propuestas para Cambiar el Perú en el 2031   \n \nPropuesta N° 1: Por una nueva constitución plurinacional, democrática y nacida del Pueblo  .................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "propuestas",
+            "propuesta",
+            "perú",
+            "para",
+            "cambiar"
+          ]
+        },
+        {
+          "statement": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "original_quote": "14 \nPropuesta N° 2: Aniquilar el crimen",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "crimen",
+            "propuesta",
+            "aniquilar"
+          ]
+        },
+        {
+          "statement": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "original_quote": "15 \nPropuesta N° 3: Justicia, reparación y memoria",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "justicia",
+            "propuesta",
+            "memoria",
+            "reparación"
+          ]
+        },
+        {
+          "statement": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "original_quote": "16 \nPropuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad pública y \nreorganización del sistema anticorrupción",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "transparente",
+            "cero",
+            "propuesta",
+            "impunidad"
+          ]
+        },
+        {
+          "statement": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "original_quote": "17 \nPropuesta N° 5 : Democracia social de los pueblos",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "pueblos",
+            "propuesta",
+            "social",
+            "democracia"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "original_quote": "18 \nPropuesta N° 6: Reforma del Estado y descentralización  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "descentralización",
+            "propuesta",
+            "reforma",
+            "estado"
+          ]
+        },
+        {
+          "statement": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "original_quote": "18 \nPropuesta N° 7:  Soberanía nacional, recuperación de los recursos estratégicos, industrialización del Perú \ny financiamiento popular  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "recuperación",
+            "propuesta",
+            "nacional",
+            "soberanía",
+            "recursos"
+          ]
+        },
+        {
+          "statement": "20 \nMedidas a implementar  ...............................",
+          "original_quote": "20 \nMedidas a implementar  ...............................",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "medidas",
+            "implementar"
+          ]
+        },
+        {
+          "statement": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "original_quote": "Impulsar una revolución productiva en el agro \npriorizando la agricultura familiar y la pequeña producción de base comunera",
+          "page": 3,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "agro",
+            "impulsar",
+            "revolución",
+            "productiva",
+            "priorizando"
+          ]
+        },
+        {
+          "statement": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "original_quote": "24 \nPropuesta N° 10: Reforma tributaria con enfoque de igualdad para resolver los problemas de la gente",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "reforma",
+            "igualdad",
+            "tributaria",
+            "propuesta"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salud",
+      "proposals": [
+        {
+          "statement": "4 \n Propuesta N° 20: ¡Internet para todas y todos, un derecho humano innegociable",
+          "original_quote": "4 \n Propuesta N° 20: ¡Internet para todas y todos, un derecho humano innegociable",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "todas",
+            "todos",
+            "propuesta",
+            "internet",
+            "para"
+          ]
+        },
+        {
+          "statement": "36 \nPropuesta N° 21: Salud de Calidad, Reforma integral y progresiva de la salud para acercar la atención a \ntodos y todas",
+          "original_quote": "36 \nPropuesta N° 21: Salud de Calidad, Reforma integral y progresiva de la salud para acercar la atención a \ntodos y todas",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "reforma",
+            "propuesta",
+            "integral",
+            "salud",
+            "calidad"
+          ]
+        },
+        {
+          "statement": "38 \nPropuesta N° 22: Revolución Educativa, reforma educativa de Calidad",
+          "original_quote": "38 \nPropuesta N° 22: Revolución Educativa, reforma educativa de Calidad",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "educativa",
+            "revolución",
+            "propuesta",
+            "reforma"
+          ]
+        },
+        {
+          "statement": "40 \nPropuesta N° 24: Educación intercultural con enfoque de género generalizada en todo el sistema \neducativo, y educación rural -intercultural -bilingüe de los pueblos originarios, con calidad y pert",
+          "original_quote": "40 \nPropuesta N° 24: Educación intercultural con enfoque de género generalizada en todo el sistema \neducativo, y educación rural -intercultural -bilingüe de los pueblos originarios, con calidad y pertinencia, \npara construir una educación liberadora cerrar las injustas brechas exi stentes",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "educación",
+            "propuesta",
+            "intercultural",
+            "género"
+          ]
+        },
+        {
+          "statement": "43 \nPropuesta N°25: Lucha contra la Violencia de Género y la Discriminación",
+          "original_quote": "43 \nPropuesta N°25: Lucha contra la Violencia de Género y la Discriminación",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "violencia",
+            "propuesta",
+            "lucha",
+            "contra",
+            "género"
+          ]
+        },
+        {
+          "statement": "44 \nPropuesta N° 26: Cuidados para una vida digna",
+          "original_quote": "44 \nPropuesta N° 26: Cuidados para una vida digna",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "digna",
+            "propuesta",
+            "cuidados",
+            "para",
+            "vida"
+          ]
+        },
+        {
+          "statement": "49 \nPropuesta N° 29: Soberanía, Integración Regional y Solidaridad Internacional",
+          "original_quote": "49 \nPropuesta N° 29: Soberanía, Integración Regional y Solidaridad Internacional",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "regional",
+            "solidaridad",
+            "propuesta",
+            "soberanía",
+            "integración"
+          ]
+        },
+        {
+          "statement": "50 \nPropuesta N° 30: Seguridad y Defensa Nacional: tarea de todos los peruanos  ...............................",
+          "original_quote": "50 \nPropuesta N° 30: Seguridad y Defensa Nacional: tarea de todos los peruanos  ...............................",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "seguridad",
+            "propuesta",
+            "nacional",
+            "defensa",
+            "tarea"
+          ]
+        },
+        {
+          "statement": "51 \nPropuesta N° 31: Los peruanos en el exterior son parte fundamental de la Nación",
+          "original_quote": "51 \nPropuesta N° 31: Los peruanos en el exterior son parte fundamental de la Nación",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "fundamental",
+            "propuesta",
+            "peruanos",
+            "exterior",
+            "parte"
+          ]
+        },
+        {
+          "statement": "Esto ha ocurrido en la gran minería  \nque tiene grandes beneficios tributarios, que tiene concesionadas más de 19 millones de hectáreas de \nnuestro territorio y que amenaza el agua que produce nuestro",
+          "original_quote": "Esto ha ocurrido en la gran minería  \nque tiene grandes beneficios tributarios, que tiene concesionadas más de 19 millones de hectáreas de \nnuestro territorio y que amenaza el agua que produce nuestros alimentos",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "minería",
+            "ocurrido",
+            "esto",
+            "tiene",
+            "gran"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Política Exterior",
+      "proposals": [
+        {
+          "statement": "4 \n Propuesta N° 20: ¡Internet para todas y todos, un derecho humano innegociable",
+          "original_quote": "4 \n Propuesta N° 20: ¡Internet para todas y todos, un derecho humano innegociable",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "todas",
+            "todos",
+            "propuesta",
+            "internet",
+            "para"
+          ]
+        },
+        {
+          "statement": "36 \nPropuesta N° 21: Salud de Calidad, Reforma integral y progresiva de la salud para acercar la atención a \ntodos y todas",
+          "original_quote": "36 \nPropuesta N° 21: Salud de Calidad, Reforma integral y progresiva de la salud para acercar la atención a \ntodos y todas",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "reforma",
+            "propuesta",
+            "integral",
+            "salud",
+            "calidad"
+          ]
+        },
+        {
+          "statement": "38 \nPropuesta N° 22: Revolución Educativa, reforma educativa de Calidad",
+          "original_quote": "38 \nPropuesta N° 22: Revolución Educativa, reforma educativa de Calidad",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "educativa",
+            "revolución",
+            "propuesta",
+            "reforma"
+          ]
+        },
+        {
+          "statement": "40 \nPropuesta N° 24: Educación intercultural con enfoque de género generalizada en todo el sistema \neducativo, y educación rural -intercultural -bilingüe de los pueblos originarios, con calidad y pert",
+          "original_quote": "40 \nPropuesta N° 24: Educación intercultural con enfoque de género generalizada en todo el sistema \neducativo, y educación rural -intercultural -bilingüe de los pueblos originarios, con calidad y pertinencia, \npara construir una educación liberadora cerrar las injustas brechas exi stentes",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "enfoque",
+            "educación",
+            "propuesta",
+            "intercultural",
+            "género"
+          ]
+        },
+        {
+          "statement": "43 \nPropuesta N°25: Lucha contra la Violencia de Género y la Discriminación",
+          "original_quote": "43 \nPropuesta N°25: Lucha contra la Violencia de Género y la Discriminación",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "violencia",
+            "propuesta",
+            "lucha",
+            "contra",
+            "género"
+          ]
+        },
+        {
+          "statement": "44 \nPropuesta N° 26: Cuidados para una vida digna",
+          "original_quote": "44 \nPropuesta N° 26: Cuidados para una vida digna",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "digna",
+            "propuesta",
+            "cuidados",
+            "para",
+            "vida"
+          ]
+        },
+        {
+          "statement": "49 \nPropuesta N° 29: Soberanía, Integración Regional y Solidaridad Internacional",
+          "original_quote": "49 \nPropuesta N° 29: Soberanía, Integración Regional y Solidaridad Internacional",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "regional",
+            "solidaridad",
+            "propuesta",
+            "soberanía",
+            "integración"
+          ]
+        },
+        {
+          "statement": "50 \nPropuesta N° 30: Seguridad y Defensa Nacional: tarea de todos los peruanos  ...............................",
+          "original_quote": "50 \nPropuesta N° 30: Seguridad y Defensa Nacional: tarea de todos los peruanos  ...............................",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "seguridad",
+            "propuesta",
+            "nacional",
+            "defensa",
+            "tarea"
+          ]
+        },
+        {
+          "statement": "51 \nPropuesta N° 31: Los peruanos en el exterior son parte fundamental de la Nación",
+          "original_quote": "51 \nPropuesta N° 31: Los peruanos en el exterior son parte fundamental de la Nación",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "fundamental",
+            "propuesta",
+            "peruanos",
+            "exterior",
+            "parte"
+          ]
+        },
+        {
+          "statement": "5 \n 31 Propuestas para Cambiar el Perú en el 20 31 \n \nPROPUESTAS DE POLÍTICA DEL CANDIDATO PRESIDENCIAL DE \nLA ALIANZA VENCEREMOS , RONALD ATENCIO , CON RELACIÓN \nAL PLAN PARA LA PATRIA DEL PERÍODO 20",
+          "original_quote": "5 \n 31 Propuestas para Cambiar el Perú en el 20 31 \n \nPROPUESTAS DE POLÍTICA DEL CANDIDATO PRESIDENCIAL DE \nLA ALIANZA VENCEREMOS , RONALD ATENCIO , CON RELACIÓN \nAL PLAN PARA LA PATRIA DEL PERÍODO 2026 -2031  \n \n \n1",
+          "page": 5,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "propuestas",
+            "perú",
+            "para",
+            "cambiar"
+          ]
+        }
+      ]
+    }
+  ],
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: salario mínimo. Indicadores a favor: 1, en contra: 0."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: impuestos a grandes fortuna. Indicadores a favor: 21, en contra: 0."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: beneficios tributarios. El documento critica los beneficios tributario, beneficios tributario, subsidio. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: pension. Indicadores a favor: 46, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "en_contra",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: Soberanía nacional, recuperación de los recurso, nacionaliza. Indicadores a favor: 0, en contra: 2."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de libre comercio vs proteccionismo en el plan de gobierno."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: matrimonio igualitario, mismo sexo. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: género, Género. Indicadores a favor: 23, en contra: 0."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "en_contra",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: migra. Indicadores a favor: 0, en contra: 11."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de pena de muerte en el plan de gobierno."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: concesion, privatiza. Indicadores a favor: 32, en contra: 0."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: renovable. Indicadores a favor: 16, en contra: 0."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: educación pública. Propuesta N° 21: Salud de Calidad, Reforma integral y progresiva de la salud para acercar la atención a todos y todas. Menciona explícitamente atención para 'todos y todas'. Propuesta N° 6: Reforma del Estado y descentralización. Menciona explícitamente la descentralización como objetivo. Propuesta N° 3: Justicia, reparación y memoria y Propuesta N° 4: Impunidad cero, gobierno transparente, promoción de la integridad públic. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: sis. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de transporte público gratuito en el plan de gobierno."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Internet. Indicadores a favor: 5, en contra: 0."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: Defensa. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: descentraliza. Indicadores a favor: 16, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Justicia, judicial. Indicadores a favor: 46, en contra: 0."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: popular. La palabra 'recuperación' implica renacionalización de recursos privatizados. No se encontró ninguna mención específica sobre matrimonio igualitario o uniones del mismo sexo. No se encontró ninguna mención sobre aborto o derechos reproductivos en las propuestas. Aunque mencionan recursos estratégicos, no hay propuestas específicas sobre energías renovables o política energética. Propuesta N° 29: Soberanía, Integración Regional y Solidaridad Internacional sugiere una postura favorable a la integración regional, lo que implica apertura migratoria. Propuesta N° 30: Seguridad y Defensa Nacional: tarea de todos los peruanos. Solo menciona defensa nacional como responsabilidad colectiva, sin especificar aumento de presupuesto. La gran minería tiene grandes beneficios tributarios. El documento critica los beneficios tributarios a la gran minería, sugiriendo oposición a subsidios empresariales. No se encontró ninguna propuesta específica sobre reforma del sistema de pensiones. Propuesta N° 22: Revolución Educativa, reforma educativa de Calidad. El término 'revolución educativa' y el contexto del partido sugieren fuerte apoyo a la educación pública. Propuesta N° 21: Salud de Calidad, Reforma integral y progresiva de la salud para acercar la atención a todos y todas. Menciona explícitamente atención para 'todos y todas'. Propuesta N° 6: Reforma del Estado y descentralización. Menciona explícitamente la descentralización como objetivo. Propuesta N° 3: Justicia. Indicadores a favor: 17, en contra: 0."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de límites a la reelección en el plan de gobierno."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "stances_updated_at": "2026-04-06T23:03:59.962894"
+}

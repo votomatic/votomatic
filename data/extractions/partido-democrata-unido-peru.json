@@ -1,0 +1,653 @@
+{
+  "party": "Unido Perú",
+  "source_file": "partido-democrata-unido-peru.txt",
+  "extracted_at": "2026-04-06",
+  "topics": [
+    {
+      "name": "Reforma del Estado",
+      "proposals": [
+        {
+          "title": "Reducción del tamaño del Estado",
+          "description": "Fusión de ministerios y descentralización a regiones/provincias",
+          "quote": "Reducción del Estado bajo la fusión de ministerios. Se descentralizarán los ministerios a las regiones y/o provincias",
+          "measurable": false,
+          "specificity": "low"
+        },
+        {
+          "title": "Austeridad en gasto público",
+          "description": "Reducir gasto público empezando por publicidad gubernamental, redirigiendo presupuesto a educación, salud y agricultura",
+          "quote": "Se reducirá el gasto público empezando con la publicidad del gobierno, dicho presupuesto será destinado a la educación, salud y agricultura",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Creación de oficinas especializadas",
+          "description": "Crear Oficina Central de Informática, Oficina Nacional de Anticorrupción, y Oficina Nacional de Servicios Básicos, Saneamiento y titulaciones",
+          "quote": "Se crearán 3 oficinas especializadas, Oficina Central de Informática, Oficina Nacional de Anticorrupción, Oficina Nacional de Servicios Básicos, Saneamiento y titulaciones",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Pensión 65 universal",
+          "description": "Crear pensión universal para adultos mayores con aumento de presupuesto",
+          "quote": "Se creará la PENSIÓN 65 universal con aumento de presupuesto",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Digitalización del Estado",
+          "description": "Simplificación administrativa radical con responsabilidad funcional y civil",
+          "quote": "Digitalización del Estado, simplificación administrativa radical bajo responsabilidad funcional y civil",
+          "measurable": false,
+          "specificity": "low"
+        },
+        {
+          "title": "Titulación automática de tierras",
+          "description": "Titulación automática tras 10 años de posesión continua, libre y pacífica",
+          "quote": "La Titulación de tierras será automática pasado los 10 años de posesión previa acreditación de la posesión continua, libre y pacífica",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Tren bala del Pacífico",
+          "description": "Construcción de tren de alta velocidad desde Tumbes a Tacna mediante esquema G2G",
+          "quote": "Inicio de la construcción del Tren del Pacífico de alta velocidad desde Tumbes a Tacna: A través del esquema de inversión G2G, Tren bala",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Eliminación de privilegios",
+          "description": "Eliminar vales de combustible, seguridad y choferes para altos funcionarios, congresistas y oficiales",
+          "quote": "Se eliminan los privilegios, vales de combustibles especial para los altos funcionarios, congresistas y oficiales de las fuerzas armadas y policiales",
+          "measurable": false,
+          "specificity": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Seguridad Ciudadana y Anticorrupción",
+      "proposals": [
+        {
+          "title": "Servicio militar obligatorio",
+          "description": "Servicio militar obligatorio para jóvenes que no estudian ni trabajan",
+          "quote": "Servicio militar obligatorio para los que no estudian ni trabajan",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Cadena perpetua ampliada",
+          "description": "Cadena perpetua para corruptos, sicarios, extorsionadores, secuestradores, homicidio calificado, robo agravado y violadores",
+          "quote": "Cadena perpetua para corruptos, sicarios, cobro de cupos, extorsionadores, secuestradores, homicidio calificado, robo agravado y violadores",
+          "measurable": false,
+          "specificity": "high"
+        },
+        {
+          "title": "Jueces sin rostro",
+          "description": "Implementar jueces sin rostro para casos de sicariato, extorsión y secuestro",
+          "quote": "Implementación de los jueces sin rostro para sicarios, cobro de cupos, extorsionadores y secuestradores",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Pena efectiva desde 14 años",
+          "description": "Pena efectiva desde los 14 años para delitos graves como violación, robo, sicariato y extorsión",
+          "quote": "Se implementará la pena efectiva desde los 14 años de edad por los delitos de violación contra la libertad sexual, robo, sicariato, cobro de cupos, extorsionadores y secuestradores",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Mega cárceles industriales",
+          "description": "Construcción de mega cárceles productivas para 60mil presos con fábricas y talleres autosostenibles",
+          "quote": "Construcción de mega cárceles industriales, productivas y emprendedoras en las zonas más altas y los desiertos para 60mil presos",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Cámaras con reconocimiento facial",
+          "description": "Instalación de cámaras en todas las ciudades con identificador facial y drones de alta tecnología",
+          "quote": "Se instalarán las cámaras en todas las ciudades con identificador facial, la persecución será con dones de alta tecnología",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Retiro de la CADH y referéndum sobre pena de muerte",
+          "description": "Someter a referéndum el retiro de la Convención Americana de Derechos Humanos y la pena de muerte",
+          "quote": "El Retiro de la Convención Americana de Derechos Humanos, la pena de muerte y el cambio constitucional serán sometido a referéndum",
+          "measurable": false,
+          "specificity": "high"
+        },
+        {
+          "title": "Muerte civil para corruptos",
+          "description": "Inhabilitación de por vida y embargo de bienes para todos los corruptos",
+          "quote": "Muerte civil, inhabilitación de por vida, embargo de bienes y propiedades para todos los corruptos",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Secretaría Nacional de Licenciados FF.AA.",
+          "description": "Crear Secretaría Nacional de Licenciados con pensión mensual, beneficios educativos y de vivienda",
+          "quote": "Se creará la Secretaría Nacional de Licenciados de las FF. AA. y PNP. Se implementará una pensión mensual para los licenciados de las FF. AA. sin discriminación",
+          "measurable": false,
+          "specificity": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Economía",
+      "proposals": [
+        {
+          "title": "Reducción del gasto público al 20% del PBI",
+          "description": "Reducción drástica del gasto público al 20% del PBI",
+          "quote": "Reducción drástica del gasto público, al 20% del PBI",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Reducción de impuestos",
+          "description": "Implementar reducción general de impuestos",
+          "quote": "Se implementará la reducción de impuestos",
+          "measurable": false,
+          "specificity": "low"
+        },
+        {
+          "title": "Economía social de mercado",
+          "description": "Modelo económico centrado en persona y familia, eliminando monopolios y oligopolios bajo capitalismo popular",
+          "quote": "El modelo económico será la economía social de mercado centrada en la persona, en la familia, en su dignidad y prosperidad; eliminando el monopolio y el oligopolio, bajo el sistema del capitalismo popular",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Reforma energética",
+          "description": "Eliminar subsidios económicos, implementar tarifas realistas y subsidio a la demanda para familias necesitadas",
+          "quote": "Reforma energética, eliminar los subsidios económicos, implementar esquemas tarifarios realistas, subsidio a la demanda para aquellas familias que lo requieran",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Creación del Banco Mypes",
+          "description": "Crear banco especializado para micro, pequeñas y medianas empresas",
+          "quote": "Se creará el Banco Mypes",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Límites a intereses bancarios",
+          "description": "Establecer reglas y límites a los intereses cobrados por bancos",
+          "quote": "Se establecerán reglas y límites a los intereses de los bancos",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Hambre cero",
+          "description": "Programa para eliminar el hambre en el país",
+          "quote": "Hambre cero",
+          "measurable": false,
+          "specificity": "low"
+        },
+        {
+          "title": "Reestructuración tributación minera",
+          "description": "Reforma total del sistema tributario para el sector minero",
+          "quote": "Se reestructurará en su totalidad la tributación minera",
+          "measurable": false,
+          "specificity": "low"
+        }
+      ]
+    },
+    {
+      "name": "Educación",
+      "proposals": [
+        {
+          "title": "Inversión del 6% del PBI en educación",
+          "description": "Aumentar gradualmente la inversión en educación hasta el 6% del PBI",
+          "quote": "Se invertirá hasta el 6% de PBI en la educación de manera gradual",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Currículo 75% práctico",
+          "description": "Cambio curricular con 75% práctica y 25% teoría, enfocado en industrialización, robótica e IA",
+          "quote": "Cambio del currículo educativa de la Educación Básica, el 75% será practica y el 25% teóricas, destinadas a la investigación, industrialización, fabricación, ensamblaje, financiero, tributario, innovación tecnológica, robótica, inteligencia artificial",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Educación gratuita integral",
+          "description": "Educación gratuita incluyendo transporte, uniforme, zapatos, alimentación y libros",
+          "quote": "La educación será gratuita incluido el transporte, uniforme, zapatos, la alimentación con productos de la zona, y libros",
+          "measurable": false,
+          "specificity": "high"
+        },
+        {
+          "title": "Eliminación de ideología de género",
+          "description": "Eliminar la ideología de género del currículo educativo",
+          "quote": "Se eliminará la ideología de género",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Ingreso libre a universidades públicas",
+          "description": "Ingreso libre y gratuito a universidades públicas",
+          "quote": "El ingreso a las universidades públicas será libres y gratuitas",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Nombramiento automático de docentes",
+          "description": "Nombramiento automático de todos los docentes contratados",
+          "quote": "Se implementará el nombramiento automático de todos los docentes contratados",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Colegios técnicos industriales",
+          "description": "Crear colegios técnicos industriales en secundaria con educación vocacional y politécnica",
+          "quote": "Se crearán los colegios técnicos industriales en la secundaria y se implementará la educación financiera, vocacional y politécnica",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Subsidio de pasaje estudiantil",
+          "description": "Subsidio del pasaje completo para estudiantes de todos los niveles",
+          "quote": "Se subsidiará el pasaje completo de los estudiantes de todos los niveles",
+          "measurable": false,
+          "specificity": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Salud",
+      "proposals": [
+        {
+          "title": "Hospital nivel 1, 2 y 3 por provincia",
+          "description": "Descentralizar la salud con hospital de todos los niveles en cada provincia con equipos de última tecnología",
+          "quote": "Se descentralizará la salud, cada provincia tendrá un hospital de nivel1, 2 y 3 con infraestructura, equipo tecnológico, operación a corazón abierto, sala de cirugías, Hemodinamia y medicinas",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Descentralización del Hospital Neoplásica",
+          "description": "Descentralizar el Hospital Neoplásica con infraestructura y equipos a nivel nacional",
+          "quote": "El Hospital Neoplásica será descentralizado con infraestructura, equipo tecnológico y medicamentos",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "SERUMS remunerado",
+          "description": "El servicio rural y urbano marginal de salud será remunerado",
+          "quote": "El SERUMS será remunerado",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Historia clínica única",
+          "description": "Implementar sistema de historia clínica única para todo el país",
+          "quote": "Se promoverá la historia clínica única",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Universalización del servicio de salud",
+          "description": "Implementar cobertura universal del servicio de salud",
+          "quote": "Se implementará la universalización el servicio de salud",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Centros de Salud Mental",
+          "description": "Crear centros de salud mental con orientación pre matrimonial para prevenir violencia familiar",
+          "quote": "Se crearán los Centros de Salud Mental a fin de brindar ayuda y orientación pre matrimonial a través del Ministerio de Salud para buscar el perfil de parejas felices",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Hospitales veterinarios y albergues",
+          "description": "Crear hospitales veterinarios, albergues y programa de esterilización de animales",
+          "quote": "Se crearán los hospitales veterinarios, albergues, esterilización de animales",
+          "measurable": false,
+          "specificity": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Agricultura y Ganadería",
+      "proposals": [
+        {
+          "title": "Segunda reforma agraria",
+          "description": "Realizar una segunda reforma agraria",
+          "quote": "Se realizará la segunda reforma agraria",
+          "measurable": false,
+          "specificity": "low"
+        },
+        {
+          "title": "Banco Mypes para créditos agropecuarios",
+          "description": "Crear Banco Mypes para otorgar créditos agropecuarios universales y seguro agropecuario con bajos intereses",
+          "quote": "Para el financiamiento e inversión de la agropecuaria se creará el Banco Mypes a fin de otorgar los créditos agropecuarios universales y el Seguro Agropecuario con bajos porcentajes de interés",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Eliminación de impuestos agrícolas",
+          "description": "Eliminar los impuestos al sector agrícola",
+          "quote": "Se eliminarán los impuestos agrícolas",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Laboratorio agropecuario con tecnología de punta",
+          "description": "Implementar laboratorio agropecuario con equipos de última generación para asesoramiento técnico",
+          "quote": "La agricultura será tecnificada bajo la implementación del Laboratorio Agropecuario con equipos de última generación y tecnología de punta",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Instituto de investigación agrícola",
+          "description": "Crear instituto de investigación agrícola para capacitación y formación de corporaciones agrícolas",
+          "quote": "Se creará el instituto de investigación agrícola para la capacitación de agricultor en la producción de la tierra",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Represas y canales de irrigación",
+          "description": "Implementar represas y construir canales de irrigación con riego tecnificado",
+          "quote": "Se implementarán represas de lagunas y ríos, se construirán canales de irrigación en el menor tiempo posible, para luego utilizar el agua responsablemente mediante el riego por aspersión, goteo",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Protección de 200 millas marítimas",
+          "description": "Proteger las 200 millas marítimas del territorio peruano",
+          "quote": "Protegeremos las 200 millas marítimas",
+          "measurable": false,
+          "specificity": "low"
+        },
+        {
+          "title": "Apoyo a pesca artesanal",
+          "description": "Apoyo directo a la pesca artesanal",
+          "quote": "Apoyo directo a la pesca artesanal",
+          "measurable": false,
+          "specificity": "low"
+        }
+      ]
+    },
+    {
+      "name": "Industria y Tecnología",
+      "proposals": [
+        {
+          "title": "Comando técnico de industrialización",
+          "description": "Crear comando técnico articulado entre Ejecutivo, ministerios y cámaras de comercio para impulsar industrialización",
+          "quote": "Decisión política, implementar un comando técnico de la Industrialización, partiendo del Ejecutivo, Ministerio de Comercio Exterior y Turismo, Cancillerías, Ministerio de Energía y Minas, Producción, Trabajo, Cámara de comercio",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Terrenos industriales con título de propiedad",
+          "description": "Implementar terrenos industriales con seguridad jurídica, título de propiedad y saneamiento físico legal",
+          "quote": "Seguridad jurídica de los terrenos, implementación de terrenos industriales, con título de propiedad, saneamiento físico legal",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Exoneración de impuestos para industrialización",
+          "description": "Exonerar de impuestos las actividades de industrialización",
+          "quote": "Exoneración de impuestos para la industrialización",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Planta industrializadora de fertilizantes",
+          "description": "Implementar planta para industrialización de fertilizantes",
+          "quote": "Se implementará la planta industrializadora de fertilizantes",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Planta industrializadora de minerales",
+          "description": "Implementar planta para industrialización de minerales",
+          "quote": "Se implementará la planta industrializadora de minerales",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Planta industrializadora de hidrocarburos",
+          "description": "Implementar planta para industrialización de hidrocarburos",
+          "quote": "Se implementará la planta industrializadora hidrocarburos",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Flexibilización laboral",
+          "description": "Cambio de legislación sindical para optimizar crecimiento de empresa con trabajadores y riesgos compartidos",
+          "quote": "Flexibilizacion laboral, cambio de la legislación de los sindicatos. Optimizar, buscar que la empresa crezca junto a los trabajadores con riesgos compartidos",
+          "measurable": false,
+          "specificity": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Infraestructura",
+      "proposals": [
+        {
+          "title": "Tren bala y levitación magnética",
+          "description": "Construcción de transporte ferroviario incluyendo tren bala y trenes de levitación magnética",
+          "quote": "Construcción e implementación el transporte ferroviario, tren bala y trenes de levitación magnética",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Tren transoceánico",
+          "description": "Construcción del tren transoceánico Salaverry-Huamachuco-La Libertad-San Martín-Loreto",
+          "quote": "Construcción del tren trans oceánico Salaverry, Huamachuco, la libertad, San Martín – Loreto",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Mega hospitales por región",
+          "description": "Construcción de mega hospitales nivel 1, 2 y 3 en cada región",
+          "quote": "Construcción de mega hospitales en cada región, nivel 1, nivel 2 y nivel 3",
+          "measurable": true,
+          "specificity": "high"
+        },
+        {
+          "title": "Aeropuertos internacionales",
+          "description": "Construcción de nuevos aeropuertos internacionales",
+          "quote": "Construir aeropuertos internacionales",
+          "measurable": false,
+          "specificity": "low"
+        },
+        {
+          "title": "Carreteras y autopistas asfaltadas",
+          "description": "Construcción de nuevas carreteras y autopistas, toda carretera debe estar asfaltada",
+          "quote": "Construcción de nuevas carreteras, autopistas, toda carretera debe estar asfaltada",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Teleféricos",
+          "description": "Construcción de teleféricos",
+          "quote": "Construir teleféricos",
+          "measurable": false,
+          "specificity": "low"
+        },
+        {
+          "title": "Puentes aéreos y túneles subterráneos",
+          "description": "Construcción de puentes aéreos, marinos y túneles debajo de las ciudades",
+          "quote": "Se construirán los puentes aéreos y en el mar; asimismo, se construirán túneles debajo de las ciudades, obras subterráneas",
+          "measurable": false,
+          "specificity": "medium"
+        },
+        {
+          "title": "Universidades técnicas de industrialización",
+          "description": "Crear nuevas universidades con carreras técnicas de emprendimiento, industrialización y fabricación",
+          "quote": "Crear nuevas universidades con carreras técnicas de emprendimiento, industrialización y fabricación",
+          "measurable": false,
+          "specificity": "medium"
+        }
+      ]
+    }
+  ],
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: salario mínimo. Indicadores a favor: 1, en contra: 2."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de impuestos a grandes fortunas en el plan de gobierno."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: subsidio. Indicadores a favor: 2, en contra: 2."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: pensión, PENSIÓN. Indicadores a favor: 1, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de libre comercio vs proteccionismo en el plan de gobierno."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: matrimonio igualitario. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "en_contra",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: género. Indicadores a favor: 0, en contra: 1."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: migra. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Cadena perpetua. Indicadores a favor: 5, en contra: 0."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: privatiza. Indicadores a favor: 5, en contra: 0."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: fósil, renovable. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: universidades públic, educación será gratuita incluido el transporte, uniforme, zapatos, la alimentación con productos de la zona, y libros. El ingreso a las universidades públic, educación será gratuita incluido el transporte, uniforme, zapatos, la alimentación con productos de la zona, y libros. El ingreso a las universidades públicas será libres y gratuit. Indicadores a favor: 2, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de sistema de salud universal en el plan de gobierno."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: subsidios económicos, implementar esquemas tarifarios realistas Se creará la PENSIÓN 65 universal con aumento de presupuesto La educación será gratuita incluido el transporte, transporte, uniforme, zapatos, la alimentación con productos de la zona, y libros. El ingreso a las universidades públicas será libres y gratuit. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de internet como derecho básico en el plan de gobierno."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de aumento del gasto militar en el plan de gobierno."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "en_contra",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: descentraliza, region. Indicadores a favor: 0, en contra: 2."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de reforma del sistema judicial en el plan de gobierno."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de elección popular de jueces en el plan de gobierno."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de límites a la reelección en el plan de gobierno."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "stances_updated_at": "2026-04-06T23:04:15.670061"
+}

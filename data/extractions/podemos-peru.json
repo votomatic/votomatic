@@ -1,0 +1,409 @@
+{
+  "party": "Podemos Perú",
+  "source_pdf": "data/pdfs/podemos-peru.pdf",
+  "extracted_at": "2026-04-06T07:40:41.715576Z",
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: salario mínimo. Indicadores a favor: 5, en contra: 3."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: impuestos a grandes fortuna. Indicadores a favor: 6, en contra: 3."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: subsidio. Indicadores a favor: 6, en contra: 3."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: pension. Indicadores a favor: 8, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: protección efectiva a víctimas, denunciantes y testigos contra el crimen Protección efectiva a víctimas, denunciantes, testigos ya los que cooperan contra el crimen Titular un millón de viviendas adicionales durante el período 2026-2031 Un millón de viviendas adicionales tituladas Proveer acceso a agua potable y saneamiento para más de un millón de personas Más de un millón de personas con agua y desagüe Implementar formalización masiva y gratuita de propiedad de vivienda urbana y rural Formalización masiva y gratuita de la propiedad de la vivienda urbana y rural Aumentar presupuesto a universidades públicas para duplicar vacantes disponibles Aumento de presupuesto a universidades públicas para duplicar vacantes Alcanzar 50% de estudiantes con logro satisfactorio en lectura y matemática al 2031 50 % en lectura y matemática al 2031 Implementar plan nacional de recuperación de aprendizajes con acompañamiento docente focalizado Plan nacional de recuperación de aprendizajes con acompañamiento docente focalizado Intervención priorizada de infraestructura escolar en locales con condiciones inadecuadas Intervención priorizada de infraestructura escolar en locales en condiciones inadecuadas Implementar programa de conectividad educativa y equipamiento digital con reporte público anual Programa de conectividad educativa y equipamiento digital con reporte público anual Reducir la prevalencia de anemia a 0%, desnutrición infantil a ≤8% y la incidencia de tuberculosis a ≤5% al 2031 (1) 0 % (2)≤ 8 % y (3)≤ 5% al 2031 Fortalecer el primer nivel de atención en salud cerca de donde vive la población Fortalecer el primer nivel de atención para resolver la mayoría de los problemas de salud cerca de donde vive la gente Garantizar acceso universal y oportuno a los servicios de salud Acceso universal y oportuno a los servicios de salud Implementar programa de protección integral de primera infancia 'Anemia Cero' Protección integral de la primera infancia: 'Anemia Cero' Fusionar, escindir o desconcentrar 4 ministerios y 10 programas públicos 4 Ministerios y 10 programas públicos Crear el Ministerio de Industria y Producción Creación del Ministerio de Industria. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: matrimonio igualitario. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: género. Indicadores a favor: 5, en contra: 0."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "en_contra",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: migra. Indicadores a favor: 0, en contra: 2."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de pena de muerte en el plan de gobierno."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: privatiza. Indicadores a favor: 5, en contra: 0."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: fósil, renovable. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: universidades públicas para duplicar vacantes disponibles Aumento de presupuesto a universidades públicas para duplicar vacantes Alcanzar 50% de estudiantes con logro satisfactorio en lectura y matemática al 2031 50 % en lectura y matemática al 2031 Implementar plan nacional de recuperación de aprendizajes con acompañamiento docente focalizado Plan nacional de recuperación de aprendizajes con acompañamiento docente focalizado Intervención priorizada de infraestructura escolar en locales con condiciones inadecuadas Intervención priorizada de infraestructura escolar en locales en condiciones inadecuadas Implementar programa de conectividad educativa y equipamiento digital con reporte público anual Programa de conectividad educativa y equipamiento digital con reporte público anual Reducir la prevalencia de anemia a 0%, desnutrición infantil a ≤8% y la incidencia de tuberculosis a ≤5% al 2031 (1) 0 % (2)≤ 8 % y (3)≤ 5% al 2031 Fortalecer el primer nivel de atención en salud cerca de donde vive la población Fortalecer el primer nivel de atención para resolver la mayoría de los problemas de salud cerca de donde vive la gente Garantizar acceso universal y oportuno a los servicios de salud Acceso universal y oportuno a los servicios de salud Implementar programa de protección integral de primera infancia 'Anemia Cero' Protección integral de la primera infancia: 'Anemia Cero' Fusionar, escindir o desconcentrar 4 ministerios y 10 programas públicos 4 Ministerios y 10 programas públicos Crear el Ministerio de Industria y Producción Creación del Ministerio de Industria y Producción No se encontró mención explícita sobre aumento del salario mínimo No se encontró mención explícita sobre impuestos a grandes fortunas No hay declaraciones explícitas sobre privatización de servicios públicos No se encontró mención sobre matrimonio igualitario No se encontró mención sobre despenalización del aborto No se encontró mención explícita sobre energías renovables o combustibles fósiles No se encontró mención sobre política migratoria No se encontró mención explícita sobre aumento del gasto militar No se encontró mención sobre subsidios a empresas privadas No se encontró mención sobre reforma del sistema de pensiones Aumento de presupuesto a universidades públicas para duplicar vacantes; 50% en lectura y matemática al 2031; Plan nacional de recuperación de aprendizajes Acceso universal y oportuno a los servicios de salud; Fortalecer el primer nivel de atención; Reducir anemia a 0%, desnutrición infantil a ≤8% No hay mención explícita sobre descentralización del gobierno Fusionar, escindir o desconcentrar 4 Ministerios y 10 programas públic. Indicadores a favor: 8, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: sis. Indicadores a favor: 4, en contra: 0."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de transporte público gratuito en el plan de gobierno."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: acceso a agua potable y saneamiento para más de un millón de personas Más de un millón de personas con agua y desagüe Implementar formalización masiva y gratuita de propiedad de vivienda urbana y rural Formalización masiva y gratuita de la propiedad de la vivienda urbana y rural Aumentar presupuesto a universidades públicas para duplicar vacantes disponibles Aumento de presupuesto a universidades públicas para duplicar vacantes Alcanzar 50% de estudiantes con logro satisfactorio en lectura y matemática al 2031 50 % en lectura y matemática al 2031 Implementar plan nacional de recuperación de aprendizajes con acompañamiento docente focalizado Plan nacional de recuperación de aprendizajes con acompañamiento docente focalizado Intervención priorizada de infraestructura escolar en locales con condiciones inadecuadas Intervención priorizada de infraestructura escolar en locales en condiciones inadecuadas Implementar programa de conectividad educativa y equipamiento digital con reporte público anual Programa de conectividad educativa y equipamiento digital, conectividad. Indicadores a favor: 4, en contra: 0."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: militar. Indicadores a favor: 6, en contra: 3."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: descentraliza. Indicadores a favor: 5, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de reforma del sistema judicial en el plan de gobierno."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de elección popular de jueces en el plan de gobierno."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: período 2026-2031 Un millón de viviendas adicionales tituladas Proveer acceso a agua potable y saneamiento para más de un millón de personas Más de un millón de personas con agua y desagüe Implementar formalización masiva y gratuita de propiedad de vivienda urbana y rural Formalización masiva y gratuita de la propiedad de la vivienda urbana y rural Aumentar presupuesto a universidades públicas para duplicar vacantes disponibles Aumento de presupuesto a universidades públicas para duplicar vacantes Alcanzar 50% de estudiantes con logro satisfactorio en lectura y matemática al 2031 50 % en lectura y matemática al 2031 Implementar plan nacional de recuperación de aprendizajes con acompañamiento docente focalizado Plan nacional de recuperación de aprendizajes con acompañamiento docente focalizado Intervención priorizada de infraestructura escolar en locales con condiciones inadecuadas Intervención priorizada de infraestructura escolar en locales en condiciones inadecuadas Implementar programa de conectividad educativa y equipamiento digital con reporte público anual Programa de conectividad educativa y equipamiento digital con reporte público anual Reducir la prevalencia de anemia a 0%, desnutrición infantil a ≤8% y la incidencia de tuberculosis a ≤5% al 2031 (1) 0 % (2)≤ 8 % y (3)≤ 5% al 2031 Fortalecer el primer nivel de atención en salud cerca de donde vive la población Fortalecer el primer nivel de atención para resolver la mayoría de los problemas de salud cerca de donde vive la gente Garantizar acceso universal y oportuno a los servicios de salud Acceso universal y oportuno a los servicios de salud Implementar programa de protección integral de primera infancia 'Anemia Cero' Protección integral de la primera infancia: 'Anemia Cero' Fusionar, escindir o desconcentrar 4 ministerios y 10 programas públicos 4 Ministerios y 10 programas públicos Crear el Ministerio de Industria y Producción Creación del Ministerio de Industria y Producción No se encontró mención explícita sobre aumento del salario mínimo No se encontró mención explícita sobre impuestos a grandes fortunas No hay declaraciones explícitas sobre privatización de servicios públicos No se encontró mención sobre matrimonio igualitario No se encontró mención sobre despenalización del aborto No se encontró mención explícita sobre energías renovables o combustibles fósiles No se encontró mención sobre política migratoria No se encontró mención explícita sobre aumento del gasto militar No se encontró mención sobre subsidios a empresas privadas No se encontró mención sobre reforma del sistema de pensiones Aumento de presupuesto a universidades públicas para duplicar vacantes; 50% en lectura y matemática al 2031; Plan nacional de recuperación de aprendizajes Acceso universal y oportuno a los servicios de salud; Fortalecer el primer nivel de atención; Reducir anemia a 0%, desnutrición infantil a ≤8% No hay mención explícita sobre descentralización del gobierno. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Seguridad Ciudadana y Defensa del Estado de Derecho",
+      "proposals": [
+        {
+          "statement": "Reducir la tasa de victimización urbana de la población mayor de 15 años",
+          "original_quote": "Disminución de la tasa de victimización urbana de la población mayor de 15 años",
+          "page": 47,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "victimización",
+            "seguridad",
+            "delincuencia"
+          ]
+        },
+        {
+          "statement": "Fortalecer equipos especializados contra extorsión y sicariato con inteligencia e investigación criminal",
+          "original_quote": "Fortalecer equipos con inteligencia e investigación criminal para desarticular organizaciones",
+          "page": 49,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "extorsión",
+            "sicariato",
+            "inteligencia criminal"
+          ]
+        },
+        {
+          "statement": "Implementar protección efectiva a víctimas, denunciantes y testigos contra el crimen",
+          "original_quote": "Protección efectiva a víctimas, denunciantes, testigos ya los que cooperan contra el crimen",
+          "page": 49,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "protección",
+            "víctimas",
+            "testigos"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Vivienda y Servicios Básicos",
+      "proposals": [
+        {
+          "statement": "Titular un millón de viviendas adicionales durante el período 2026-2031",
+          "original_quote": "Un millón de viviendas adicionales tituladas",
+          "page": 53,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "vivienda",
+            "titulación",
+            "propiedad"
+          ]
+        },
+        {
+          "statement": "Proveer acceso a agua potable y saneamiento para más de un millón de personas",
+          "original_quote": "Más de un millón de personas con agua y desagüe",
+          "page": 54,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "agua potable",
+            "saneamiento",
+            "desagüe"
+          ]
+        },
+        {
+          "statement": "Implementar formalización masiva y gratuita de propiedad de vivienda urbana y rural",
+          "original_quote": "Formalización masiva y gratuita de la propiedad de la vivienda urbana y rural",
+          "page": 53,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "formalización",
+            "propiedad",
+            "vivienda"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Educación Superior",
+      "proposals": [
+        {
+          "statement": "Aumentar presupuesto a universidades públicas para duplicar vacantes disponibles",
+          "original_quote": "Aumento de presupuesto a universidades públicas para duplicar vacantes",
+          "page": 56,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "universidades públicas",
+            "vacantes",
+            "presupuesto"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Educación Básica",
+      "proposals": [
+        {
+          "statement": "Alcanzar 50% de estudiantes con logro satisfactorio en lectura y matemática al 2031",
+          "original_quote": "50 % en lectura y matemática al 2031",
+          "page": 59,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "educación",
+            "lectura",
+            "matemática",
+            "aprendizaje"
+          ]
+        },
+        {
+          "statement": "Implementar plan nacional de recuperación de aprendizajes con acompañamiento docente focalizado",
+          "original_quote": "Plan nacional de recuperación de aprendizajes con acompañamiento docente focalizado",
+          "page": 59,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "aprendizajes",
+            "docentes",
+            "acompañamiento"
+          ]
+        },
+        {
+          "statement": "Intervención priorizada de infraestructura escolar en locales con condiciones inadecuadas",
+          "original_quote": "Intervención priorizada de infraestructura escolar en locales en condiciones inadecuadas",
+          "page": 59,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "infraestructura",
+            "escuelas",
+            "condiciones"
+          ]
+        },
+        {
+          "statement": "Implementar programa de conectividad educativa y equipamiento digital con reporte público anual",
+          "original_quote": "Programa de conectividad educativa y equipamiento digital con reporte público anual",
+          "page": 59,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "conectividad",
+            "digital",
+            "equipamiento"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salud",
+      "proposals": [
+        {
+          "statement": "Reducir la prevalencia de anemia a 0%, desnutrición infantil a ≤8% y la incidencia de tuberculosis a ≤5% al 2031",
+          "original_quote": "(1) 0 % (2)≤ 8 % y (3)≤ 5% al 2031",
+          "page": 62,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "anemia",
+            "desnutrición",
+            "tuberculosis",
+            "salud infantil"
+          ]
+        },
+        {
+          "statement": "Fortalecer el primer nivel de atención en salud cerca de donde vive la población",
+          "original_quote": "Fortalecer el primer nivel de atención para resolver la mayoría de los problemas de salud cerca de donde vive la gente",
+          "page": 60,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "primer nivel",
+            "atención primaria",
+            "salud"
+          ]
+        },
+        {
+          "statement": "Garantizar acceso universal y oportuno a los servicios de salud",
+          "original_quote": "Acceso universal y oportuno a los servicios de salud",
+          "page": 61,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "acceso",
+            "universal",
+            "servicios de salud"
+          ]
+        },
+        {
+          "statement": "Implementar programa de protección integral de primera infancia 'Anemia Cero'",
+          "original_quote": "Protección integral de la primera infancia: 'Anemia Cero'",
+          "page": 62,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "primera infancia",
+            "anemia",
+            "protección"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Reforma Institucional y Lucha contra la Corrupción",
+      "proposals": [
+        {
+          "statement": "Fusionar, escindir o desconcentrar 4 ministerios y 10 programas públicos",
+          "original_quote": "4 Ministerios y 10 programas públicos",
+          "page": 68,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "reforma",
+            "ministerios",
+            "programas",
+            "fusión"
+          ]
+        },
+        {
+          "statement": "Crear el Ministerio de Industria y Producción",
+          "original_quote": "Creación del Ministerio de Industria y Producción",
+          "page": 68,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "ministerio",
+            "industria",
+            "producción"
+          ]
+        }
+      ]
+    }
+  ],
+  "stances_updated_at": "2026-04-06T23:04:32.733616"
+}

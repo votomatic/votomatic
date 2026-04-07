@@ -1,0 +1,1622 @@
+{
+  "party": "Libertad Popular",
+  "source_pdf": "/Users/ursulacervantes/Documents/Code/votomatic/data/pdfs/libertad-popular.pdf",
+  "extracted_at": "2026-04-05T22:42:28.148026",
+  "topics": [
+    {
+      "topic": "Economía",
+      "proposals": [
+        {
+          "statement": "Respecto a la pobreza es importante tener en cuenta lo señalado por Abhijit Baner jee y Esther \nDuflo4 quienes señalan que la pobreza no requiere grandes teorías económicas ni soluciones \nmilagrosas ,",
+          "original_quote": "Respecto a la pobreza es importante tener en cuenta lo señalado por Abhijit Baner jee y Esther \nDuflo4 quienes señalan que la pobreza no requiere grandes teorías económicas ni soluciones \nmilagrosas , sino un  entendimiento detallado y granular de la vida y las decisiones de los \npobres, utilizando experimentos controlados para diseñar e implementar políticas públicas \nbasadas en evidencia rigurosa",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "respecto",
+            "cuenta",
+            "importante",
+            "tener",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "Libertad Popular en dicho marco propone fortalecer las instituciones para eliminar toda figura \nde monopolio u oligopolio , apoyar intensamente los emprendimiento y llevar servicios e \n \n1 Acemoglu, D",
+          "original_quote": "Libertad Popular en dicho marco propone fortalecer las instituciones para eliminar toda figura \nde monopolio u oligopolio , apoyar intensamente los emprendimiento y llevar servicios e \n \n1 Acemoglu, D., & Robinson, J",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "popular",
+            "dicho",
+            "libertad",
+            "propone",
+            "marco"
+          ]
+        },
+        {
+          "statement": "La separación de poderes y su independencia es fundamental para la vigencia de un \nEstado de Derecho y es indispensable para garantizar la libertad",
+          "original_quote": "La separación de poderes y su independencia es fundamental para la vigencia de un \nEstado de Derecho y es indispensable para garantizar la libertad",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "separación",
+            "para",
+            "independencia",
+            "poderes",
+            "fundamental"
+          ]
+        },
+        {
+          "statement": "La formación de una cultura democrática y de una conciencia constitucional, también es \nun compromiso cívico de Libertad Popular, por esa razón condenamos cualquier forma de \ngobierno dictatorial",
+          "original_quote": "La formación de una cultura democrática y de una conciencia constitucional, también es \nun compromiso cívico de Libertad Popular, por esa razón condenamos cualquier forma de \ngobierno dictatorial",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "conciencia",
+            "constitucional",
+            "formación",
+            "democrática",
+            "cultura"
+          ]
+        },
+        {
+          "statement": "La opción dem ocrática y la defensa de la libertad en el Perú son compromisos \npermanentes de Libertad Popular",
+          "original_quote": "La opción dem ocrática y la defensa de la libertad en el Perú son compromisos \npermanentes de Libertad Popular",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "ocrática",
+            "libertad",
+            "opción",
+            "defensa",
+            "perú"
+          ]
+        },
+        {
+          "statement": "El acceso a la información pública es la vía para garantizar estas \nlibertades",
+          "original_quote": "El acceso a la información pública es la vía para garantizar estas \nlibertades",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "acceso",
+            "para",
+            "garantizar",
+            "pública",
+            "información"
+          ]
+        },
+        {
+          "statement": "Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación, \nsalud, administración de justicia, mantenimiento del orden público, vivienda y agua \npotable y que en lo que interv",
+          "original_quote": "Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación, \nsalud, administración de justicia, mantenimiento del orden público, vivienda y agua \npotable y que en lo que intervenga, lo haga de forma  subsidiaria",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "moderno",
+            "trabaje",
+            "estado",
+            "creemos",
+            "eficiente"
+          ]
+        },
+        {
+          "statement": "La lucha contra la pobreza es una tarea prioritaria de Libertad Popular, para lo cual se \nrequieren  condiciones que permitan atraer y garantizar la inversión privada nacional y \nextranjera",
+          "original_quote": "La lucha contra la pobreza es una tarea prioritaria de Libertad Popular, para lo cual se \nrequieren  condiciones que permitan atraer y garantizar la inversión privada nacional y \nextranjera",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "tarea",
+            "prioritaria",
+            "contra",
+            "lucha",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "El Perú crece al 6% y \nla pobreza monetaria disminuye 7 puntos porcentuales",
+          "original_quote": "El Perú crece al 6% y \nla pobreza monetaria disminuye 7 puntos porcentuales",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "disminuye",
+            "crece",
+            "monetaria",
+            "pobreza",
+            "perú"
+          ]
+        },
+        {
+          "statement": "El turismo internacional se habrá recuperado plenamente, alcanzando 6.2 millones de \nvisitantes  extranjeros , gracias a un Estado que coordina eficazmente entre cultura, econ omía, \nseguridad, transp",
+          "original_quote": "El turismo internacional se habrá recuperado plenamente, alcanzando 6.2 millones de \nvisitantes  extranjeros , gracias a un Estado que coordina eficazmente entre cultura, econ omía, \nseguridad, transporte y gobiernos locales",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "turismo",
+            "internacional",
+            "recuperado",
+            "plenamente",
+            "habrá"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salud",
+      "proposals": [
+        {
+          "statement": "Respecto a la pobreza es importante tener en cuenta lo señalado por Abhijit Baner jee y Esther \nDuflo4 quienes señalan que la pobreza no requiere grandes teorías económicas ni soluciones \nmilagrosas ,",
+          "original_quote": "Respecto a la pobreza es importante tener en cuenta lo señalado por Abhijit Baner jee y Esther \nDuflo4 quienes señalan que la pobreza no requiere grandes teorías económicas ni soluciones \nmilagrosas , sino un  entendimiento detallado y granular de la vida y las decisiones de los \npobres, utilizando experimentos controlados para diseñar e implementar políticas públicas \nbasadas en evidencia rigurosa",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "respecto",
+            "cuenta",
+            "importante",
+            "tener",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "Libertad Popular en dicho marco propone fortalecer las instituciones para eliminar toda figura \nde monopolio u oligopolio , apoyar intensamente los emprendimiento y llevar servicios e \n \n1 Acemoglu, D",
+          "original_quote": "Libertad Popular en dicho marco propone fortalecer las instituciones para eliminar toda figura \nde monopolio u oligopolio , apoyar intensamente los emprendimiento y llevar servicios e \n \n1 Acemoglu, D., & Robinson, J",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "popular",
+            "dicho",
+            "libertad",
+            "propone",
+            "marco"
+          ]
+        },
+        {
+          "statement": "La separación de poderes y su independencia es fundamental para la vigencia de un \nEstado de Derecho y es indispensable para garantizar la libertad",
+          "original_quote": "La separación de poderes y su independencia es fundamental para la vigencia de un \nEstado de Derecho y es indispensable para garantizar la libertad",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "separación",
+            "para",
+            "independencia",
+            "poderes",
+            "fundamental"
+          ]
+        },
+        {
+          "statement": "La formación de una cultura democrática y de una conciencia constitucional, también es \nun compromiso cívico de Libertad Popular, por esa razón condenamos cualquier forma de \ngobierno dictatorial",
+          "original_quote": "La formación de una cultura democrática y de una conciencia constitucional, también es \nun compromiso cívico de Libertad Popular, por esa razón condenamos cualquier forma de \ngobierno dictatorial",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "conciencia",
+            "constitucional",
+            "formación",
+            "democrática",
+            "cultura"
+          ]
+        },
+        {
+          "statement": "La opción dem ocrática y la defensa de la libertad en el Perú son compromisos \npermanentes de Libertad Popular",
+          "original_quote": "La opción dem ocrática y la defensa de la libertad en el Perú son compromisos \npermanentes de Libertad Popular",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "ocrática",
+            "libertad",
+            "opción",
+            "defensa",
+            "perú"
+          ]
+        },
+        {
+          "statement": "El acceso a la información pública es la vía para garantizar estas \nlibertades",
+          "original_quote": "El acceso a la información pública es la vía para garantizar estas \nlibertades",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "acceso",
+            "para",
+            "garantizar",
+            "pública",
+            "información"
+          ]
+        },
+        {
+          "statement": "Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación, \nsalud, administración de justicia, mantenimiento del orden público, vivienda y agua \npotable y que en lo que interv",
+          "original_quote": "Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación, \nsalud, administración de justicia, mantenimiento del orden público, vivienda y agua \npotable y que en lo que intervenga, lo haga de forma  subsidiaria",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "moderno",
+            "trabaje",
+            "estado",
+            "creemos",
+            "eficiente"
+          ]
+        },
+        {
+          "statement": "La lucha contra la pobreza es una tarea prioritaria de Libertad Popular, para lo cual se \nrequieren  condiciones que permitan atraer y garantizar la inversión privada nacional y \nextranjera",
+          "original_quote": "La lucha contra la pobreza es una tarea prioritaria de Libertad Popular, para lo cual se \nrequieren  condiciones que permitan atraer y garantizar la inversión privada nacional y \nextranjera",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "tarea",
+            "prioritaria",
+            "contra",
+            "lucha",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "Machu Picchu contará con la infraestructura necesaria \npara proteger el sitio y mejorar la experiencia del visitante, demost rando que es posible \nconservar, desarrollar y prosperar sin destruir",
+          "original_quote": "Machu Picchu contará con la infraestructura necesaria \npara proteger el sitio y mejorar la experiencia del visitante, demost rando que es posible \nconservar, desarrollar y prosperar sin destruir",
+          "page": 11,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "machu",
+            "necesaria",
+            "contará",
+            "picchu",
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "La prosperidad requiere, como señaló Adam Smith, no solo mercados \ndinámicos, sino seres humanos capaces de desarrollarse plenamente",
+          "original_quote": "La prosperidad requiere, como señaló Adam Smith, no solo mercados \ndinámicos, sino seres humanos capaces de desarrollarse plenamente",
+          "page": 14,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "requiere",
+            "como",
+            "adam",
+            "señaló",
+            "prosperidad"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Política Social",
+      "proposals": [
+        {
+          "statement": "Respecto a la pobreza es importante tener en cuenta lo señalado por Abhijit Baner jee y Esther \nDuflo4 quienes señalan que la pobreza no requiere grandes teorías económicas ni soluciones \nmilagrosas ,",
+          "original_quote": "Respecto a la pobreza es importante tener en cuenta lo señalado por Abhijit Baner jee y Esther \nDuflo4 quienes señalan que la pobreza no requiere grandes teorías económicas ni soluciones \nmilagrosas , sino un  entendimiento detallado y granular de la vida y las decisiones de los \npobres, utilizando experimentos controlados para diseñar e implementar políticas públicas \nbasadas en evidencia rigurosa",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "respecto",
+            "cuenta",
+            "importante",
+            "tener",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "Libertad Popular en dicho marco propone fortalecer las instituciones para eliminar toda figura \nde monopolio u oligopolio , apoyar intensamente los emprendimiento y llevar servicios e \n \n1 Acemoglu, D",
+          "original_quote": "Libertad Popular en dicho marco propone fortalecer las instituciones para eliminar toda figura \nde monopolio u oligopolio , apoyar intensamente los emprendimiento y llevar servicios e \n \n1 Acemoglu, D., & Robinson, J",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "popular",
+            "dicho",
+            "libertad",
+            "propone",
+            "marco"
+          ]
+        },
+        {
+          "statement": "La separación de poderes y su independencia es fundamental para la vigencia de un \nEstado de Derecho y es indispensable para garantizar la libertad",
+          "original_quote": "La separación de poderes y su independencia es fundamental para la vigencia de un \nEstado de Derecho y es indispensable para garantizar la libertad",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "separación",
+            "para",
+            "independencia",
+            "poderes",
+            "fundamental"
+          ]
+        },
+        {
+          "statement": "La formación de una cultura democrática y de una conciencia constitucional, también es \nun compromiso cívico de Libertad Popular, por esa razón condenamos cualquier forma de \ngobierno dictatorial",
+          "original_quote": "La formación de una cultura democrática y de una conciencia constitucional, también es \nun compromiso cívico de Libertad Popular, por esa razón condenamos cualquier forma de \ngobierno dictatorial",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "conciencia",
+            "constitucional",
+            "formación",
+            "democrática",
+            "cultura"
+          ]
+        },
+        {
+          "statement": "La opción dem ocrática y la defensa de la libertad en el Perú son compromisos \npermanentes de Libertad Popular",
+          "original_quote": "La opción dem ocrática y la defensa de la libertad en el Perú son compromisos \npermanentes de Libertad Popular",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "ocrática",
+            "libertad",
+            "opción",
+            "defensa",
+            "perú"
+          ]
+        },
+        {
+          "statement": "El acceso a la información pública es la vía para garantizar estas \nlibertades",
+          "original_quote": "El acceso a la información pública es la vía para garantizar estas \nlibertades",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "acceso",
+            "para",
+            "garantizar",
+            "pública",
+            "información"
+          ]
+        },
+        {
+          "statement": "Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación, \nsalud, administración de justicia, mantenimiento del orden público, vivienda y agua \npotable y que en lo que interv",
+          "original_quote": "Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación, \nsalud, administración de justicia, mantenimiento del orden público, vivienda y agua \npotable y que en lo que intervenga, lo haga de forma  subsidiaria",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "moderno",
+            "trabaje",
+            "estado",
+            "creemos",
+            "eficiente"
+          ]
+        },
+        {
+          "statement": "La lucha contra la pobreza es una tarea prioritaria de Libertad Popular, para lo cual se \nrequieren  condiciones que permitan atraer y garantizar la inversión privada nacional y \nextranjera",
+          "original_quote": "La lucha contra la pobreza es una tarea prioritaria de Libertad Popular, para lo cual se \nrequieren  condiciones que permitan atraer y garantizar la inversión privada nacional y \nextranjera",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "tarea",
+            "prioritaria",
+            "contra",
+            "lucha",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "El Perú crece al 6% y \nla pobreza monetaria disminuye 7 puntos porcentuales",
+          "original_quote": "El Perú crece al 6% y \nla pobreza monetaria disminuye 7 puntos porcentuales",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "disminuye",
+            "crece",
+            "monetaria",
+            "pobreza",
+            "perú"
+          ]
+        },
+        {
+          "statement": "El turismo internacional se habrá recuperado plenamente, alcanzando 6.2 millones de \nvisitantes  extranjeros , gracias a un Estado que coordina eficazmente entre cultura, econ omía, \nseguridad, transp",
+          "original_quote": "El turismo internacional se habrá recuperado plenamente, alcanzando 6.2 millones de \nvisitantes  extranjeros , gracias a un Estado que coordina eficazmente entre cultura, econ omía, \nseguridad, transporte y gobiernos locales",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "turismo",
+            "internacional",
+            "recuperado",
+            "plenamente",
+            "habrá"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Cultura",
+      "proposals": [
+        {
+          "statement": "Respecto a la pobreza es importante tener en cuenta lo señalado por Abhijit Baner jee y Esther \nDuflo4 quienes señalan que la pobreza no requiere grandes teorías económicas ni soluciones \nmilagrosas ,",
+          "original_quote": "Respecto a la pobreza es importante tener en cuenta lo señalado por Abhijit Baner jee y Esther \nDuflo4 quienes señalan que la pobreza no requiere grandes teorías económicas ni soluciones \nmilagrosas , sino un  entendimiento detallado y granular de la vida y las decisiones de los \npobres, utilizando experimentos controlados para diseñar e implementar políticas públicas \nbasadas en evidencia rigurosa",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "respecto",
+            "cuenta",
+            "importante",
+            "tener",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "Libertad Popular en dicho marco propone fortalecer las instituciones para eliminar toda figura \nde monopolio u oligopolio , apoyar intensamente los emprendimiento y llevar servicios e \n \n1 Acemoglu, D",
+          "original_quote": "Libertad Popular en dicho marco propone fortalecer las instituciones para eliminar toda figura \nde monopolio u oligopolio , apoyar intensamente los emprendimiento y llevar servicios e \n \n1 Acemoglu, D., & Robinson, J",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "popular",
+            "dicho",
+            "libertad",
+            "propone",
+            "marco"
+          ]
+        },
+        {
+          "statement": "La separación de poderes y su independencia es fundamental para la vigencia de un \nEstado de Derecho y es indispensable para garantizar la libertad",
+          "original_quote": "La separación de poderes y su independencia es fundamental para la vigencia de un \nEstado de Derecho y es indispensable para garantizar la libertad",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "separación",
+            "para",
+            "independencia",
+            "poderes",
+            "fundamental"
+          ]
+        },
+        {
+          "statement": "La formación de una cultura democrática y de una conciencia constitucional, también es \nun compromiso cívico de Libertad Popular, por esa razón condenamos cualquier forma de \ngobierno dictatorial",
+          "original_quote": "La formación de una cultura democrática y de una conciencia constitucional, también es \nun compromiso cívico de Libertad Popular, por esa razón condenamos cualquier forma de \ngobierno dictatorial",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "conciencia",
+            "constitucional",
+            "formación",
+            "democrática",
+            "cultura"
+          ]
+        },
+        {
+          "statement": "La opción dem ocrática y la defensa de la libertad en el Perú son compromisos \npermanentes de Libertad Popular",
+          "original_quote": "La opción dem ocrática y la defensa de la libertad en el Perú son compromisos \npermanentes de Libertad Popular",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "ocrática",
+            "libertad",
+            "opción",
+            "defensa",
+            "perú"
+          ]
+        },
+        {
+          "statement": "El acceso a la información pública es la vía para garantizar estas \nlibertades",
+          "original_quote": "El acceso a la información pública es la vía para garantizar estas \nlibertades",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "acceso",
+            "para",
+            "garantizar",
+            "pública",
+            "información"
+          ]
+        },
+        {
+          "statement": "Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación, \nsalud, administración de justicia, mantenimiento del orden público, vivienda y agua \npotable y que en lo que interv",
+          "original_quote": "Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación, \nsalud, administración de justicia, mantenimiento del orden público, vivienda y agua \npotable y que en lo que intervenga, lo haga de forma  subsidiaria",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "moderno",
+            "trabaje",
+            "estado",
+            "creemos",
+            "eficiente"
+          ]
+        },
+        {
+          "statement": "La lucha contra la pobreza es una tarea prioritaria de Libertad Popular, para lo cual se \nrequieren  condiciones que permitan atraer y garantizar la inversión privada nacional y \nextranjera",
+          "original_quote": "La lucha contra la pobreza es una tarea prioritaria de Libertad Popular, para lo cual se \nrequieren  condiciones que permitan atraer y garantizar la inversión privada nacional y \nextranjera",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "tarea",
+            "prioritaria",
+            "contra",
+            "lucha",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "El Perú crece al 6% y \nla pobreza monetaria disminuye 7 puntos porcentuales",
+          "original_quote": "El Perú crece al 6% y \nla pobreza monetaria disminuye 7 puntos porcentuales",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "disminuye",
+            "crece",
+            "monetaria",
+            "pobreza",
+            "perú"
+          ]
+        },
+        {
+          "statement": "El turismo internacional se habrá recuperado plenamente, alcanzando 6.2 millones de \nvisitantes  extranjeros , gracias a un Estado que coordina eficazmente entre cultura, econ omía, \nseguridad, transp",
+          "original_quote": "El turismo internacional se habrá recuperado plenamente, alcanzando 6.2 millones de \nvisitantes  extranjeros , gracias a un Estado que coordina eficazmente entre cultura, econ omía, \nseguridad, transporte y gobiernos locales",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "turismo",
+            "internacional",
+            "recuperado",
+            "plenamente",
+            "habrá"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Infraestructura",
+      "proposals": [
+        {
+          "statement": "Respecto a la pobreza es importante tener en cuenta lo señalado por Abhijit Baner jee y Esther \nDuflo4 quienes señalan que la pobreza no requiere grandes teorías económicas ni soluciones \nmilagrosas ,",
+          "original_quote": "Respecto a la pobreza es importante tener en cuenta lo señalado por Abhijit Baner jee y Esther \nDuflo4 quienes señalan que la pobreza no requiere grandes teorías económicas ni soluciones \nmilagrosas , sino un  entendimiento detallado y granular de la vida y las decisiones de los \npobres, utilizando experimentos controlados para diseñar e implementar políticas públicas \nbasadas en evidencia rigurosa",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "respecto",
+            "cuenta",
+            "importante",
+            "tener",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "Libertad Popular en dicho marco propone fortalecer las instituciones para eliminar toda figura \nde monopolio u oligopolio , apoyar intensamente los emprendimiento y llevar servicios e \n \n1 Acemoglu, D",
+          "original_quote": "Libertad Popular en dicho marco propone fortalecer las instituciones para eliminar toda figura \nde monopolio u oligopolio , apoyar intensamente los emprendimiento y llevar servicios e \n \n1 Acemoglu, D., & Robinson, J",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "popular",
+            "dicho",
+            "libertad",
+            "propone",
+            "marco"
+          ]
+        },
+        {
+          "statement": "El Perú crece al 6% y \nla pobreza monetaria disminuye 7 puntos porcentuales",
+          "original_quote": "El Perú crece al 6% y \nla pobreza monetaria disminuye 7 puntos porcentuales",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "disminuye",
+            "crece",
+            "monetaria",
+            "pobreza",
+            "perú"
+          ]
+        },
+        {
+          "statement": "El turismo internacional se habrá recuperado plenamente, alcanzando 6.2 millones de \nvisitantes  extranjeros , gracias a un Estado que coordina eficazmente entre cultura, econ omía, \nseguridad, transp",
+          "original_quote": "El turismo internacional se habrá recuperado plenamente, alcanzando 6.2 millones de \nvisitantes  extranjeros , gracias a un Estado que coordina eficazmente entre cultura, econ omía, \nseguridad, transporte y gobiernos locales",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "turismo",
+            "internacional",
+            "recuperado",
+            "plenamente",
+            "habrá"
+          ]
+        },
+        {
+          "statement": "Machu Picchu contará con la infraestructura necesaria \npara proteger el sitio y mejorar la experiencia del visitante, demost rando que es posible \nconservar, desarrollar y prosperar sin destruir",
+          "original_quote": "Machu Picchu contará con la infraestructura necesaria \npara proteger el sitio y mejorar la experiencia del visitante, demost rando que es posible \nconservar, desarrollar y prosperar sin destruir",
+          "page": 11,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "machu",
+            "necesaria",
+            "contará",
+            "picchu",
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "La prosperidad requiere, como señaló Adam Smith, no solo mercados \ndinámicos, sino seres humanos capaces de desarrollarse plenamente",
+          "original_quote": "La prosperidad requiere, como señaló Adam Smith, no solo mercados \ndinámicos, sino seres humanos capaces de desarrollarse plenamente",
+          "page": 14,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "requiere",
+            "como",
+            "adam",
+            "señaló",
+            "prosperidad"
+          ]
+        },
+        {
+          "statement": "En esa línea, los \nprincipios 5, 6, 9 y  10 de nuestra propuesta constituyen los pilares fundamentales para cerrar \nlas brechas sociales que mantienen a millones de peruanos excluidos del progreso",
+          "original_quote": "En esa línea, los \nprincipios 5, 6, 9 y  10 de nuestra propuesta constituyen los pilares fundamentales para cerrar \nlas brechas sociales que mantienen a millones de peruanos excluidos del progreso",
+          "page": 14,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "propuesta",
+            "nuestra",
+            "constituyen",
+            "línea",
+            "principios"
+          ]
+        },
+        {
+          "statement": "• Especialización Inamovible: el 20% de los efectivos de la PNP a la especialidad \nde Investigación Criminal, garantizando que no sean rotados a otras áreas para \nmantener la continuidad de los casos ",
+          "original_quote": "• Especialización Inamovible: el 20% de los efectivos de la PNP a la especialidad \nde Investigación Criminal, garantizando que no sean rotados a otras áreas para \nmantener la continuidad de los casos  \nc) Justicia Rápida y Bloque o Legal (La Sanción)  \n• Unidades de Flagrancia Nacionales: Juez, fiscal y policía en un solo edificio para \nsentenciar delitos comunes en menos de 72 horas",
+          "page": 18,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "especialidad",
+            "especialización",
+            "efectivos",
+            "investigación",
+            "inamovible"
+          ]
+        },
+        {
+          "statement": "• Concesionar la seguridad externa: Tercerización del control de puertas y logística \ncon escáneres corporales y biometría para eliminar el ingreso de chips y armas  \n• Soluciones mixtas en servicios ",
+          "original_quote": "• Concesionar la seguridad externa: Tercerización del control de puertas y logística \ncon escáneres corporales y biometría para eliminar el ingreso de chips y armas  \n• Soluciones mixtas en servicios de los penales (brindado por el Estado o \nConcesiones): Alimentación, salud y comunicación",
+          "page": 18,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "externa",
+            "control",
+            "tercerización",
+            "concesionar",
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "• Contacto Cero: implementar locutorios en penales de alta peligrosidad  \n• Control Total de Tránsito: La tecnología de es caneo y biometría en los ingresos \nserá obligatoria no solo para visitas, sin",
+          "original_quote": "• Contacto Cero: implementar locutorios en penales de alta peligrosidad  \n• Control Total de Tránsito: La tecnología de es caneo y biometría en los ingresos \nserá obligatoria no solo para visitas, sino para todas las personas que transitan \npor el penal sin excepción",
+          "page": 18,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "cero",
+            "implementar",
+            "locutorios",
+            "contacto",
+            "penales"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Seguridad",
+      "proposals": [
+        {
+          "statement": "El Perú crece al 6% y \nla pobreza monetaria disminuye 7 puntos porcentuales",
+          "original_quote": "El Perú crece al 6% y \nla pobreza monetaria disminuye 7 puntos porcentuales",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "disminuye",
+            "crece",
+            "monetaria",
+            "pobreza",
+            "perú"
+          ]
+        },
+        {
+          "statement": "El turismo internacional se habrá recuperado plenamente, alcanzando 6.2 millones de \nvisitantes  extranjeros , gracias a un Estado que coordina eficazmente entre cultura, econ omía, \nseguridad, transp",
+          "original_quote": "El turismo internacional se habrá recuperado plenamente, alcanzando 6.2 millones de \nvisitantes  extranjeros , gracias a un Estado que coordina eficazmente entre cultura, econ omía, \nseguridad, transporte y gobiernos locales",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "turismo",
+            "internacional",
+            "recuperado",
+            "plenamente",
+            "habrá"
+          ]
+        },
+        {
+          "statement": "Machu Picchu contará con la infraestructura necesaria \npara proteger el sitio y mejorar la experiencia del visitante, demost rando que es posible \nconservar, desarrollar y prosperar sin destruir",
+          "original_quote": "Machu Picchu contará con la infraestructura necesaria \npara proteger el sitio y mejorar la experiencia del visitante, demost rando que es posible \nconservar, desarrollar y prosperar sin destruir",
+          "page": 11,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "machu",
+            "necesaria",
+            "contará",
+            "picchu",
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "La prosperidad requiere, como señaló Adam Smith, no solo mercados \ndinámicos, sino seres humanos capaces de desarrollarse plenamente",
+          "original_quote": "La prosperidad requiere, como señaló Adam Smith, no solo mercados \ndinámicos, sino seres humanos capaces de desarrollarse plenamente",
+          "page": 14,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "requiere",
+            "como",
+            "adam",
+            "señaló",
+            "prosperidad"
+          ]
+        },
+        {
+          "statement": "En esa línea, los \nprincipios 5, 6, 9 y  10 de nuestra propuesta constituyen los pilares fundamentales para cerrar \nlas brechas sociales que mantienen a millones de peruanos excluidos del progreso",
+          "original_quote": "En esa línea, los \nprincipios 5, 6, 9 y  10 de nuestra propuesta constituyen los pilares fundamentales para cerrar \nlas brechas sociales que mantienen a millones de peruanos excluidos del progreso",
+          "page": 14,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "propuesta",
+            "nuestra",
+            "constituyen",
+            "línea",
+            "principios"
+          ]
+        },
+        {
+          "statement": "25.1% de la p oblación de 15 y más años de edad fue víctima de algún hecho delictivo  en el \nperiodo abril -septiembre 2025  \nVer: https://m.inei.gob.pe/media/MenuRecursivo/bo letines/boletin_segurida",
+          "original_quote": "25.1% de la p oblación de 15 y más años de edad fue víctima de algún hecho delictivo  en el \nperiodo abril -septiembre 2025  \nVer: https://m.inei.gob.pe/media/MenuRecursivo/bo letines/boletin_seguridad_abr_set25.pdf  \n \nB",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "edad",
+            "algún",
+            "años",
+            "víctima",
+            "oblación"
+          ]
+        },
+        {
+          "statement": "OBJETIVO ESTRATÉGICO  \nReducir de manera sostenida la incidencia del crimen organizado, el sicariato y la extorsión \nen el país mediante el fortalecimiento integral de las instituciones de seguridad y",
+          "original_quote": "OBJETIVO ESTRATÉGICO  \nReducir de manera sostenida la incidencia del crimen organizado, el sicariato y la extorsión \nen el país mediante el fortalecimiento integral de las instituciones de seguridad y justicia , la \nmodernización de los sistemas de inteligencia y persecución penal, y la implementación de \nestrategias preventivas y territoriales que devuelvan a los ciudadanos el control y la seguridad \nde sus c iudades",
+          "page": 16,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "estratégico",
+            "manera",
+            "objetivo",
+            "reducir",
+            "sostenida"
+          ]
+        },
+        {
+          "statement": "Estrategia  \nLos estados de emergencia han demos trado ser medidas ineficaces, costosas y meramente \nsimbólicas, pues no reducen el delito ni desmantelan las redes criminales que operan con \nalto nive",
+          "original_quote": "Estrategia  \nLos estados de emergencia han demos trado ser medidas ineficaces, costosas y meramente \nsimbólicas, pues no reducen el delito ni desmantelan las redes criminales que operan con \nalto nivel de organización, financiamiento y capacidad logística",
+          "page": 16,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "estrategia",
+            "emergencia",
+            "trado",
+            "estados",
+            "demos"
+          ]
+        },
+        {
+          "statement": "Para ello, se creará un Comando Unificado de Seguridad y Justicia, que articule a la Policía \nNacional, las tres Fuerzas Armadas, la Fiscalía de la Nación y el Poder Judicial bajo un \nsistema de intel",
+          "original_quote": "Para ello, se creará un Comando Unificado de Seguridad y Justicia, que articule a la Policía \nNacional, las tres Fuerzas Armadas, la Fiscalía de la Nación y el Poder Judicial bajo un \nsistema de inteligencia conjunta y protocolos ope rativos comunes",
+          "page": 16,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "para",
+            "creará",
+            "unificado",
+            "comando",
+            "ello"
+          ]
+        },
+        {
+          "statement": "Plan de Gobierno de Libertad Popular 2026 -2031  \n 17 \n 1 de diciembre de 2025  Este comando garantizará información integrada, operaciones coordinadas 24/7, rapidez \nprocesal para intervenciones comp",
+          "original_quote": "Plan de Gobierno de Libertad Popular 2026 -2031  \n 17 \n 1 de diciembre de 2025  Este comando garantizará información integrada, operaciones coordinadas 24/7, rapidez \nprocesal para intervenciones complejas y una cadena de persecución penal sin vacíos ni \nduplicidades",
+          "page": 17,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "popular",
+            "diciembre",
+            "libertad",
+            "plan",
+            "gobierno"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Educación",
+      "proposals": [
+        {
+          "statement": "La separación de poderes y su independencia es fundamental para la vigencia de un \nEstado de Derecho y es indispensable para garantizar la libertad",
+          "original_quote": "La separación de poderes y su independencia es fundamental para la vigencia de un \nEstado de Derecho y es indispensable para garantizar la libertad",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "separación",
+            "para",
+            "independencia",
+            "poderes",
+            "fundamental"
+          ]
+        },
+        {
+          "statement": "La formación de una cultura democrática y de una conciencia constitucional, también es \nun compromiso cívico de Libertad Popular, por esa razón condenamos cualquier forma de \ngobierno dictatorial",
+          "original_quote": "La formación de una cultura democrática y de una conciencia constitucional, también es \nun compromiso cívico de Libertad Popular, por esa razón condenamos cualquier forma de \ngobierno dictatorial",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "conciencia",
+            "constitucional",
+            "formación",
+            "democrática",
+            "cultura"
+          ]
+        },
+        {
+          "statement": "La opción dem ocrática y la defensa de la libertad en el Perú son compromisos \npermanentes de Libertad Popular",
+          "original_quote": "La opción dem ocrática y la defensa de la libertad en el Perú son compromisos \npermanentes de Libertad Popular",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "ocrática",
+            "libertad",
+            "opción",
+            "defensa",
+            "perú"
+          ]
+        },
+        {
+          "statement": "El acceso a la información pública es la vía para garantizar estas \nlibertades",
+          "original_quote": "El acceso a la información pública es la vía para garantizar estas \nlibertades",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "acceso",
+            "para",
+            "garantizar",
+            "pública",
+            "información"
+          ]
+        },
+        {
+          "statement": "Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación, \nsalud, administración de justicia, mantenimiento del orden público, vivienda y agua \npotable y que en lo que interv",
+          "original_quote": "Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación, \nsalud, administración de justicia, mantenimiento del orden público, vivienda y agua \npotable y que en lo que intervenga, lo haga de forma  subsidiaria",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "moderno",
+            "trabaje",
+            "estado",
+            "creemos",
+            "eficiente"
+          ]
+        },
+        {
+          "statement": "La lucha contra la pobreza es una tarea prioritaria de Libertad Popular, para lo cual se \nrequieren  condiciones que permitan atraer y garantizar la inversión privada nacional y \nextranjera",
+          "original_quote": "La lucha contra la pobreza es una tarea prioritaria de Libertad Popular, para lo cual se \nrequieren  condiciones que permitan atraer y garantizar la inversión privada nacional y \nextranjera",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "tarea",
+            "prioritaria",
+            "contra",
+            "lucha",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "Machu Picchu contará con la infraestructura necesaria \npara proteger el sitio y mejorar la experiencia del visitante, demost rando que es posible \nconservar, desarrollar y prosperar sin destruir",
+          "original_quote": "Machu Picchu contará con la infraestructura necesaria \npara proteger el sitio y mejorar la experiencia del visitante, demost rando que es posible \nconservar, desarrollar y prosperar sin destruir",
+          "page": 11,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "machu",
+            "necesaria",
+            "contará",
+            "picchu",
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "La prosperidad requiere, como señaló Adam Smith, no solo mercados \ndinámicos, sino seres humanos capaces de desarrollarse plenamente",
+          "original_quote": "La prosperidad requiere, como señaló Adam Smith, no solo mercados \ndinámicos, sino seres humanos capaces de desarrollarse plenamente",
+          "page": 14,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "requiere",
+            "como",
+            "adam",
+            "señaló",
+            "prosperidad"
+          ]
+        },
+        {
+          "statement": "En esa línea, los \nprincipios 5, 6, 9 y  10 de nuestra propuesta constituyen los pilares fundamentales para cerrar \nlas brechas sociales que mantienen a millones de peruanos excluidos del progreso",
+          "original_quote": "En esa línea, los \nprincipios 5, 6, 9 y  10 de nuestra propuesta constituyen los pilares fundamentales para cerrar \nlas brechas sociales que mantienen a millones de peruanos excluidos del progreso",
+          "page": 14,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "propuesta",
+            "nuestra",
+            "constituyen",
+            "línea",
+            "principios"
+          ]
+        },
+        {
+          "statement": "Plan de Gobierno de Libertad Popular 2026 -2031  \n 17 \n 1 de diciembre de 2025  Este comando garantizará información integrada, operaciones coordinadas 24/7, rapidez \nprocesal para intervenciones comp",
+          "original_quote": "Plan de Gobierno de Libertad Popular 2026 -2031  \n 17 \n 1 de diciembre de 2025  Este comando garantizará información integrada, operaciones coordinadas 24/7, rapidez \nprocesal para intervenciones complejas y una cadena de persecución penal sin vacíos ni \nduplicidades",
+          "page": 17,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "popular",
+            "diciembre",
+            "libertad",
+            "plan",
+            "gobierno"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Medio Ambiente",
+      "proposals": [
+        {
+          "statement": "La separación de poderes y su independencia es fundamental para la vigencia de un \nEstado de Derecho y es indispensable para garantizar la libertad",
+          "original_quote": "La separación de poderes y su independencia es fundamental para la vigencia de un \nEstado de Derecho y es indispensable para garantizar la libertad",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "separación",
+            "para",
+            "independencia",
+            "poderes",
+            "fundamental"
+          ]
+        },
+        {
+          "statement": "La formación de una cultura democrática y de una conciencia constitucional, también es \nun compromiso cívico de Libertad Popular, por esa razón condenamos cualquier forma de \ngobierno dictatorial",
+          "original_quote": "La formación de una cultura democrática y de una conciencia constitucional, también es \nun compromiso cívico de Libertad Popular, por esa razón condenamos cualquier forma de \ngobierno dictatorial",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "conciencia",
+            "constitucional",
+            "formación",
+            "democrática",
+            "cultura"
+          ]
+        },
+        {
+          "statement": "La opción dem ocrática y la defensa de la libertad en el Perú son compromisos \npermanentes de Libertad Popular",
+          "original_quote": "La opción dem ocrática y la defensa de la libertad en el Perú son compromisos \npermanentes de Libertad Popular",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "ocrática",
+            "libertad",
+            "opción",
+            "defensa",
+            "perú"
+          ]
+        },
+        {
+          "statement": "El acceso a la información pública es la vía para garantizar estas \nlibertades",
+          "original_quote": "El acceso a la información pública es la vía para garantizar estas \nlibertades",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "acceso",
+            "para",
+            "garantizar",
+            "pública",
+            "información"
+          ]
+        },
+        {
+          "statement": "Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación, \nsalud, administración de justicia, mantenimiento del orden público, vivienda y agua \npotable y que en lo que interv",
+          "original_quote": "Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación, \nsalud, administración de justicia, mantenimiento del orden público, vivienda y agua \npotable y que en lo que intervenga, lo haga de forma  subsidiaria",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "moderno",
+            "trabaje",
+            "estado",
+            "creemos",
+            "eficiente"
+          ]
+        },
+        {
+          "statement": "La lucha contra la pobreza es una tarea prioritaria de Libertad Popular, para lo cual se \nrequieren  condiciones que permitan atraer y garantizar la inversión privada nacional y \nextranjera",
+          "original_quote": "La lucha contra la pobreza es una tarea prioritaria de Libertad Popular, para lo cual se \nrequieren  condiciones que permitan atraer y garantizar la inversión privada nacional y \nextranjera",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "tarea",
+            "prioritaria",
+            "contra",
+            "lucha",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "La prosperidad requiere, como señaló Adam Smith, no solo mercados \ndinámicos, sino seres humanos capaces de desarrollarse plenamente",
+          "original_quote": "La prosperidad requiere, como señaló Adam Smith, no solo mercados \ndinámicos, sino seres humanos capaces de desarrollarse plenamente",
+          "page": 14,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "requiere",
+            "como",
+            "adam",
+            "señaló",
+            "prosperidad"
+          ]
+        },
+        {
+          "statement": "En esa línea, los \nprincipios 5, 6, 9 y  10 de nuestra propuesta constituyen los pilares fundamentales para cerrar \nlas brechas sociales que mantienen a millones de peruanos excluidos del progreso",
+          "original_quote": "En esa línea, los \nprincipios 5, 6, 9 y  10 de nuestra propuesta constituyen los pilares fundamentales para cerrar \nlas brechas sociales que mantienen a millones de peruanos excluidos del progreso",
+          "page": 14,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "propuesta",
+            "nuestra",
+            "constituyen",
+            "línea",
+            "principios"
+          ]
+        },
+        {
+          "statement": "Plan de Gobierno de Libertad Popular 2026 -2031  \n 20 \n 1 de diciembre de 2025  Reducir al 40% el porcentaje de población urbana que vive en barrios marginales, \nasentamientos informales o viviendas i",
+          "original_quote": "Plan de Gobierno de Libertad Popular 2026 -2031  \n 20 \n 1 de diciembre de 2025  Reducir al 40% el porcentaje de población urbana que vive en barrios marginales, \nasentamientos informales o viviendas inadecuadas para el año 203 1, mediante la \nimplementación de programas integrales de mejoramiento de vivienda y hábitat, el fomento \nde la producción social del hábitat, y la articulación de políticas públicas que garanticen el \nacceso a suelo urbano adecuado y servicios básicos",
+          "page": 20,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "popular",
+            "diciembre",
+            "libertad",
+            "plan",
+            "gobierno"
+          ]
+        },
+        {
+          "statement": "Estrategia  \nPara alcanzar el objetivo estratégico de mejorar sustancialmente la calidad de la vivienda en \nel país, Libertad Popular impulsará una estrategia integral basada en ampliación de la ofert",
+          "original_quote": "Estrategia  \nPara alcanzar el objetivo estratégico de mejorar sustancialmente la calidad de la vivienda en \nel país, Libertad Popular impulsará una estrategia integral basada en ampliación de la oferta \nformal, reducción de barreras normativas, activación de suelo urbano  disponible y \nfortalecimiento de los programas habitacionales orientados a las familias de menores \ningresos",
+          "page": 20,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "para",
+            "estrategia",
+            "estratégico",
+            "alcanzar",
+            "objetivo"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Justicia",
+      "proposals": [
+        {
+          "statement": "La separación de poderes y su independencia es fundamental para la vigencia de un \nEstado de Derecho y es indispensable para garantizar la libertad",
+          "original_quote": "La separación de poderes y su independencia es fundamental para la vigencia de un \nEstado de Derecho y es indispensable para garantizar la libertad",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "separación",
+            "para",
+            "independencia",
+            "poderes",
+            "fundamental"
+          ]
+        },
+        {
+          "statement": "La formación de una cultura democrática y de una conciencia constitucional, también es \nun compromiso cívico de Libertad Popular, por esa razón condenamos cualquier forma de \ngobierno dictatorial",
+          "original_quote": "La formación de una cultura democrática y de una conciencia constitucional, también es \nun compromiso cívico de Libertad Popular, por esa razón condenamos cualquier forma de \ngobierno dictatorial",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "conciencia",
+            "constitucional",
+            "formación",
+            "democrática",
+            "cultura"
+          ]
+        },
+        {
+          "statement": "La opción dem ocrática y la defensa de la libertad en el Perú son compromisos \npermanentes de Libertad Popular",
+          "original_quote": "La opción dem ocrática y la defensa de la libertad en el Perú son compromisos \npermanentes de Libertad Popular",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "ocrática",
+            "libertad",
+            "opción",
+            "defensa",
+            "perú"
+          ]
+        },
+        {
+          "statement": "El acceso a la información pública es la vía para garantizar estas \nlibertades",
+          "original_quote": "El acceso a la información pública es la vía para garantizar estas \nlibertades",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "acceso",
+            "para",
+            "garantizar",
+            "pública",
+            "información"
+          ]
+        },
+        {
+          "statement": "Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación, \nsalud, administración de justicia, mantenimiento del orden público, vivienda y agua \npotable y que en lo que interv",
+          "original_quote": "Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación, \nsalud, administración de justicia, mantenimiento del orden público, vivienda y agua \npotable y que en lo que intervenga, lo haga de forma  subsidiaria",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "moderno",
+            "trabaje",
+            "estado",
+            "creemos",
+            "eficiente"
+          ]
+        },
+        {
+          "statement": "La lucha contra la pobreza es una tarea prioritaria de Libertad Popular, para lo cual se \nrequieren  condiciones que permitan atraer y garantizar la inversión privada nacional y \nextranjera",
+          "original_quote": "La lucha contra la pobreza es una tarea prioritaria de Libertad Popular, para lo cual se \nrequieren  condiciones que permitan atraer y garantizar la inversión privada nacional y \nextranjera",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "tarea",
+            "prioritaria",
+            "contra",
+            "lucha",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "El Perú crece al 6% y \nla pobreza monetaria disminuye 7 puntos porcentuales",
+          "original_quote": "El Perú crece al 6% y \nla pobreza monetaria disminuye 7 puntos porcentuales",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "disminuye",
+            "crece",
+            "monetaria",
+            "pobreza",
+            "perú"
+          ]
+        },
+        {
+          "statement": "El turismo internacional se habrá recuperado plenamente, alcanzando 6.2 millones de \nvisitantes  extranjeros , gracias a un Estado que coordina eficazmente entre cultura, econ omía, \nseguridad, transp",
+          "original_quote": "El turismo internacional se habrá recuperado plenamente, alcanzando 6.2 millones de \nvisitantes  extranjeros , gracias a un Estado que coordina eficazmente entre cultura, econ omía, \nseguridad, transporte y gobiernos locales",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "turismo",
+            "internacional",
+            "recuperado",
+            "plenamente",
+            "habrá"
+          ]
+        },
+        {
+          "statement": "Machu Picchu contará con la infraestructura necesaria \npara proteger el sitio y mejorar la experiencia del visitante, demost rando que es posible \nconservar, desarrollar y prosperar sin destruir",
+          "original_quote": "Machu Picchu contará con la infraestructura necesaria \npara proteger el sitio y mejorar la experiencia del visitante, demost rando que es posible \nconservar, desarrollar y prosperar sin destruir",
+          "page": 11,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "machu",
+            "necesaria",
+            "contará",
+            "picchu",
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "La prosperidad requiere, como señaló Adam Smith, no solo mercados \ndinámicos, sino seres humanos capaces de desarrollarse plenamente",
+          "original_quote": "La prosperidad requiere, como señaló Adam Smith, no solo mercados \ndinámicos, sino seres humanos capaces de desarrollarse plenamente",
+          "page": 14,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "requiere",
+            "como",
+            "adam",
+            "señaló",
+            "prosperidad"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Política Exterior",
+      "proposals": [
+        {
+          "statement": "El Perú crece al 6% y \nla pobreza monetaria disminuye 7 puntos porcentuales",
+          "original_quote": "El Perú crece al 6% y \nla pobreza monetaria disminuye 7 puntos porcentuales",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "disminuye",
+            "crece",
+            "monetaria",
+            "pobreza",
+            "perú"
+          ]
+        },
+        {
+          "statement": "El turismo internacional se habrá recuperado plenamente, alcanzando 6.2 millones de \nvisitantes  extranjeros , gracias a un Estado que coordina eficazmente entre cultura, econ omía, \nseguridad, transp",
+          "original_quote": "El turismo internacional se habrá recuperado plenamente, alcanzando 6.2 millones de \nvisitantes  extranjeros , gracias a un Estado que coordina eficazmente entre cultura, econ omía, \nseguridad, transporte y gobiernos locales",
+          "page": 10,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "turismo",
+            "internacional",
+            "recuperado",
+            "plenamente",
+            "habrá"
+          ]
+        },
+        {
+          "statement": "La prosperidad requiere, como señaló Adam Smith, no solo mercados \ndinámicos, sino seres humanos capaces de desarrollarse plenamente",
+          "original_quote": "La prosperidad requiere, como señaló Adam Smith, no solo mercados \ndinámicos, sino seres humanos capaces de desarrollarse plenamente",
+          "page": 14,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "requiere",
+            "como",
+            "adam",
+            "señaló",
+            "prosperidad"
+          ]
+        },
+        {
+          "statement": "En esa línea, los \nprincipios 5, 6, 9 y  10 de nuestra propuesta constituyen los pilares fundamentales para cerrar \nlas brechas sociales que mantienen a millones de peruanos excluidos del progreso",
+          "original_quote": "En esa línea, los \nprincipios 5, 6, 9 y  10 de nuestra propuesta constituyen los pilares fundamentales para cerrar \nlas brechas sociales que mantienen a millones de peruanos excluidos del progreso",
+          "page": 14,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "propuesta",
+            "nuestra",
+            "constituyen",
+            "línea",
+            "principios"
+          ]
+        },
+        {
+          "statement": "Plan de Gobierno de Libertad Popular 2026 -2031  \n 17 \n 1 de diciembre de 2025  Este comando garantizará información integrada, operaciones coordinadas 24/7, rapidez \nprocesal para intervenciones comp",
+          "original_quote": "Plan de Gobierno de Libertad Popular 2026 -2031  \n 17 \n 1 de diciembre de 2025  Este comando garantizará información integrada, operaciones coordinadas 24/7, rapidez \nprocesal para intervenciones complejas y una cadena de persecución penal sin vacíos ni \nduplicidades",
+          "page": 17,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "popular",
+            "diciembre",
+            "libertad",
+            "plan",
+            "gobierno"
+          ]
+        },
+        {
+          "statement": "Se implementará un Sistema Nacional de Inteligenci a Contra el Crimen Organizado, con \nanálisis financiero, ciber inteligencia , mapas de riesgo territorial, trazabilidad de armas y \ncontrol de fronte",
+          "original_quote": "Se implementará un Sistema Nacional de Inteligenci a Contra el Crimen Organizado, con \nanálisis financiero, ciber inteligencia , mapas de riesgo territorial, trazabilidad de armas y \ncontrol de fronteras",
+          "page": 17,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "implementará",
+            "contra",
+            "inteligenci",
+            "nacional",
+            "sistema"
+          ]
+        },
+        {
+          "statement": "• Control de Minería Ilegal: Las empresas que venden explosivos o maquinaria \nminera deberán ban carizar el 100% de sus operaciones sin montos mínimos",
+          "original_quote": "• Control de Minería Ilegal: Las empresas que venden explosivos o maquinaria \nminera deberán ban carizar el 100% de sus operaciones sin montos mínimos",
+          "page": 17,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "control",
+            "minería",
+            "empresas",
+            "ilegal",
+            "venden"
+          ]
+        },
+        {
+          "statement": "b) Operatividad y Control Territorial (La Fuerza)  \n• Renting de vehículos (incluyendo vehículos disuasivos): Cambio de modelo de \ncompra a alquiler con mantenimiento incluido para garantizar flota 10",
+          "original_quote": "b) Operatividad y Control Territorial (La Fuerza)  \n• Renting de vehículos (incluyendo vehículos disuasivos): Cambio de modelo de \ncompra a alquiler con mantenimiento incluido para garantizar flota 100% operativa",
+          "page": 17,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "territorial",
+            "operatividad",
+            "renting",
+            "control",
+            "fuerza"
+          ]
+        },
+        {
+          "statement": "• Recuperación de la Investigación: Aplicación inmediata de la norma que de vuelve \nla investigación preliminar a la PNP para agilizar capturas",
+          "original_quote": "• Recuperación de la Investigación: Aplicación inmediata de la norma que de vuelve \nla investigación preliminar a la PNP para agilizar capturas",
+          "page": 17,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "inmediata",
+            "aplicación",
+            "recuperación",
+            "investigación",
+            "norma"
+          ]
+        },
+        {
+          "statement": "Establecer como del ito civil y multas severas para ciudadanos que \nreporten como extraviadas armas de fuego recién adquiridas ante SUCAMEC",
+          "original_quote": "Establecer como del ito civil y multas severas para ciudadanos que \nreporten como extraviadas armas de fuego recién adquiridas ante SUCAMEC",
+          "page": 17,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "multas",
+            "establecer",
+            "como",
+            "severas",
+            "civil"
+          ]
+        }
+      ]
+    }
+  ],
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: salario mínimo. Indicadores a favor: 1, en contra: 18."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: impuestos a grandes fortunas o riqueza, impuestos a grandes fortuna. Indicadores a favor: 14, en contra: 18."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: apoyo a empresa, subsidio. Indicadores a favor: 13, en contra: 18."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: pension. Indicadores a favor: 92, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de libre comercio vs proteccionismo en el plan de gobierno."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: matrimonio igualitario, LGBT. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: equidad, género. Indicadores a favor: 10, en contra: 0."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: migra, extranjero. Indicadores a favor: 17, en contra: 11."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de pena de muerte en el plan de gobierno."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Concesion, privatiza. Indicadores a favor: 11, en contra: 0."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de energías renovables vs combustibles fósiles en el plan de gobierno."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: educación, salud, administración de justicia, mantenimiento del orden público, vivienda y agua potable y que en lo que intervenga, lo haga de forma subsidiaria' y propone 'Concesionar la seguridad externa: Tercerización del control de puertas y logística' y 'Soluciones mixtas en servicios de los penales (brindado por el Estado o Concesiones)'. Esto sugiere apertura a privatización/concesiones pero no es una declaración directa. El documento no menciona el matrimonio igualitario ni derechos LGBTQ+. No se encontraron menciones sobre aborto o derechos reproductivos. El documento menciona 'conservar, desarrollar y prosperar sin destruir' en contexto de Machu Picchu, pero no hay posición explícita sobre política energética. No se encontraron menciones sobre política migratoria. El documento propone 'se creará un Comando Unificado de Seguridad y Justicia, que articule a la Policía Nacional, las tres Fuerzas Armadas, la Fiscalía de la Nación y el Poder Judicial' y menciona múltiples inversiones en seguridad incluyendo 'Renting de vehículos (incluyendo vehículos disuasivos)' y tecnología de escaneo. Esto implica aumento de gasto en seguridad/fuerzas armadas. El documento menciona 'apoyar intensamente los emprendimiento' y 'La lucha contra la pobreza es una tarea prioritaria de Libertad Popular, para lo cual se requieren condiciones que permitan atraer y garantizar la inversión privada nacional y extranjera'. Esto sugiere apoyo a empresas privadas aunque no menciona subsidios explícitamente. No se encontraron menciones sobre reforma del sistema de pensiones. El documento menciona 'Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación' como responsabilidad estatal, lo que sugiere apoyo a educación públic. Indicadores a favor: 78, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Sis, sis, salud universal. Indicadores a favor: 69, en contra: 0."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: subsidios explícitamente. No se encontraron menciones sobre reforma del sistema de pensiones. El documento menciona 'Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación' como responsabilidad estatal, lo que sugiere apoyo a educación pública. El documento menciona 'Creemos en un Estado eficiente y moderno, que trabaje para garantizar la educación, salud' como responsabilidad estatal, sugiriendo apoyo al sistema de salud universal. El documento menciona 'gracias a un Estado que coordina eficazmente entre cultura, economía, seguridad, transporte. Indicadores a favor: 8, en contra: 0."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de internet como derecho básico en el plan de gobierno."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: defensa. Indicadores a favor: 10, en contra: 4."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: descentraliza. Indicadores a favor: 12, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Judicial, justicia, judicial. Indicadores a favor: 24, en contra: 0."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de elección popular de jueces en el plan de gobierno."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de límites a la reelección en el plan de gobierno."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "stances_updated_at": "2026-04-06T23:04:03.933382"
+}

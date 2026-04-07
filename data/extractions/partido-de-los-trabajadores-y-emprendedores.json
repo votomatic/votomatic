@@ -1,0 +1,509 @@
+{
+  "party": "Partido de los Trabajadores y Emprendedores",
+  "source_pdf": "data/pdfs/partido-de-los-trabajadores-y-emprendedores.pdf",
+  "extracted_at": "2026-04-05T22:50:00-05:00",
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: salario mínimo. Indicadores a favor: 2, en contra: 2."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: impuesto ecológico para combatir la contaminación ambiental Crear impuesto ecológico Implementar un programa de vivienda digna para un millón de hogares Programa de vivienda digna Publicar semestralmente los avances en el portal oficial del partido y del gobierno Publicación semestral de avances en el portal oficial del partido y del gobierno Realizar audiencias públicas regionales cada año para reportar avances Audiencias públicas regionales cada año Presentar informe anual ante el Congreso Nacional del PTE-PERÚ Informe anual ante el Congreso Nacional del PTE-PERÚ Facilitar la participación ciudadana en la evaluación de metas mediante plataformas digitales Participación de la ciudadanía en la evaluación de metas mediante plataformas digitales No se encontró mención explícita sobre aumento del salario mínimo. No se encontró mención explícita sobre impuestos a grandes fortuna. Indicadores a favor: 9, en contra: 2."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de subsidios a empresas privadas en el plan de gobierno."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: pension. Indicadores a favor: 11, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de libre comercio vs proteccionismo en el plan de gobierno."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: matrimonio igualitario. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: género. Indicadores a favor: 4, en contra: 0."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: migra. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: cadena perpetua, Cadena perpetua. Indicadores a favor: 7, en contra: 0."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: privatiza. Indicadores a favor: 12, en contra: 0."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: fósil, renovable. Indicadores a favor: 8, en contra: 0."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: gratuidad, universidades e institutos públicos para mejorar la calidad educativa Reformar universidades e institutos públicos Aplicar cadena perpetua para delitos graves de corrupción Cadena perpetua para delitos graves de corrupción Convocar a un nuevo pacto social nacional con participación de las regiones Convocar a nuevo pacto social nacional Reestructurar la carrera pública y las entidades estatales para mejorar la eficiencia institucional Reestructurar carrera pública y entidades estatales Impulsar la revolución del emprendimiento para crear nuevas micro y pequeñas empresas Revolución del emprendimiento Impulsar el apoyo financiero y técnico a emprendedores como factor clave en el desarrollo nacional Impulsar el apoyo financiero y técnico a emprendedores como factor clave en el desarrollo nacional Desarrollar cadenas productivas para impulsar la industrialización del país Desarrollar cadenas productivas Impulsar la micro y pequeña agricultura para incrementar la producción agropecuaria Impulsar micro y pequeña agricultura Implementar un plan nacional de infraestructura pública con cobertura total en zonas fronterizas Plan nacional de infraestructura pública Crear un impuesto ecológico para combatir la contaminación ambiental Crear impuesto ecológico Implementar un programa de vivienda digna para un millón de hogares Programa de vivienda digna Publicar semestralmente los avances en el portal oficial del partido y del gobierno Publicación semestral de avances en el portal oficial del partido y del gobierno Realizar audiencias públicas regionales cada año para reportar avances Audiencias públicas regionales cada año Presentar informe anual ante el Congreso Nacional del PTE-PERÚ Informe anual ante el Congreso Nacional del PTE-PERÚ Facilitar la participación ciudadana en la evaluación de metas mediante plataformas digitales Participación de la ciudadanía en la evaluación de metas mediante plataformas digitales No se encontró mención explícita sobre aumento del salario mínimo. No se encontró mención explícita sobre impuestos a grandes fortunas. No se encontró mención explícita sobre privatización de servicios públicos. No se encontró mención explícita sobre matrimonio igualitario. No se encontró mención explícita sobre despenalización del aborto. Solo mencionan 'impuesto ecológico' para combatir contaminación, sin posición explícita sobre energías renovables vs fósiles. No se encontró mención explícita sobre política migratoria. No se encontró mención explícita sobre gasto militar. Proponen 'Impulsar el apoyo financiero y técnico a emprendedores' con meta de '1 millón de emprendedores apoyados' y '+500,000 nuevas MYPES'. No se encontró mención explícita sobre reforma de pensiones. Proponen 'Reformar universidades e institutos públic. Indicadores a favor: 4, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de sistema de salud universal en el plan de gobierno."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de transporte público gratuito en el plan de gobierno."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de internet como derecho básico en el plan de gobierno."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: militar. Indicadores a favor: 5, en contra: 2."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: region. Indicadores a favor: 11, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: justicia, judicial. Indicadores a favor: 11, en contra: 0."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de elección popular de jueces en el plan de gobierno."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de límites a la reelección en el plan de gobierno."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Seguridad Ciudadana",
+      "proposals": [
+        {
+          "statement": "Fortalecer la justicia comunitaria y la seguridad preventiva para reducir la criminalidad",
+          "original_quote": "Fortalecer justicia comunitaria y seguridad preventiva",
+          "page": 1,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "seguridad",
+            "justicia comunitaria",
+            "criminalidad"
+          ],
+          "indicator": "Índice de criminalidad",
+          "target": "Reducir en 40%"
+        }
+      ]
+    },
+    {
+      "topic": "Salud",
+      "proposals": [
+        {
+          "statement": "Implementar una red nacional de atención médica preventiva con cobertura total en zonas rurales",
+          "original_quote": "Implementar red nacional de atención médica preventiva",
+          "page": 1,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "salud",
+            "atención médica",
+            "preventiva",
+            "zonas rurales"
+          ],
+          "indicator": "Cobertura de atención primaria",
+          "target": "100% en zonas rurales"
+        },
+        {
+          "statement": "Crear programa nacional de nutrición escolar para reducir la desnutrición infantil",
+          "original_quote": "Programa nacional de nutrición escolar",
+          "page": 1,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "nutrición",
+            "desnutrición infantil",
+            "programa escolar"
+          ],
+          "indicator": "Tasa de desnutrición",
+          "target": "Reducir al 5%"
+        }
+      ]
+    },
+    {
+      "topic": "Trabajo y Derechos Laborales",
+      "proposals": [
+        {
+          "statement": "Fortalecer los derechos laborales y reivindicaciones económicas de trabajadores estatales y privados",
+          "original_quote": "Fortalecer derechos laborales y reivindicaciones económicas de trabajadores estatales y privados",
+          "page": 1,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "derechos laborales",
+            "trabajadores",
+            "cumplimiento laboral"
+          ],
+          "indicator": "Índice de cumplimiento laboral",
+          "target": "100% de cumplimiento laboral y normativo"
+        }
+      ]
+    },
+    {
+      "topic": "Educación",
+      "proposals": [
+        {
+          "statement": "Reformar universidades e institutos públicos para mejorar la calidad educativa",
+          "original_quote": "Reformar universidades e institutos públicos",
+          "page": 1,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "educación",
+            "universidades",
+            "institutos públicos",
+            "reforma educativa"
+          ],
+          "indicator": "Ranking de calidad educativa",
+          "target": "Subir 20 posiciones en Latinoamérica"
+        }
+      ]
+    },
+    {
+      "topic": "Lucha contra la Corrupción",
+      "proposals": [
+        {
+          "statement": "Aplicar cadena perpetua para delitos graves de corrupción",
+          "original_quote": "Cadena perpetua para delitos graves de corrupción",
+          "page": 1,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "corrupción",
+            "cadena perpetua",
+            "delitos graves"
+          ],
+          "indicator": "Número de condenas",
+          "target": "100% de casos graves judicializados"
+        }
+      ]
+    },
+    {
+      "topic": "Participación Ciudadana",
+      "proposals": [
+        {
+          "statement": "Convocar a un nuevo pacto social nacional con participación de las regiones",
+          "original_quote": "Convocar a nuevo pacto social nacional",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "pacto social",
+            "participación ciudadana",
+            "regiones"
+          ],
+          "indicator": "Participación ciudadana",
+          "target": "80% de regiones involucradas"
+        }
+      ]
+    },
+    {
+      "topic": "Reforma del Estado",
+      "proposals": [
+        {
+          "statement": "Reestructurar la carrera pública y las entidades estatales para mejorar la eficiencia institucional",
+          "original_quote": "Reestructurar carrera pública y entidades estatales",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "reforma estatal",
+            "carrera pública",
+            "eficiencia institucional"
+          ],
+          "indicator": "Índice de eficiencia institucional",
+          "target": "Mejorar en 30%"
+        }
+      ]
+    },
+    {
+      "topic": "Emprendimiento y MYPES",
+      "proposals": [
+        {
+          "statement": "Impulsar la revolución del emprendimiento para crear nuevas micro y pequeñas empresas",
+          "original_quote": "Revolución del emprendimiento",
+          "page": 2,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "emprendimiento",
+            "MYPES",
+            "empresas"
+          ],
+          "indicator": "Creación de MYPES",
+          "target": "+500,000 nuevas"
+        },
+        {
+          "statement": "Impulsar el apoyo financiero y técnico a emprendedores como factor clave en el desarrollo nacional",
+          "original_quote": "Impulsar el apoyo financiero y técnico a emprendedores como factor clave en el desarrollo nacional",
+          "page": 2,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "apoyo financiero",
+            "emprendedores",
+            "asistencia técnica",
+            "crédito"
+          ],
+          "indicator": "Número de beneficiarios con crédito y asistencia técnica",
+          "target": "1 millón de emprendedores apoyados"
+        }
+      ]
+    },
+    {
+      "topic": "Industrialización",
+      "proposals": [
+        {
+          "statement": "Desarrollar cadenas productivas para impulsar la industrialización del país",
+          "original_quote": "Desarrollar cadenas productivas",
+          "page": 2,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "industrialización",
+            "cadenas productivas",
+            "valor agregado"
+          ],
+          "indicator": "Valor agregado industrial",
+          "target": "+25%"
+        }
+      ]
+    },
+    {
+      "topic": "Agricultura",
+      "proposals": [
+        {
+          "statement": "Impulsar la micro y pequeña agricultura para incrementar la producción agropecuaria",
+          "original_quote": "Impulsar micro y pequeña agricultura",
+          "page": 2,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "agricultura",
+            "producción agropecuaria",
+            "micro agricultura"
+          ],
+          "indicator": "Producción agropecuaria",
+          "target": "+30% en 5 años"
+        }
+      ]
+    },
+    {
+      "topic": "Infraestructura",
+      "proposals": [
+        {
+          "statement": "Implementar un plan nacional de infraestructura pública con cobertura total en zonas fronterizas",
+          "original_quote": "Plan nacional de infraestructura pública",
+          "page": 2,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "infraestructura",
+            "zonas fronterizas",
+            "cobertura vial"
+          ],
+          "indicator": "Cobertura vial y sanitaria",
+          "target": "100% en zonas fronterizas"
+        }
+      ]
+    },
+    {
+      "topic": "Medio Ambiente",
+      "proposals": [
+        {
+          "statement": "Crear un impuesto ecológico para combatir la contaminación ambiental",
+          "original_quote": "Crear impuesto ecológico",
+          "page": 2,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "impuesto ecológico",
+            "contaminación",
+            "medio ambiente"
+          ],
+          "indicator": "Recaudación ambiental",
+          "target": "S/. 500 millones anuales"
+        }
+      ]
+    },
+    {
+      "topic": "Vivienda",
+      "proposals": [
+        {
+          "statement": "Implementar un programa de vivienda digna para un millón de hogares",
+          "original_quote": "Programa de vivienda digna",
+          "page": 2,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "vivienda",
+            "vivienda digna",
+            "hogares"
+          ],
+          "indicator": "Familias beneficiadas",
+          "target": "1 millón de hogares"
+        }
+      ]
+    },
+    {
+      "topic": "Rendición de Cuentas",
+      "proposals": [
+        {
+          "statement": "Publicar semestralmente los avances en el portal oficial del partido y del gobierno",
+          "original_quote": "Publicación semestral de avances en el portal oficial del partido y del gobierno",
+          "page": 2,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "rendición de cuentas",
+            "transparencia",
+            "publicación"
+          ]
+        },
+        {
+          "statement": "Realizar audiencias públicas regionales cada año para reportar avances",
+          "original_quote": "Audiencias públicas regionales cada año",
+          "page": 2,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "audiencias públicas",
+            "rendición de cuentas",
+            "regiones"
+          ]
+        },
+        {
+          "statement": "Presentar informe anual ante el Congreso Nacional del PTE-PERÚ",
+          "original_quote": "Informe anual ante el Congreso Nacional del PTE-PERÚ",
+          "page": 2,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "informe anual",
+            "congreso",
+            "rendición de cuentas"
+          ]
+        },
+        {
+          "statement": "Facilitar la participación ciudadana en la evaluación de metas mediante plataformas digitales",
+          "original_quote": "Participación de la ciudadanía en la evaluación de metas mediante plataformas digitales",
+          "page": 2,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "participación ciudadana",
+            "plataformas digitales",
+            "evaluación"
+          ]
+        }
+      ]
+    }
+  ],
+  "extraction_notes": {
+    "document_type": "Resumen de Plan de Gobierno (Formato JNE)",
+    "total_pages": 2,
+    "structure": "Organizado por dimensiones (social, institucional, económica, territorial-ambiental)",
+    "specificity": "El documento presenta objetivos estratégicos con indicadores y metas cuantificadas para el período 2026-2031"
+  },
+  "stances_updated_at": "2026-04-06T23:04:04.259309"
+}

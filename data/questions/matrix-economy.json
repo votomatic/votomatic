@@ -1,0 +1,320 @@
+{
+  "generated_at": "2026-04-06T23:04:55.360533",
+  "category": "economy",
+  "total_parties": 37,
+  "formula": "(a_favor × (en_contra + neutral)) / total²",
+  "issues": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "counts": {
+        "a_favor": 3,
+        "en_contra": 1,
+        "neutral": 31,
+        "no_mencionado": 2
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "partido-politico-nacional-peru-libre",
+        "partido-civico-obras",
+        "alianza-electoral-venceremos"
+      ],
+      "parties_contra": [
+        "fe-en-el-peru"
+      ],
+      "parties_neutral": [
+        "un-camino-diferente",
+        "ahora-nacion",
+        "podemos-peru",
+        "partido-frente-de-la-esperanza-2021",
+        "progresemos",
+        "partido-politico-cooperacion-popular",
+        "partido-democrata-unido-peru",
+        "partido-del-buen-gobierno",
+        "juntos-por-el-peru",
+        "partido-politico-prin",
+        "fuerza-popular",
+        "alianza-para-el-progreso",
+        "peru-moderno",
+        "fuerza-y-libertad",
+        "partido-aprista-peruano",
+        "partido-democrata-verde",
+        "partido-politico-peru-accion",
+        "avanza-pais",
+        "unidad-nacional",
+        "libertad-popular",
+        "partido-de-los-trabajadores-y-emprendedores",
+        "renovacion-popular",
+        "primero-la-gente",
+        "partido-politico-integridad-democratica",
+        "partido-politico-peru-primero",
+        "partido-democratico-somos-peru",
+        "partido-pais-para-todos",
+        "salvemos-al-peru",
+        "partido-patriotico-del-peru",
+        "partido-sicreo",
+        "partido-morado"
+      ],
+      "divergence_score": 0.0701,
+      "coverage": "high",
+      "recommended_for_questions": true
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "counts": {
+        "a_favor": 3,
+        "en_contra": 0,
+        "neutral": 23,
+        "no_mencionado": 11
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "partido-civico-obras",
+        "unidad-nacional",
+        "alianza-electoral-venceremos"
+      ],
+      "parties_contra": [],
+      "parties_neutral": [
+        "un-camino-diferente",
+        "ahora-nacion",
+        "podemos-peru",
+        "partido-frente-de-la-esperanza-2021",
+        "progresemos",
+        "partido-del-buen-gobierno",
+        "fuerza-popular",
+        "alianza-para-el-progreso",
+        "peru-moderno",
+        "fe-en-el-peru",
+        "fuerza-y-libertad",
+        "partido-democrata-verde",
+        "avanza-pais",
+        "libertad-popular",
+        "partido-de-los-trabajadores-y-emprendedores",
+        "renovacion-popular",
+        "partido-politico-integridad-democratica",
+        "partido-politico-peru-primero",
+        "partido-democratico-somos-peru",
+        "partido-pais-para-todos",
+        "salvemos-al-peru",
+        "partido-patriotico-del-peru",
+        "partido-morado"
+      ],
+      "divergence_score": 0.0504,
+      "coverage": "high",
+      "recommended_for_questions": true
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "counts": {
+        "a_favor": 3,
+        "en_contra": 0,
+        "neutral": 30,
+        "no_mencionado": 4
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "partido-politico-nacional-peru-libre",
+        "partido-civico-obras",
+        "unidad-nacional"
+      ],
+      "parties_contra": [],
+      "parties_neutral": [
+        "un-camino-diferente",
+        "ahora-nacion",
+        "podemos-peru",
+        "partido-frente-de-la-esperanza-2021",
+        "progresemos",
+        "partido-politico-cooperacion-popular",
+        "partido-democrata-unido-peru",
+        "partido-del-buen-gobierno",
+        "juntos-por-el-peru",
+        "partido-politico-prin",
+        "fuerza-popular",
+        "alianza-para-el-progreso",
+        "peru-moderno",
+        "frente-popular-agricola-fia-del-peru",
+        "fe-en-el-peru",
+        "partido-aprista-peruano",
+        "partido-democrata-verde",
+        "partido-politico-peru-accion",
+        "avanza-pais",
+        "libertad-popular",
+        "primero-la-gente",
+        "partido-politico-integridad-democratica",
+        "partido-politico-peru-primero",
+        "partido-democratico-somos-peru",
+        "partido-pais-para-todos",
+        "alianza-electoral-venceremos",
+        "salvemos-al-peru",
+        "partido-patriotico-del-peru",
+        "partido-sicreo",
+        "partido-morado"
+      ],
+      "divergence_score": 0.0657,
+      "coverage": "high",
+      "recommended_for_questions": true
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "counts": {
+        "a_favor": 36,
+        "en_contra": 0,
+        "neutral": 0,
+        "no_mencionado": 1
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "un-camino-diferente",
+        "ahora-nacion",
+        "podemos-peru",
+        "partido-politico-nacional-peru-libre",
+        "partido-frente-de-la-esperanza-2021",
+        "progresemos",
+        "partido-politico-cooperacion-popular",
+        "partido-democrata-unido-peru",
+        "partido-del-buen-gobierno",
+        "juntos-por-el-peru",
+        "partido-politico-prin",
+        "fuerza-popular",
+        "alianza-para-el-progreso",
+        "peru-moderno",
+        "frente-popular-agricola-fia-del-peru",
+        "fe-en-el-peru",
+        "partido-civico-obras",
+        "fuerza-y-libertad",
+        "partido-democrata-verde",
+        "partido-politico-peru-accion",
+        "avanza-pais",
+        "unidad-nacional",
+        "libertad-popular",
+        "partido-de-los-trabajadores-y-emprendedores",
+        "renovacion-popular",
+        "primero-la-gente",
+        "partido-politico-integridad-democratica",
+        "partido-politico-peru-primero",
+        "partido-democratico-somos-peru",
+        "partido-pais-para-todos",
+        "partido-democratico-federal",
+        "alianza-electoral-venceremos",
+        "salvemos-al-peru",
+        "partido-patriotico-del-peru",
+        "partido-sicreo",
+        "partido-morado"
+      ],
+      "parties_contra": [],
+      "parties_neutral": [],
+      "divergence_score": 0.0,
+      "coverage": "high",
+      "recommended_for_questions": false
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "counts": {
+        "a_favor": 0,
+        "en_contra": 3,
+        "neutral": 12,
+        "no_mencionado": 22
+      },
+      "total_parties": 37,
+      "parties_favor": [],
+      "parties_contra": [
+        "partido-civico-obras",
+        "alianza-electoral-venceremos",
+        "salvemos-al-peru"
+      ],
+      "parties_neutral": [
+        "ahora-nacion",
+        "partido-frente-de-la-esperanza-2021",
+        "progresemos",
+        "partido-del-buen-gobierno",
+        "partido-politico-prin",
+        "fuerza-popular",
+        "peru-moderno",
+        "avanza-pais",
+        "partido-politico-integridad-democratica",
+        "partido-politico-peru-primero",
+        "partido-pais-para-todos",
+        "partido-patriotico-del-peru"
+      ],
+      "divergence_score": 0.0,
+      "coverage": "medium",
+      "recommended_for_questions": false
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "counts": {
+        "a_favor": 10,
+        "en_contra": 0,
+        "neutral": 3,
+        "no_mencionado": 24
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "ahora-nacion",
+        "partido-frente-de-la-esperanza-2021",
+        "partido-del-buen-gobierno",
+        "partido-politico-prin",
+        "fuerza-popular",
+        "avanza-pais",
+        "partido-politico-integridad-democratica",
+        "partido-politico-peru-primero",
+        "partido-democratico-somos-peru",
+        "partido-pais-para-todos"
+      ],
+      "parties_contra": [],
+      "parties_neutral": [
+        "progresemos",
+        "partido-aprista-peruano",
+        "partido-patriotico-del-peru"
+      ],
+      "divergence_score": 0.0219,
+      "coverage": "medium",
+      "recommended_for_questions": false
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "counts": {
+        "a_favor": 8,
+        "en_contra": 1,
+        "neutral": 18,
+        "no_mencionado": 10
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "ahora-nacion",
+        "partido-politico-prin",
+        "peru-moderno",
+        "partido-civico-obras",
+        "fuerza-y-libertad",
+        "primero-la-gente",
+        "partido-politico-peru-primero",
+        "partido-morado"
+      ],
+      "parties_contra": [
+        "progresemos"
+      ],
+      "parties_neutral": [
+        "podemos-peru",
+        "partido-frente-de-la-esperanza-2021",
+        "partido-politico-cooperacion-popular",
+        "partido-del-buen-gobierno",
+        "juntos-por-el-peru",
+        "fuerza-popular",
+        "alianza-para-el-progreso",
+        "fe-en-el-peru",
+        "partido-aprista-peruano",
+        "partido-politico-peru-accion",
+        "avanza-pais",
+        "renovacion-popular",
+        "partido-politico-integridad-democratica",
+        "partido-democratico-somos-peru",
+        "partido-pais-para-todos",
+        "partido-democratico-federal",
+        "salvemos-al-peru",
+        "partido-sicreo"
+      ],
+      "divergence_score": 0.111,
+      "coverage": "high",
+      "recommended_for_questions": true
+    }
+  ]
+}

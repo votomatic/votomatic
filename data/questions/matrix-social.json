@@ -1,0 +1,296 @@
+{
+  "generated_at": "2026-04-06T23:04:55.361303",
+  "category": "social",
+  "total_parties": 37,
+  "formula": "(a_favor × (en_contra + neutral)) / total²",
+  "issues": [
+    {
+      "issue": "Matrimonio igualitario",
+      "counts": {
+        "a_favor": 7,
+        "en_contra": 0,
+        "neutral": 27,
+        "no_mencionado": 3
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "un-camino-diferente",
+        "ahora-nacion",
+        "partido-frente-de-la-esperanza-2021",
+        "partido-del-buen-gobierno",
+        "avanza-pais",
+        "partido-politico-integridad-democratica",
+        "partido-morado"
+      ],
+      "parties_contra": [],
+      "parties_neutral": [
+        "podemos-peru",
+        "partido-politico-nacional-peru-libre",
+        "progresemos",
+        "partido-politico-cooperacion-popular",
+        "partido-democrata-unido-peru",
+        "partido-politico-prin",
+        "fuerza-popular",
+        "alianza-para-el-progreso",
+        "peru-moderno",
+        "fe-en-el-peru",
+        "partido-civico-obras",
+        "fuerza-y-libertad",
+        "partido-aprista-peruano",
+        "partido-democrata-verde",
+        "unidad-nacional",
+        "libertad-popular",
+        "partido-de-los-trabajadores-y-emprendedores",
+        "renovacion-popular",
+        "primero-la-gente",
+        "partido-politico-peru-primero",
+        "partido-democratico-somos-peru",
+        "partido-pais-para-todos",
+        "partido-democratico-federal",
+        "alianza-electoral-venceremos",
+        "salvemos-al-peru",
+        "partido-patriotico-del-peru",
+        "partido-sicreo"
+      ],
+      "divergence_score": 0.1381,
+      "coverage": "high",
+      "recommended_for_questions": true
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "counts": {
+        "a_favor": 1,
+        "en_contra": 4,
+        "neutral": 31,
+        "no_mencionado": 1
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "partido-morado"
+      ],
+      "parties_contra": [
+        "partido-frente-de-la-esperanza-2021",
+        "peru-moderno",
+        "avanza-pais",
+        "primero-la-gente"
+      ],
+      "parties_neutral": [
+        "un-camino-diferente",
+        "ahora-nacion",
+        "podemos-peru",
+        "partido-politico-nacional-peru-libre",
+        "progresemos",
+        "partido-politico-cooperacion-popular",
+        "partido-democrata-unido-peru",
+        "partido-del-buen-gobierno",
+        "juntos-por-el-peru",
+        "partido-politico-prin",
+        "fuerza-popular",
+        "alianza-para-el-progreso",
+        "fe-en-el-peru",
+        "partido-civico-obras",
+        "fuerza-y-libertad",
+        "partido-aprista-peruano",
+        "partido-democrata-verde",
+        "partido-politico-peru-accion",
+        "unidad-nacional",
+        "libertad-popular",
+        "partido-de-los-trabajadores-y-emprendedores",
+        "renovacion-popular",
+        "partido-politico-integridad-democratica",
+        "partido-politico-peru-primero",
+        "partido-democratico-somos-peru",
+        "partido-pais-para-todos",
+        "partido-democratico-federal",
+        "alianza-electoral-venceremos",
+        "salvemos-al-peru",
+        "partido-patriotico-del-peru",
+        "partido-sicreo"
+      ],
+      "divergence_score": 0.0256,
+      "coverage": "high",
+      "recommended_for_questions": false
+    },
+    {
+      "issue": "Políticas de género",
+      "counts": {
+        "a_favor": 34,
+        "en_contra": 1,
+        "neutral": 1,
+        "no_mencionado": 1
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "un-camino-diferente",
+        "ahora-nacion",
+        "podemos-peru",
+        "partido-politico-nacional-peru-libre",
+        "partido-frente-de-la-esperanza-2021",
+        "progresemos",
+        "partido-politico-cooperacion-popular",
+        "partido-del-buen-gobierno",
+        "juntos-por-el-peru",
+        "partido-politico-prin",
+        "fuerza-popular",
+        "alianza-para-el-progreso",
+        "peru-moderno",
+        "fe-en-el-peru",
+        "partido-civico-obras",
+        "fuerza-y-libertad",
+        "partido-aprista-peruano",
+        "partido-democrata-verde",
+        "avanza-pais",
+        "unidad-nacional",
+        "libertad-popular",
+        "partido-de-los-trabajadores-y-emprendedores",
+        "renovacion-popular",
+        "primero-la-gente",
+        "partido-politico-integridad-democratica",
+        "partido-politico-peru-primero",
+        "partido-democratico-somos-peru",
+        "partido-pais-para-todos",
+        "partido-democratico-federal",
+        "alianza-electoral-venceremos",
+        "salvemos-al-peru",
+        "partido-patriotico-del-peru",
+        "partido-sicreo",
+        "partido-morado"
+      ],
+      "parties_contra": [
+        "partido-democrata-unido-peru"
+      ],
+      "parties_neutral": [
+        "frente-popular-agricola-fia-del-peru"
+      ],
+      "divergence_score": 0.0497,
+      "coverage": "high",
+      "recommended_for_questions": false
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "counts": {
+        "a_favor": 0,
+        "en_contra": 5,
+        "neutral": 31,
+        "no_mencionado": 1
+      },
+      "total_parties": 37,
+      "parties_favor": [],
+      "parties_contra": [
+        "podemos-peru",
+        "partido-politico-cooperacion-popular",
+        "frente-popular-agricola-fia-del-peru",
+        "unidad-nacional",
+        "alianza-electoral-venceremos"
+      ],
+      "parties_neutral": [
+        "un-camino-diferente",
+        "ahora-nacion",
+        "partido-politico-nacional-peru-libre",
+        "partido-frente-de-la-esperanza-2021",
+        "progresemos",
+        "partido-democrata-unido-peru",
+        "partido-del-buen-gobierno",
+        "juntos-por-el-peru",
+        "partido-politico-prin",
+        "fuerza-popular",
+        "alianza-para-el-progreso",
+        "peru-moderno",
+        "fe-en-el-peru",
+        "partido-civico-obras",
+        "fuerza-y-libertad",
+        "partido-aprista-peruano",
+        "partido-democrata-verde",
+        "partido-politico-peru-accion",
+        "avanza-pais",
+        "libertad-popular",
+        "partido-de-los-trabajadores-y-emprendedores",
+        "renovacion-popular",
+        "primero-la-gente",
+        "partido-politico-integridad-democratica",
+        "partido-politico-peru-primero",
+        "partido-democratico-somos-peru",
+        "partido-pais-para-todos",
+        "partido-democratico-federal",
+        "salvemos-al-peru",
+        "partido-patriotico-del-peru",
+        "partido-morado"
+      ],
+      "divergence_score": 0.0,
+      "coverage": "high",
+      "recommended_for_questions": false
+    },
+    {
+      "issue": "Pena de muerte",
+      "counts": {
+        "a_favor": 6,
+        "en_contra": 0,
+        "neutral": 1,
+        "no_mencionado": 30
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "ahora-nacion",
+        "partido-democrata-unido-peru",
+        "peru-moderno",
+        "avanza-pais",
+        "partido-de-los-trabajadores-y-emprendedores",
+        "partido-politico-integridad-democratica"
+      ],
+      "parties_contra": [],
+      "parties_neutral": [
+        "partido-politico-peru-accion"
+      ],
+      "divergence_score": 0.0044,
+      "coverage": "low",
+      "recommended_for_questions": false
+    },
+    {
+      "issue": "Eutanasia",
+      "counts": {
+        "a_favor": 2,
+        "en_contra": 0,
+        "neutral": 0,
+        "no_mencionado": 35
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "ahora-nacion",
+        "partido-politico-cooperacion-popular"
+      ],
+      "parties_contra": [],
+      "parties_neutral": [],
+      "divergence_score": 0.0,
+      "coverage": "low",
+      "recommended_for_questions": false
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "counts": {
+        "a_favor": 2,
+        "en_contra": 0,
+        "neutral": 8,
+        "no_mencionado": 27
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "renovacion-popular",
+        "partido-democratico-somos-peru"
+      ],
+      "parties_contra": [],
+      "parties_neutral": [
+        "ahora-nacion",
+        "partido-frente-de-la-esperanza-2021",
+        "partido-del-buen-gobierno",
+        "partido-politico-prin",
+        "avanza-pais",
+        "partido-politico-integridad-democratica",
+        "partido-pais-para-todos",
+        "partido-morado"
+      ],
+      "divergence_score": 0.0117,
+      "coverage": "low",
+      "recommended_for_questions": false
+    }
+  ]
+}

@@ -1,0 +1,4265 @@
+{
+  "party": "Partido Aprista Peruano",
+  "source_pdf": "data/pdfs/partido-aprista-peruano.pdf",
+  "extracted_at": "2026-04-05T22:45:52.528104",
+  "topics": [
+    {
+      "topic": "Economía",
+      "proposals": [
+        {
+          "statement": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época...",
+          "original_quote": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época.",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "desarrollo",
+            "garantizar",
+            "derechos",
+            "fundamentales",
+            "esta",
+            "contradicción",
+            "crecimiento",
+            "desigualdad",
+            "constituye",
+            "principal"
+          ]
+        },
+        {
+          "statement": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agend...",
+          "original_quote": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agenda Social .",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "internas",
+            "externas",
+            "garantizar",
+            "progre",
+            "económico",
+            "esté",
+            "servicio",
+            "persona",
+            "humana",
+            "nación"
+          ]
+        },
+        {
+          "statement": "La acción del Estado debe centrarse en garantizar la igualdad de oportunidades para el desarrollo pleno. Las circunstancias socioeconómicas de nacimie...",
+          "original_quote": "La acción del Estado debe centrarse en garantizar la igualdad de oportunidades para el desarrollo pleno. Las circunstancias socioeconómicas de nacimiento no",
+          "page": 7,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "acción",
+            "estado",
+            "debe",
+            "centrarse",
+            "garantizar",
+            "igualdad",
+            "oportunidades",
+            "desarrollo",
+            "pleno",
+            "circunstancias"
+          ]
+        },
+        {
+          "statement": "tramo inicial, la misma ta sa depredadora del 29.5% de impuesto a la renta que se aplica a las grandes corporaciones multinacionales. Esta falta de pr...",
+          "original_quote": "tramo inicial, la misma ta sa depredadora del 29.5% de impuesto a la renta que se aplica a las grandes corporaciones multinacionales. Esta falta de progresividad es el rostro",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "tramo",
+            "inicial",
+            "misma",
+            "depredadora",
+            "impuesto",
+            "renta",
+            "aplica",
+            "grandes",
+            "corporaciones",
+            "multinacionales"
+          ]
+        },
+        {
+          "statement": "alarmante: la informalidad laboral persiste por encima del 71%, dejando a millones de peruanos sin beneficios sociales ni protección. Como resultado, ...",
+          "original_quote": "alarmante: la informalidad laboral persiste por encima del 71%, dejando a millones de peruanos sin beneficios sociales ni protección. Como resultado, gran par te de la población",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "alarmante",
+            "informalidad",
+            "laboral",
+            "persiste",
+            "encima",
+            "dejando",
+            "millones",
+            "peruanos",
+            "beneficios",
+            "sociales"
+          ]
+        },
+        {
+          "statement": "logran superar el umbral de la pobreza ni garantizar un futuro digno para sus hijos.",
+          "original_quote": "logran superar el umbral de la pobreza ni garantizar un futuro digno para sus hijos.",
+          "page": 12,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "logran",
+            "superar",
+            "umbral",
+            "pobreza",
+            "garantizar",
+            "futuro",
+            "digno",
+            "hijos"
+          ]
+        },
+        {
+          "statement": "los partidos políticos se mantiene en niveles críticos (apenas un 7%), mientras que la percepción de la corrupción sigue siendo identificada por más d...",
+          "original_quote": "los partidos políticos se mantiene en niveles críticos (apenas un 7%), mientras que la percepción de la corrupción sigue siendo identificada por más del 55% de la población",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "partidos",
+            "políticos",
+            "mantiene",
+            "niveles",
+            "críticos",
+            "apenas",
+            "mientras",
+            "percepción",
+            "corrupción",
+            "sigue"
+          ]
+        },
+        {
+          "statement": "percepción de la corrupción sigue siendo identificada por más del 55% de la población como uno de los principales obstáculos para el desarrollo. Est e...",
+          "original_quote": "percepción de la corrupción sigue siendo identificada por más del 55% de la población como uno de los principales obstáculos para el desarrollo. Est e vacío de legitimidad",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "percepción",
+            "corrupción",
+            "sigue",
+            "siendo",
+            "identificada",
+            "población",
+            "principales",
+            "obstáculos",
+            "desarrollo",
+            "vacío"
+          ]
+        },
+        {
+          "statement": "Litio al 2030. Prólogo al capítulo por Albert Alan Rosales Del Águila",
+          "original_quote": "Litio al 2030. Prólogo al capítulo por Albert Alan Rosales Del Águila",
+          "page": 13,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "litio",
+            "prólogo",
+            "capítulo",
+            "albert",
+            "alan",
+            "rosales",
+            "águila"
+          ]
+        },
+        {
+          "statement": "fracturas que requieren reparación urgente. Para desarrollar verdaderamente la estructura social del Perú, necesitamos primero fortalecer nuestra base...",
+          "original_quote": "fracturas que requieren reparación urgente. Para desarrollar verdaderamente la estructura social del Perú, necesitamos primero fortalecer nuestra base productiva",
+          "page": 14,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "fracturas",
+            "requieren",
+            "reparación",
+            "urgente",
+            "desarrollar",
+            "verdaderamente",
+            "estructura",
+            "social",
+            "perú",
+            "necesitamos"
+          ]
+        },
+        {
+          "statement": "peruana creció un 3.3% , saliendo de la recesión del año anterior, impulsada por sectores productivos clave. La pesca lideró este crecimiento con un 2...",
+          "original_quote": "peruana creció un 3.3% , saliendo de la recesión del año anterior, impulsada por sectores productivos clave. La pesca lideró este crecimiento con un 24.89% ,",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "peruana",
+            "creció",
+            "saliendo",
+            "recesión",
+            "anterior",
+            "impulsada",
+            "sectores",
+            "productivos",
+            "clave",
+            "pesca"
+          ]
+        },
+        {
+          "statement": "millones de trabajadores , lo que representa un aumento del 4.6% respecto al año anterior.",
+          "original_quote": "millones de trabajadores , lo que representa un aumento del 4.6% respecto al año anterior.",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "millones",
+            "trabajadores",
+            "representa",
+            "aumento",
+            "respecto",
+            "anterior"
+          ]
+        },
+        {
+          "statement": "• Sector Servicios: Representa el 50.7% del PBI, siendo el motor principal de la economía.",
+          "original_quote": "• Sector Servicios: Representa el 50.7% del PBI, siendo el motor principal de la economía.",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "servicios",
+            "representa",
+            "siendo",
+            "motor",
+            "principal",
+            "economía"
+          ]
+        },
+        {
+          "statement": "• Sector Comercio: Aporta el 10.8% del PBI, conectando producción con consumo. • Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% ...",
+          "original_quote": "• Sector Comercio: Aporta el 10.8% del PBI, conectando producción con consumo. • Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% en 2024 .",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "comercio",
+            "aporta",
+            "conectando",
+            "producción",
+            "consumo",
+            "agropecuario",
+            "contribuye",
+            "creció"
+          ]
+        },
+        {
+          "statement": "• Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% en 2024 . • Sector Manufactura: Mantiene un crecimiento sostenido y lidera la g...",
+          "original_quote": "• Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% en 2024 . • Sector Manufactura: Mantiene un crecimiento sostenido y lidera la generación de",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "agropecuario",
+            "contribuye",
+            "creció",
+            "manufactura",
+            "mantiene",
+            "crecimiento",
+            "sostenido",
+            "lidera",
+            "generación"
+          ]
+        },
+        {
+          "statement": "• Sector Minería: Registró un 2.04% de crecimiento, sustentando las exportaciones tradicionales y la inversión pública.",
+          "original_quote": "• Sector Minería: Registró un 2.04% de crecimiento, sustentando las exportaciones tradicionales y la inversión pública.",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "minería",
+            "registró",
+            "crecimiento",
+            "sustentando",
+            "exportaciones",
+            "tradicionales",
+            "inversión",
+            "pública"
+          ]
+        },
+        {
+          "statement": "proporcionales. El 69% del gasto se orienta a la salud individual (curativa), mientras que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "original_quote": "proporcionales. El 69% del gasto se orienta a la salud individual (curativa), mientras que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "proporcionales",
+            "gasto",
+            "orienta",
+            "salud",
+            "individual",
+            "curativa",
+            "mientras",
+            "apenas",
+            "destina",
+            "colectiva"
+          ]
+        },
+        {
+          "statement": "que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "original_quote": "que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "apenas",
+            "destina",
+            "salud",
+            "colectiva",
+            "preventiva"
+          ]
+        },
+        {
+          "statement": "• Matemáticas: 391 puntos (el 66% de los estudiantes peruanos se encuentran por debajo del nivel mínimo de competencia).",
+          "original_quote": "• Matemáticas: 391 puntos (el 66% de los estudiantes peruanos se encuentran por debajo del nivel mínimo de competencia).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "matemáticas",
+            "puntos",
+            "estudiantes",
+            "peruanos",
+            "encuentran",
+            "debajo",
+            "nivel",
+            "mínimo",
+            "competencia"
+          ]
+        },
+        {
+          "statement": "• Lectura: 408 puntos (el 50% , por debajo del mínimo). • Ciencias: 480 puntos (el 53% , por debajo del mínimo).",
+          "original_quote": "• Lectura: 408 puntos (el 50% , por debajo del mínimo). • Ciencias: 480 puntos (el 53% , por debajo del mínimo).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "lectura",
+            "puntos",
+            "debajo",
+            "mínimo",
+            "ciencias"
+          ]
+        },
+        {
+          "statement": "• Ciencias: 480 puntos (el 53% , por debajo del mínimo). Estos números no solo son estadísticas, representan millones de potenciales talentos",
+          "original_quote": "• Ciencias: 480 puntos (el 53% , por debajo del mínimo). Estos números no solo son estadísticas, representan millones de potenciales talentos",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "ciencias",
+            "puntos",
+            "debajo",
+            "mínimo",
+            "números",
+            "estadísticas",
+            "representan",
+            "millones",
+            "potenciales",
+            "talentos"
+          ]
+        },
+        {
+          "statement": "retrocedió del 92% al 87% , y la deserción escolar se disparó al 6.3% en 2021 . Si bien se logró reducir al 2% en 2023 , aún no se recuperan los nivel...",
+          "original_quote": "retrocedió del 92% al 87% , y la deserción escolar se disparó al 6.3% en 2021 . Si bien se logró reducir al 2% en 2023 , aún no se recuperan los niveles prepandemia.",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "retrocedió",
+            "deserción",
+            "escolar",
+            "disparó",
+            "logró",
+            "reducir",
+            "recuperan",
+            "niveles",
+            "prepandemia"
+          ]
+        },
+        {
+          "statement": "se logró reducir al 2% en 2023 , aún no se recuperan los niveles prepandemia. Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 )...",
+          "original_quote": "se logró reducir al 2% en 2023 , aún no se recuperan los niveles prepandemia. Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 ) resulta",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "logró",
+            "reducir",
+            "recuperan",
+            "niveles",
+            "prepandemia",
+            "adicionalmente",
+            "presupuesto",
+            "educativo",
+            "apenas",
+            "resulta"
+          ]
+        },
+        {
+          "statement": "Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 ) resulta insuficiente para atender a los 7.8 millones de estudiantes con la ca...",
+          "original_quote": "Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 ) resulta insuficiente para atender a los 7.8 millones de estudiantes con la calida d y equidad",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "adicionalmente",
+            "presupuesto",
+            "educativo",
+            "apenas",
+            "resulta",
+            "insuficiente",
+            "atender",
+            "millones",
+            "estudiantes",
+            "calida"
+          ]
+        },
+        {
+          "statement": "insuficiente para atender a los 7.8 millones de estudiantes con la calida d y equidad requeridas.",
+          "original_quote": "insuficiente para atender a los 7.8 millones de estudiantes con la calida d y equidad requeridas.",
+          "page": 15,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "insuficiente",
+            "atender",
+            "millones",
+            "estudiantes",
+            "calida",
+            "equidad",
+            "requeridas"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salud",
+      "proposals": [
+        {
+          "statement": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época...",
+          "original_quote": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época.",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "desarrollo",
+            "garantizar",
+            "derechos",
+            "fundamentales",
+            "esta",
+            "contradicción",
+            "crecimiento",
+            "desigualdad",
+            "constituye",
+            "principal"
+          ]
+        },
+        {
+          "statement": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agend...",
+          "original_quote": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agenda Social .",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "internas",
+            "externas",
+            "garantizar",
+            "progre",
+            "económico",
+            "esté",
+            "servicio",
+            "persona",
+            "humana",
+            "nación"
+          ]
+        },
+        {
+          "statement": "fracturas que requieren reparación urgente. Para desarrollar verdaderamente la estructura social del Perú, necesitamos primero fortalecer nuestra base...",
+          "original_quote": "fracturas que requieren reparación urgente. Para desarrollar verdaderamente la estructura social del Perú, necesitamos primero fortalecer nuestra base productiva",
+          "page": 14,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "fracturas",
+            "requieren",
+            "reparación",
+            "urgente",
+            "desarrollar",
+            "verdaderamente",
+            "estructura",
+            "social",
+            "perú",
+            "necesitamos"
+          ]
+        },
+        {
+          "statement": "peruana creció un 3.3% , saliendo de la recesión del año anterior, impulsada por sectores productivos clave. La pesca lideró este crecimiento con un 2...",
+          "original_quote": "peruana creció un 3.3% , saliendo de la recesión del año anterior, impulsada por sectores productivos clave. La pesca lideró este crecimiento con un 24.89% ,",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "peruana",
+            "creció",
+            "saliendo",
+            "recesión",
+            "anterior",
+            "impulsada",
+            "sectores",
+            "productivos",
+            "clave",
+            "pesca"
+          ]
+        },
+        {
+          "statement": "millones de trabajadores , lo que representa un aumento del 4.6% respecto al año anterior.",
+          "original_quote": "millones de trabajadores , lo que representa un aumento del 4.6% respecto al año anterior.",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "millones",
+            "trabajadores",
+            "representa",
+            "aumento",
+            "respecto",
+            "anterior"
+          ]
+        },
+        {
+          "statement": "• Sector Servicios: Representa el 50.7% del PBI, siendo el motor principal de la economía.",
+          "original_quote": "• Sector Servicios: Representa el 50.7% del PBI, siendo el motor principal de la economía.",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "servicios",
+            "representa",
+            "siendo",
+            "motor",
+            "principal",
+            "economía"
+          ]
+        },
+        {
+          "statement": "• Sector Comercio: Aporta el 10.8% del PBI, conectando producción con consumo. • Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% ...",
+          "original_quote": "• Sector Comercio: Aporta el 10.8% del PBI, conectando producción con consumo. • Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% en 2024 .",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "comercio",
+            "aporta",
+            "conectando",
+            "producción",
+            "consumo",
+            "agropecuario",
+            "contribuye",
+            "creció"
+          ]
+        },
+        {
+          "statement": "• Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% en 2024 . • Sector Manufactura: Mantiene un crecimiento sostenido y lidera la g...",
+          "original_quote": "• Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% en 2024 . • Sector Manufactura: Mantiene un crecimiento sostenido y lidera la generación de",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "agropecuario",
+            "contribuye",
+            "creció",
+            "manufactura",
+            "mantiene",
+            "crecimiento",
+            "sostenido",
+            "lidera",
+            "generación"
+          ]
+        },
+        {
+          "statement": "• Sector Minería: Registró un 2.04% de crecimiento, sustentando las exportaciones tradicionales y la inversión pública.",
+          "original_quote": "• Sector Minería: Registró un 2.04% de crecimiento, sustentando las exportaciones tradicionales y la inversión pública.",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "minería",
+            "registró",
+            "crecimiento",
+            "sustentando",
+            "exportaciones",
+            "tradicionales",
+            "inversión",
+            "pública"
+          ]
+        },
+        {
+          "statement": "proporcionales. El 69% del gasto se orienta a la salud individual (curativa), mientras que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "original_quote": "proporcionales. El 69% del gasto se orienta a la salud individual (curativa), mientras que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "proporcionales",
+            "gasto",
+            "orienta",
+            "salud",
+            "individual",
+            "curativa",
+            "mientras",
+            "apenas",
+            "destina",
+            "colectiva"
+          ]
+        },
+        {
+          "statement": "que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "original_quote": "que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "apenas",
+            "destina",
+            "salud",
+            "colectiva",
+            "preventiva"
+          ]
+        },
+        {
+          "statement": "• Matemáticas: 391 puntos (el 66% de los estudiantes peruanos se encuentran por debajo del nivel mínimo de competencia).",
+          "original_quote": "• Matemáticas: 391 puntos (el 66% de los estudiantes peruanos se encuentran por debajo del nivel mínimo de competencia).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "matemáticas",
+            "puntos",
+            "estudiantes",
+            "peruanos",
+            "encuentran",
+            "debajo",
+            "nivel",
+            "mínimo",
+            "competencia"
+          ]
+        },
+        {
+          "statement": "• Lectura: 408 puntos (el 50% , por debajo del mínimo). • Ciencias: 480 puntos (el 53% , por debajo del mínimo).",
+          "original_quote": "• Lectura: 408 puntos (el 50% , por debajo del mínimo). • Ciencias: 480 puntos (el 53% , por debajo del mínimo).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "lectura",
+            "puntos",
+            "debajo",
+            "mínimo",
+            "ciencias"
+          ]
+        },
+        {
+          "statement": "• Ciencias: 480 puntos (el 53% , por debajo del mínimo). Estos números no solo son estadísticas, representan millones de potenciales talentos",
+          "original_quote": "• Ciencias: 480 puntos (el 53% , por debajo del mínimo). Estos números no solo son estadísticas, representan millones de potenciales talentos",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "ciencias",
+            "puntos",
+            "debajo",
+            "mínimo",
+            "números",
+            "estadísticas",
+            "representan",
+            "millones",
+            "potenciales",
+            "talentos"
+          ]
+        },
+        {
+          "statement": "retrocedió del 92% al 87% , y la deserción escolar se disparó al 6.3% en 2021 . Si bien se logró reducir al 2% en 2023 , aún no se recuperan los nivel...",
+          "original_quote": "retrocedió del 92% al 87% , y la deserción escolar se disparó al 6.3% en 2021 . Si bien se logró reducir al 2% en 2023 , aún no se recuperan los niveles prepandemia.",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "retrocedió",
+            "deserción",
+            "escolar",
+            "disparó",
+            "logró",
+            "reducir",
+            "recuperan",
+            "niveles",
+            "prepandemia"
+          ]
+        },
+        {
+          "statement": "se logró reducir al 2% en 2023 , aún no se recuperan los niveles prepandemia. Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 )...",
+          "original_quote": "se logró reducir al 2% en 2023 , aún no se recuperan los niveles prepandemia. Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 ) resulta",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "logró",
+            "reducir",
+            "recuperan",
+            "niveles",
+            "prepandemia",
+            "adicionalmente",
+            "presupuesto",
+            "educativo",
+            "apenas",
+            "resulta"
+          ]
+        },
+        {
+          "statement": "Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 ) resulta insuficiente para atender a los 7.8 millones de estudiantes con la ca...",
+          "original_quote": "Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 ) resulta insuficiente para atender a los 7.8 millones de estudiantes con la calida d y equidad",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "adicionalmente",
+            "presupuesto",
+            "educativo",
+            "apenas",
+            "resulta",
+            "insuficiente",
+            "atender",
+            "millones",
+            "estudiantes",
+            "calida"
+          ]
+        },
+        {
+          "statement": "insuficiente para atender a los 7.8 millones de estudiantes con la calida d y equidad requeridas.",
+          "original_quote": "insuficiente para atender a los 7.8 millones de estudiantes con la calida d y equidad requeridas.",
+          "page": 15,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "insuficiente",
+            "atender",
+            "millones",
+            "estudiantes",
+            "calida",
+            "equidad",
+            "requeridas"
+          ]
+        },
+        {
+          "statement": "• Solo el 84% de las viviendas tiene acceso a agua potable mediante red pública. • Únicamente el 69.1% cuenta con un sistema de eliminación de excreta...",
+          "original_quote": "• Solo el 84% de las viviendas tiene acceso a agua potable mediante red pública. • Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "viviendas",
+            "tiene",
+            "acceso",
+            "agua",
+            "potable",
+            "mediante",
+            "pública",
+            "únicamente",
+            "cuenta",
+            "sistema"
+          ]
+        },
+        {
+          "statement": "• Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante red pública de desagüe.",
+          "original_quote": "• Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante red pública de desagüe.",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "únicamente",
+            "cuenta",
+            "sistema",
+            "eliminación",
+            "excretas",
+            "mediante",
+            "pública",
+            "desagüe"
+          ]
+        },
+        {
+          "statement": "Un alarmante 8.2% de la población no tiene acceso a ningún tipo de eliminación de desechos, lo que representa no solo un grave problema de salud públi...",
+          "original_quote": "Un alarmante 8.2% de la población no tiene acceso a ningún tipo de eliminación de desechos, lo que representa no solo un grave problema de salud pública, sino un",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "alarmante",
+            "población",
+            "tiene",
+            "acceso",
+            "ningún",
+            "tipo",
+            "eliminación",
+            "desechos",
+            "representa",
+            "grave"
+          ]
+        },
+        {
+          "statement": "vestir ( +14.5% ) y la fabricación de insumos de limpieza y cuidado personal ( +11.1%) no solo dinamizan la economía, sino que transforman vidas al ga...",
+          "original_quote": "vestir ( +14.5% ) y la fabricación de insumos de limpieza y cuidado personal ( +11.1%) no solo dinamizan la economía, sino que transforman vidas al garantizar acceso a",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "vestir",
+            "fabricación",
+            "insumos",
+            "limpieza",
+            "cuidado",
+            "personal",
+            "dinamizan",
+            "economía",
+            "sino",
+            "transforman"
+          ]
+        },
+        {
+          "statement": "El sector pesca, con su extraordinario crecimiento del 24.89% en 2024 , trasciende su valor como fuente de divisas. Este sector es el garante de la se...",
+          "original_quote": "El sector pesca, con su extraordinario crecimiento del 24.89% en 2024 , trasciende su valor como fuente de divisas. Este sector es el garante de la seguridad alimentaria para",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "pesca",
+            "extraordinario",
+            "crecimiento",
+            "trasciende",
+            "valor",
+            "fuente",
+            "divisas",
+            "garante",
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Con una participación del 50.7% en el PBI, el sector servicios constituye la mayor oportunidad para la creación masiva de puestos de trabajo, especial...",
+          "original_quote": "Con una participación del 50.7% en el PBI, el sector servicios constituye la mayor oportunidad para la creación masiva de puestos de trabajo, especialmente para",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "participación",
+            "sector",
+            "servicios",
+            "constituye",
+            "mayor",
+            "oportunidad",
+            "creación",
+            "masiva",
+            "puestos",
+            "trabajo"
+          ]
+        },
+        {
+          "statement": "seguridad social, garantizar una mejor educa ción para sus hermanos menores y ahorrar para la titulación y ampliación de su vivienda. Su caso es el re...",
+          "original_quote": "seguridad social, garantizar una mejor educa ción para sus hermanos menores y ahorrar para la titulación y ampliación de su vivienda. Su caso es el reflejo de lo que",
+          "page": 17,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "seguridad",
+            "social",
+            "garantizar",
+            "mejor",
+            "educa",
+            "ción",
+            "hermanos",
+            "menores",
+            "ahorrar",
+            "titulación"
+          ]
+        },
+        {
+          "statement": "empresa privada y la sociedad civil para garantizar que las inversiones estratégicas generen un desarrollo local integral y sostenible.",
+          "original_quote": "empresa privada y la sociedad civil para garantizar que las inversiones estratégicas generen un desarrollo local integral y sostenible.",
+          "page": 18,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "empresa",
+            "privada",
+            "sociedad",
+            "civil",
+            "garantizar",
+            "inversiones",
+            "estratégicas",
+            "generen",
+            "desarrollo",
+            "local"
+          ]
+        },
+        {
+          "statement": "atención Reducir la brecha de acceso a servicios y de",
+          "original_quote": "atención Reducir la brecha de acceso a servicios y de",
+          "page": 19,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "atención",
+            "reducir",
+            "brecha",
+            "acceso",
+            "servicios"
+          ]
+        },
+        {
+          "statement": "90% en colas y citas en el segundo y",
+          "original_quote": "90% en colas y citas en el segundo y",
+          "page": 19,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "colas",
+            "citas",
+            "segundo"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Educación",
+      "proposals": [
+        {
+          "statement": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época...",
+          "original_quote": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época.",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "desarrollo",
+            "garantizar",
+            "derechos",
+            "fundamentales",
+            "esta",
+            "contradicción",
+            "crecimiento",
+            "desigualdad",
+            "constituye",
+            "principal"
+          ]
+        },
+        {
+          "statement": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agend...",
+          "original_quote": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agenda Social .",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "internas",
+            "externas",
+            "garantizar",
+            "progre",
+            "económico",
+            "esté",
+            "servicio",
+            "persona",
+            "humana",
+            "nación"
+          ]
+        },
+        {
+          "statement": "La acción del Estado debe centrarse en garantizar la igualdad de oportunidades para el desarrollo pleno. Las circunstancias socioeconómicas de nacimie...",
+          "original_quote": "La acción del Estado debe centrarse en garantizar la igualdad de oportunidades para el desarrollo pleno. Las circunstancias socioeconómicas de nacimiento no",
+          "page": 7,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "acción",
+            "estado",
+            "debe",
+            "centrarse",
+            "garantizar",
+            "igualdad",
+            "oportunidades",
+            "desarrollo",
+            "pleno",
+            "circunstancias"
+          ]
+        },
+        {
+          "statement": "Litio al 2030. Prólogo al capítulo por Albert Alan Rosales Del Águila",
+          "original_quote": "Litio al 2030. Prólogo al capítulo por Albert Alan Rosales Del Águila",
+          "page": 13,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "litio",
+            "prólogo",
+            "capítulo",
+            "albert",
+            "alan",
+            "rosales",
+            "águila"
+          ]
+        },
+        {
+          "statement": "proporcionales. El 69% del gasto se orienta a la salud individual (curativa), mientras que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "original_quote": "proporcionales. El 69% del gasto se orienta a la salud individual (curativa), mientras que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "proporcionales",
+            "gasto",
+            "orienta",
+            "salud",
+            "individual",
+            "curativa",
+            "mientras",
+            "apenas",
+            "destina",
+            "colectiva"
+          ]
+        },
+        {
+          "statement": "que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "original_quote": "que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "apenas",
+            "destina",
+            "salud",
+            "colectiva",
+            "preventiva"
+          ]
+        },
+        {
+          "statement": "• Matemáticas: 391 puntos (el 66% de los estudiantes peruanos se encuentran por debajo del nivel mínimo de competencia).",
+          "original_quote": "• Matemáticas: 391 puntos (el 66% de los estudiantes peruanos se encuentran por debajo del nivel mínimo de competencia).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "matemáticas",
+            "puntos",
+            "estudiantes",
+            "peruanos",
+            "encuentran",
+            "debajo",
+            "nivel",
+            "mínimo",
+            "competencia"
+          ]
+        },
+        {
+          "statement": "• Lectura: 408 puntos (el 50% , por debajo del mínimo). • Ciencias: 480 puntos (el 53% , por debajo del mínimo).",
+          "original_quote": "• Lectura: 408 puntos (el 50% , por debajo del mínimo). • Ciencias: 480 puntos (el 53% , por debajo del mínimo).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "lectura",
+            "puntos",
+            "debajo",
+            "mínimo",
+            "ciencias"
+          ]
+        },
+        {
+          "statement": "• Ciencias: 480 puntos (el 53% , por debajo del mínimo). Estos números no solo son estadísticas, representan millones de potenciales talentos",
+          "original_quote": "• Ciencias: 480 puntos (el 53% , por debajo del mínimo). Estos números no solo son estadísticas, representan millones de potenciales talentos",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "ciencias",
+            "puntos",
+            "debajo",
+            "mínimo",
+            "números",
+            "estadísticas",
+            "representan",
+            "millones",
+            "potenciales",
+            "talentos"
+          ]
+        },
+        {
+          "statement": "retrocedió del 92% al 87% , y la deserción escolar se disparó al 6.3% en 2021 . Si bien se logró reducir al 2% en 2023 , aún no se recuperan los nivel...",
+          "original_quote": "retrocedió del 92% al 87% , y la deserción escolar se disparó al 6.3% en 2021 . Si bien se logró reducir al 2% en 2023 , aún no se recuperan los niveles prepandemia.",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "retrocedió",
+            "deserción",
+            "escolar",
+            "disparó",
+            "logró",
+            "reducir",
+            "recuperan",
+            "niveles",
+            "prepandemia"
+          ]
+        },
+        {
+          "statement": "se logró reducir al 2% en 2023 , aún no se recuperan los niveles prepandemia. Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 )...",
+          "original_quote": "se logró reducir al 2% en 2023 , aún no se recuperan los niveles prepandemia. Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 ) resulta",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "logró",
+            "reducir",
+            "recuperan",
+            "niveles",
+            "prepandemia",
+            "adicionalmente",
+            "presupuesto",
+            "educativo",
+            "apenas",
+            "resulta"
+          ]
+        },
+        {
+          "statement": "Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 ) resulta insuficiente para atender a los 7.8 millones de estudiantes con la ca...",
+          "original_quote": "Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 ) resulta insuficiente para atender a los 7.8 millones de estudiantes con la calida d y equidad",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "adicionalmente",
+            "presupuesto",
+            "educativo",
+            "apenas",
+            "resulta",
+            "insuficiente",
+            "atender",
+            "millones",
+            "estudiantes",
+            "calida"
+          ]
+        },
+        {
+          "statement": "insuficiente para atender a los 7.8 millones de estudiantes con la calida d y equidad requeridas.",
+          "original_quote": "insuficiente para atender a los 7.8 millones de estudiantes con la calida d y equidad requeridas.",
+          "page": 15,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "insuficiente",
+            "atender",
+            "millones",
+            "estudiantes",
+            "calida",
+            "equidad",
+            "requeridas"
+          ]
+        },
+        {
+          "statement": "seguridad social, garantizar una mejor educa ción para sus hermanos menores y ahorrar para la titulación y ampliación de su vivienda. Su caso es el re...",
+          "original_quote": "seguridad social, garantizar una mejor educa ción para sus hermanos menores y ahorrar para la titulación y ampliación de su vivienda. Su caso es el reflejo de lo que",
+          "page": 17,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "seguridad",
+            "social",
+            "garantizar",
+            "mejor",
+            "educa",
+            "ción",
+            "hermanos",
+            "menores",
+            "ahorrar",
+            "titulación"
+          ]
+        },
+        {
+          "statement": "empresa privada y la sociedad civil para garantizar que las inversiones estratégicas generen un desarrollo local integral y sostenible.",
+          "original_quote": "empresa privada y la sociedad civil para garantizar que las inversiones estratégicas generen un desarrollo local integral y sostenible.",
+          "page": 18,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "empresa",
+            "privada",
+            "sociedad",
+            "civil",
+            "garantizar",
+            "inversiones",
+            "estratégicas",
+            "generen",
+            "desarrollo",
+            "local"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Medio Ambiente",
+      "proposals": [
+        {
+          "statement": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época...",
+          "original_quote": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época.",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "desarrollo",
+            "garantizar",
+            "derechos",
+            "fundamentales",
+            "esta",
+            "contradicción",
+            "crecimiento",
+            "desigualdad",
+            "constituye",
+            "principal"
+          ]
+        },
+        {
+          "statement": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agend...",
+          "original_quote": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agenda Social .",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "internas",
+            "externas",
+            "garantizar",
+            "progre",
+            "económico",
+            "esté",
+            "servicio",
+            "persona",
+            "humana",
+            "nación"
+          ]
+        },
+        {
+          "statement": "• Solo el 84% de las viviendas tiene acceso a agua potable mediante red pública. • Únicamente el 69.1% cuenta con un sistema de eliminación de excreta...",
+          "original_quote": "• Solo el 84% de las viviendas tiene acceso a agua potable mediante red pública. • Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "viviendas",
+            "tiene",
+            "acceso",
+            "agua",
+            "potable",
+            "mediante",
+            "pública",
+            "únicamente",
+            "cuenta",
+            "sistema"
+          ]
+        },
+        {
+          "statement": "• Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante red pública de desagüe.",
+          "original_quote": "• Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante red pública de desagüe.",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "únicamente",
+            "cuenta",
+            "sistema",
+            "eliminación",
+            "excretas",
+            "mediante",
+            "pública",
+            "desagüe"
+          ]
+        },
+        {
+          "statement": "Un alarmante 8.2% de la población no tiene acceso a ningún tipo de eliminación de desechos, lo que representa no solo un grave problema de salud públi...",
+          "original_quote": "Un alarmante 8.2% de la población no tiene acceso a ningún tipo de eliminación de desechos, lo que representa no solo un grave problema de salud pública, sino un",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "alarmante",
+            "población",
+            "tiene",
+            "acceso",
+            "ningún",
+            "tipo",
+            "eliminación",
+            "desechos",
+            "representa",
+            "grave"
+          ]
+        },
+        {
+          "statement": "vestir ( +14.5% ) y la fabricación de insumos de limpieza y cuidado personal ( +11.1%) no solo dinamizan la economía, sino que transforman vidas al ga...",
+          "original_quote": "vestir ( +14.5% ) y la fabricación de insumos de limpieza y cuidado personal ( +11.1%) no solo dinamizan la economía, sino que transforman vidas al garantizar acceso a",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "vestir",
+            "fabricación",
+            "insumos",
+            "limpieza",
+            "cuidado",
+            "personal",
+            "dinamizan",
+            "economía",
+            "sino",
+            "transforman"
+          ]
+        },
+        {
+          "statement": "El sector pesca, con su extraordinario crecimiento del 24.89% en 2024 , trasciende su valor como fuente de divisas. Este sector es el garante de la se...",
+          "original_quote": "El sector pesca, con su extraordinario crecimiento del 24.89% en 2024 , trasciende su valor como fuente de divisas. Este sector es el garante de la seguridad alimentaria para",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "pesca",
+            "extraordinario",
+            "crecimiento",
+            "trasciende",
+            "valor",
+            "fuente",
+            "divisas",
+            "garante",
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Con una participación del 50.7% en el PBI, el sector servicios constituye la mayor oportunidad para la creación masiva de puestos de trabajo, especial...",
+          "original_quote": "Con una participación del 50.7% en el PBI, el sector servicios constituye la mayor oportunidad para la creación masiva de puestos de trabajo, especialmente para",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "participación",
+            "sector",
+            "servicios",
+            "constituye",
+            "mayor",
+            "oportunidad",
+            "creación",
+            "masiva",
+            "puestos",
+            "trabajo"
+          ]
+        },
+        {
+          "statement": "empresa privada y la sociedad civil para garantizar que las inversiones estratégicas generen un desarrollo local integral y sostenible.",
+          "original_quote": "empresa privada y la sociedad civil para garantizar que las inversiones estratégicas generen un desarrollo local integral y sostenible.",
+          "page": 18,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "empresa",
+            "privada",
+            "sociedad",
+            "civil",
+            "garantizar",
+            "inversiones",
+            "estratégicas",
+            "generen",
+            "desarrollo",
+            "local"
+          ]
+        },
+        {
+          "statement": "trámites. Aumentar títulos de propiedad otorgados",
+          "original_quote": "trámites. Aumentar títulos de propiedad otorgados",
+          "page": 23,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "trámites",
+            "aumentar",
+            "títulos",
+            "propiedad",
+            "otorgados"
+          ]
+        },
+        {
+          "statement": "86%, Huancavelica en 88%), en relación con el",
+          "original_quote": "86%, Huancavelica en 88%), en relación con el",
+          "page": 23,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "huancavelica",
+            "relación"
+          ]
+        },
+        {
+          "statement": "88%), en relación con el promedio nacional que",
+          "original_quote": "88%), en relación con el promedio nacional que",
+          "page": 23,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "relación",
+            "promedio",
+            "nacional"
+          ]
+        },
+        {
+          "statement": "es de 95.2% Mejorar el coeficiente de electrificación en",
+          "original_quote": "es de 95.2% Mejorar el coeficiente de electrificación en",
+          "page": 23,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "mejorar",
+            "coeficiente",
+            "electrificación"
+          ]
+        },
+        {
+          "statement": "El 16% de viviendas no tienen acceso a",
+          "original_quote": "El 16% de viviendas no tienen acceso a",
+          "page": 23,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "viviendas",
+            "tienen",
+            "acceso"
+          ]
+        },
+        {
+          "statement": "(13.4% ) posterior a la pandemia, el crecimiento se desaceleró: 2.8% en 2022, −0.4% en 2023 y una recuperación de 3.3% en 2024, con proyecciones de 3....",
+          "original_quote": "(13.4% ) posterior a la pandemia, el crecimiento se desaceleró: 2.8% en 2022, −0.4% en 2023 y una recuperación de 3.3% en 2024, con proyecciones de 3.1% en 2025 y 2.9% en",
+          "page": 60,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "posterior",
+            "pandemia",
+            "crecimiento",
+            "desaceleró",
+            "recuperación",
+            "proyecciones"
+          ]
+        },
+        {
+          "statement": "2023 y una recuperación de 3.3% en 2024, con proyecciones de 3.1% en 2025 y 2.9% en 2026 (BCRP). El Fondo Monetario Internacional (FMI) estima que, en...",
+          "original_quote": "2023 y una recuperación de 3.3% en 2024, con proyecciones de 3.1% en 2025 y 2.9% en 2026 (BCRP). El Fondo Monetario Internacional (FMI) estima que, en ausencia de",
+          "page": 60,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "recuperación",
+            "proyecciones",
+            "bcrp",
+            "fondo",
+            "monetario",
+            "internacional",
+            "estima",
+            "ausencia"
+          ]
+        },
+        {
+          "statement": "del 2.5% en el mediano plazo. Este escenario nos obliga a rediseñar la estrategia de desarrollo para alcanzar un crecimiento más alto, inclusivo y sos...",
+          "original_quote": "del 2.5% en el mediano plazo. Este escenario nos obliga a rediseñar la estrategia de desarrollo para alcanzar un crecimiento más alto, inclusivo y sostenible.",
+          "page": 60,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "mediano",
+            "plazo",
+            "escenario",
+            "obliga",
+            "rediseñar",
+            "estrategia",
+            "desarrollo",
+            "alcanzar",
+            "crecimiento",
+            "alto"
+          ]
+        },
+        {
+          "statement": "controlada, reservas internacionales equivalentes al 27% del PBI y precios favorables de los minerales — también enfrenta riesgos serios. El déficit f...",
+          "original_quote": "controlada, reservas internacionales equivalentes al 27% del PBI y precios favorables de los minerales — también enfrenta riesgos serios. El déficit fiscal supera el 3% del PBI ,",
+          "page": 60,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "controlada",
+            "reservas",
+            "internacionales",
+            "equivalentes",
+            "precios",
+            "favorables",
+            "minerales",
+            "enfrenta",
+            "riesgos",
+            "serios"
+          ]
+        },
+        {
+          "statement": "los minerales — también enfrenta riesgos serios. El déficit fiscal supera el 3% del PBI , persiste una baja ejecución de la inversión pública, se mant...",
+          "original_quote": "los minerales — también enfrenta riesgos serios. El déficit fiscal supera el 3% del PBI , persiste una baja ejecución de la inversión pública, se manti enen los conflictos sociales,",
+          "page": 60,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "minerales",
+            "enfrenta",
+            "riesgos",
+            "serios",
+            "déficit",
+            "fiscal",
+            "supera",
+            "persiste",
+            "baja",
+            "ejecución"
+          ]
+        },
+        {
+          "statement": "En el plano social, la pobreza monetaria afecta a casi el 30% de la población , mientras la informalidad laboral bordea el 75%. Este panorama exige no...",
+          "original_quote": "En el plano social, la pobreza monetaria afecta a casi el 30% de la población , mientras la informalidad laboral bordea el 75%. Este panorama exige no solo disciplina",
+          "page": 60,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "plano",
+            "social",
+            "pobreza",
+            "monetaria",
+            "afecta",
+            "casi",
+            "población",
+            "mientras",
+            "informalidad",
+            "laboral"
+          ]
+        },
+        {
+          "statement": "informalidad laboral bordea el 75%. Este panorama exige no solo disciplina macroeconómica, sino también un nuevo ciclo de crecimiento basado en la gen...",
+          "original_quote": "informalidad laboral bordea el 75%. Este panorama exige no solo disciplina macroeconómica, sino también un nuevo ciclo de crecimiento basado en la generación",
+          "page": 60,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "informalidad",
+            "laboral",
+            "bordea",
+            "panorama",
+            "exige",
+            "disciplina",
+            "macroeconómica",
+            "sino",
+            "ciclo",
+            "crecimiento"
+          ]
+        },
+        {
+          "statement": "• i. Crecimiento del PBI: Alcanzar una expansión del 4% en 2027 y sostener un crecimiento promedio del 5.5% entre 2028 y 2031 , superando el actual",
+          "original_quote": "• i. Crecimiento del PBI: Alcanzar una expansión del 4% en 2027 y sostener un crecimiento promedio del 5.5% entre 2028 y 2031 , superando el actual",
+          "page": 60,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "crecimiento",
+            "alcanzar",
+            "expansión",
+            "sostener",
+            "promedio",
+            "superando",
+            "actual"
+          ]
+        },
+        {
+          "statement": "crecimiento promedio del 5.5% entre 2028 y 2031 , superando el actual crecimiento potencial d el país.",
+          "original_quote": "crecimiento promedio del 5.5% entre 2028 y 2031 , superando el actual crecimiento potencial d el país.",
+          "page": 60,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "crecimiento",
+            "promedio",
+            "superando",
+            "actual",
+            "potencial",
+            "país"
+          ]
+        },
+        {
+          "statement": "• ii. Disciplina Fiscal: Reducir gradualmente el déficit fiscal hasta situarlo en el 1% del PBI para 2029 , manteniendo la sostenibilidad de las finan...",
+          "original_quote": "• ii. Disciplina Fiscal: Reducir gradualmente el déficit fiscal hasta situarlo en el 1% del PBI para 2029 , manteniendo la sostenibilidad de las finanzas públicas en",
+          "page": 60,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "disciplina",
+            "fiscal",
+            "reducir",
+            "gradualmente",
+            "déficit",
+            "situarlo",
+            "manteniendo",
+            "sostenibilidad",
+            "finanzas",
+            "públicas"
+          ]
+        },
+        {
+          "statement": "del PBI para 2029 , manteniendo la sostenibilidad de las finanzas públicas en adelante.",
+          "original_quote": "del PBI para 2029 , manteniendo la sostenibilidad de las finanzas públicas en adelante.",
+          "page": 60,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "manteniendo",
+            "sostenibilidad",
+            "finanzas",
+            "públicas",
+            "adelante"
+          ]
+        },
+        {
+          "statement": "• iii. Eficiencia Tributaria: Elevar la presión tributaria al 20% del PBI ha cia 2031 , mediante la ampliación de la base contributiva, la lucha front...",
+          "original_quote": "• iii. Eficiencia Tributaria: Elevar la presión tributaria al 20% del PBI ha cia 2031 , mediante la ampliación de la base contributiva, la lucha frontal contra la evasión",
+          "page": 60,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "eficiencia",
+            "tributaria",
+            "elevar",
+            "presión",
+            "mediante",
+            "ampliación",
+            "base",
+            "contributiva",
+            "lucha",
+            "frontal"
+          ]
+        },
+        {
+          "statement": "4.8% (INEI, 2025). Reducir la tasa de desempleo promedio",
+          "original_quote": "4.8% (INEI, 2025). Reducir la tasa de desempleo promedio",
+          "page": 66,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "inei",
+            "reducir",
+            "tasa",
+            "desempleo",
+            "promedio"
+          ]
+        },
+        {
+          "statement": "el 53% de las micro y pequeñas empresas",
+          "original_quote": "el 53% de las micro y pequeñas empresas",
+          "page": 72,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "micro",
+            "pequeñas",
+            "empresas"
+          ]
+        },
+        {
+          "statement": "sector. Crear el programa CRECE MYPE – Fondo de",
+          "original_quote": "sector. Crear el programa CRECE MYPE – Fondo de",
+          "page": 72,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "sector",
+            "crear",
+            "programa",
+            "crece",
+            "mype",
+            "fondo"
+          ]
+        },
+        {
+          "statement": "Reducir en un 30% la tasa de quiebre de MYPES",
+          "original_quote": "Reducir en un 30% la tasa de quiebre de MYPES",
+          "page": 72,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "reducir",
+            "tasa",
+            "quiebre",
+            "mypes"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Seguridad",
+      "proposals": [
+        {
+          "statement": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época...",
+          "original_quote": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época.",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "desarrollo",
+            "garantizar",
+            "derechos",
+            "fundamentales",
+            "esta",
+            "contradicción",
+            "crecimiento",
+            "desigualdad",
+            "constituye",
+            "principal"
+          ]
+        },
+        {
+          "statement": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agend...",
+          "original_quote": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agenda Social .",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "internas",
+            "externas",
+            "garantizar",
+            "progre",
+            "económico",
+            "esté",
+            "servicio",
+            "persona",
+            "humana",
+            "nación"
+          ]
+        },
+        {
+          "statement": "• Solo el 84% de las viviendas tiene acceso a agua potable mediante red pública. • Únicamente el 69.1% cuenta con un sistema de eliminación de excreta...",
+          "original_quote": "• Solo el 84% de las viviendas tiene acceso a agua potable mediante red pública. • Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "viviendas",
+            "tiene",
+            "acceso",
+            "agua",
+            "potable",
+            "mediante",
+            "pública",
+            "únicamente",
+            "cuenta",
+            "sistema"
+          ]
+        },
+        {
+          "statement": "• Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante red pública de desagüe.",
+          "original_quote": "• Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante red pública de desagüe.",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "únicamente",
+            "cuenta",
+            "sistema",
+            "eliminación",
+            "excretas",
+            "mediante",
+            "pública",
+            "desagüe"
+          ]
+        },
+        {
+          "statement": "Un alarmante 8.2% de la población no tiene acceso a ningún tipo de eliminación de desechos, lo que representa no solo un grave problema de salud públi...",
+          "original_quote": "Un alarmante 8.2% de la población no tiene acceso a ningún tipo de eliminación de desechos, lo que representa no solo un grave problema de salud pública, sino un",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "alarmante",
+            "población",
+            "tiene",
+            "acceso",
+            "ningún",
+            "tipo",
+            "eliminación",
+            "desechos",
+            "representa",
+            "grave"
+          ]
+        },
+        {
+          "statement": "vestir ( +14.5% ) y la fabricación de insumos de limpieza y cuidado personal ( +11.1%) no solo dinamizan la economía, sino que transforman vidas al ga...",
+          "original_quote": "vestir ( +14.5% ) y la fabricación de insumos de limpieza y cuidado personal ( +11.1%) no solo dinamizan la economía, sino que transforman vidas al garantizar acceso a",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "vestir",
+            "fabricación",
+            "insumos",
+            "limpieza",
+            "cuidado",
+            "personal",
+            "dinamizan",
+            "economía",
+            "sino",
+            "transforman"
+          ]
+        },
+        {
+          "statement": "El sector pesca, con su extraordinario crecimiento del 24.89% en 2024 , trasciende su valor como fuente de divisas. Este sector es el garante de la se...",
+          "original_quote": "El sector pesca, con su extraordinario crecimiento del 24.89% en 2024 , trasciende su valor como fuente de divisas. Este sector es el garante de la seguridad alimentaria para",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "pesca",
+            "extraordinario",
+            "crecimiento",
+            "trasciende",
+            "valor",
+            "fuente",
+            "divisas",
+            "garante",
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Con una participación del 50.7% en el PBI, el sector servicios constituye la mayor oportunidad para la creación masiva de puestos de trabajo, especial...",
+          "original_quote": "Con una participación del 50.7% en el PBI, el sector servicios constituye la mayor oportunidad para la creación masiva de puestos de trabajo, especialmente para",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "participación",
+            "sector",
+            "servicios",
+            "constituye",
+            "mayor",
+            "oportunidad",
+            "creación",
+            "masiva",
+            "puestos",
+            "trabajo"
+          ]
+        },
+        {
+          "statement": "seguridad social, garantizar una mejor educa ción para sus hermanos menores y ahorrar para la titulación y ampliación de su vivienda. Su caso es el re...",
+          "original_quote": "seguridad social, garantizar una mejor educa ción para sus hermanos menores y ahorrar para la titulación y ampliación de su vivienda. Su caso es el reflejo de lo que",
+          "page": 17,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "seguridad",
+            "social",
+            "garantizar",
+            "mejor",
+            "educa",
+            "ción",
+            "hermanos",
+            "menores",
+            "ahorrar",
+            "titulación"
+          ]
+        },
+        {
+          "statement": "trámites. Aumentar títulos de propiedad otorgados",
+          "original_quote": "trámites. Aumentar títulos de propiedad otorgados",
+          "page": 23,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "trámites",
+            "aumentar",
+            "títulos",
+            "propiedad",
+            "otorgados"
+          ]
+        },
+        {
+          "statement": "86%, Huancavelica en 88%), en relación con el",
+          "original_quote": "86%, Huancavelica en 88%), en relación con el",
+          "page": 23,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "huancavelica",
+            "relación"
+          ]
+        },
+        {
+          "statement": "88%), en relación con el promedio nacional que",
+          "original_quote": "88%), en relación con el promedio nacional que",
+          "page": 23,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "relación",
+            "promedio",
+            "nacional"
+          ]
+        },
+        {
+          "statement": "es de 95.2% Mejorar el coeficiente de electrificación en",
+          "original_quote": "es de 95.2% Mejorar el coeficiente de electrificación en",
+          "page": 23,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "mejorar",
+            "coeficiente",
+            "electrificación"
+          ]
+        },
+        {
+          "statement": "El 16% de viviendas no tienen acceso a",
+          "original_quote": "El 16% de viviendas no tienen acceso a",
+          "page": 23,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "viviendas",
+            "tienen",
+            "acceso"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Política Social",
+      "proposals": [
+        {
+          "statement": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época...",
+          "original_quote": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época.",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "desarrollo",
+            "garantizar",
+            "derechos",
+            "fundamentales",
+            "esta",
+            "contradicción",
+            "crecimiento",
+            "desigualdad",
+            "constituye",
+            "principal"
+          ]
+        },
+        {
+          "statement": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agend...",
+          "original_quote": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agenda Social .",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "internas",
+            "externas",
+            "garantizar",
+            "progre",
+            "económico",
+            "esté",
+            "servicio",
+            "persona",
+            "humana",
+            "nación"
+          ]
+        },
+        {
+          "statement": "tramo inicial, la misma ta sa depredadora del 29.5% de impuesto a la renta que se aplica a las grandes corporaciones multinacionales. Esta falta de pr...",
+          "original_quote": "tramo inicial, la misma ta sa depredadora del 29.5% de impuesto a la renta que se aplica a las grandes corporaciones multinacionales. Esta falta de progresividad es el rostro",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "tramo",
+            "inicial",
+            "misma",
+            "depredadora",
+            "impuesto",
+            "renta",
+            "aplica",
+            "grandes",
+            "corporaciones",
+            "multinacionales"
+          ]
+        },
+        {
+          "statement": "alarmante: la informalidad laboral persiste por encima del 71%, dejando a millones de peruanos sin beneficios sociales ni protección. Como resultado, ...",
+          "original_quote": "alarmante: la informalidad laboral persiste por encima del 71%, dejando a millones de peruanos sin beneficios sociales ni protección. Como resultado, gran par te de la población",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "alarmante",
+            "informalidad",
+            "laboral",
+            "persiste",
+            "encima",
+            "dejando",
+            "millones",
+            "peruanos",
+            "beneficios",
+            "sociales"
+          ]
+        },
+        {
+          "statement": "logran superar el umbral de la pobreza ni garantizar un futuro digno para sus hijos.",
+          "original_quote": "logran superar el umbral de la pobreza ni garantizar un futuro digno para sus hijos.",
+          "page": 12,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "logran",
+            "superar",
+            "umbral",
+            "pobreza",
+            "garantizar",
+            "futuro",
+            "digno",
+            "hijos"
+          ]
+        },
+        {
+          "statement": "los partidos políticos se mantiene en niveles críticos (apenas un 7%), mientras que la percepción de la corrupción sigue siendo identificada por más d...",
+          "original_quote": "los partidos políticos se mantiene en niveles críticos (apenas un 7%), mientras que la percepción de la corrupción sigue siendo identificada por más del 55% de la población",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "partidos",
+            "políticos",
+            "mantiene",
+            "niveles",
+            "críticos",
+            "apenas",
+            "mientras",
+            "percepción",
+            "corrupción",
+            "sigue"
+          ]
+        },
+        {
+          "statement": "percepción de la corrupción sigue siendo identificada por más del 55% de la población como uno de los principales obstáculos para el desarrollo. Est e...",
+          "original_quote": "percepción de la corrupción sigue siendo identificada por más del 55% de la población como uno de los principales obstáculos para el desarrollo. Est e vacío de legitimidad",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "percepción",
+            "corrupción",
+            "sigue",
+            "siendo",
+            "identificada",
+            "población",
+            "principales",
+            "obstáculos",
+            "desarrollo",
+            "vacío"
+          ]
+        },
+        {
+          "statement": "Litio al 2030. Prólogo al capítulo por Albert Alan Rosales Del Águila",
+          "original_quote": "Litio al 2030. Prólogo al capítulo por Albert Alan Rosales Del Águila",
+          "page": 13,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "litio",
+            "prólogo",
+            "capítulo",
+            "albert",
+            "alan",
+            "rosales",
+            "águila"
+          ]
+        },
+        {
+          "statement": "fracturas que requieren reparación urgente. Para desarrollar verdaderamente la estructura social del Perú, necesitamos primero fortalecer nuestra base...",
+          "original_quote": "fracturas que requieren reparación urgente. Para desarrollar verdaderamente la estructura social del Perú, necesitamos primero fortalecer nuestra base productiva",
+          "page": 14,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "fracturas",
+            "requieren",
+            "reparación",
+            "urgente",
+            "desarrollar",
+            "verdaderamente",
+            "estructura",
+            "social",
+            "perú",
+            "necesitamos"
+          ]
+        },
+        {
+          "statement": "peruana creció un 3.3% , saliendo de la recesión del año anterior, impulsada por sectores productivos clave. La pesca lideró este crecimiento con un 2...",
+          "original_quote": "peruana creció un 3.3% , saliendo de la recesión del año anterior, impulsada por sectores productivos clave. La pesca lideró este crecimiento con un 24.89% ,",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "peruana",
+            "creció",
+            "saliendo",
+            "recesión",
+            "anterior",
+            "impulsada",
+            "sectores",
+            "productivos",
+            "clave",
+            "pesca"
+          ]
+        },
+        {
+          "statement": "millones de trabajadores , lo que representa un aumento del 4.6% respecto al año anterior.",
+          "original_quote": "millones de trabajadores , lo que representa un aumento del 4.6% respecto al año anterior.",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "millones",
+            "trabajadores",
+            "representa",
+            "aumento",
+            "respecto",
+            "anterior"
+          ]
+        },
+        {
+          "statement": "• Sector Servicios: Representa el 50.7% del PBI, siendo el motor principal de la economía.",
+          "original_quote": "• Sector Servicios: Representa el 50.7% del PBI, siendo el motor principal de la economía.",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "servicios",
+            "representa",
+            "siendo",
+            "motor",
+            "principal",
+            "economía"
+          ]
+        },
+        {
+          "statement": "• Sector Comercio: Aporta el 10.8% del PBI, conectando producción con consumo. • Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% ...",
+          "original_quote": "• Sector Comercio: Aporta el 10.8% del PBI, conectando producción con consumo. • Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% en 2024 .",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "comercio",
+            "aporta",
+            "conectando",
+            "producción",
+            "consumo",
+            "agropecuario",
+            "contribuye",
+            "creció"
+          ]
+        },
+        {
+          "statement": "• Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% en 2024 . • Sector Manufactura: Mantiene un crecimiento sostenido y lidera la g...",
+          "original_quote": "• Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% en 2024 . • Sector Manufactura: Mantiene un crecimiento sostenido y lidera la generación de",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "agropecuario",
+            "contribuye",
+            "creció",
+            "manufactura",
+            "mantiene",
+            "crecimiento",
+            "sostenido",
+            "lidera",
+            "generación"
+          ]
+        },
+        {
+          "statement": "• Sector Minería: Registró un 2.04% de crecimiento, sustentando las exportaciones tradicionales y la inversión pública.",
+          "original_quote": "• Sector Minería: Registró un 2.04% de crecimiento, sustentando las exportaciones tradicionales y la inversión pública.",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "minería",
+            "registró",
+            "crecimiento",
+            "sustentando",
+            "exportaciones",
+            "tradicionales",
+            "inversión",
+            "pública"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Política Exterior",
+      "proposals": [
+        {
+          "statement": "y 90% de los proyectos educativos locales.",
+          "original_quote": "y 90% de los proyectos educativos locales.",
+          "page": 21,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "proyectos",
+            "educativos",
+            "locales"
+          ]
+        },
+        {
+          "statement": "Mejorar en un 30% los resultados del sistema",
+          "original_quote": "Mejorar en un 30% los resultados del sistema",
+          "page": 21,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "mejorar",
+            "resultados",
+            "sistema"
+          ]
+        },
+        {
+          "statement": "garantizar la calidad educativa en los",
+          "original_quote": "garantizar la calidad educativa en los",
+          "page": 21,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "garantizar",
+            "calidad",
+            "educativa"
+          ]
+        },
+        {
+          "statement": "Implementar un Lograr que el 70% de las escuelas públicas",
+          "original_quote": "Implementar un Lograr que el 70% de las escuelas públicas",
+          "page": 21,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "implementar",
+            "lograr",
+            "escuelas",
+            "públicas"
+          ]
+        },
+        {
+          "statement": "se cuentan al 2026 y mejorar su",
+          "original_quote": "se cuentan al 2026 y mejorar su",
+          "page": 21,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "cuentan",
+            "mejorar"
+          ]
+        },
+        {
+          "statement": "incluido en los Al 2031 - 15% de las IE",
+          "original_quote": "incluido en los Al 2031 - 15% de las IE",
+          "page": 30,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "incluido"
+          ]
+        },
+        {
+          "statement": "mejorar la vigilancia presentan fallas",
+          "original_quote": "mejorar la vigilancia presentan fallas",
+          "page": 51,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "mejorar",
+            "vigilancia",
+            "presentan",
+            "fallas"
+          ]
+        },
+        {
+          "statement": "5G. 100% de capitales regionales con 5G y al",
+          "original_quote": "5G. 100% de capitales regionales con 5G y al",
+          "page": 53,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "capitales",
+            "regionales"
+          ]
+        },
+        {
+          "statement": "70% de instituciones públicas con soluciones",
+          "original_quote": "70% de instituciones públicas con soluciones",
+          "page": 53,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "instituciones",
+            "públicas",
+            "soluciones"
+          ]
+        },
+        {
+          "statement": "internos en empresas. Mejorar estándares tecnológicos",
+          "original_quote": "internos en empresas. Mejorar estándares tecnológicos",
+          "page": 53,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "internos",
+            "empresas",
+            "mejorar",
+            "estándares",
+            "tecnológicos"
+          ]
+        },
+        {
+          "statement": "innovación abierta. 80% de medianas y grandes empresas",
+          "original_quote": "innovación abierta. 80% de medianas y grandes empresas",
+          "page": 53,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "innovación",
+            "abierta",
+            "medianas",
+            "grandes",
+            "empresas"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Justicia",
+      "proposals": [
+        {
+          "statement": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época...",
+          "original_quote": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época.",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "desarrollo",
+            "garantizar",
+            "derechos",
+            "fundamentales",
+            "esta",
+            "contradicción",
+            "crecimiento",
+            "desigualdad",
+            "constituye",
+            "principal"
+          ]
+        },
+        {
+          "statement": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agend...",
+          "original_quote": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agenda Social .",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "internas",
+            "externas",
+            "garantizar",
+            "progre",
+            "económico",
+            "esté",
+            "servicio",
+            "persona",
+            "humana",
+            "nación"
+          ]
+        },
+        {
+          "statement": "La acción del Estado debe centrarse en garantizar la igualdad de oportunidades para el desarrollo pleno. Las circunstancias socioeconómicas de nacimie...",
+          "original_quote": "La acción del Estado debe centrarse en garantizar la igualdad de oportunidades para el desarrollo pleno. Las circunstancias socioeconómicas de nacimiento no",
+          "page": 7,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "acción",
+            "estado",
+            "debe",
+            "centrarse",
+            "garantizar",
+            "igualdad",
+            "oportunidades",
+            "desarrollo",
+            "pleno",
+            "circunstancias"
+          ]
+        },
+        {
+          "statement": "tramo inicial, la misma ta sa depredadora del 29.5% de impuesto a la renta que se aplica a las grandes corporaciones multinacionales. Esta falta de pr...",
+          "original_quote": "tramo inicial, la misma ta sa depredadora del 29.5% de impuesto a la renta que se aplica a las grandes corporaciones multinacionales. Esta falta de progresividad es el rostro",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "tramo",
+            "inicial",
+            "misma",
+            "depredadora",
+            "impuesto",
+            "renta",
+            "aplica",
+            "grandes",
+            "corporaciones",
+            "multinacionales"
+          ]
+        },
+        {
+          "statement": "alarmante: la informalidad laboral persiste por encima del 71%, dejando a millones de peruanos sin beneficios sociales ni protección. Como resultado, ...",
+          "original_quote": "alarmante: la informalidad laboral persiste por encima del 71%, dejando a millones de peruanos sin beneficios sociales ni protección. Como resultado, gran par te de la población",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "alarmante",
+            "informalidad",
+            "laboral",
+            "persiste",
+            "encima",
+            "dejando",
+            "millones",
+            "peruanos",
+            "beneficios",
+            "sociales"
+          ]
+        },
+        {
+          "statement": "logran superar el umbral de la pobreza ni garantizar un futuro digno para sus hijos.",
+          "original_quote": "logran superar el umbral de la pobreza ni garantizar un futuro digno para sus hijos.",
+          "page": 12,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "logran",
+            "superar",
+            "umbral",
+            "pobreza",
+            "garantizar",
+            "futuro",
+            "digno",
+            "hijos"
+          ]
+        },
+        {
+          "statement": "los partidos políticos se mantiene en niveles críticos (apenas un 7%), mientras que la percepción de la corrupción sigue siendo identificada por más d...",
+          "original_quote": "los partidos políticos se mantiene en niveles críticos (apenas un 7%), mientras que la percepción de la corrupción sigue siendo identificada por más del 55% de la población",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "partidos",
+            "políticos",
+            "mantiene",
+            "niveles",
+            "críticos",
+            "apenas",
+            "mientras",
+            "percepción",
+            "corrupción",
+            "sigue"
+          ]
+        },
+        {
+          "statement": "percepción de la corrupción sigue siendo identificada por más del 55% de la población como uno de los principales obstáculos para el desarrollo. Est e...",
+          "original_quote": "percepción de la corrupción sigue siendo identificada por más del 55% de la población como uno de los principales obstáculos para el desarrollo. Est e vacío de legitimidad",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "percepción",
+            "corrupción",
+            "sigue",
+            "siendo",
+            "identificada",
+            "población",
+            "principales",
+            "obstáculos",
+            "desarrollo",
+            "vacío"
+          ]
+        },
+        {
+          "statement": "Litio al 2030. Prólogo al capítulo por Albert Alan Rosales Del Águila",
+          "original_quote": "Litio al 2030. Prólogo al capítulo por Albert Alan Rosales Del Águila",
+          "page": 13,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "litio",
+            "prólogo",
+            "capítulo",
+            "albert",
+            "alan",
+            "rosales",
+            "águila"
+          ]
+        },
+        {
+          "statement": "proporcionales. El 69% del gasto se orienta a la salud individual (curativa), mientras que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "original_quote": "proporcionales. El 69% del gasto se orienta a la salud individual (curativa), mientras que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "proporcionales",
+            "gasto",
+            "orienta",
+            "salud",
+            "individual",
+            "curativa",
+            "mientras",
+            "apenas",
+            "destina",
+            "colectiva"
+          ]
+        },
+        {
+          "statement": "que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "original_quote": "que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "apenas",
+            "destina",
+            "salud",
+            "colectiva",
+            "preventiva"
+          ]
+        },
+        {
+          "statement": "• Matemáticas: 391 puntos (el 66% de los estudiantes peruanos se encuentran por debajo del nivel mínimo de competencia).",
+          "original_quote": "• Matemáticas: 391 puntos (el 66% de los estudiantes peruanos se encuentran por debajo del nivel mínimo de competencia).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "matemáticas",
+            "puntos",
+            "estudiantes",
+            "peruanos",
+            "encuentran",
+            "debajo",
+            "nivel",
+            "mínimo",
+            "competencia"
+          ]
+        },
+        {
+          "statement": "• Lectura: 408 puntos (el 50% , por debajo del mínimo). • Ciencias: 480 puntos (el 53% , por debajo del mínimo).",
+          "original_quote": "• Lectura: 408 puntos (el 50% , por debajo del mínimo). • Ciencias: 480 puntos (el 53% , por debajo del mínimo).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "lectura",
+            "puntos",
+            "debajo",
+            "mínimo",
+            "ciencias"
+          ]
+        },
+        {
+          "statement": "• Ciencias: 480 puntos (el 53% , por debajo del mínimo). Estos números no solo son estadísticas, representan millones de potenciales talentos",
+          "original_quote": "• Ciencias: 480 puntos (el 53% , por debajo del mínimo). Estos números no solo son estadísticas, representan millones de potenciales talentos",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "ciencias",
+            "puntos",
+            "debajo",
+            "mínimo",
+            "números",
+            "estadísticas",
+            "representan",
+            "millones",
+            "potenciales",
+            "talentos"
+          ]
+        },
+        {
+          "statement": "retrocedió del 92% al 87% , y la deserción escolar se disparó al 6.3% en 2021 . Si bien se logró reducir al 2% en 2023 , aún no se recuperan los nivel...",
+          "original_quote": "retrocedió del 92% al 87% , y la deserción escolar se disparó al 6.3% en 2021 . Si bien se logró reducir al 2% en 2023 , aún no se recuperan los niveles prepandemia.",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "retrocedió",
+            "deserción",
+            "escolar",
+            "disparó",
+            "logró",
+            "reducir",
+            "recuperan",
+            "niveles",
+            "prepandemia"
+          ]
+        },
+        {
+          "statement": "se logró reducir al 2% en 2023 , aún no se recuperan los niveles prepandemia. Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 )...",
+          "original_quote": "se logró reducir al 2% en 2023 , aún no se recuperan los niveles prepandemia. Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 ) resulta",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "logró",
+            "reducir",
+            "recuperan",
+            "niveles",
+            "prepandemia",
+            "adicionalmente",
+            "presupuesto",
+            "educativo",
+            "apenas",
+            "resulta"
+          ]
+        },
+        {
+          "statement": "Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 ) resulta insuficiente para atender a los 7.8 millones de estudiantes con la ca...",
+          "original_quote": "Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 ) resulta insuficiente para atender a los 7.8 millones de estudiantes con la calida d y equidad",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "adicionalmente",
+            "presupuesto",
+            "educativo",
+            "apenas",
+            "resulta",
+            "insuficiente",
+            "atender",
+            "millones",
+            "estudiantes",
+            "calida"
+          ]
+        },
+        {
+          "statement": "insuficiente para atender a los 7.8 millones de estudiantes con la calida d y equidad requeridas.",
+          "original_quote": "insuficiente para atender a los 7.8 millones de estudiantes con la calida d y equidad requeridas.",
+          "page": 15,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "insuficiente",
+            "atender",
+            "millones",
+            "estudiantes",
+            "calida",
+            "equidad",
+            "requeridas"
+          ]
+        },
+        {
+          "statement": "• Solo el 84% de las viviendas tiene acceso a agua potable mediante red pública. • Únicamente el 69.1% cuenta con un sistema de eliminación de excreta...",
+          "original_quote": "• Solo el 84% de las viviendas tiene acceso a agua potable mediante red pública. • Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "viviendas",
+            "tiene",
+            "acceso",
+            "agua",
+            "potable",
+            "mediante",
+            "pública",
+            "únicamente",
+            "cuenta",
+            "sistema"
+          ]
+        },
+        {
+          "statement": "• Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante red pública de desagüe.",
+          "original_quote": "• Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante red pública de desagüe.",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "únicamente",
+            "cuenta",
+            "sistema",
+            "eliminación",
+            "excretas",
+            "mediante",
+            "pública",
+            "desagüe"
+          ]
+        },
+        {
+          "statement": "Un alarmante 8.2% de la población no tiene acceso a ningún tipo de eliminación de desechos, lo que representa no solo un grave problema de salud públi...",
+          "original_quote": "Un alarmante 8.2% de la población no tiene acceso a ningún tipo de eliminación de desechos, lo que representa no solo un grave problema de salud pública, sino un",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "alarmante",
+            "población",
+            "tiene",
+            "acceso",
+            "ningún",
+            "tipo",
+            "eliminación",
+            "desechos",
+            "representa",
+            "grave"
+          ]
+        },
+        {
+          "statement": "vestir ( +14.5% ) y la fabricación de insumos de limpieza y cuidado personal ( +11.1%) no solo dinamizan la economía, sino que transforman vidas al ga...",
+          "original_quote": "vestir ( +14.5% ) y la fabricación de insumos de limpieza y cuidado personal ( +11.1%) no solo dinamizan la economía, sino que transforman vidas al garantizar acceso a",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "vestir",
+            "fabricación",
+            "insumos",
+            "limpieza",
+            "cuidado",
+            "personal",
+            "dinamizan",
+            "economía",
+            "sino",
+            "transforman"
+          ]
+        },
+        {
+          "statement": "El sector pesca, con su extraordinario crecimiento del 24.89% en 2024 , trasciende su valor como fuente de divisas. Este sector es el garante de la se...",
+          "original_quote": "El sector pesca, con su extraordinario crecimiento del 24.89% en 2024 , trasciende su valor como fuente de divisas. Este sector es el garante de la seguridad alimentaria para",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "pesca",
+            "extraordinario",
+            "crecimiento",
+            "trasciende",
+            "valor",
+            "fuente",
+            "divisas",
+            "garante",
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Con una participación del 50.7% en el PBI, el sector servicios constituye la mayor oportunidad para la creación masiva de puestos de trabajo, especial...",
+          "original_quote": "Con una participación del 50.7% en el PBI, el sector servicios constituye la mayor oportunidad para la creación masiva de puestos de trabajo, especialmente para",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "participación",
+            "sector",
+            "servicios",
+            "constituye",
+            "mayor",
+            "oportunidad",
+            "creación",
+            "masiva",
+            "puestos",
+            "trabajo"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Empleo",
+      "proposals": [
+        {
+          "statement": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época...",
+          "original_quote": "el desarrollo y garantizar derechos fundamentales. Esta contradicción entre crecimiento y desigualdad constituye el principal desafío de nuestra época.",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "desarrollo",
+            "garantizar",
+            "derechos",
+            "fundamentales",
+            "esta",
+            "contradicción",
+            "crecimiento",
+            "desigualdad",
+            "constituye",
+            "principal"
+          ]
+        },
+        {
+          "statement": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agend...",
+          "original_quote": "internas y externas — y garantizar que el progre so económico esté al servicio de la persona humana y de la Nación a partir del desarrollo de la Agenda Social .",
+          "page": 5,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "internas",
+            "externas",
+            "garantizar",
+            "progre",
+            "económico",
+            "esté",
+            "servicio",
+            "persona",
+            "humana",
+            "nación"
+          ]
+        },
+        {
+          "statement": "La acción del Estado debe centrarse en garantizar la igualdad de oportunidades para el desarrollo pleno. Las circunstancias socioeconómicas de nacimie...",
+          "original_quote": "La acción del Estado debe centrarse en garantizar la igualdad de oportunidades para el desarrollo pleno. Las circunstancias socioeconómicas de nacimiento no",
+          "page": 7,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "acción",
+            "estado",
+            "debe",
+            "centrarse",
+            "garantizar",
+            "igualdad",
+            "oportunidades",
+            "desarrollo",
+            "pleno",
+            "circunstancias"
+          ]
+        },
+        {
+          "statement": "tramo inicial, la misma ta sa depredadora del 29.5% de impuesto a la renta que se aplica a las grandes corporaciones multinacionales. Esta falta de pr...",
+          "original_quote": "tramo inicial, la misma ta sa depredadora del 29.5% de impuesto a la renta que se aplica a las grandes corporaciones multinacionales. Esta falta de progresividad es el rostro",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "tramo",
+            "inicial",
+            "misma",
+            "depredadora",
+            "impuesto",
+            "renta",
+            "aplica",
+            "grandes",
+            "corporaciones",
+            "multinacionales"
+          ]
+        },
+        {
+          "statement": "alarmante: la informalidad laboral persiste por encima del 71%, dejando a millones de peruanos sin beneficios sociales ni protección. Como resultado, ...",
+          "original_quote": "alarmante: la informalidad laboral persiste por encima del 71%, dejando a millones de peruanos sin beneficios sociales ni protección. Como resultado, gran par te de la población",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "alarmante",
+            "informalidad",
+            "laboral",
+            "persiste",
+            "encima",
+            "dejando",
+            "millones",
+            "peruanos",
+            "beneficios",
+            "sociales"
+          ]
+        },
+        {
+          "statement": "logran superar el umbral de la pobreza ni garantizar un futuro digno para sus hijos.",
+          "original_quote": "logran superar el umbral de la pobreza ni garantizar un futuro digno para sus hijos.",
+          "page": 12,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "logran",
+            "superar",
+            "umbral",
+            "pobreza",
+            "garantizar",
+            "futuro",
+            "digno",
+            "hijos"
+          ]
+        },
+        {
+          "statement": "los partidos políticos se mantiene en niveles críticos (apenas un 7%), mientras que la percepción de la corrupción sigue siendo identificada por más d...",
+          "original_quote": "los partidos políticos se mantiene en niveles críticos (apenas un 7%), mientras que la percepción de la corrupción sigue siendo identificada por más del 55% de la población",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "partidos",
+            "políticos",
+            "mantiene",
+            "niveles",
+            "críticos",
+            "apenas",
+            "mientras",
+            "percepción",
+            "corrupción",
+            "sigue"
+          ]
+        },
+        {
+          "statement": "percepción de la corrupción sigue siendo identificada por más del 55% de la población como uno de los principales obstáculos para el desarrollo. Est e...",
+          "original_quote": "percepción de la corrupción sigue siendo identificada por más del 55% de la población como uno de los principales obstáculos para el desarrollo. Est e vacío de legitimidad",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "percepción",
+            "corrupción",
+            "sigue",
+            "siendo",
+            "identificada",
+            "población",
+            "principales",
+            "obstáculos",
+            "desarrollo",
+            "vacío"
+          ]
+        },
+        {
+          "statement": "fracturas que requieren reparación urgente. Para desarrollar verdaderamente la estructura social del Perú, necesitamos primero fortalecer nuestra base...",
+          "original_quote": "fracturas que requieren reparación urgente. Para desarrollar verdaderamente la estructura social del Perú, necesitamos primero fortalecer nuestra base productiva",
+          "page": 14,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "fracturas",
+            "requieren",
+            "reparación",
+            "urgente",
+            "desarrollar",
+            "verdaderamente",
+            "estructura",
+            "social",
+            "perú",
+            "necesitamos"
+          ]
+        },
+        {
+          "statement": "peruana creció un 3.3% , saliendo de la recesión del año anterior, impulsada por sectores productivos clave. La pesca lideró este crecimiento con un 2...",
+          "original_quote": "peruana creció un 3.3% , saliendo de la recesión del año anterior, impulsada por sectores productivos clave. La pesca lideró este crecimiento con un 24.89% ,",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "peruana",
+            "creció",
+            "saliendo",
+            "recesión",
+            "anterior",
+            "impulsada",
+            "sectores",
+            "productivos",
+            "clave",
+            "pesca"
+          ]
+        },
+        {
+          "statement": "millones de trabajadores , lo que representa un aumento del 4.6% respecto al año anterior.",
+          "original_quote": "millones de trabajadores , lo que representa un aumento del 4.6% respecto al año anterior.",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "millones",
+            "trabajadores",
+            "representa",
+            "aumento",
+            "respecto",
+            "anterior"
+          ]
+        },
+        {
+          "statement": "• Sector Servicios: Representa el 50.7% del PBI, siendo el motor principal de la economía.",
+          "original_quote": "• Sector Servicios: Representa el 50.7% del PBI, siendo el motor principal de la economía.",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "servicios",
+            "representa",
+            "siendo",
+            "motor",
+            "principal",
+            "economía"
+          ]
+        },
+        {
+          "statement": "• Sector Comercio: Aporta el 10.8% del PBI, conectando producción con consumo. • Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% ...",
+          "original_quote": "• Sector Comercio: Aporta el 10.8% del PBI, conectando producción con consumo. • Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% en 2024 .",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "comercio",
+            "aporta",
+            "conectando",
+            "producción",
+            "consumo",
+            "agropecuario",
+            "contribuye",
+            "creció"
+          ]
+        },
+        {
+          "statement": "• Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% en 2024 . • Sector Manufactura: Mantiene un crecimiento sostenido y lidera la g...",
+          "original_quote": "• Sector Agropecuario: Contribuye con el 6% del P BI y creció un 4.94% en 2024 . • Sector Manufactura: Mantiene un crecimiento sostenido y lidera la generación de",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "agropecuario",
+            "contribuye",
+            "creció",
+            "manufactura",
+            "mantiene",
+            "crecimiento",
+            "sostenido",
+            "lidera",
+            "generación"
+          ]
+        },
+        {
+          "statement": "• Sector Minería: Registró un 2.04% de crecimiento, sustentando las exportaciones tradicionales y la inversión pública.",
+          "original_quote": "• Sector Minería: Registró un 2.04% de crecimiento, sustentando las exportaciones tradicionales y la inversión pública.",
+          "page": 14,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "minería",
+            "registró",
+            "crecimiento",
+            "sustentando",
+            "exportaciones",
+            "tradicionales",
+            "inversión",
+            "pública"
+          ]
+        },
+        {
+          "statement": "• Solo el 84% de las viviendas tiene acceso a agua potable mediante red pública. • Únicamente el 69.1% cuenta con un sistema de eliminación de excreta...",
+          "original_quote": "• Solo el 84% de las viviendas tiene acceso a agua potable mediante red pública. • Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "viviendas",
+            "tiene",
+            "acceso",
+            "agua",
+            "potable",
+            "mediante",
+            "pública",
+            "únicamente",
+            "cuenta",
+            "sistema"
+          ]
+        },
+        {
+          "statement": "• Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante red pública de desagüe.",
+          "original_quote": "• Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante red pública de desagüe.",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "únicamente",
+            "cuenta",
+            "sistema",
+            "eliminación",
+            "excretas",
+            "mediante",
+            "pública",
+            "desagüe"
+          ]
+        },
+        {
+          "statement": "Un alarmante 8.2% de la población no tiene acceso a ningún tipo de eliminación de desechos, lo que representa no solo un grave problema de salud públi...",
+          "original_quote": "Un alarmante 8.2% de la población no tiene acceso a ningún tipo de eliminación de desechos, lo que representa no solo un grave problema de salud pública, sino un",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "alarmante",
+            "población",
+            "tiene",
+            "acceso",
+            "ningún",
+            "tipo",
+            "eliminación",
+            "desechos",
+            "representa",
+            "grave"
+          ]
+        },
+        {
+          "statement": "vestir ( +14.5% ) y la fabricación de insumos de limpieza y cuidado personal ( +11.1%) no solo dinamizan la economía, sino que transforman vidas al ga...",
+          "original_quote": "vestir ( +14.5% ) y la fabricación de insumos de limpieza y cuidado personal ( +11.1%) no solo dinamizan la economía, sino que transforman vidas al garantizar acceso a",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "vestir",
+            "fabricación",
+            "insumos",
+            "limpieza",
+            "cuidado",
+            "personal",
+            "dinamizan",
+            "economía",
+            "sino",
+            "transforman"
+          ]
+        },
+        {
+          "statement": "El sector pesca, con su extraordinario crecimiento del 24.89% en 2024 , trasciende su valor como fuente de divisas. Este sector es el garante de la se...",
+          "original_quote": "El sector pesca, con su extraordinario crecimiento del 24.89% en 2024 , trasciende su valor como fuente de divisas. Este sector es el garante de la seguridad alimentaria para",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "pesca",
+            "extraordinario",
+            "crecimiento",
+            "trasciende",
+            "valor",
+            "fuente",
+            "divisas",
+            "garante",
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Con una participación del 50.7% en el PBI, el sector servicios constituye la mayor oportunidad para la creación masiva de puestos de trabajo, especial...",
+          "original_quote": "Con una participación del 50.7% en el PBI, el sector servicios constituye la mayor oportunidad para la creación masiva de puestos de trabajo, especialmente para",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "participación",
+            "sector",
+            "servicios",
+            "constituye",
+            "mayor",
+            "oportunidad",
+            "creación",
+            "masiva",
+            "puestos",
+            "trabajo"
+          ]
+        },
+        {
+          "statement": "seguridad social, garantizar una mejor educa ción para sus hermanos menores y ahorrar para la titulación y ampliación de su vivienda. Su caso es el re...",
+          "original_quote": "seguridad social, garantizar una mejor educa ción para sus hermanos menores y ahorrar para la titulación y ampliación de su vivienda. Su caso es el reflejo de lo que",
+          "page": 17,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "seguridad",
+            "social",
+            "garantizar",
+            "mejor",
+            "educa",
+            "ción",
+            "hermanos",
+            "menores",
+            "ahorrar",
+            "titulación"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Infraestructura",
+      "proposals": [
+        {
+          "statement": "proporcionales. El 69% del gasto se orienta a la salud individual (curativa), mientras que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "original_quote": "proporcionales. El 69% del gasto se orienta a la salud individual (curativa), mientras que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "proporcionales",
+            "gasto",
+            "orienta",
+            "salud",
+            "individual",
+            "curativa",
+            "mientras",
+            "apenas",
+            "destina",
+            "colectiva"
+          ]
+        },
+        {
+          "statement": "que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "original_quote": "que apenas el 7% se destina a la salud colectiva (preventiva).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "apenas",
+            "destina",
+            "salud",
+            "colectiva",
+            "preventiva"
+          ]
+        },
+        {
+          "statement": "• Matemáticas: 391 puntos (el 66% de los estudiantes peruanos se encuentran por debajo del nivel mínimo de competencia).",
+          "original_quote": "• Matemáticas: 391 puntos (el 66% de los estudiantes peruanos se encuentran por debajo del nivel mínimo de competencia).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "matemáticas",
+            "puntos",
+            "estudiantes",
+            "peruanos",
+            "encuentran",
+            "debajo",
+            "nivel",
+            "mínimo",
+            "competencia"
+          ]
+        },
+        {
+          "statement": "• Lectura: 408 puntos (el 50% , por debajo del mínimo). • Ciencias: 480 puntos (el 53% , por debajo del mínimo).",
+          "original_quote": "• Lectura: 408 puntos (el 50% , por debajo del mínimo). • Ciencias: 480 puntos (el 53% , por debajo del mínimo).",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "lectura",
+            "puntos",
+            "debajo",
+            "mínimo",
+            "ciencias"
+          ]
+        },
+        {
+          "statement": "• Ciencias: 480 puntos (el 53% , por debajo del mínimo). Estos números no solo son estadísticas, representan millones de potenciales talentos",
+          "original_quote": "• Ciencias: 480 puntos (el 53% , por debajo del mínimo). Estos números no solo son estadísticas, representan millones de potenciales talentos",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "ciencias",
+            "puntos",
+            "debajo",
+            "mínimo",
+            "números",
+            "estadísticas",
+            "representan",
+            "millones",
+            "potenciales",
+            "talentos"
+          ]
+        },
+        {
+          "statement": "retrocedió del 92% al 87% , y la deserción escolar se disparó al 6.3% en 2021 . Si bien se logró reducir al 2% en 2023 , aún no se recuperan los nivel...",
+          "original_quote": "retrocedió del 92% al 87% , y la deserción escolar se disparó al 6.3% en 2021 . Si bien se logró reducir al 2% en 2023 , aún no se recuperan los niveles prepandemia.",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "retrocedió",
+            "deserción",
+            "escolar",
+            "disparó",
+            "logró",
+            "reducir",
+            "recuperan",
+            "niveles",
+            "prepandemia"
+          ]
+        },
+        {
+          "statement": "se logró reducir al 2% en 2023 , aún no se recuperan los niveles prepandemia. Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 )...",
+          "original_quote": "se logró reducir al 2% en 2023 , aún no se recuperan los niveles prepandemia. Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 ) resulta",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "logró",
+            "reducir",
+            "recuperan",
+            "niveles",
+            "prepandemia",
+            "adicionalmente",
+            "presupuesto",
+            "educativo",
+            "apenas",
+            "resulta"
+          ]
+        },
+        {
+          "statement": "Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 ) resulta insuficiente para atender a los 7.8 millones de estudiantes con la ca...",
+          "original_quote": "Adicionalmente, el presupuesto educativo (apenas 3.72% del PBI en 2022 ) resulta insuficiente para atender a los 7.8 millones de estudiantes con la calida d y equidad",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "adicionalmente",
+            "presupuesto",
+            "educativo",
+            "apenas",
+            "resulta",
+            "insuficiente",
+            "atender",
+            "millones",
+            "estudiantes",
+            "calida"
+          ]
+        },
+        {
+          "statement": "insuficiente para atender a los 7.8 millones de estudiantes con la calida d y equidad requeridas.",
+          "original_quote": "insuficiente para atender a los 7.8 millones de estudiantes con la calida d y equidad requeridas.",
+          "page": 15,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "insuficiente",
+            "atender",
+            "millones",
+            "estudiantes",
+            "calida",
+            "equidad",
+            "requeridas"
+          ]
+        },
+        {
+          "statement": "• Solo el 84% de las viviendas tiene acceso a agua potable mediante red pública. • Únicamente el 69.1% cuenta con un sistema de eliminación de excreta...",
+          "original_quote": "• Solo el 84% de las viviendas tiene acceso a agua potable mediante red pública. • Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "viviendas",
+            "tiene",
+            "acceso",
+            "agua",
+            "potable",
+            "mediante",
+            "pública",
+            "únicamente",
+            "cuenta",
+            "sistema"
+          ]
+        },
+        {
+          "statement": "• Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante red pública de desagüe.",
+          "original_quote": "• Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante red pública de desagüe.",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "únicamente",
+            "cuenta",
+            "sistema",
+            "eliminación",
+            "excretas",
+            "mediante",
+            "pública",
+            "desagüe"
+          ]
+        },
+        {
+          "statement": "Un alarmante 8.2% de la población no tiene acceso a ningún tipo de eliminación de desechos, lo que representa no solo un grave problema de salud públi...",
+          "original_quote": "Un alarmante 8.2% de la población no tiene acceso a ningún tipo de eliminación de desechos, lo que representa no solo un grave problema de salud pública, sino un",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "alarmante",
+            "población",
+            "tiene",
+            "acceso",
+            "ningún",
+            "tipo",
+            "eliminación",
+            "desechos",
+            "representa",
+            "grave"
+          ]
+        },
+        {
+          "statement": "vestir ( +14.5% ) y la fabricación de insumos de limpieza y cuidado personal ( +11.1%) no solo dinamizan la economía, sino que transforman vidas al ga...",
+          "original_quote": "vestir ( +14.5% ) y la fabricación de insumos de limpieza y cuidado personal ( +11.1%) no solo dinamizan la economía, sino que transforman vidas al garantizar acceso a",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "vestir",
+            "fabricación",
+            "insumos",
+            "limpieza",
+            "cuidado",
+            "personal",
+            "dinamizan",
+            "economía",
+            "sino",
+            "transforman"
+          ]
+        },
+        {
+          "statement": "El sector pesca, con su extraordinario crecimiento del 24.89% en 2024 , trasciende su valor como fuente de divisas. Este sector es el garante de la se...",
+          "original_quote": "El sector pesca, con su extraordinario crecimiento del 24.89% en 2024 , trasciende su valor como fuente de divisas. Este sector es el garante de la seguridad alimentaria para",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "pesca",
+            "extraordinario",
+            "crecimiento",
+            "trasciende",
+            "valor",
+            "fuente",
+            "divisas",
+            "garante",
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Con una participación del 50.7% en el PBI, el sector servicios constituye la mayor oportunidad para la creación masiva de puestos de trabajo, especial...",
+          "original_quote": "Con una participación del 50.7% en el PBI, el sector servicios constituye la mayor oportunidad para la creación masiva de puestos de trabajo, especialmente para",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "participación",
+            "sector",
+            "servicios",
+            "constituye",
+            "mayor",
+            "oportunidad",
+            "creación",
+            "masiva",
+            "puestos",
+            "trabajo"
+          ]
+        },
+        {
+          "statement": "seguridad social, garantizar una mejor educa ción para sus hermanos menores y ahorrar para la titulación y ampliación de su vivienda. Su caso es el re...",
+          "original_quote": "seguridad social, garantizar una mejor educa ción para sus hermanos menores y ahorrar para la titulación y ampliación de su vivienda. Su caso es el reflejo de lo que",
+          "page": 17,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "seguridad",
+            "social",
+            "garantizar",
+            "mejor",
+            "educa",
+            "ción",
+            "hermanos",
+            "menores",
+            "ahorrar",
+            "titulación"
+          ]
+        },
+        {
+          "statement": "empresa privada y la sociedad civil para garantizar que las inversiones estratégicas generen un desarrollo local integral y sostenible.",
+          "original_quote": "empresa privada y la sociedad civil para garantizar que las inversiones estratégicas generen un desarrollo local integral y sostenible.",
+          "page": 18,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "empresa",
+            "privada",
+            "sociedad",
+            "civil",
+            "garantizar",
+            "inversiones",
+            "estratégicas",
+            "generen",
+            "desarrollo",
+            "local"
+          ]
+        },
+        {
+          "statement": "atención Reducir la brecha de acceso a servicios y de",
+          "original_quote": "atención Reducir la brecha de acceso a servicios y de",
+          "page": 19,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "atención",
+            "reducir",
+            "brecha",
+            "acceso",
+            "servicios"
+          ]
+        },
+        {
+          "statement": "90% en colas y citas en el segundo y",
+          "original_quote": "90% en colas y citas en el segundo y",
+          "page": 19,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "colas",
+            "citas",
+            "segundo"
+          ]
+        },
+        {
+          "statement": "y 90% de los proyectos educativos locales.",
+          "original_quote": "y 90% de los proyectos educativos locales.",
+          "page": 21,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "proyectos",
+            "educativos",
+            "locales"
+          ]
+        },
+        {
+          "statement": "Mejorar en un 30% los resultados del sistema",
+          "original_quote": "Mejorar en un 30% los resultados del sistema",
+          "page": 21,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "mejorar",
+            "resultados",
+            "sistema"
+          ]
+        },
+        {
+          "statement": "garantizar la calidad educativa en los",
+          "original_quote": "garantizar la calidad educativa en los",
+          "page": 21,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "garantizar",
+            "calidad",
+            "educativa"
+          ]
+        },
+        {
+          "statement": "Implementar un Lograr que el 70% de las escuelas públicas",
+          "original_quote": "Implementar un Lograr que el 70% de las escuelas públicas",
+          "page": 21,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "implementar",
+            "lograr",
+            "escuelas",
+            "públicas"
+          ]
+        },
+        {
+          "statement": "se cuentan al 2026 y mejorar su",
+          "original_quote": "se cuentan al 2026 y mejorar su",
+          "page": 21,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "cuentan",
+            "mejorar"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Agricultura",
+      "proposals": [
+        {
+          "statement": "Litio al 2030. Prólogo al capítulo por Albert Alan Rosales Del Águila",
+          "original_quote": "Litio al 2030. Prólogo al capítulo por Albert Alan Rosales Del Águila",
+          "page": 13,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "litio",
+            "prólogo",
+            "capítulo",
+            "albert",
+            "alan",
+            "rosales",
+            "águila"
+          ]
+        },
+        {
+          "statement": "zona rural Reducir el número de centros unidocentes Evaluar la unificación",
+          "original_quote": "zona rural Reducir el número de centros unidocentes Evaluar la unificación",
+          "page": 22,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "zona",
+            "rural",
+            "reducir",
+            "número",
+            "centros",
+            "unidocentes",
+            "evaluar",
+            "unificación"
+          ]
+        },
+        {
+          "statement": "trámites. Aumentar títulos de propiedad otorgados",
+          "original_quote": "trámites. Aumentar títulos de propiedad otorgados",
+          "page": 23,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "trámites",
+            "aumentar",
+            "títulos",
+            "propiedad",
+            "otorgados"
+          ]
+        },
+        {
+          "statement": "86%, Huancavelica en 88%), en relación con el",
+          "original_quote": "86%, Huancavelica en 88%), en relación con el",
+          "page": 23,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "huancavelica",
+            "relación"
+          ]
+        },
+        {
+          "statement": "88%), en relación con el promedio nacional que",
+          "original_quote": "88%), en relación con el promedio nacional que",
+          "page": 23,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "relación",
+            "promedio",
+            "nacional"
+          ]
+        },
+        {
+          "statement": "es de 95.2% Mejorar el coeficiente de electrificación en",
+          "original_quote": "es de 95.2% Mejorar el coeficiente de electrificación en",
+          "page": 23,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "mejorar",
+            "coeficiente",
+            "electrificación"
+          ]
+        },
+        {
+          "statement": "El 16% de viviendas no tienen acceso a",
+          "original_quote": "El 16% de viviendas no tienen acceso a",
+          "page": 23,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "viviendas",
+            "tienen",
+            "acceso"
+          ]
+        },
+        {
+          "statement": "POLICIAL Mejorar hasta llegar a la eficiencia",
+          "original_quote": "POLICIAL Mejorar hasta llegar a la eficiencia",
+          "page": 44,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "policial",
+            "mejorar",
+            "eficiencia"
+          ]
+        },
+        {
+          "statement": "sanción penal. Al 2031 debemos tener una policía",
+          "original_quote": "sanción penal. Al 2031 debemos tener una policía",
+          "page": 44,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sanción",
+            "penal",
+            "debemos",
+            "policía"
+          ]
+        },
+        {
+          "statement": "mejorar la vigilancia presentan fallas",
+          "original_quote": "mejorar la vigilancia presentan fallas",
+          "page": 51,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "mejorar",
+            "vigilancia",
+            "presentan",
+            "fallas"
+          ]
+        },
+        {
+          "statement": "5G. 100% de capitales regionales con 5G y al",
+          "original_quote": "5G. 100% de capitales regionales con 5G y al",
+          "page": 53,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "capitales",
+            "regionales"
+          ]
+        },
+        {
+          "statement": "70% de instituciones públicas con soluciones",
+          "original_quote": "70% de instituciones públicas con soluciones",
+          "page": 53,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "instituciones",
+            "públicas",
+            "soluciones"
+          ]
+        },
+        {
+          "statement": "internos en empresas. Mejorar estándares tecnológicos",
+          "original_quote": "internos en empresas. Mejorar estándares tecnológicos",
+          "page": 53,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "internos",
+            "empresas",
+            "mejorar",
+            "estándares",
+            "tecnológicos"
+          ]
+        },
+        {
+          "statement": "innovación abierta. 80% de medianas y grandes empresas",
+          "original_quote": "innovación abierta. 80% de medianas y grandes empresas",
+          "page": 53,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "innovación",
+            "abierta",
+            "medianas",
+            "grandes",
+            "empresas"
+          ]
+        },
+        {
+          "statement": "hoy supera el 3% del PBI , se reducirá de manera gradual y ordenada hasta alcanzar un nivel cercano al 1% en 2029 , garantizando la sostenibilidad de ...",
+          "original_quote": "hoy supera el 3% del PBI , se reducirá de manera gradual y ordenada hasta alcanzar un nivel cercano al 1% en 2029 , garantizando la sostenibilidad de las finanzas públicas sin",
+          "page": 61,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "supera",
+            "reducirá",
+            "manera",
+            "gradual",
+            "ordenada",
+            "alcanzar",
+            "nivel",
+            "cercano",
+            "garantizando",
+            "sostenibilidad"
+          ]
+        },
+        {
+          "statement": "nivel cercano al 1% en 2029 , garantizando la sostenibilidad de las finanzas públicas sin frenar la recuperación. Para asegurar disciplina y transpare...",
+          "original_quote": "nivel cercano al 1% en 2029 , garantizando la sostenibilidad de las finanzas públicas sin frenar la recuperación. Para asegurar disciplina y transparencia, se reforzará el marco",
+          "page": 61,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "nivel",
+            "cercano",
+            "garantizando",
+            "sostenibilidad",
+            "finanzas",
+            "públicas",
+            "frenar",
+            "recuperación",
+            "asegurar",
+            "disciplina"
+          ]
+        },
+        {
+          "statement": "para garantizar su eficiencia y sostenibilidad. • Turismo y Comercio Exterior: Se aprovechará el potencial del Puerto de",
+          "original_quote": "para garantizar su eficiencia y sostenibilidad. • Turismo y Comercio Exterior: Se aprovechará el potencial del Puerto de",
+          "page": 61,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "garantizar",
+            "eficiencia",
+            "sostenibilidad",
+            "turismo",
+            "comercio",
+            "exterior",
+            "aprovechará",
+            "potencial",
+            "puerto"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tecnología",
+      "proposals": [
+        {
+          "statement": "La acción del Estado debe centrarse en garantizar la igualdad de oportunidades para el desarrollo pleno. Las circunstancias socioeconómicas de nacimie...",
+          "original_quote": "La acción del Estado debe centrarse en garantizar la igualdad de oportunidades para el desarrollo pleno. Las circunstancias socioeconómicas de nacimiento no",
+          "page": 7,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "acción",
+            "estado",
+            "debe",
+            "centrarse",
+            "garantizar",
+            "igualdad",
+            "oportunidades",
+            "desarrollo",
+            "pleno",
+            "circunstancias"
+          ]
+        },
+        {
+          "statement": "• Solo el 84% de las viviendas tiene acceso a agua potable mediante red pública. • Únicamente el 69.1% cuenta con un sistema de eliminación de excreta...",
+          "original_quote": "• Solo el 84% de las viviendas tiene acceso a agua potable mediante red pública. • Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "viviendas",
+            "tiene",
+            "acceso",
+            "agua",
+            "potable",
+            "mediante",
+            "pública",
+            "únicamente",
+            "cuenta",
+            "sistema"
+          ]
+        },
+        {
+          "statement": "• Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante red pública de desagüe.",
+          "original_quote": "• Únicamente el 69.1% cuenta con un sistema de eliminación de excretas mediante red pública de desagüe.",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "únicamente",
+            "cuenta",
+            "sistema",
+            "eliminación",
+            "excretas",
+            "mediante",
+            "pública",
+            "desagüe"
+          ]
+        },
+        {
+          "statement": "Un alarmante 8.2% de la población no tiene acceso a ningún tipo de eliminación de desechos, lo que representa no solo un grave problema de salud públi...",
+          "original_quote": "Un alarmante 8.2% de la población no tiene acceso a ningún tipo de eliminación de desechos, lo que representa no solo un grave problema de salud pública, sino un",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "alarmante",
+            "población",
+            "tiene",
+            "acceso",
+            "ningún",
+            "tipo",
+            "eliminación",
+            "desechos",
+            "representa",
+            "grave"
+          ]
+        },
+        {
+          "statement": "vestir ( +14.5% ) y la fabricación de insumos de limpieza y cuidado personal ( +11.1%) no solo dinamizan la economía, sino que transforman vidas al ga...",
+          "original_quote": "vestir ( +14.5% ) y la fabricación de insumos de limpieza y cuidado personal ( +11.1%) no solo dinamizan la economía, sino que transforman vidas al garantizar acceso a",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "vestir",
+            "fabricación",
+            "insumos",
+            "limpieza",
+            "cuidado",
+            "personal",
+            "dinamizan",
+            "economía",
+            "sino",
+            "transforman"
+          ]
+        },
+        {
+          "statement": "El sector pesca, con su extraordinario crecimiento del 24.89% en 2024 , trasciende su valor como fuente de divisas. Este sector es el garante de la se...",
+          "original_quote": "El sector pesca, con su extraordinario crecimiento del 24.89% en 2024 , trasciende su valor como fuente de divisas. Este sector es el garante de la seguridad alimentaria para",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sector",
+            "pesca",
+            "extraordinario",
+            "crecimiento",
+            "trasciende",
+            "valor",
+            "fuente",
+            "divisas",
+            "garante",
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Con una participación del 50.7% en el PBI, el sector servicios constituye la mayor oportunidad para la creación masiva de puestos de trabajo, especial...",
+          "original_quote": "Con una participación del 50.7% en el PBI, el sector servicios constituye la mayor oportunidad para la creación masiva de puestos de trabajo, especialmente para",
+          "page": 16,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "participación",
+            "sector",
+            "servicios",
+            "constituye",
+            "mayor",
+            "oportunidad",
+            "creación",
+            "masiva",
+            "puestos",
+            "trabajo"
+          ]
+        },
+        {
+          "statement": "y 90% de los proyectos educativos locales.",
+          "original_quote": "y 90% de los proyectos educativos locales.",
+          "page": 21,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "proyectos",
+            "educativos",
+            "locales"
+          ]
+        },
+        {
+          "statement": "Mejorar en un 30% los resultados del sistema",
+          "original_quote": "Mejorar en un 30% los resultados del sistema",
+          "page": 21,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "mejorar",
+            "resultados",
+            "sistema"
+          ]
+        },
+        {
+          "statement": "garantizar la calidad educativa en los",
+          "original_quote": "garantizar la calidad educativa en los",
+          "page": 21,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "garantizar",
+            "calidad",
+            "educativa"
+          ]
+        },
+        {
+          "statement": "Implementar un Lograr que el 70% de las escuelas públicas",
+          "original_quote": "Implementar un Lograr que el 70% de las escuelas públicas",
+          "page": 21,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "implementar",
+            "lograr",
+            "escuelas",
+            "públicas"
+          ]
+        },
+        {
+          "statement": "se cuentan al 2026 y mejorar su",
+          "original_quote": "se cuentan al 2026 y mejorar su",
+          "page": 21,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "cuentan",
+            "mejorar"
+          ]
+        },
+        {
+          "statement": "anual. Al 2031 se han celebrado",
+          "original_quote": "anual. Al 2031 se han celebrado",
+          "page": 31,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "anual",
+            "celebrado"
+          ]
+        },
+        {
+          "statement": "POLICIAL Mejorar hasta llegar a la eficiencia",
+          "original_quote": "POLICIAL Mejorar hasta llegar a la eficiencia",
+          "page": 44,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "policial",
+            "mejorar",
+            "eficiencia"
+          ]
+        },
+        {
+          "statement": "sanción penal. Al 2031 debemos tener una policía",
+          "original_quote": "sanción penal. Al 2031 debemos tener una policía",
+          "page": 44,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "sanción",
+            "penal",
+            "debemos",
+            "policía"
+          ]
+        }
+      ]
+    }
+  ],
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: salario mínimo. Indicadores a favor: 15, en contra: 36."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de impuestos a grandes fortunas en el plan de gobierno."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: apoyo a subsidios para pequeñas y medianas empresa, subsidio. Indicadores a favor: 11, en contra: 36."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de reforma del sistema de pensiones en el plan de gobierno."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: controlada, reservas internacionales equivalentes al 27% del PBI y precios favorables de los minerales — también enfrenta riesgos serios. El déficit f... controlada, reservas internacionales equivalentes al 27% del PBI y precio. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: exportacion. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: matrimonio igualitario. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: equidad, género. Indicadores a favor: 8, en contra: 0."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: migra. Indicadores a favor: 2, en contra: 9."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de pena de muerte en el plan de gobierno."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: privatiza. Indicadores a favor: 6, en contra: 0."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: renovable. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: educación públic. Indicadores a favor: 92, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: sis. Indicadores a favor: 85, en contra: 0."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de transporte público gratuito en el plan de gobierno."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de internet como derecho básico en el plan de gobierno."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: militar. Indicadores a favor: 14, en contra: 36."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: descentraliza, region. Indicadores a favor: 8, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: fiscal, Fiscal, judicial. Indicadores a favor: 40, en contra: 0."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de elección popular de jueces en el plan de gobierno."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de límites a la reelección en el plan de gobierno."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "stances_updated_at": "2026-04-06T23:04:04.053061"
+}

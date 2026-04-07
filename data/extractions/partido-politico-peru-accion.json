@@ -1,0 +1,899 @@
+{
+  "party": "Perú Acción",
+  "source_pdf": "data/pdfs/partido-politico-peru-accion.pdf",
+  "extracted_at": "2026-04-06T09:30:25.398350",
+  "total_pages": 25,
+  "topics": [
+    {
+      "topic": "Descentralización",
+      "proposals": [
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n1 \n \n \n \n \nPlan de Gobierno Mano de Hierro  \n2026 - 2031  \n“El estado únicamente al servicio de los ciudadanos”  \nPARTIDO POLÍTICO PERÚ ACCIÓN  \n \nI",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n1 \n \n \n \n \nPlan de Gobierno Mano de Hierro  \n2026 - 2031  \n“El estado únicamente al servicio de los ciudadanos”  \nPARTIDO POLÍTICO PERÚ ACCIÓN  \n \nI",
+          "page": 1,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "gobierno",
+            "hierro",
+            "gobierno",
+            "hierro",
+            "estado"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n2 \n \n \n \n \n1.2 Principios  \n \nPostulamos lo siguiente:  \n \n1",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n2 \n \n \n \n \n1.2 Principios  \n \nPostulamos lo siguiente:  \n \n1",
+          "page": 2,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "hierro",
+            "principios",
+            "postulamos",
+            "siguiente"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n3 \n \n \n \n8",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n3 \n \n \n \n8",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "hierro"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n4 \n \n \n \n1.3",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n4 \n \n \n \n1.3",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "hierro"
+          ]
+        },
+        {
+          "statement": "VISIÓN DEL PLAN DE GOBIERNO  \n \n \nMISION  \nEs nuestra preocupación y compromiso  la liberación el estado de todos los funcionarios \ncorruptos, para luego poder el formular una filosofía de gestión estatal eficaz y eficiente \ndestinada al logro de un ",
+          "original_quote": "VISIÓN DEL PLAN DE GOBIERNO  \n \n \nMISION  \nEs nuestra preocupación y compromiso  la liberación el estado de todos los funcionarios \ncorruptos, para luego poder el formular una filosofía de gestión estatal eficaz y eficiente \ndestinada al logro de un desarrollo y crecimiento sostenible, con altos estándares de salud, de \neducación, justicia y seguridad, descentralizado, que incluya a toda la sociedad peruana en un \namb iente democrático con instituciones sólidas, confiables y modernas",
+          "page": 5,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "gobierno",
+            "mision",
+            "nuestra",
+            "preocupación"
+          ]
+        },
+        {
+          "statement": "Seremos, una sociedad participativa que  lucha por la descentralización e integración del país \npara promover el desarrollo armónico de nuestro pueblo, sin distinciones, conforme con los \nobjetivos de un nuevo Plan Nacional de Desarrollo con Visión d",
+          "original_quote": "Seremos, una sociedad participativa que  lucha por la descentralización e integración del país \npara promover el desarrollo armónico de nuestro pueblo, sin distinciones, conforme con los \nobjetivos de un nuevo Plan Nacional de Desarrollo con Visión de Futuro",
+          "page": 6,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "seremos",
+            "sociedad",
+            "participativa",
+            "descentralización",
+            "integración"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n7 \n \n \n \n \n III",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n7 \n \n \n \n \n III",
+          "page": 7,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "hierro"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n9 \n \n \n \n1.Inmigrantes ilegales y delincuentes a  cambio de dólares por compra de petróleo venezolano \nel Perú comprará el 90% del petróleo que actualmente importa de Venezuela  (cifra que alcanza \naproximadam",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n9 \n \n \n \n1.Inmigrantes ilegales y delincuentes a  cambio de dólares por compra de petróleo venezolano \nel Perú comprará el 90% del petróleo que actualmente importa de Venezuela  (cifra que alcanza \naproximadamente 9000 millones de dólares anuales) bajo  esta condición expulsaremos a los  \ndelincuentes e inmigrantes  ilegales venezolanos",
+          "page": 9,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "gobierno",
+            "hierro",
+            "inmigrantes",
+            "ilegales",
+            "delincuentes"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n14 \n \n \n \n \n \nPROPUESTAS Y ESTRATEGIA  \n \n  \n● Fortalecer y ampliar el programa Pensi ón 65 para que las personas de la tercera edad menos  \nfavorecidas tengan una pensión más justa",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n14 \n \n \n \n \n \nPROPUESTAS Y ESTRATEGIA  \n \n  \n● Fortalecer y ampliar el programa Pensi ón 65 para que las personas de la tercera edad menos  \nfavorecidas tengan una pensión más justa",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "hierro",
+            "propuestas",
+            "estrategia",
+            "fortalecer"
+          ]
+        },
+        {
+          "statement": "4.2 Dinamización de la matriz productiva en el Perú  \n \nEn e ste punto el Plan de Gobierno  busca convertir a Perú en una potencia económica primero \nen América  Latina y luego a nivel mundial",
+          "original_quote": "4.2 Dinamización de la matriz productiva en el Perú  \n \nEn e ste punto el Plan de Gobierno  busca convertir a Perú en una potencia económica primero \nen América  Latina y luego a nivel mundial",
+          "page": 16,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "dinamización",
+            "matriz",
+            "productiva",
+            "gobierno",
+            "convertir"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n19 \n \n \n \n \nPROPUESTAS Y ESTRATEGIA  \n \n \nProponemos  los siguiente:  \n \n \n● Represas:  Aprovechar el impulso agrícola  del Perú  en los último s años, para lograr converti r \na nuestro  país en una potencia d",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n19 \n \n \n \n \nPROPUESTAS Y ESTRATEGIA  \n \n \nProponemos  los siguiente:  \n \n \n● Represas:  Aprovechar el impulso agrícola  del Perú  en los último s años, para lograr converti r \na nuestro  país en una potencia de exportación  agroindustrial",
+          "page": 19,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "hierro",
+            "propuestas",
+            "estrategia",
+            "proponemos"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n21 \n \n \n \n \n \n3.5 DIMENSIÓN INSTITUCIONAL  \n \n \nACTUALIDAD Y ESTADÍSTICAS  \n \nSegún  el Informe sobre Incidencia de la corrupció n de la Contraloría  al cierre del 2023 el Perú \npierde por corrupción 24,000 MM",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n21 \n \n \n \n \n \n3.5 DIMENSIÓN INSTITUCIONAL  \n \n \nACTUALIDAD Y ESTADÍSTICAS  \n \nSegún  el Informe sobre Incidencia de la corrupció n de la Contraloría  al cierre del 2023 el Perú \npierde por corrupción 24,000 MM esto representa el 12 % del presu puesto estatal,  además  \nesto refleja un incremento anual de esta cifra en 10 % anual comparando e l mismo Informe del \naño 2022; casi 3 veces más que el crecimiento del PBI anual ( 3%)",
+          "page": 21,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "gobierno",
+            "hierro",
+            "dimensión",
+            "institucional",
+            "actualidad"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n23 \n \n \n \n● Se implementar á la realizaci ón de elecciones de medio t érmino para renovar una tercera \nparte de los congresistas y evitar la concentración excesiva de poder en el Congreso",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n23 \n \n \n \n● Se implementar á la realizaci ón de elecciones de medio t érmino para renovar una tercera \nparte de los congresistas y evitar la concentración excesiva de poder en el Congreso",
+          "page": 23,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "hierro",
+            "implementar",
+            "realizaci",
+            "elecciones"
+          ]
+        },
+        {
+          "statement": "● Descentralización  La descentralización en el Perú ha sido un fracaso por lo que Perú Acción \nimplementará un mecanismo inmediato para que el Gobierno Nacional recupere las funciones \nde contr ol recurrente así como otras transferidas a los Gobiern",
+          "original_quote": "● Descentralización  La descentralización en el Perú ha sido un fracaso por lo que Perú Acción \nimplementará un mecanismo inmediato para que el Gobierno Nacional recupere las funciones \nde contr ol recurrente así como otras transferidas a los Gobiernos subnacionales, para \nreevaluar y replantear  la asignación de respo nsabilidades a los gobiernos nacionales e \nimplementar una verdadera descentralización que no genere el desorden presupuestal y \nfuncional que hoy tenemos",
+          "page": 23,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "descentralización",
+            "descentralización",
+            "fracaso",
+            "acción",
+            "implementará"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n24",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n24",
+          "page": 24,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "hierro"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n25",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n25",
+          "page": 25,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "hierro"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "General",
+      "proposals": [
+        {
+          "statement": "IDEARIO: PRINCIPIOS, OBJETIVOS Y VALORES DE LA ORGANIZACIÓN POLITICA",
+          "original_quote": "IDEARIO: PRINCIPIOS, OBJETIVOS Y VALORES DE LA ORGANIZACIÓN POLITICA",
+          "page": 1,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "ideario",
+            "principios",
+            "objetivos",
+            "valores",
+            "organización"
+          ]
+        },
+        {
+          "statement": "● Implementaci ón del programa \"Mano de Hierro ”, teniendo como primer objetivo la salida \nde la CIDH, esto como primer paso para generar una reestructuración integral del Poder \nJudicial Ministerio Público y Policía Nacional, así como para proponer ",
+          "original_quote": "● Implementaci ón del programa \"Mano de Hierro ”, teniendo como primer objetivo la salida \nde la CIDH, esto como primer paso para generar una reestructuración integral del Poder \nJudicial Ministerio Público y Policía Nacional, así como para proponer penas más severas para \nlos delincuentes  y pena de muerte  para presidentes corruptos, así como para asesinos sicarios \ny violadores",
+          "page": 8,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "implementaci",
+            "programa",
+            "hierro",
+            "teniendo",
+            "primer"
+          ]
+        },
+        {
+          "statement": "● Incentivar la autonom ía econ ómica de la mujer peruana creando programas de desarrollo y  \ncapacitación y apoyo estatal para el acceso de la mujer emprendedora a créditos via el Banco \nde la  Nación",
+          "original_quote": "● Incentivar la autonom ía econ ómica de la mujer peruana creando programas de desarrollo y  \ncapacitación y apoyo estatal para el acceso de la mujer emprendedora a créditos via el Banco \nde la  Nación",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "incentivar",
+            "autonom",
+            "peruana",
+            "creando",
+            "programas"
+          ]
+        },
+        {
+          "statement": "● Reforma de instituciones estatales regulatorias y de control Se ampliar á la funci ón del \nTribunal Constitucional para que cuente con la facultad de abolir normas jurídicas o contratos \nprivados, que  generan monopolios y obstaculizan la competenc",
+          "original_quote": "● Reforma de instituciones estatales regulatorias y de control Se ampliar á la funci ón del \nTribunal Constitucional para que cuente con la facultad de abolir normas jurídicas o contratos \nprivados, que  generan monopolios y obstaculizan la competencia y el libre mercado",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "reforma",
+            "instituciones",
+            "estatales",
+            "regulatorias",
+            "control"
+          ]
+        },
+        {
+          "statement": "También se p ropondrá penas de cárcel para cualquier persona que se encuentra en \nbuques  o naves extranjeras , los mismos deberán ser entregados a la policía y al poder judicial \npara que cumplan sus condenas en el país",
+          "original_quote": "También se p ropondrá penas de cárcel para cualquier persona que se encuentra en \nbuques  o naves extranjeras , los mismos deberán ser entregados a la policía y al poder judicial \npara que cumplan sus condenas en el país",
+          "page": 20,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "también",
+            "ropondrá",
+            "cárcel",
+            "cualquier",
+            "persona"
+          ]
+        },
+        {
+          "statement": "● Se propone reformas puntuales y espec íficas de la actual Constituci ón, para delimitar  \nespecíficamente las acciones y actividades de los poderes del Estado y garantizar la \nseparación de poderes para corregir el actual desorden de gobernanza en ",
+          "original_quote": "● Se propone reformas puntuales y espec íficas de la actual Constituci ón, para delimitar  \nespecíficamente las acciones y actividades de los poderes del Estado y garantizar la \nseparación de poderes para corregir el actual desorden de gobernanza en el Perú",
+          "page": 22,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "propone",
+            "reformas",
+            "puntuales",
+            "íficas",
+            "actual"
+          ]
+        },
+        {
+          "statement": "●Se propone someter las propuestas de reforma constitucional a votaci ón mediante \nrefer éndums Nacionales",
+          "original_quote": "●Se propone someter las propuestas de reforma constitucional a votaci ón mediante \nrefer éndums Nacionales",
+          "page": 22,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "propone",
+            "someter",
+            "propuestas",
+            "reforma",
+            "constitucional"
+          ]
+        },
+        {
+          "statement": "● Se propondr á una reforma del sistema electoral para la C ámara de Diputados y la C ámara \nde Senadores con el fin de mejorar la representatividad y la rendición de cuentas",
+          "original_quote": "● Se propondr á una reforma del sistema electoral para la C ámara de Diputados y la C ámara \nde Senadores con el fin de mejorar la representatividad y la rendición de cuentas",
+          "page": 22,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "propondr",
+            "reforma",
+            "sistema",
+            "electoral",
+            "diputados"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Cultura",
+      "proposals": [
+        {
+          "statement": "Destacar a la FAMILIA como EL NÚCLEO BÁSICO DE LA SOCIEDAD, y expresión  de \nlos valores morales del pueblo peruano, reconociendo en su realidad cultural y de fé \nun compromiso por su defensa y consolidación",
+          "original_quote": "Destacar a la FAMILIA como EL NÚCLEO BÁSICO DE LA SOCIEDAD, y expresión  de \nlos valores morales del pueblo peruano, reconociendo en su realidad cultural y de fé \nun compromiso por su defensa y consolidación",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "destacar",
+            "familia",
+            "núcleo",
+            "básico",
+            "sociedad"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Economía",
+      "proposals": [
+        {
+          "statement": "• Defender la l ibertad económica y el derecho a la propiedad de los peruanos  \nReestablecer el libre mercado y la libre competencia, eliminando el mercantilismo \ninstalado en la economía peruana, la economía de mercado y la iniciativa privada son \ne",
+          "original_quote": "• Defender la l ibertad económica y el derecho a la propiedad de los peruanos  \nReestablecer el libre mercado y la libre competencia, eliminando el mercantilismo \ninstalado en la economía peruana, la economía de mercado y la iniciativa privada son \nejes esenciales del desarrollo económico y el bienestar general por lo que proteger el \nderecho a la propiedad y a la inversión y reinversión de los pequeñ os, medianos y \ngrandes emprendedores peruanos es nuestra prioridad",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "defender",
+            "ibertad",
+            "económica",
+            "derecho",
+            "propiedad"
+          ]
+        },
+        {
+          "statement": "● Reducción del gasto público y reforma tributaria: Se llevará a cabo una reducción \nsignificativa del  gasto público para evitar endeudamiento excesivo y corrupción con la \nreducción del gigantesco  aparato estatal innecesario (eliminación de la bur",
+          "original_quote": "● Reducción del gasto público y reforma tributaria: Se llevará a cabo una reducción \nsignificativa del  gasto público para evitar endeudamiento excesivo y corrupción con la \nreducción del gigantesco  aparato estatal innecesario (eliminación de la burocracia \ninnecesaria)  \n \n ●Consolidar  únicamente  10 ministerios",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "reducción",
+            "público",
+            "reforma",
+            "tributaria",
+            "llevará"
+          ]
+        },
+        {
+          "statement": "Al mismo tiempo, se implementará una reforma \ntributaria integral que alivie la presión  impositiva, amplíe la base tributaria y simplifique el \nsistema de  impuestos, incentivando la  inversión y el crecimiento económico",
+          "original_quote": "Al mismo tiempo, se implementará una reforma \ntributaria integral que alivie la presión  impositiva, amplíe la base tributaria y simplifique el \nsistema de  impuestos, incentivando la  inversión y el crecimiento económico",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "tiempo",
+            "implementará",
+            "reforma",
+            "tributaria",
+            "integral"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n16 \n \n \n \nnacional  y programas de financiamiento estatal vía Banco de la Nación y Cofide  para la \nimportación de bienes de capital con grandes beneficios tributarios y con intereses reducidos",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n16 \n \n \n \nnacional  y programas de financiamiento estatal vía Banco de la Nación y Cofide  para la \nimportación de bienes de capital con grandes beneficios tributarios y con intereses reducidos",
+          "page": 16,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "hierro",
+            "nacional",
+            "programas",
+            "financiamiento"
+          ]
+        },
+        {
+          "statement": "Esto incluirá inversiones intensivas en infraestructura para mejorar \nla conectividad, promover la inversión extranjera en cooperación con la participación nacional \ny desarrollar el talento humano a través de programas de formación",
+          "original_quote": "Esto incluirá inversiones intensivas en infraestructura para mejorar \nla conectividad, promover la inversión extranjera en cooperación con la participación nacional \ny desarrollar el talento humano a través de programas de formación",
+          "page": 16,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "incluirá",
+            "inversiones",
+            "intensivas",
+            "infraestructura",
+            "mejorar"
+          ]
+        },
+        {
+          "statement": "●Se dará bonos y Crédito Estatal para que puedan crear y empezar negocios  \nemprendimientos,  se impulsará  mediante incentivos fiscales y tributarios   que las empresas \ninformales se formalicen y que puedan ingresar a planilla escalonadamente , par",
+          "original_quote": "●Se dará bonos y Crédito Estatal para que puedan crear y empezar negocios  \nemprendimientos,  se impulsará  mediante incentivos fiscales y tributarios   que las empresas \ninformales se formalicen y que puedan ingresar a planilla escalonadamente , para los \ntrabajadores se crearán nuevos centros de capacitación en profesiones técnicas y también se \nampliará la s facultades que tiene n alta demanda en la principales universidades del país",
+          "page": 17,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "crédito",
+            "estatal",
+            "puedan",
+            "empezar",
+            "negocios"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n22 \n \n \n \npara que de acuerdo a los resulta dos se cree un escalafón meritocrático , que permita eliminar \nlos nefastos nombramientos de jueces y fiscales supernumerarios y provisionales , la reforma \nadminist",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n22 \n \n \n \npara que de acuerdo a los resulta dos se cree un escalafón meritocrático , que permita eliminar \nlos nefastos nombramientos de jueces y fiscales supernumerarios y provisionales , la reforma \nadministrativa del Poder Judicial instaurando metas por cumplimiento de objetivos y procesos \ncompletados  tanto a jueces como a secretarios y personal administrativo generando eficiencia \ny rapidez en procesos",
+          "page": 22,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "hierro",
+            "acuerdo",
+            "resulta",
+            "escalafón"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Seguridad",
+      "proposals": [
+        {
+          "statement": "PRINCIPALES PROPUESTAS DE GOBIERNO  \n \n \n3.DIMENSIÓN SOCIAL  \n \n \n3.1 SEGURIDAD  \n \nACTUALIDAD Y ESTADÍSTICAS  \n \nEl nivel de violencia actual en el Perú, ha llegado a niveles sin precedentes en el 2025, \núnicamente comparados a la época de la violen",
+          "original_quote": "PRINCIPALES PROPUESTAS DE GOBIERNO  \n \n \n3.DIMENSIÓN SOCIAL  \n \n \n3.1 SEGURIDAD  \n \nACTUALIDAD Y ESTADÍSTICAS  \n \nEl nivel de violencia actual en el Perú, ha llegado a niveles sin precedentes en el 2025, \núnicamente comparados a la época de la violencia terrorista",
+          "page": 7,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "principales",
+            "propuestas",
+            "gobierno",
+            "dimensión",
+            "social"
+          ]
+        },
+        {
+          "statement": "● Justicia  para todos  En este punto Perú Acción propone la reforma total y transversal del \nPoder Judicial y Ministerio Publico peruanos que per mita solucionar los problemas de \ncorrupción, interferencia política, falta de credibilidad, sesgos ide",
+          "original_quote": "● Justicia  para todos  En este punto Perú Acción propone la reforma total y transversal del \nPoder Judicial y Ministerio Publico peruanos que per mita solucionar los problemas de \ncorrupción, interferencia política, falta de credibilidad, sesgos ideológicos e ineptitud en los \nprocesos",
+          "page": 21,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "justicia",
+            "acción",
+            "propone",
+            "reforma",
+            "transversal"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Educación",
+      "proposals": [
+        {
+          "statement": "PROPUESTAS Y ESTRATEGIA  \n \nBRECHA DE INFRAESTRUCTURA EDUCATIVA  \n \n● Fusión del Ministerio de Educaci ón y del Ministerio de Desarrollo Social",
+          "original_quote": "PROPUESTAS Y ESTRATEGIA  \n \nBRECHA DE INFRAESTRUCTURA EDUCATIVA  \n \n● Fusión del Ministerio de Educaci ón y del Ministerio de Desarrollo Social",
+          "page": 10,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "propuestas",
+            "estrategia",
+            "brecha",
+            "infraestructura",
+            "educativa"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n11 \n \n \n \n \nCURRICULA ESCOLAR  \n \n● Implementación de la estrategia educativa por “Transferencia de Conocimiento” y revaluar \nfinalmente  quitar el “Enfoque por Competencias” que ha dañado a la educación estos",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n11 \n \n \n \n \nCURRICULA ESCOLAR  \n \n● Implementación de la estrategia educativa por “Transferencia de Conocimiento” y revaluar \nfinalmente  quitar el “Enfoque por Competencias” que ha dañado a la educación estos últimos \n20 años, proponiendo una  educación orientada a formar ciudadanos peruanos c ompetitivos \ncon énfasis el logro de objetivos generando  competencia entre los estudiantes tanto de \ncolegios y universidades por ser los mejores",
+          "page": 11,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "gobierno",
+            "hierro",
+            "curricula",
+            "escolar",
+            "implementación"
+          ]
+        },
+        {
+          "statement": "● Implementaci ón de la educación por objetivos y logros generando competencia entre los \nestudiantes tanto de colegios y universidades por ser los mejores, así como la reinserción de \ncursos que fomenten el patriotismo el civismo y las buenas costum",
+          "original_quote": "● Implementaci ón de la educación por objetivos y logros generando competencia entre los \nestudiantes tanto de colegios y universidades por ser los mejores, así como la reinserción de \ncursos que fomenten el patriotismo el civismo y las buenas costumbres",
+          "page": 11,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "implementaci",
+            "educación",
+            "objetivos",
+            "logros",
+            "generando"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salud",
+      "proposals": [
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n12 \n \n \n \n \n3.2 SALUD  \n \nACTUALIDAD Y ESTADÍSTICAS  \n \nAl cierre del año 2023, el 88,4 % de la población peruana contaba con algún seguro de salud",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n12 \n \n \n \n \n3.2 SALUD  \n \nACTUALIDAD Y ESTADÍSTICAS  \n \nAl cierre del año 2023, el 88,4 % de la población peruana contaba con algún seguro de salud",
+          "page": 12,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "gobierno",
+            "hierro",
+            "actualidad",
+            "estadísticas",
+            "cierre"
+          ]
+        },
+        {
+          "statement": "PROPUESTAS Y ESTRATEGIA  \n \n \nGESTION Y ADMINISTRACION  \n \n●Implementar en el Perú, el modelo del sistema de la salud de Singapur para el nivel primario \nde atención, convirtiendo los Policlínicos de Essalud y las Postas medicas del Minsa en centros ",
+          "original_quote": "PROPUESTAS Y ESTRATEGIA  \n \n \nGESTION Y ADMINISTRACION  \n \n●Implementar en el Perú, el modelo del sistema de la salud de Singapur para el nivel primario \nde atención, convirtiendo los Policlínicos de Essalud y las Postas medicas del Minsa en centros \nde atención no solo para citas, si no convirtiéndolos en pequeñas clínicas equipándolos con \nquirófanos para operaciones menores y centros de emergencia, así como ampliando sus \nhorarios de atención hasta en 18 horas por d ía",
+          "page": 12,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "propuestas",
+            "estrategia",
+            "gestion",
+            "administracion",
+            "implementar"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n13 \n \n \n \nauditoria de procesos público -privadas , esto con el fin de competir  de darle la calidad de \natención y servicio que la  que otorga  el sector privado , \n \n● Reforma del sector salud peruano hacia ",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n13 \n \n \n \nauditoria de procesos público -privadas , esto con el fin de competir  de darle la calidad de \natención y servicio que la  que otorga  el sector privado , \n \n● Reforma del sector salud peruano hacia un sistema de salud unificado e integrado (fusión  \nMINSA y ESSALUD) centrado en la atención pronta y eficiente a los ciudadanos peruanos \nbasándose en la transformación digital, la eficiencia e i nmediatez",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "hierro",
+            "auditoria",
+            "procesos",
+            "público"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Política Social",
+      "proposals": [
+        {
+          "statement": "● Ampliaci ón y fortalecimiento de los programas sociales para cubrir la alimentaci ón de los  \nniños menos favorecidos en cada Distrito del Perú a nivel nacional mediante asociaciones \npúblico privadas APPs",
+          "original_quote": "● Ampliaci ón y fortalecimiento de los programas sociales para cubrir la alimentaci ón de los  \nniños menos favorecidos en cada Distrito del Perú a nivel nacional mediante asociaciones \npúblico privadas APPs",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "ampliaci",
+            "fortalecimiento",
+            "programas",
+            "sociales",
+            "cubrir"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n15 \n \n \n \ny la refundación de lo público  como un estado más pequeño austero y eficiente con un gran \nbrazo social de apoyo para los peruanos más necesitados,  propon dremos  un reordenamiento  \nestructural de",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n15 \n \n \n \ny la refundación de lo público  como un estado más pequeño austero y eficiente con un gran \nbrazo social de apoyo para los peruanos más necesitados,  propon dremos  un reordenamiento  \nestructural del gobierno y el estado en el Perú, en pos de reconvertir su funcionamiento de \nmanera tr ansversal",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "hierro",
+            "refundación",
+            "público",
+            "estado"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Medio Ambiente",
+      "proposals": [
+        {
+          "statement": "Además, \nse reformarán instituciones como el INDECOPI y la Superintendencia de Banca para promover \nla libre  competencia y garantizar transparencia en los negocios,  lo que favorecerá un  \nambiente económico más justo y equitativo para todos los act",
+          "original_quote": "Además, \nse reformarán instituciones como el INDECOPI y la Superintendencia de Banca para promover \nla libre  competencia y garantizar transparencia en los negocios,  lo que favorecerá un  \nambiente económico más justo y equitativo para todos los actores empresariales dando \nprioridad siempre a los pequeños y medianos empresarios peruanos",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "además",
+            "reformarán",
+            "instituciones",
+            "indecopi",
+            "superintendencia"
+          ]
+        },
+        {
+          "statement": "● Asimismo, se reconocer á el derecho de los peruanos a los recursos naturales y de terrenos  \nagrícolas y de otros tipos de todo el país para que mediante la creación de  empresas colectivas  \npequeñas y grandes se empiece a generar extracción de mi",
+          "original_quote": "● Asimismo, se reconocer á el derecho de los peruanos a los recursos naturales y de terrenos  \nagrícolas y de otros tipos de todo el país para que mediante la creación de  empresas colectivas  \npequeñas y grandes se empiece a generar extracción de minerales y otros recursos de manera  \nordenada y con el control y Vigilancia del estado así reduciremos la minería ilegal y otras \nactividades  informales que por la ineficiencia del Estado no están reguladas",
+          "page": 17,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "asimismo",
+            "reconocer",
+            "derecho",
+            "peruanos",
+            "recursos"
+          ]
+        },
+        {
+          "statement": "Para esto Perú  Acción  propone los d os ejes desarrollo  y sostenibilidad ambiental enfocados \nen la misma dirección  sin dejar de cumplir  los objetivos  de ambos",
+          "original_quote": "Para esto Perú  Acción  propone los d os ejes desarrollo  y sostenibilidad ambiental enfocados \nen la misma dirección  sin dejar de cumplir  los objetivos  de ambos",
+          "page": 17,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "acción",
+            "propone",
+            "desarrollo",
+            "sostenibilidad",
+            "ambiental"
+          ]
+        },
+        {
+          "statement": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n18 \n \n \n \nTeniend o par a esto ejes de d esarrollo de  infraestructura  y económico  que irán de mano con \nla sostenibilidad am biental",
+          "original_quote": "PLAN DE GOBIERNO  / MANO DE HIERRO      \n18 \n \n \n \nTeniend o par a esto ejes de d esarrollo de  infraestructura  y económico  que irán de mano con \nla sostenibilidad am biental",
+          "page": 18,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "hierro",
+            "teniend",
+            "esarrollo",
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "Esto también no servirá para conseguir el \nobjetivo de parar progresivamente toda la operación que Petro Perú tiene en la selva del país  \ny que tanto  daño ambiental han causado en los últimos 50 añ os \n \n \n● REINFO, minería  informal y minería  ile",
+          "original_quote": "Esto también no servirá para conseguir el \nobjetivo de parar progresivamente toda la operación que Petro Perú tiene en la selva del país  \ny que tanto  daño ambiental han causado en los últimos 50 añ os \n \n \n● REINFO, minería  informal y minería  ilegal : Tal vez el aspecto de desarrollo económico  y \nsostenibilidad  ambiental  más importante , nuestra propu esta permitirá  consolidar  y \nreestructura r la industri a minera en el país, incluyendo a los mineros informales",
+          "page": 19,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "también",
+            "servirá",
+            "conseguir",
+            "objetivo",
+            "progresivamente"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Trabajo y Empleo",
+      "proposals": [
+        {
+          "statement": "● Incentivar y promover la productividad de los trabajadores peruano mediante pol íticas \npúblicas  para la mejora del capital humano con programas estatales de capacitación a nivel",
+          "original_quote": "● Incentivar y promover la productividad de los trabajadores peruano mediante pol íticas \npúblicas  para la mejora del capital humano con programas estatales de capacitación a nivel",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "incentivar",
+            "promover",
+            "productividad",
+            "trabajadores",
+            "peruano"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Vivienda",
+      "proposals": [
+        {
+          "statement": "Además  impulsaremos los proyectos de: Piedra Hermosa (Huancavelica); Paltuture y \nconstrucción de tres presas  adic ionales :  Río Tambo, Chilota (Moquegua) y Cardos (Tacna)  \n \n \n● Petroperú:  Aprovecha r el descubrimiento de yacimientos petrolífer",
+          "original_quote": "Además  impulsaremos los proyectos de: Piedra Hermosa (Huancavelica); Paltuture y \nconstrucción de tres presas  adic ionales :  Río Tambo, Chilota (Moquegua) y Cardos (Tacna)  \n \n \n● Petroperú:  Aprovecha r el descubrimiento de yacimientos petrolíferos al frente  de las costas \nde La Libertad por la empresa Ana darko subsidiaria de Chevron, que  dará  un nuevo impulso \na la industria petrolera en el Perú",
+          "page": 19,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "además",
+            "impulsaremos",
+            "proyectos",
+            "piedra",
+            "hermosa"
+          ]
+        }
+      ]
+    }
+  ],
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: salario mínimo. Indicadores a favor: 2, en contra: 4."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de impuestos a grandes fortunas en el plan de gobierno."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: beneficios tributarios' para empresas (p.16). Proponen: 'Defender la libertad económica... la economía de mercado y la iniciativa privada son ejes esenciales' (p.4), 'asociaciones público privadas APPs' para programas sociales (p.14), y auditorías 'público-privadas' en salud (p.13). Destacan 'a la FAMILIA como EL NÚCLEO BÁSICO DE LA SOCIEDAD... reconociendo en su realidad cultural y de fé un compromiso por su defensa y consolidación' (p.3), sugiriendo una postura tradicional. No se encontró mención explícita sobre despenalización del aborto en el documento. Mencionan 'sostenibilidad ambiental' (p.17-18) pero también proponen 'Aprovechar el descubrimiento de yacimientos petrolíferos' (p.19) y comprar petróleo de Venezuela (p.9). Posición mixta: desarrollo y sostenibilidad ambiental 'sin dejar de cumplir los objetivos de ambos' (p.17). Proponen explícitamente: 'expulsaremos a los delincuentes e inmigrantes ilegales venezolanos' (p.9) como política central. No se encontró mención explícita sobre gasto militar en el documento. Proponen: 'bonos y Crédito Estatal para que puedan crear y empezar negocios emprendimientos' (p.17), 'incentivos fiscales y tributarios' para formalización (p.17), y 'programas de financiamiento estatal' con 'grandes beneficios tributario, beneficios tributario, incentivos fiscales y tributarios   que las empresa. Indicadores a favor: 15, en contra: 4."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Pensión, pensión. Indicadores a favor: 35, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: importación, exportación. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de matrimonio igualitario en el plan de gobierno."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de políticas de género en el plan de gobierno."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: migra, venezolano. Indicadores a favor: 4, en contra: 10."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: pena de muerte. Indicadores a favor: 9, en contra: 2."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: APP, público privad. Indicadores a favor: 21, en contra: 0."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: petróleo. Indicadores a favor: 12, en contra: 0."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: gratuidad, universidades' (p.17), pero no mencionan explícitamente gratuidad. Proponen: 'Reforma del sector salud peruano hacia un sistema de salud unificado e integrado (fusión MINSA y ESSALUD)' (p.13), aunque con modelo mixto público-privado inspirado en Singapur. Critican explícitamente: 'La descentralización en el Perú ha sido un fracaso' y proponen que 'el Gobierno Nacional recupere las funciones de control recurrente así como otras transferidas a los Gobiernos subnacionales' (p.23). Proponen: 'reforma total y transversal del Poder Judicial y Ministerio Publico' (p.21), 'reestructuración integral del Poder Judicial Ministerio Públic. Indicadores a favor: 14, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: sis. Indicadores a favor: 11, en contra: 0."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de transporte público gratuito en el plan de gobierno."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: conectividad. Indicadores a favor: 12, en contra: 0."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: defensa, militar. Indicadores a favor: 3, en contra: 2."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: descentraliza, Descentraliza. Indicadores a favor: 15, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Judicial, judicial. Indicadores a favor: 31, en contra: 0."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de elección popular de jueces en el plan de gobierno."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de límites a la reelección en el plan de gobierno."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: Senado. Indicadores a favor: 2, en contra: 0."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "stances_updated_at": "2026-04-06T23:04:31.219248"
+}

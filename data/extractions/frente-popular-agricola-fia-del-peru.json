@@ -1,0 +1,211 @@
+{
+  "party": "Frente Popular Agricola FIA del Peru - FREPAP",
+  "source_pdf": "data/pdfs/frente-popular-agricola-fia-del-peru.pdf",
+  "extracted_at": "2026-04-06T00:00:00.000Z",
+  "topics": [
+    {
+      "topic": "Ideario y Principios",
+      "proposals": [
+        {
+          "statement": "El partido se define como teocrático, nacionalista, Tahuantinsuyano, revolucionario, agrario-ecologista",
+          "original_quote": "El Frente Popular Agrícola FIA del Perú - FREPAP, es un partido teocrático, nacionalista, Tahuantinsuyano, revolucionario, agrario-ecologista, de ancha base e integracionista, firme defensor de los derechos fundamentales de la persona, de la verdad y el estado de derecho",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "teocrático",
+            "nacionalista",
+            "Tahuantinsuyano",
+            "agrario-ecologista",
+            "integracionista"
+          ]
+        },
+        {
+          "statement": "Los principios del partido son moralización, educación, salud, trabajo, libertad, igualdad, solidaridad, justicia y paz basados en la Doctrina Cristiana",
+          "original_quote": "se inspira en los principios de moralización, educación, salud, trabajo, libertad, igualdad, solidaridad, justicia y paz; verdaderos postulados de la Doctrina Cristiana",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "moralización",
+            "educación",
+            "salud",
+            "trabajo",
+            "libertad",
+            "igualdad",
+            "solidaridad",
+            "justicia",
+            "paz",
+            "Doctrina Cristiana"
+          ]
+        }
+      ]
+    }
+  ],
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de aumento del salario mínimo en el plan de gobierno."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de impuestos a grandes fortunas en el plan de gobierno."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: subsidio. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: pension. Indicadores a favor: 1, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de libre comercio vs proteccionismo en el plan de gobierno."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de matrimonio igualitario en el plan de gobierno."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de despenalización del aborto en el plan de gobierno."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: género. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "en_contra",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: migra. Indicadores a favor: 0, en contra: 1."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de pena de muerte en el plan de gobierno."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: privatiza. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de energías renovables vs combustibles fósiles en el plan de gobierno."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de educación pública gratuita en el plan de gobierno."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: sis. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de transporte público gratuito en el plan de gobierno."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de internet como derecho básico en el plan de gobierno."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: defensa, militar. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: descentraliza. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: justicia. Indicadores a favor: 1, en contra: 0."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: Popular Agrícola FIA del Perú - FREPAP, es un partido teocrático, nacionalista, Tahuantinsuyano, revolucionario, agrario-ecologista, de ancha base e integracionista, firme defensor de los derechos fundamentales de la persona, de la verdad y el estado de derecho Los principios del partido son moralización, educación, salud, trabajo, libertad, igualdad, solidaridad, justicia y paz basados en la Doctrina Cristiana se inspira en los principios de moralización, educación, salud, trabajo, libertad, igualdad, solidaridad, justicia y paz; verdaderos postulados de la Doctrina Cristiana El documento no menciona políticas salariales El documento no menciona política tributaria El documento no menciona privatizaciones No se menciona explícitamente, aunque el partido se define como teocrático basado en Doctrina Cristiana No se menciona explícitamente, aunque el partido se define como teocrático basado en Doctrina Cristiana El partido se define como agrario-ecologista pero no especifica políticas energéticas El documento no menciona política migratoria El documento no menciona defensa ni gasto militar El documento no menciona subsidios empresariales El documento no menciona sistema de pensiones Menciona educación como principio pero no especifica políticas concretas Menciona salud como principio pero no especifica políticas concretas El documento no menciona descentralización Menciona justicia. Indicadores a favor: 1, en contra: 0."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de límites a la reelección en el plan de gobierno."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "notes": "El documento del FREPAP es muy breve y solo contiene el ideario y principios generales del partido extraídos de sus estatutos. No incluye propuestas concretas de gobierno ni políticas específicas medibles.",
+  "stances_updated_at": "2026-04-06T23:04:02.546945"
+}

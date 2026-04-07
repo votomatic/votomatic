@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-04-06T23:07:03.623106",
+  "category": "social",
+  "total_questions": 1,
+  "questions": [
+    {
+      "id": "soc-001",
+      "issue": "Matrimonio igualitario",
+      "text": "Las parejas del mismo sexo deberían tener derecho al matrimonio civil.",
+      "category": "social",
+      "party_positions": {
+        "un-camino-diferente": "a_favor",
+        "ahora-nacion": "a_favor",
+        "partido-frente-de-la-esperanza-2021": "a_favor",
+        "partido-del-buen-gobierno": "a_favor",
+        "avanza-pais": "a_favor",
+        "partido-politico-integridad-democratica": "a_favor",
+        "partido-morado": "a_favor",
+        "podemos-peru": "neutral",
+        "partido-politico-nacional-peru-libre": "neutral",
+        "progresemos": "neutral",
+        "partido-politico-cooperacion-popular": "neutral",
+        "partido-democrata-unido-peru": "neutral",
+        "partido-politico-prin": "neutral",
+        "fuerza-popular": "neutral",
+        "alianza-para-el-progreso": "neutral",
+        "peru-moderno": "neutral",
+        "fe-en-el-peru": "neutral",
+        "partido-civico-obras": "neutral",
+        "fuerza-y-libertad": "neutral",
+        "partido-aprista-peruano": "neutral",
+        "partido-democrata-verde": "neutral",
+        "unidad-nacional": "neutral",
+        "libertad-popular": "neutral",
+        "partido-de-los-trabajadores-y-emprendedores": "neutral",
+        "renovacion-popular": "neutral",
+        "primero-la-gente": "neutral",
+        "partido-politico-peru-primero": "neutral",
+        "partido-democratico-somos-peru": "neutral",
+        "partido-pais-para-todos": "neutral",
+        "partido-democratico-federal": "neutral",
+        "alianza-electoral-venceremos": "neutral",
+        "salvemos-al-peru": "neutral",
+        "partido-patriotico-del-peru": "neutral",
+        "partido-sicreo": "neutral"
+      },
+      "source_evidence": {
+        "un-camino-diferente": "Menciones encontradas: matrimonio igualitario. Indicadores a favor: 2, en contra: 0.",
+        "ahora-nacion": "Menciones encontradas: matrimonio igualitario, unión civil, LGBT. Indicadores a favor: 2, en contra: 0."
+      },
+      "divergence_score": 0.1381
+    }
+  ]
+}

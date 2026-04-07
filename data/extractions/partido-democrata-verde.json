@@ -1,0 +1,2722 @@
+{
+  "party": "Partido Demócrata Verde",
+  "source_pdf": "/Users/ursulacervantes/Documents/Code/votomatic/data/pdfs/partido-democrata-verde.pdf",
+  "extracted_at": "2026-04-06T09:14:58.423980",
+  "total_pages": 457,
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: salario mínimo. Indicadores a favor: 4, en contra: 14."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: impuestos a grandes fortunas o patrimonio, impuestos a grandes fortuna. Indicadores a favor: 22, en contra: 14."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: subsidio. Indicadores a favor: 13, en contra: 14."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: pension. Indicadores a favor: 48, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de libre comercio vs proteccionismo en el plan de gobierno."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: matrimonio igualitario, LGBT. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Igualdad de  Oportunidades: Mujer, equidad, Igualdad de Oportunidades: Mujer y segmentos poblaciones'. Propone 'eliminación de todo tipo de discriminación' (p.8) y programas de certificación laboral para mujer. Indicadores a favor: 19, en contra: 0."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: migra. Indicadores a favor: 7, en contra: 39."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de pena de muerte en el plan de gobierno."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de privatización de servicios públicos en el plan de gobierno."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: renovable. Indicadores a favor: 9, en contra: 0."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: educación es el principal mecanismo de movilidad social' (p.22). Explícitamente: 'Crear planes para que todos los peruanos tengan cuidados de salud y atenciones médicas de manera gratuit. Indicadores a favor: 33, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: sis, Sis. Indicadores a favor: 39, en contra: 0."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de transporte público gratuito en el plan de gobierno."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: internet, conectividad. Indicadores a favor: 42, en contra: 0."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: defensa, militar. Indicadores a favor: 9, en contra: 10."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: descentraliza, DESCENTRALIZA. Indicadores a favor: 12, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: JUSTICIA, justicia. Indicadores a favor: 33, en contra: 0."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de elección popular de jueces en el plan de gobierno."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de límites a la reelección en el plan de gobierno."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "topics": [
+    {
+      "topic": "General",
+      "proposal_count": 644,
+      "proposals": [
+        {
+          "statement": "PLAN DE GOBIERNO 2026 -2030",
+          "original_quote": "PLAN DE GOBIERNO 2026 -2030",
+          "page": 1,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "gobierno"
+          ]
+        },
+        {
+          "statement": "PLAN  DE GOBIERNO  DEL PARTIDO POLITICO DEMOCRATA VERDE  \nINTRODUCCIÓN  \n \nEl Plan de Gobierno del Partido Demócrata Verde está compuesto por la visión de país, \nprincipios y valores",
+          "original_quote": "PLAN  DE GOBIERNO  DEL PARTIDO POLITICO DEMOCRATA VERDE  \nINTRODUCCIÓN  \n \nEl Plan de Gobierno del Partido Demócrata Verde está compuesto por la visión de país, \nprincipios y valores",
+          "page": 2,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobierno",
+            "partido",
+            "politico",
+            "democrata",
+            "introducción"
+          ]
+        },
+        {
+          "statement": "Por ello, es nuestra más firme \ndecisión política de proponer e implementar los siguientes: La reducción de la incidencia de \nla pobreza mediante la activación y recuperación económica, ser unos de lo",
+          "original_quote": "Por ello, es nuestra más firme \ndecisión política de proponer e implementar los siguientes: La reducción de la incidencia de \nla pobreza mediante la activación y recuperación económica, ser unos de los países menos \nafectados por el cambio climático,  ubicarse dentro de los 3 países más competitivos e \ninnovadores y liderar como el más democrático de Latinoamérica, lo que nos permite \npresentarle al país el “Plan Verde al 2030”",
+          "page": 2,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "nuestra",
+            "decisión",
+            "política",
+            "proponer",
+            "implementar"
+          ]
+        },
+        {
+          "statement": "INDICE  \n IDEARIO: PRINCIPIOS, OBJETIVOS Y VALORES DE LA \nORGANIZACIÓN POLÍTICA  4-12 \n VISIÓN DEL PLAN DE GOBIERNO  12-13 \n MECANISMOS DE SEGUIMIENTO, RENDICIÓN DE CUENTAS Y \nCOMUNICACIÓN PERIÓDICA A",
+          "original_quote": "INDICE  \n IDEARIO: PRINCIPIOS, OBJETIVOS Y VALORES DE LA \nORGANIZACIÓN POLÍTICA  4-12 \n VISIÓN DEL PLAN DE GOBIERNO  12-13 \n MECANISMOS DE SEGUIMIENTO, RENDICIÓN DE CUENTAS Y \nCOMUNICACIÓN PERIÓDICA A LA CIUDADANÍA  13-16 \n ESTRATEGIAS   \nI",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "indice",
+            "ideario",
+            "principios",
+            "objetivos",
+            "valores"
+          ]
+        },
+        {
+          "statement": "120-140 \nEje   5  Igualdad de  Oportunidades: Mujer y segmentos poblaciones \n(jóvenes, personas de la tercera edad y de habilidades especiales)  \n 140-158 \nEje   6  Lucha  contra  la Pobreza  y Progra",
+          "original_quote": "120-140 \nEje   5  Igualdad de  Oportunidades: Mujer y segmentos poblaciones \n(jóvenes, personas de la tercera edad y de habilidades especiales)  \n 140-158 \nEje   6  Lucha  contra  la Pobreza  y Programas  Sociales  \n 158-175 \nII",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "igualdad",
+            "oportunidades",
+            "segmentos",
+            "poblaciones",
+            "jóvenes"
+          ]
+        },
+        {
+          "statement": "Dentro de las deficiencias que se observan en el desarrollo de nuestra sociedad peruana, el \npartido ha cons iderado el planteamiento de 7 principios que se constituyen en nuestra guía \ncomo partido, ",
+          "original_quote": "Dentro de las deficiencias que se observan en el desarrollo de nuestra sociedad peruana, el \npartido ha cons iderado el planteamiento de 7 principios que se constituyen en nuestra guía \ncomo partido, las mismas que serán actualizadas de acuerdo al desarrollo de la sociedad y a \nlas necesidades la realidad nacional:  \nECOLOGÍA Y DESARROLLO SOSTENIBLE",
+          "page": 6,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "dentro",
+            "deficiencias",
+            "observan",
+            "desarrollo",
+            "nuestra"
+          ]
+        },
+        {
+          "statement": "En ese sentido la igualdad de oportunidades es uno de los caminos que nos va a ayudar a \nalcanzar este ansiado valor, en la medida que e l estado se encamine hacia la eliminación de \ntodo tipo de disc",
+          "original_quote": "En ese sentido la igualdad de oportunidades es uno de los caminos que nos va a ayudar a \nalcanzar este ansiado valor, en la medida que e l estado se encamine hacia la eliminación de \ntodo tipo de discriminación dándoles las mismas oportunidades a todos, en equidad de \nacuerdo a sus necesidades",
+          "page": 8,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "sentido",
+            "igualdad",
+            "oportunidades",
+            "caminos",
+            "ayudar"
+          ]
+        },
+        {
+          "statement": "Sin embargo, esto \nno se va a dar sino salimos del modelo tradicional de enseñanza basado en programas \npredeterminados tratando todos por igual sin mirar sus inteligencias y capacidades",
+          "original_quote": "Sin embargo, esto \nno se va a dar sino salimos del modelo tradicional de enseñanza basado en programas \npredeterminados tratando todos por igual sin mirar sus inteligencias y capacidades",
+          "page": 8,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "embargo",
+            "salimos",
+            "modelo",
+            "tradicional",
+            "enseñanza"
+          ]
+        },
+        {
+          "statement": "El estado debe trabajar ahora para abordar estos dos «caminos» de la equidad en salud, a fin \nde permitir a los médicos coordinar y rastrear a los pacientes para ayudarlos a obte ner acceso \na program",
+          "original_quote": "El estado debe trabajar ahora para abordar estos dos «caminos» de la equidad en salud, a fin \nde permitir a los médicos coordinar y rastrear a los pacientes para ayudarlos a obte ner acceso \na programas de apoyo basados en la comunidad",
+          "page": 9,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "estado",
+            "trabajar",
+            "abordar",
+            "caminos",
+            "equidad"
+          ]
+        },
+        {
+          "statement": "La corrupción, no permite como debe ser que los ciudadanos sean beneficiarios de los bienes \ny servicios que el Estado debe brindar como parte de su responsabilidad, por la presencia de \nuna serie de ",
+          "original_quote": "La corrupción, no permite como debe ser que los ciudadanos sean beneficiarios de los bienes \ny servicios que el Estado debe brindar como parte de su responsabilidad, por la presencia de \nuna serie de actos irregulares o ilícitos, que son cometidos por los servidores del Estado, lo \nque significa el abandono o poco interés en la atención y con strucción de nuevas \ninfraestructuras hospitalarias, industrial, desarrollo de programas de educación eficientes",
+          "page": 10,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "corrupción",
+            "permite",
+            "ciudadanos",
+            "beneficiarios",
+            "bienes"
+          ]
+        },
+        {
+          "statement": "La descentralización  es un proceso político -técnico que forma parte de la reforma del Estado \nperuano y está orientado a alcanzar un gobierno efect ivo, eficiente, transparente y al servicio \nde tod",
+          "original_quote": "La descentralización  es un proceso político -técnico que forma parte de la reforma del Estado \nperuano y está orientado a alcanzar un gobierno efect ivo, eficiente, transparente y al servicio \nde todos los ciudadanos",
+          "page": 10,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "descentralización",
+            "proceso",
+            "político",
+            "técnico",
+            "reforma"
+          ]
+        },
+        {
+          "statement": "Crear planes para que todos los peruanos tengan cuidados de salud y atenciones \nmédicas de manera gratuita, por parte del estado",
+          "original_quote": "Crear planes para que todos los peruanos tengan cuidados de salud y atenciones \nmédicas de manera gratuita, por parte del estado",
+          "page": 11,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "planes",
+            "peruanos",
+            "tengan",
+            "cuidados",
+            "atenciones"
+          ]
+        },
+        {
+          "statement": "Desarrollar planes y estrategias de gestión eficiente y eficaz de los recursos naturales  \n8",
+          "original_quote": "Desarrollar planes y estrategias de gestión eficiente y eficaz de los recursos naturales  \n8",
+          "page": 11,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "desarrollar",
+            "planes",
+            "estrategias",
+            "gestión",
+            "eficiente"
+          ]
+        },
+        {
+          "statement": "Generar diferentes programas e instrumentos de ayuda y promoción que contiene la \npolítica de c iencia, tecnología e innovación  \n9",
+          "original_quote": "Generar diferentes programas e instrumentos de ayuda y promoción que contiene la \npolítica de c iencia, tecnología e innovación  \n9",
+          "page": 11,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "generar",
+            "diferentes",
+            "programas",
+            "instrumentos",
+            "promoción"
+          ]
+        },
+        {
+          "statement": "Gobernar implica no \nsolo cumplir las propuestas formuladas en el Plan de Gobierno, sino también informar de \nmanera clara, periódica y verificable sobre su nivel de avance, sus  resultados y las \ndif",
+          "original_quote": "Gobernar implica no \nsolo cumplir las propuestas formuladas en el Plan de Gobierno, sino también informar de \nmanera clara, periódica y verificable sobre su nivel de avance, sus  resultados y las \ndificultades encontradas en su implementación",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gobernar",
+            "implica",
+            "cumplir",
+            "propuestas",
+            "formuladas"
+          ]
+        },
+        {
+          "statement": "En ese sentido, la organización política, de resultar ganadora en el proceso electoral, asume \nel compromiso político y ético de establecer mecanismos institucionales permanentes de \nseguimient o y co",
+          "original_quote": "En ese sentido, la organización política, de resultar ganadora en el proceso electoral, asume \nel compromiso político y ético de establecer mecanismos institucionales permanentes de \nseguimient o y comunicación pública del cumplimiento del Plan de Gobierno , como parte \nesencial de una democracia participativa, deliberativa y responsable",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "sentido",
+            "organización",
+            "política",
+            "resultar",
+            "ganadora"
+          ]
+        },
+        {
+          "statement": "Sistema Nacional de Seguimiento del Plan de Gobierno  \nEl gobierno impulsará la implementación de un Sistema Nacional de Seguimiento del Plan \nde Gobierno , como herramienta de gestión pública y rendi",
+          "original_quote": "Sistema Nacional de Seguimiento del Plan de Gobierno  \nEl gobierno impulsará la implementación de un Sistema Nacional de Seguimiento del Plan \nde Gobierno , como herramienta de gestión pública y rendición de cuentas, que permitirá \nevalu ar el cumplimiento de objetivos, ejes, programas y metas establecidos en el presente \nPlan",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "sistema",
+            "nacional",
+            "seguimiento",
+            "gobierno",
+            "gobierno"
+          ]
+        },
+        {
+          "statement": "Informes periódicos de cumplimiento a la ciudadanía  \nEl Poder Ejecutivo presentará informes periódicos de cumplimiento del Plan de Gobierno , \nque serán de acceso público y difundidos a nivel naciona",
+          "original_quote": "Informes periódicos de cumplimiento a la ciudadanía  \nEl Poder Ejecutivo presentará informes periódicos de cumplimiento del Plan de Gobierno , \nque serán de acceso público y difundidos a nivel nacional",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "informes",
+            "periódicos",
+            "cumplimiento",
+            "ciudadanía",
+            "ejecutivo"
+          ]
+        },
+        {
+          "statement": "Informe Anual de Cumplimiento del Plan de Gobierno  \nDe manera anual, se presentará un Informe Nacional de A vance del Plan de Gobierno , que \ncontendrá:  \n• Estado de cumplimiento de cada objetivo ge",
+          "original_quote": "Informe Anual de Cumplimiento del Plan de Gobierno  \nDe manera anual, se presentará un Informe Nacional de A vance del Plan de Gobierno , que \ncontendrá:  \n• Estado de cumplimiento de cada objetivo general y eje estratégico",
+          "page": 14,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "informe",
+            "cumplimiento",
+            "gobierno",
+            "manera",
+            "presentará"
+          ]
+        },
+        {
+          "statement": "• Avance de programas nacionales y políticas públicas prioritarias",
+          "original_quote": "• Avance de programas nacionales y políticas públicas prioritarias",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "avance",
+            "programas",
+            "nacionales",
+            "políticas",
+            "públicas"
+          ]
+        },
+        {
+          "statement": "Informes se mestrales sectoriales  \nCada sector del Ejecutivo elaborará informes semestrales sectoriales , alineados al Plan de \nGobierno, donde se detallará:  \n• Avances específicos por eje y program",
+          "original_quote": "Informes se mestrales sectoriales  \nCada sector del Ejecutivo elaborará informes semestrales sectoriales , alineados al Plan de \nGobierno, donde se detallará:  \n• Avances específicos por eje y programa",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "informes",
+            "mestrales",
+            "sectoriales",
+            "sector",
+            "ejecutivo"
+          ]
+        },
+        {
+          "statement": "Plataforma digital de seguimiento ciudadano  \nSe implementará una Plataforma Digital de Seguimiento del Plan de Gobierno , de acceso \nlibre, que permitirá a la ciudadanía conocer en tiempo real el est",
+          "original_quote": "Plataforma digital de seguimiento ciudadano  \nSe implementará una Plataforma Digital de Seguimiento del Plan de Gobierno , de acceso \nlibre, que permitirá a la ciudadanía conocer en tiempo real el est ado de las principales \npropuestas",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "plataforma",
+            "digital",
+            "seguimiento",
+            "ciudadano",
+            "implementará"
+          ]
+        },
+        {
+          "statement": "Esta plataforma incluirá:  \n• Información desagregada por objetivo general, eje y programa",
+          "original_quote": "Esta plataforma incluirá:  \n• Información desagregada por objetivo general, eje y programa",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "plataforma",
+            "incluirá",
+            "información",
+            "desagregada",
+            "objetivo"
+          ]
+        },
+        {
+          "statement": "• Mecanismos de escucha activa para recoger propuestas y observaciones ciudadanas",
+          "original_quote": "• Mecanismos de escucha activa para recoger propuestas y observaciones ciudadanas",
+          "page": 16,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "mecanismos",
+            "escucha",
+            "activa",
+            "recoger",
+            "propuestas"
+          ]
+        },
+        {
+          "statement": "Articulación con organismos de control y evaluación independiente  \nEl seguimiento del Plan de Gobierno se articulará con:  \n• Los sistemas de control del Estado",
+          "original_quote": "Articulación con organismos de control y evaluación independiente  \nEl seguimiento del Plan de Gobierno se articulará con:  \n• Los sistemas de control del Estado",
+          "page": 16,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "articulación",
+            "organismos",
+            "control",
+            "evaluación",
+            "independiente"
+          ]
+        },
+        {
+          "statement": "Conclusión  \nEl cumplimiento del Plan de Gobierno y su comunicación periódica a la ciudadanía constituyen \nun pilar esencial del proyecto democrático del Partido Demócrata Verde",
+          "original_quote": "Conclusión  \nEl cumplimiento del Plan de Gobierno y su comunicación periódica a la ciudadanía constituyen \nun pilar esencial del proyecto democrático del Partido Demócrata Verde",
+          "page": 16,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "conclusión",
+            "cumplimiento",
+            "gobierno",
+            "comunicación",
+            "periódica"
+          ]
+        },
+        {
+          "statement": "Este objetivo es el corazón del Plan de Gobierno, pues sostiene la \nconvicción de que el crecimiento económico sin bienest ar humano no es desarrollo, y que la \nigualdad sin oportunidades concretas es",
+          "original_quote": "Este objetivo es el corazón del Plan de Gobierno, pues sostiene la \nconvicción de que el crecimiento económico sin bienest ar humano no es desarrollo, y que la \nigualdad sin oportunidades concretas es solo una promesa vacía",
+          "page": 17,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "objetivo",
+            "corazón",
+            "gobierno",
+            "sostiene",
+            "convicción"
+          ]
+        },
+        {
+          "statement": "El sistema educativo carece de psicólogos, tutores y programas de bienestar emocional en la \nmayoría de instituciones",
+          "original_quote": "El sistema educativo carece de psicólogos, tutores y programas de bienestar emocional en la \nmayoría de instituciones",
+          "page": 21,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "sistema",
+            "educativo",
+            "carece",
+            "psicólogos",
+            "tutores"
+          ]
+        },
+        {
+          "statement": "Visión del Partido Demócrata Verde para la transformación educativa y cultural  \nLa propuesta del Partido Demócrata Verde se basa en una visión de futuro donde:  \n La educación es el principal mecani",
+          "original_quote": "Visión del Partido Demócrata Verde para la transformación educativa y cultural  \nLa propuesta del Partido Demócrata Verde se basa en una visión de futuro donde:  \n La educación es el principal mecanismo de movilidad social",
+          "page": 22,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "visión",
+            "partido",
+            "demócrata",
+            "transformación",
+            "educativa"
+          ]
+        },
+        {
+          "statement": "Débil formación inicial docente  \nLas instituciones formadoras presentan brechas en:  \n Calidad de programas",
+          "original_quote": "Débil formación inicial docente  \nLas instituciones formadoras presentan brechas en:  \n Calidad de programas",
+          "page": 25,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "formación",
+            "inicial",
+            "docente",
+            "instituciones",
+            "formadoras"
+          ]
+        },
+        {
+          "statement": "Aumento de ansiedad y depresión en adolescentes  \nLa falta de atención psicológica es crítica:  \nMuchas escuelas no cuentan con psicólogos, tutores ni programas de salud mental",
+          "original_quote": "Aumento de ansiedad y depresión en adolescentes  \nLa falta de atención psicológica es crítica:  \nMuchas escuelas no cuentan con psicólogos, tutores ni programas de salud mental",
+          "page": 26,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "aumento",
+            "ansiedad",
+            "depresión",
+            "adolescentes",
+            "atención"
+          ]
+        },
+        {
+          "statement": "Ausencia de programas preventivos  \nNo existen estrategias nacionales sistemáticas para priorizar:  \n Educación emocional",
+          "original_quote": "Ausencia de programas preventivos  \nNo existen estrategias nacionales sistemáticas para priorizar:  \n Educación emocional",
+          "page": 27,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "ausencia",
+            "programas",
+            "preventivos",
+            "existen",
+            "estrategias"
+          ]
+        },
+        {
+          "statement": "El Partido Demócrata Verde plantea que estas brechas deben superarse mediante:  \n Una renovación educativa integral",
+          "original_quote": "El Partido Demócrata Verde plantea que estas brechas deben superarse mediante:  \n Una renovación educativa integral",
+          "page": 30,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "partido",
+            "demócrata",
+            "plantea",
+            "brechas",
+            "superarse"
+          ]
+        },
+        {
+          "statement": " Programas de prevención de violencia y bullying",
+          "original_quote": " Programas de prevención de violencia y bullying",
+          "page": 34,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "prevención",
+            "violencia",
+            "bullying"
+          ]
+        },
+        {
+          "statement": "Conclusión del Bloque 3  \nLos objetivos del Eje 1 plantean una transformación profunda del sistema educativo y cultural, \nenfocada en:  \n Garantizar igualdad real",
+          "original_quote": "Conclusión del Bloque 3  \nLos objetivos del Eje 1 plantean una transformación profunda del sistema educativo y cultural, \nenfocada en:  \n Garantizar igualdad real",
+          "page": 35,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "conclusión",
+            "bloque",
+            "objetivos",
+            "plantean",
+            "transformación"
+          ]
+        },
+        {
+          "statement": " Programas de salud mental para docentes",
+          "original_quote": " Programas de salud mental para docentes",
+          "page": 37,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "mental",
+            "docentes"
+          ]
+        },
+        {
+          "statement": " Programas de prevención del bullying",
+          "original_quote": " Programas de prevención del bullying",
+          "page": 38,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "prevención",
+            "bullying"
+          ]
+        },
+        {
+          "statement": " Programas de nivelación y acompañamiento académico",
+          "original_quote": " Programas de nivelación y acompañamiento académico",
+          "page": 39,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "nivelación",
+            "acompañamiento",
+            "académico"
+          ]
+        },
+        {
+          "statement": "Integración del arte en la vida escolar  \n Programas nacionales de teatro, música y danza",
+          "original_quote": "Integración del arte en la vida escolar  \n Programas nacionales de teatro, música y danza",
+          "page": 40,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "integración",
+            "escolar",
+            "programas",
+            "nacionales",
+            "teatro"
+          ]
+        },
+        {
+          "statement": "PROGRAMAS NACIONALES PRIORITARIOS PARA LA TRANSFORMACIÓN \nEDUCATIVA Y CULTURAL  \nLos Prog ramas Nacionales del Eje 1 articulan políticas educativas y culturales en una hoja de \nruta integral que permi",
+          "original_quote": "PROGRAMAS NACIONALES PRIORITARIOS PARA LA TRANSFORMACIÓN \nEDUCATIVA Y CULTURAL  \nLos Prog ramas Nacionales del Eje 1 articulan políticas educativas y culturales en una hoja de \nruta integral que permite alcanzar el objetivo estratégico: una educación de calidad y una \ncultura viva, inclusiva y democrática",
+          "page": 41,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "nacionales",
+            "prioritarios",
+            "transformación",
+            "educativa"
+          ]
+        },
+        {
+          "statement": "Cada programa fue diseñado para resolver  las brechas críticas identificadas en el diagnóstico, \nconsiderar la diversidad territorial y cultural del país, y dar sostenibilidad a la transformación \ndel",
+          "original_quote": "Cada programa fue diseñado para resolver  las brechas críticas identificadas en el diagnóstico, \nconsiderar la diversidad territorial y cultural del país, y dar sostenibilidad a la transformación \ndel sistema",
+          "page": 41,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "diseñado",
+            "resolver",
+            "brechas",
+            "críticas"
+          ]
+        },
+        {
+          "statement": "A continuación, se presentan los siete programas nacionales prioritarios  del Eje",
+          "original_quote": "A continuación, se presentan los siete programas nacionales prioritarios  del Eje",
+          "page": 41,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "continuación",
+            "presentan",
+            "programas",
+            "nacionales",
+            "prioritarios"
+          ]
+        },
+        {
+          "statement": "PROGRA MA NACIONAL 1: “APRENDE PERÚ”  \nMejora de la calidad educativa y transformación pedagógica  \nObjetivo del Programa  \nGarantizar que todos los estudiantes del Perú alcancen aprendizajes fundamen",
+          "original_quote": "PROGRA MA NACIONAL 1: “APRENDE PERÚ”  \nMejora de la calidad educativa y transformación pedagógica  \nObjetivo del Programa  \nGarantizar que todos los estudiantes del Perú alcancen aprendizajes fundamentales, \ndesarrollen habilidades del siglo XXI y tengan acceso a pedagogías innovadoras y pertinentes",
+          "page": 41,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "progra",
+            "nacional",
+            "aprende",
+            "mejora",
+            "calidad"
+          ]
+        },
+        {
+          "statement": "Componentes del Programa  \n1.1",
+          "original_quote": "Componentes del Programa  \n1.1",
+          "page": 41,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "componentes",
+            "programa"
+          ]
+        },
+        {
+          "statement": " Planes de emergencia escolar territorializados",
+          "original_quote": " Planes de emergencia escolar territorializados",
+          "page": 43,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "planes",
+            "emergencia",
+            "escolar",
+            "territorializados"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 3: “DOCENTE PERÚ”  \nRevalorización docente, formación continua y fortalecimiento profesional  \nObjetivo del Programa  \nFortalecer la profesión docente mediante formación inicial de c",
+          "original_quote": "PROGRAMA NACIONAL 3: “DOCENTE PERÚ”  \nRevalorización docente, formación continua y fortalecimiento profesional  \nObjetivo del Programa  \nFortalecer la profesión docente mediante formación inicial de calidad, capacitación continua, \nincentivos laborales justos y condiciones dignas de trabajo",
+          "page": 43,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "docente",
+            "revalorización",
+            "docente"
+          ]
+        },
+        {
+          "statement": "Componentes del Programa  \n3.1",
+          "original_quote": "Componentes del Programa  \n3.1",
+          "page": 43,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "componentes",
+            "programa"
+          ]
+        },
+        {
+          "statement": " Programas de bienestar y salud mental docente",
+          "original_quote": " Programas de bienestar y salud mental docente",
+          "page": 43,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "bienestar",
+            "mental",
+            "docente"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 4: “PERÚ CONECTADO”  \nTransformación digital educativa y conectividad universal  \nObjetivo del Programa  \nGarantizar acceso a internet de calidad y herramientas digitales en todas la",
+          "original_quote": "PROGRAMA NACIONAL 4: “PERÚ CONECTADO”  \nTransformación digital educativa y conectividad universal  \nObjetivo del Programa  \nGarantizar acceso a internet de calidad y herramientas digitales en todas las escuelas \npúblicas, reduciendo la brecha digital y promoviendo una ciudadanía digital integral",
+          "page": 44,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "conectado",
+            "transformación",
+            "digital"
+          ]
+        },
+        {
+          "statement": "Componentes del Programa  \n4.1",
+          "original_quote": "Componentes del Programa  \n4.1",
+          "page": 44,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "componentes",
+            "programa"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Política Social",
+      "proposal_count": 40,
+      "proposals": [
+        {
+          "statement": "• Eje 6: Lucha Contra la Pobreza y Programas Sociales , que conduce a una reforma \nintegral de la política social, transformando alivio en inclusión productiva y autonomía \neconómica",
+          "original_quote": "• Eje 6: Lucha Contra la Pobreza y Programas Sociales , que conduce a una reforma \nintegral de la política social, transformando alivio en inclusión productiva y autonomía \neconómica",
+          "page": 18,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "contra",
+            "pobreza",
+            "programas",
+            "sociales",
+            "conduce"
+          ]
+        },
+        {
+          "statement": "Vulnerabilidad ante  eventos climáticos  \nFenómenos como El Niño, heladas o inundaciones afectan especialmente a escuelas en \nterritorios rurales, donde no existen planes de contingencia ni infraestru",
+          "original_quote": "Vulnerabilidad ante  eventos climáticos  \nFenómenos como El Niño, heladas o inundaciones afectan especialmente a escuelas en \nterritorios rurales, donde no existen planes de contingencia ni infraestructura resiliente al \nclima",
+          "page": 24,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "vulnerabilidad",
+            "eventos",
+            "climáticos",
+            "fenómenos",
+            "heladas"
+          ]
+        },
+        {
+          "statement": " Desarrollar programas de real reinserción social",
+          "original_quote": " Desarrollar programas de real reinserción social",
+          "page": 93,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "desarrollar",
+            "programas",
+            "reinserción",
+            "social"
+          ]
+        },
+        {
+          "statement": "Rehabilitación y reinserción sociales  \n Programas laborales reales",
+          "original_quote": "Rehabilitación y reinserción sociales  \n Programas laborales reales",
+          "page": 99,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "rehabilitación",
+            "reinserción",
+            "sociales",
+            "programas",
+            "laborales"
+          ]
+        },
+        {
+          "statement": "LINEAMIENTO ESTRATÉGICO 6:  Reducir vulnerabilidades urbanas ante desastres y \nefectos del cambio climático  \nDado que gran parte de la población vive expuesta a huaicos, desliza mientos, inundaciones",
+          "original_quote": "LINEAMIENTO ESTRATÉGICO 6:  Reducir vulnerabilidades urbanas ante desastres y \nefectos del cambio climático  \nDado que gran parte de la población vive expuesta a huaicos, desliza mientos, inundaciones \ny sismos, se plantea:  \n• Identificar zonas no mitigables y desarrollar programas de reasentamiento seguro",
+          "page": 129,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "lineamiento",
+            "estratégico",
+            "reducir",
+            "vulnerabilidades",
+            "urbanas"
+          ]
+        },
+        {
+          "statement": "Este plan:  \n• Impulsa producción masiva de vivienda social segura",
+          "original_quote": "Este plan:  \n• Impulsa producción masiva de vivienda social segura",
+          "page": 137,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "impulsa",
+            "producción",
+            "masiva",
+            "vivienda",
+            "social"
+          ]
+        },
+        {
+          "statement": "Objetivo Específico 6:  Garantizar la protección social de personas adultas \nmayores mediante sistemas de cuidado y pensiones dignas  \n• Ampliar cobertura de programas sociales para adultos mayores",
+          "original_quote": "Objetivo Específico 6:  Garantizar la protección social de personas adultas \nmayores mediante sistemas de cuidado y pensiones dignas  \n• Ampliar cobertura de programas sociales para adultos mayores",
+          "page": 145,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "objetivo",
+            "específico",
+            "garantizar",
+            "protección",
+            "social"
+          ]
+        },
+        {
+          "statement": "Aunque existen avances \n \nEJE N° 6: LUCHA CONTRA LA POBREZA Y PROGRAMAS SOCIALES",
+          "original_quote": "Aunque existen avances \n \nEJE N° 6: LUCHA CONTRA LA POBREZA Y PROGRAMAS SOCIALES",
+          "page": 158,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "aunque",
+            "existen",
+            "avances",
+            "contra",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "Débil articulación interinstitucional  \nEl MIDIS lidera los programas sociales, pero enfrenta:  \n• Falta de interoperabilidad",
+          "original_quote": "Débil articulación interinstitucional  \nEl MIDIS lidera los programas sociales, pero enfrenta:  \n• Falta de interoperabilidad",
+          "page": 160,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "articulación",
+            "interinstitucional",
+            "lidera",
+            "programas",
+            "sociales"
+          ]
+        },
+        {
+          "statement": "Rol y limitaciones actuales de los programas sociales  \nEl documento ofrece una descripción sólida de los principales programas del MIDIS",
+          "original_quote": "Rol y limitaciones actuales de los programas sociales  \nEl documento ofrece una descripción sólida de los principales programas del MIDIS",
+          "page": 160,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "limitaciones",
+            "actuales",
+            "programas",
+            "sociales",
+            "documento"
+          ]
+        },
+        {
+          "statement": "Los programas sociales alivian, pero no resuelven la  pobreza estructural  \nDependen de transferencias monetarias limitadas y carecen de políticas \ncomplementarias de empleo, productividad y desarroll",
+          "original_quote": "Los programas sociales alivian, pero no resuelven la  pobreza estructural  \nDependen de transferencias monetarias limitadas y carecen de políticas \ncomplementarias de empleo, productividad y desarrollo territorial",
+          "page": 162,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "sociales",
+            "alivian",
+            "resuelven",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "El Eje 6 propone una reforma integral de la lucha contra la pobreza , entendiendo que no \nbasta asistir: hay que transformar condiciones estructurales",
+          "original_quote": "El Eje 6 propone una reforma integral de la lucha contra la pobreza , entendiendo que no \nbasta asistir: hay que transformar condiciones estructurales",
+          "page": 162,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "propone",
+            "reforma",
+            "integral",
+            "contra",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "Objetivo Específico 1:  Fortalecer y modernizar los prog ramas sociales para que \nsean eficientes, articulados y con impacto real en la \nreducción de la pobreza  \n• Rediseñar los programas existentes ",
+          "original_quote": "Objetivo Específico 1:  Fortalecer y modernizar los prog ramas sociales para que \nsean eficientes, articulados y con impacto real en la \nreducción de la pobreza  \n• Rediseñar los programas existentes para mejorar cobertura, calidad y pertinencia",
+          "page": 163,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "objetivo",
+            "específico",
+            "fortalecer",
+            "modernizar",
+            "sociales"
+          ]
+        },
+        {
+          "statement": "Objetivo Específico 2:  Reducir pobreza monetaria y multidimensional mediante \ninclusión productiva, empleo digno y fortalecimiento de \ncapacidades  \n• Articular programas sociales con empleo formal, ",
+          "original_quote": "Objetivo Específico 2:  Reducir pobreza monetaria y multidimensional mediante \ninclusión productiva, empleo digno y fortalecimiento de \ncapacidades  \n• Articular programas sociales con empleo formal, emprendimiento y cadenas productivas \nterritoriales",
+          "page": 163,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "objetivo",
+            "específico",
+            "reducir",
+            "pobreza",
+            "monetaria"
+          ]
+        },
+        {
+          "statement": "• Estandarizar procesos, indicadores y metas entre todos los programas sociales",
+          "original_quote": "• Estandarizar procesos, indicadores y metas entre todos los programas sociales",
+          "page": 165,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "estandarizar",
+            "procesos",
+            "indicadores",
+            "programas",
+            "sociales"
+          ]
+        },
+        {
+          "statement": "Sentido estratégico:  \nGarantizar que los programas sociales no solo mitiguen la pobreza, sino que rompan su \ntransmisión intergeneracional",
+          "original_quote": "Sentido estratégico:  \nGarantizar que los programas sociales no solo mitiguen la pobreza, sino que rompan su \ntransmisión intergeneracional",
+          "page": 165,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "sentido",
+            "estratégico",
+            "garantizar",
+            "programas",
+            "sociales"
+          ]
+        },
+        {
+          "statement": "Incluye:  \n• Articular programas sociales con empleo formal, emprendimiento y cadenas de valor \nregionales",
+          "original_quote": "Incluye:  \n• Articular programas sociales con empleo formal, emprendimiento y cadenas de valor \nregionales",
+          "page": 165,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "incluye",
+            "articular",
+            "programas",
+            "sociales",
+            "empleo"
+          ]
+        },
+        {
+          "statement": "• Articular programas educativos y de salud con intervenciones sociales del MIDIS",
+          "original_quote": "• Articular programas educativos y de salud con intervenciones sociales del MIDIS",
+          "page": 165,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "articular",
+            "programas",
+            "educativos",
+            "intervenciones",
+            "sociales"
+          ]
+        },
+        {
+          "statement": "• Incorporar enfoque intercultural en programas sociales, respetando idioma y cosmovisión",
+          "original_quote": "• Incorporar enfoque intercultural en programas sociales, respetando idioma y cosmovisión",
+          "page": 166,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "incorporar",
+            "enfoque",
+            "intercultural",
+            "programas",
+            "sociales"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 1:  “PERÚ SIN POBREZA EXTREMA”  \nIntervenciones integrales  territoriales para erradicar pobreza extrema al 2030  \nObjetivo del programa  \nEliminar la pobreza extrema mediante interv",
+          "original_quote": "PROGRAMA NACIONAL 1:  “PERÚ SIN POBREZA EXTREMA”  \nIntervenciones integrales  territoriales para erradicar pobreza extrema al 2030  \nObjetivo del programa  \nEliminar la pobreza extrema mediante intervenciones multisectoriales en las zonas con mayor \nprecariedad del país, integrando servicios básicos, desarrollo productivo, educación, salud y \nconectividad",
+          "page": 167,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "programa",
+            "nacional",
+            "pobreza",
+            "extrema",
+            "intervenciones"
+          ]
+        },
+        {
+          "statement": "• Integrar programas sociales (Juntos, P ensión 65, Contigo, Cuna Más)",
+          "original_quote": "• Integrar programas sociales (Juntos, P ensión 65, Contigo, Cuna Más)",
+          "page": 167,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "integrar",
+            "programas",
+            "sociales",
+            "juntos",
+            "ensión"
+          ]
+        },
+        {
+          "statement": "Este conjunto constituye una reforma social de alcance nacional , técnicamente sólida y \npolíticamente viable",
+          "original_quote": "Este conjunto constituye una reforma social de alcance nacional , técnicamente sólida y \npolíticamente viable",
+          "page": 170,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "conjunto",
+            "constituye",
+            "reforma",
+            "social",
+            "alcance"
+          ]
+        },
+        {
+          "statement": "Indicador 1:  Distritos atendidos por el Programa “Perú sin Pobreza Extrema”  \n• Línea de base: cobertura parcial y fragmentada",
+          "original_quote": "Indicador 1:  Distritos atendidos por el Programa “Perú sin Pobreza Extrema”  \n• Línea de base: cobertura parcial y fragmentada",
+          "page": 170,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "indicador",
+            "distritos",
+            "atendidos",
+            "programa",
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "Indicador 3:  Beneficiarios de programas sociales que acceden a capacitación \ntécnica o certificación laboral  \n• Línea de base: baja articulación con formación laboral",
+          "original_quote": "Indicador 3:  Beneficiarios de programas sociales que acceden a capacitación \ntécnica o certificación laboral  \n• Línea de base: baja articulación con formación laboral",
+          "page": 171,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "indicador",
+            "beneficiarios",
+            "programas",
+            "sociales",
+            "acceden"
+          ]
+        },
+        {
+          "statement": "• Registros administrativos por programa social",
+          "original_quote": "• Registros administrativos por programa social",
+          "page": 173,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "registros",
+            "administrativos",
+            "programa",
+            "social"
+          ]
+        },
+        {
+          "statement": "Síntesis general: una nueva visión de la política social en el Perú  \nEl Eje N.° 6 plantea una transformación profunda de la política de lucha contra la pobreza \nen el Perú",
+          "original_quote": "Síntesis general: una nueva visión de la política social en el Perú  \nEl Eje N.° 6 plantea una transformación profunda de la política de lucha contra la pobreza \nen el Perú",
+          "page": 173,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "síntesis",
+            "general",
+            "visión",
+            "política",
+            "social"
+          ]
+        },
+        {
+          "statement": "Reconoce la \nimportancia de los programas sociales existentes, pero advierte sus limitaciones y la \nurgencia de modernizarlos, articulando esfuerzos estatales, comunitarios y productivos",
+          "original_quote": "Reconoce la \nimportancia de los programas sociales existentes, pero advierte sus limitaciones y la \nurgencia de modernizarlos, articulando esfuerzos estatales, comunitarios y productivos",
+          "page": 173,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "reconoce",
+            "importancia",
+            "programas",
+            "sociales",
+            "existentes"
+          ]
+        },
+        {
+          "statement": "Se plantea una política social integra l donde:  \n• Los programas sociales no mitiguen solo la pobreza actual, sino que prevengan la \npobreza futura",
+          "original_quote": "Se plantea una política social integra l donde:  \n• Los programas sociales no mitiguen solo la pobreza actual, sino que prevengan la \npobreza futura",
+          "page": 173,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "plantea",
+            "política",
+            "social",
+            "integra",
+            "programas"
+          ]
+        },
+        {
+          "statement": "La propuesta \narticula programas sociales con cadenas productivas, capacitación técnica e innovación \nterritorial",
+          "original_quote": "La propuesta \narticula programas sociales con cadenas productivas, capacitación técnica e innovación \nterritorial",
+          "page": 174,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "propuesta",
+            "articula",
+            "programas",
+            "sociales",
+            "cadenas"
+          ]
+        },
+        {
+          "statement": "Representa una reforma integral de la política social, diseñada \npara que el Estado sea un socio del desarroll o y no solo un proveedor de asistencia",
+          "original_quote": "Representa una reforma integral de la política social, diseñada \npara que el Estado sea un socio del desarroll o y no solo un proveedor de asistencia",
+          "page": 175,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "representa",
+            "reforma",
+            "integral",
+            "política",
+            "social"
+          ]
+        },
+        {
+          "statement": "• Programas sociales que empodera n, no que perpetúan dependencia",
+          "original_quote": "• Programas sociales que empodera n, no que perpetúan dependencia",
+          "page": 175,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "sociales",
+            "empodera",
+            "perpetúan",
+            "dependencia"
+          ]
+        },
+        {
+          "statement": "OBJETIVO ESPECÍFICO 4:  Reducir la vulnerabilidad territorial mediante gestión de \nriesgos, planificación hídrica y adaptación climática  \nJustificación  \nMás del 60% de los peruanos viven en zonas de",
+          "original_quote": "OBJETIVO ESPECÍFICO 4:  Reducir la vulnerabilidad territorial mediante gestión de \nriesgos, planificación hídrica y adaptación climática  \nJustificación  \nMás del 60% de los peruanos viven en zonas de riesgo",
+          "page": 198,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "objetivo",
+            "específico",
+            "reducir",
+            "vulnerabilidad",
+            "territorial"
+          ]
+        },
+        {
+          "statement": " Programas educativos y de reinserción social",
+          "original_quote": " Programas educativos y de reinserción social",
+          "page": 387,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "educativos",
+            "reinserción",
+            "social"
+          ]
+        },
+        {
+          "statement": " Programas sociales territoriales",
+          "original_quote": " Programas sociales territoriales",
+          "page": 397,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "sociales",
+            "territoriales"
+          ]
+        },
+        {
+          "statement": " Programas sociales",
+          "original_quote": " Programas sociales",
+          "page": 399,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "sociales"
+          ]
+        },
+        {
+          "statement": " Programas sociales",
+          "original_quote": " Programas sociales",
+          "page": 405,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "sociales"
+          ]
+        },
+        {
+          "statement": " Programas sociales",
+          "original_quote": " Programas sociales",
+          "page": 429,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "sociales"
+          ]
+        },
+        {
+          "statement": " Programas sociales acordes a dinámicas culturales locales",
+          "original_quote": " Programas sociales acordes a dinámicas culturales locales",
+          "page": 441,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "sociales",
+            "acordes",
+            "dinámicas",
+            "culturales"
+          ]
+        },
+        {
+          "statement": " Programas sociales",
+          "original_quote": " Programas sociales",
+          "page": 446,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "sociales"
+          ]
+        },
+        {
+          "statement": " Programas sociales pertinentes culturalmente",
+          "original_quote": " Programas sociales pertinentes culturalmente",
+          "page": 448,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "sociales",
+            "pertinentes",
+            "culturalmente"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Educación",
+      "proposal_count": 26,
+      "proposals": [
+        {
+          "statement": " Programas de revitalización lingüística desde la escuela",
+          "original_quote": " Programas de revitalización lingüística desde la escuela",
+          "page": 33,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "revitalización",
+            "lingüística",
+            "escuela"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 2: “ESCUELAS DIGNAS”  \nInfraestructura educativa moderna, resiliente y  con enfoque territorial  \nObjetivo del Programa  \nCerrar progresivamente la brecha de infraestructura educativ",
+          "original_quote": "PROGRAMA NACIONAL 2: “ESCUELAS DIGNAS”  \nInfraestructura educativa moderna, resiliente y  con enfoque territorial  \nObjetivo del Programa  \nCerrar progresivamente la brecha de infraestructura educativa mediante la construcción, \nmantenimiento y adecuación de escuelas seguras, inclusivas, resilientes y culturalmente \npertinentes",
+          "page": 42,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "escuelas",
+            "dignas",
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 7: “EDUCACIÓN SUPERIOR PARA EL DESARROLLO”  \nUniversidades, institutos y formación técnica con enfoque territorial  \nObjetivo del Programa  \nAmpliar el acceso a educación superior y ",
+          "original_quote": "PROGRAMA NACIONAL 7: “EDUCACIÓN SUPERIOR PARA EL DESARROLLO”  \nUniversidades, institutos y formación técnica con enfoque territorial  \nObjetivo del Programa  \nAmpliar el acceso a educación superior y técnico -productiva de calidad, articulada a las \noportunidades de desarrollo regional y al mercado laboral sostenible",
+          "page": 47,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "educación",
+            "superior",
+            "desarrollo"
+          ]
+        },
+        {
+          "statement": "Educación en salud desde escuela y comunidad  \n Programas escolares permanentes sobre estilos de vida saludables",
+          "original_quote": "Educación en salud desde escuela y comunidad  \n Programas escolares permanentes sobre estilos de vida saludables",
+          "page": 68,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "educación",
+            "escuela",
+            "comunidad",
+            "programas",
+            "escolares"
+          ]
+        },
+        {
+          "statement": "Planeamiento intersectorial  \nSe integran:  \n Educación",
+          "original_quote": "Planeamiento intersectorial  \nSe integran:  \n Educación",
+          "page": 96,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "planeamiento",
+            "intersectorial",
+            "integran",
+            "educación"
+          ]
+        },
+        {
+          "statement": "• Programa nacional de conectividad digital para escuelas, postas y centros poblados",
+          "original_quote": "• Programa nacional de conectividad digital para escuelas, postas y centros poblados",
+          "page": 132,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "conectividad",
+            "digital",
+            "escuelas"
+          ]
+        },
+        {
+          "statement": "• Garantizar programas de educación, participación y vida activa",
+          "original_quote": "• Garantizar programas de educación, participación y vida activa",
+          "page": 148,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "garantizar",
+            "programas",
+            "educación",
+            "participación",
+            "activa"
+          ]
+        },
+        {
+          "statement": "• Programa de Educación para la Igualdad en escuelas, institutos y universidades",
+          "original_quote": "• Programa de Educación para la Igualdad en escuelas, institutos y universidades",
+          "page": 149,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "educación",
+            "igualdad",
+            "escuelas",
+            "institutos"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 5: “PAÍS INCLUSIVO: ACCESIBILIDAD UNIVERSAL Y \nTECNOLOGÍA PARA TODOS”  \nCiudades accesibles, inclusión digital y eliminación de barreras  \nObjetivo del programa  \nEliminar barreras f",
+          "original_quote": "PROGRAMA NACIONAL 5: “PAÍS INCLUSIVO: ACCESIBILIDAD UNIVERSAL Y \nTECNOLOGÍA PARA TODOS”  \nCiudades accesibles, inclusión digital y eliminación de barreras  \nObjetivo del programa  \nEliminar barreras físicas, tecnológicas y comunicacionales que impiden la inclu sión plena de \npersonas con habilidades diferentes y adultos mayores",
+          "page": 151,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "inclusivo",
+            "accesibilidad",
+            "universal"
+          ]
+        },
+        {
+          "statement": "Componentes estratégicos  \n• Plan Nacional de Accesibilidad Universal para infraestructura pública y privada",
+          "original_quote": "Componentes estratégicos  \n• Plan Nacional de Accesibilidad Universal para infraestructura pública y privada",
+          "page": 151,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "componentes",
+            "estratégicos",
+            "nacional",
+            "accesibilidad",
+            "universal"
+          ]
+        },
+        {
+          "statement": "Indicador 5:  Comunidades y escuelas con programas de prevención de violencia \nimplementados  \n• Línea de base: baja implementación",
+          "original_quote": "Indicador 5:  Comunidades y escuelas con programas de prevención de violencia \nimplementados  \n• Línea de base: baja implementación",
+          "page": 153,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "indicador",
+            "comunidades",
+            "escuelas",
+            "programas",
+            "prevención"
+          ]
+        },
+        {
+          "statement": "Programa Juntos  \n• Promueve acceso a salud y educación en hogares pobres y extremadamente pobres",
+          "original_quote": "Programa Juntos  \n• Promueve acceso a salud y educación en hogares pobres y extremadamente pobres",
+          "page": 160,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "juntos",
+            "promueve",
+            "acceso",
+            "educación"
+          ]
+        },
+        {
+          "statement": "• Articular salud, educación y programas sociales para la primera infancia",
+          "original_quote": "• Articular salud, educación y programas sociales para la primera infancia",
+          "page": 163,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "articular",
+            "educación",
+            "programas",
+            "sociales",
+            "primera"
+          ]
+        },
+        {
+          "statement": "• Integración de educación inicial, salud y programas alimentarios",
+          "original_quote": "• Integración de educación inicial, salud y programas alimentarios",
+          "page": 168,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "integración",
+            "educación",
+            "inicial",
+            "programas",
+            "alimentarios"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 6:  EDUCACIÓN, CULTURA DE PREVENCIÓN Y RESILIENCIA \nCOMUNITARIA  \n1",
+          "original_quote": "PROGRAMA NACIONAL 6:  EDUCACIÓN, CULTURA DE PREVENCIÓN Y RESILIENCIA \nCOMUNITARIA  \n1",
+          "page": 239,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "educación",
+            "cultura",
+            "prevención"
+          ]
+        },
+        {
+          "statement": "• Crear programas de actualización para doc entes universitarios y técnicos",
+          "original_quote": "• Crear programas de actualización para doc entes universitarios y técnicos",
+          "page": 306,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "actualización",
+            "universitarios",
+            "técnicos"
+          ]
+        },
+        {
+          "statement": "• Programa de Alfabetización Digital Masiva , para estudiantes, docentes, trabajadores, \nadultos mayores y MIPYME",
+          "original_quote": "• Programa de Alfabetización Digital Masiva , para estudiantes, docentes, trabajadores, \nadultos mayores y MIPYME",
+          "page": 309,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "alfabetización",
+            "digital",
+            "masiva",
+            "estudiantes"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 2: “AGUA PARA EL DESARROLLO”  \nUniversalización del agua potable, saneamiento y gestión hídrica sostenible  \nObjetivo del programa  \nGarantizar acceso universal al agua potable y san",
+          "original_quote": "PROGRAMA NACIONAL 2: “AGUA PARA EL DESARROLLO”  \nUniversalización del agua potable, saneamiento y gestión hídrica sostenible  \nObjetivo del programa  \nGarantizar acceso universal al agua potable y saneamiento, fortalecer la infraestructura de \ngestión del recurso hídrico y mejorar resiliencia frente a sequías, inundaciones y cambios \nclimáticos",
+          "page": 325,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "desarrollo",
+            "universalización",
+            "potable"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 4: “ESCUELAS DEL FUTURO”  \nInfraestructura educativa segura, moderna, inclusiva y digitalizada  \nObjetivo del programa  \nGarantizar infraestructura educativa de calidad que permita a",
+          "original_quote": "PROGRAMA NACIONAL 4: “ESCUELAS DEL FUTURO”  \nInfraestructura educativa segura, moderna, inclusiva y digitalizada  \nObjetivo del programa  \nGarantizar infraestructura educativa de calidad que permita aprendizaje significativo, \ninnovación pedagógica y acceso universal a tecnología",
+          "page": 326,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "escuelas",
+            "futuro",
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": " Programas de educación y trabajo",
+          "original_quote": " Programas de educación y trabajo",
+          "page": 375,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "educación",
+            "trabajo"
+          ]
+        },
+        {
+          "statement": "Programas de rehabilitación reales  \n Educación, trabajo, salud mental y reinserción laboral",
+          "original_quote": "Programas de rehabilitación reales  \n Educación, trabajo, salud mental y reinserción laboral",
+          "page": 380,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "rehabilitación",
+            "reales",
+            "educación",
+            "trabajo"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 3: “JUSTICIA CERCA DE TI”  \nAcceso universal a la justicia con enfoque territorial, intercultural e inclusivo  \n \nObjetivo del programa  \nGarantizar que todas las personas, independi",
+          "original_quote": "PROGRAMA NACIONAL 3: “JUSTICIA CERCA DE TI”  \nAcceso universal a la justicia con enfoque territorial, intercultural e inclusivo  \n \nObjetivo del programa  \nGarantizar que todas las personas, independientemente de su territorio, idioma o condición, \naccedan a justicia digna, rápida y efectiva",
+          "page": 383,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "justicia",
+            "acceso",
+            "universal"
+          ]
+        },
+        {
+          "statement": "Programas integrales de rehabilitación  \n Educación técnica y superior",
+          "original_quote": "Programas integrales de rehabilitación  \n Educación técnica y superior",
+          "page": 386,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "integrales",
+            "rehabilitación",
+            "educación",
+            "técnica"
+          ]
+        },
+        {
+          "statement": " Políticas de igualdad cultural en educación, salud, justicia y programas sociales",
+          "original_quote": " Políticas de igualdad cultural en educación, salud, justicia y programas sociales",
+          "page": 435,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "políticas",
+            "igualdad",
+            "cultural",
+            "educación",
+            "justicia"
+          ]
+        },
+        {
+          "statement": "Educación para la paz y ciudadanía cultural  \n Programas escolares y comunitarios",
+          "original_quote": "Educación para la paz y ciudadanía cultural  \n Programas escolares y comunitarios",
+          "page": 444,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "educación",
+            "ciudadanía",
+            "cultural",
+            "programas",
+            "escolares"
+          ]
+        },
+        {
+          "statement": " Meta 2030:  90 % de entidades de salud, justicia, educación y programas sociales",
+          "original_quote": " Meta 2030:  90 % de entidades de salud, justicia, educación y programas sociales",
+          "page": 452,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "entidades",
+            "justicia",
+            "educación",
+            "programas",
+            "sociales"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Medio Ambiente",
+      "proposal_count": 22,
+      "proposals": [
+        {
+          "statement": "Plan Nacional de Infraestructura Educativa Sostenible  \n Construcción con criterios climáticos: costa, sierra, selva",
+          "original_quote": "Plan Nacional de Infraestructura Educativa Sostenible  \n Construcción con criterios climáticos: costa, sierra, selva",
+          "page": 42,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "nacional",
+            "infraestructura",
+            "educativa",
+            "sostenible",
+            "construcción"
+          ]
+        },
+        {
+          "statement": " Programas de recuperación ambiental en cuencas afectadas",
+          "original_quote": " Programas de recuperación ambiental en cuencas afectadas",
+          "page": 70,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "recuperación",
+            "ambiental",
+            "cuencas",
+            "afectadas"
+          ]
+        },
+        {
+          "statement": "• Plantas de tratamiento de aguas residuales con operación sostenible",
+          "original_quote": "• Plantas de tratamiento de aguas residuales con operación sostenible",
+          "page": 131,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "plantas",
+            "tratamiento",
+            "residuales",
+            "operación",
+            "sostenible"
+          ]
+        },
+        {
+          "statement": "• Planificación territorial más coherente y sostenible",
+          "original_quote": "• Planificación territorial más coherente y sostenible",
+          "page": 134,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "planificación",
+            "territorial",
+            "coherente",
+            "sostenible"
+          ]
+        },
+        {
+          "statement": "Índice de Ciudades Sostenibles y Resilientes (ICSR)  \n• Línea de base:  bajo desarrollo en planificación urbana y riesgo",
+          "original_quote": "Índice de Ciudades Sostenibles y Resilientes (ICSR)  \n• Línea de base:  bajo desarrollo en planificación urbana y riesgo",
+          "page": 136,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "índice",
+            "ciudades",
+            "sostenibles",
+            "resilientes",
+            "desarrollo"
+          ]
+        },
+        {
+          "statement": "• CEPLAN – Indicadores de ciudad sostenible y resiliencia",
+          "original_quote": "• CEPLAN – Indicadores de ciudad sostenible y resiliencia",
+          "page": 137,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "ceplan",
+            "indicadores",
+            "ciudad",
+            "sostenible",
+            "resiliencia"
+          ]
+        },
+        {
+          "statement": "Su gestión sostenible exige un Estado:  \n• Capaz de planificar",
+          "original_quote": "Su gestión sostenible exige un Estado:  \n• Capaz de planificar",
+          "page": 138,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gestión",
+            "sostenible",
+            "estado",
+            "planificar"
+          ]
+        },
+        {
+          "statement": "Un territorio sostenible es aquel en que el desarrollo urbano y \nrural se planifica con enfoque de derechos, se gestiona el riesgo con visió n prospectiva, se \nprotege la diversidad biológica, se gara",
+          "original_quote": "Un territorio sostenible es aquel en que el desarrollo urbano y \nrural se planifica con enfoque de derechos, se gestiona el riesgo con visió n prospectiva, se \nprotege la diversidad biológica, se garantiza la calidad ambiental y se resguardan los recursos \nhídricos que hacen posible la vida y la economía",
+          "page": 177,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "territorio",
+            "sostenible",
+            "desarrollo",
+            "urbano",
+            "planifica"
+          ]
+        },
+        {
+          "statement": "Cada lineamiento incluye enfoque territorial, ambiental, económico y social , garantizando \nque la planificación no sea solo normativa, sino transformadora",
+          "original_quote": "Cada lineamiento incluye enfoque territorial, ambiental, económico y social , garantizando \nque la planificación no sea solo normativa, sino transformadora",
+          "page": 201,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "lineamiento",
+            "incluye",
+            "enfoque",
+            "territorial",
+            "ambiental"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 6: BARRIOS SOSTENIBLES E INTEGRACIÓN URBANA (BSIU)  \n“Regenerar en lugar de demoler; integrar en lugar de excluir”  \n1",
+          "original_quote": "PROGRAMA NACIONAL 6: BARRIOS SOSTENIBLES E INTEGRACIÓN URBANA (BSIU)  \n“Regenerar en lugar de demoler; integrar en lugar de excluir”  \n1",
+          "page": 212,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "barrios",
+            "sostenibles",
+            "integración"
+          ]
+        },
+        {
+          "statement": " Plan de movilidad sostenible para ciudades principal es",
+          "original_quote": " Plan de movilidad sostenible para ciudades principal es",
+          "page": 261,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "movilidad",
+            "sostenible",
+            "ciudades",
+            "principal"
+          ]
+        },
+        {
+          "statement": "PROGRAMAS NACIONALES PRIORITARIOS PARA LA CALIDAD AMBIENTAL, \nPROTECCIÓN AMBIENTAL, CAMBIO CLIMÁTICO, DIVERSIDAD BIOLÓGICA Y \nRECURSOS HÍDRICOS  \n \nEl Eje 9 se operacionaliza mediante ocho programas n",
+          "original_quote": "PROGRAMAS NACIONALES PRIORITARIOS PARA LA CALIDAD AMBIENTAL, \nPROTECCIÓN AMBIENTAL, CAMBIO CLIMÁTICO, DIVERSIDAD BIOLÓGICA Y \nRECURSOS HÍDRICOS  \n \nEl Eje 9 se operacionaliza mediante ocho programas nacionales , diseñados para enfrentar \nlos principales desafíos ambientales, climáticos, hídricos y biológicos del país",
+          "page": 265,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "nacionales",
+            "prioritarios",
+            "calidad",
+            "ambiental"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 5:  “AMAZONÍA PROTEGIDA Y SOSTENIBLE”  \n1",
+          "original_quote": "PROGRAMA NACIONAL 5:  “AMAZONÍA PROTEGIDA Y SOSTENIBLE”  \n1",
+          "page": 268,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "amazonía",
+            "protegida",
+            "sostenible"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 8:  “GOBERNANZA AMBIENTAL Y TRANSPARENCIA TOTAL”  \n1",
+          "original_quote": "PROGRAMA NACIONAL 8:  “GOBERNANZA AMBIENTAL Y TRANSPARENCIA TOTAL”  \n1",
+          "page": 270,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "gobernanza",
+            "ambiental",
+            "transparencia"
+          ]
+        },
+        {
+          "statement": "Auditorías ambientales independientes  \nPara áreas protegidas, cuencas, plantas de tratamiento y zonas mineras",
+          "original_quote": "Auditorías ambientales independientes  \nPara áreas protegidas, cuencas, plantas de tratamiento y zonas mineras",
+          "page": 275,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "auditorías",
+            "ambientales",
+            "independientes",
+            "protegidas",
+            "cuencas"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 4:  “DESARROLLO MINERO SOSTENIBLE Y FORMALIZACIÓN \nINTEGRAL”  \nMinería moderna, formal, ambientalmente responsable y articulada al territorio  \nObjetivo del programa  \nConsolidar una",
+          "original_quote": "PROGRAMA NACIONAL 4:  “DESARROLLO MINERO SOSTENIBLE Y FORMALIZACIÓN \nINTEGRAL”  \nMinería moderna, formal, ambientalmente responsable y articulada al territorio  \nObjetivo del programa  \nConsolidar una minería que contribuya al desarrollo del país con estándares de sostenibilidad, \ndiálogo social y formalización real de la pequeña minería y la minería artesanal",
+          "page": 289,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "desarrollo",
+            "minero",
+            "sostenible"
+          ]
+        },
+        {
+          "statement": "Sin articulación, ninguna reforma será sostenible",
+          "original_quote": "Sin articulación, ninguna reforma será sostenible",
+          "page": 369,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "articulación",
+            "ninguna",
+            "reforma",
+            "sostenible"
+          ]
+        },
+        {
+          "statement": " Falta  de programas educativos o laborales sostenibles",
+          "original_quote": " Falta  de programas educativos o laborales sostenibles",
+          "page": 370,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "educativos",
+            "laborales",
+            "sostenibles"
+          ]
+        },
+        {
+          "statement": "Ordenamiento Territorial como instrumento clave para el desarrollo sostenible  \nEl Perú es uno de los  países más diversos del planeta, poseedor de distintos pisos ecológicos, \ncuencas hidrográficas, ",
+          "original_quote": "Ordenamiento Territorial como instrumento clave para el desarrollo sostenible  \nEl Perú es uno de los  países más diversos del planeta, poseedor de distintos pisos ecológicos, \ncuencas hidrográficas, ecosistemas frágiles y territorios de especial valor cultural",
+          "page": 394,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "ordenamiento",
+            "territorial",
+            "instrumento",
+            "desarrollo",
+            "sostenible"
+          ]
+        },
+        {
+          "statement": "LINEAMIENTO ESTRATÉGICO 6:  Ciudades y territorios sostenibles, inclusivos y \nresilientes  \n(Planificación urbana moderna y reducción del crecimiento informal)  \nLas ciudades deben ser motores de desa",
+          "original_quote": "LINEAMIENTO ESTRATÉGICO 6:  Ciudades y territorios sostenibles, inclusivos y \nresilientes  \n(Planificación urbana moderna y reducción del crecimiento informal)  \nLas ciudades deben ser motores de desarrollo territorial",
+          "page": 412,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "lineamiento",
+            "estratégico",
+            "ciudades",
+            "territorios",
+            "sostenibles"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 4: “CIUDADES SOSTENIBLES Y RESILIENTES”  \nPlanificación urbana moderna, movilidad sostenible y gestión del suelo  \nObjetivo del programa  \nTransformar las ciudades en espacios ordena",
+          "original_quote": "PROGRAMA NACIONAL 4: “CIUDADES SOSTENIBLES Y RESILIENTES”  \nPlanificación urbana moderna, movilidad sostenible y gestión del suelo  \nObjetivo del programa  \nTransformar las ciudades en espacios ordenados, seguros, inclusivos y resilientes, donde la \nmovilidad, la vivienda y los servicios se planifiquen con criterios de sostenibilidad, riesgo y \njusticia territorial",
+          "page": 417,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "ciudades",
+            "sostenibles",
+            "resilientes"
+          ]
+        },
+        {
+          "statement": "Programas de diálogo intercultural e n conflictos socioambientales",
+          "original_quote": "Programas de diálogo intercultural e n conflictos socioambientales",
+          "page": 443,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "diálogo",
+            "intercultural",
+            "conflictos",
+            "socioambientales"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salud",
+      "proposal_count": 5,
+      "proposals": [
+        {
+          "statement": " Programas comunitarios de alimentación saludable",
+          "original_quote": " Programas comunitarios de alimentación saludable",
+          "page": 70,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "comunitarios",
+            "alimentación",
+            "saludable"
+          ]
+        },
+        {
+          "statement": " Planificación sanitaria basada en datos",
+          "original_quote": " Planificación sanitaria basada en datos",
+          "page": 76,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "planificación",
+            "sanitaria",
+            "basada"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 6:  “VIDA SALUDABLE”  \nNutrición, salud mat erno -infantil y prevención comunitaria  \nObjetivo del Programa  \nReducir anemia, desnutrición y mortalidad materno -infantil mediante un ",
+          "original_quote": "PROGRAMA NACIONAL 6:  “VIDA SALUDABLE”  \nNutrición, salud mat erno -infantil y prevención comunitaria  \nObjetivo del Programa  \nReducir anemia, desnutrición y mortalidad materno -infantil mediante un enfoque integral y \nterritorial",
+          "page": 76,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "saludable",
+            "nutrición",
+            "infantil"
+          ]
+        },
+        {
+          "statement": " Programas comunitarios de cocina saludable",
+          "original_quote": " Programas comunitarios de cocina saludable",
+          "page": 77,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "comunitarios",
+            "cocina",
+            "saludable"
+          ]
+        },
+        {
+          "statement": " Inteligencia sanitaria para prevención y planificación",
+          "original_quote": " Inteligencia sanitaria para prevención y planificación",
+          "page": 78,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "inteligencia",
+            "sanitaria",
+            "prevención",
+            "planificación"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Trabajo y Empleo",
+      "proposal_count": 11,
+      "proposals": [
+        {
+          "statement": " Programas de bienestar laboral en instituciones públicas",
+          "original_quote": " Programas de bienestar laboral en instituciones públicas",
+          "page": 74,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "bienestar",
+            "laboral",
+            "instituciones",
+            "públicas"
+          ]
+        },
+        {
+          "statement": "• Programas de certificación de competencias laborales para mujeres y jóvenes",
+          "original_quote": "• Programas de certificación de competencias laborales para mujeres y jóvenes",
+          "page": 149,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "certificación",
+            "competencias",
+            "laborales",
+            "mujeres"
+          ]
+        },
+        {
+          "statement": "• Alinear Beca 18 y programas de formación laboral con demanda real del mercado",
+          "original_quote": "• Alinear Beca 18 y programas de formación laboral con demanda real del mercado",
+          "page": 165,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "alinear",
+            "programas",
+            "formación",
+            "laboral",
+            "demanda"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 2:  “INCLUSIÓN PRODUCTIVA Y EMPLEO DIGNO”  \nRediseño integral de la política so cial hacia la autonomía económica  \nObjetivo del programa  \nReducir pobreza monetaria a través de empl",
+          "original_quote": "PROGRAMA NACIONAL 2:  “INCLUSIÓN PRODUCTIVA Y EMPLEO DIGNO”  \nRediseño integral de la política so cial hacia la autonomía económica  \nObjetivo del programa  \nReducir pobreza monetaria a través de empleo formal, emprendimientos sostenibles y \ncadenas productivas regionales, articuladas con programas sociales",
+          "page": 168,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "inclusión",
+            "productiva",
+            "empleo"
+          ]
+        },
+        {
+          "statement": "• Programas de certificación de competencias laborales para jóvenes y mujeres",
+          "original_quote": "• Programas de certificación de competencias laborales para jóvenes y mujeres",
+          "page": 168,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "certificación",
+            "competencias",
+            "laborales",
+            "jóvenes"
+          ]
+        },
+        {
+          "statement": "Indicador 11:  Incremento del empleo formal en población beneficiaria de programas \nsociales  \n• Línea de base: predominio de informalidad",
+          "original_quote": "Indicador 11:  Incremento del empleo formal en población beneficiaria de programas \nsociales  \n• Línea de base: predominio de informalidad",
+          "page": 171,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "indicador",
+            "incremento",
+            "empleo",
+            "formal",
+            "población"
+          ]
+        },
+        {
+          "statement": "Hogares con autonom ía económica y empleo digno  \nLa articulación de programas sociales con inclusión productiva plantea una salida \nsostenible de la pobreza",
+          "original_quote": "Hogares con autonom ía económica y empleo digno  \nLa articulación de programas sociales con inclusión productiva plantea una salida \nsostenible de la pobreza",
+          "page": 175,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "hogares",
+            "autonom",
+            "económica",
+            "empleo",
+            "articulación"
+          ]
+        },
+        {
+          "statement": "• Baja eficacia en programas de formalización y empleo",
+          "original_quote": "• Baja eficacia en programas de formalización y empleo",
+          "page": 299,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "eficacia",
+            "programas",
+            "formalización",
+            "empleo"
+          ]
+        },
+        {
+          "statement": "El país necesita una reforma integral del mercado laboral y del ecosistema \nempresarial , donde el empleo decente sea un derecho y una política de Estado",
+          "original_quote": "El país necesita una reforma integral del mercado laboral y del ecosistema \nempresarial , donde el empleo decente sea un derecho y una política de Estado",
+          "page": 299,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "necesita",
+            "reforma",
+            "integral",
+            "mercado",
+            "laboral"
+          ]
+        },
+        {
+          "statement": " Programas de trabajo y emprendimiento",
+          "original_quote": " Programas de trabajo y emprendimiento",
+          "page": 386,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "trabajo",
+            "emprendimiento"
+          ]
+        },
+        {
+          "statement": "Programas de revitalización de lenguas en riesgo  \n Trabajo con sabios, líderes culturales y familias",
+          "original_quote": "Programas de revitalización de lenguas en riesgo  \n Trabajo con sabios, líderes culturales y familias",
+          "page": 439,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "revitalización",
+            "lenguas",
+            "riesgo",
+            "trabajo"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Seguridad",
+      "proposal_count": 22,
+      "proposals": [
+        {
+          "statement": " Ausencia de programas  sociales articulados con seguridad",
+          "original_quote": " Ausencia de programas  sociales articulados con seguridad",
+          "page": 87,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "ausencia",
+            "programas",
+            "sociales",
+            "articulados",
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Seguridad ciudadana no es patrullaje : es prevención, convivencia, urbanismo, cultura y \ncohesión social; no es suplantación o sustitución de funciones y competencias, no es afectar \nla institucionali",
+          "original_quote": "Seguridad ciudadana no es patrullaje : es prevención, convivencia, urbanismo, cultura y \ncohesión social; no es suplantación o sustitución de funciones y competencias, no es afectar \nla institucionalidad de las entidades p úblicas:  El Perú lo ha olvidado  \n \nVII",
+          "page": 87,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "seguridad",
+            "ciudadana",
+            "patrullaje",
+            "prevención",
+            "convivencia"
+          ]
+        },
+        {
+          "statement": "Objetivo Específico 7: Prevenir el delito y la violencia desde la comunidad, la escuela y \nla familia  \nImplica:  \n Programas de prevención juvenil",
+          "original_quote": "Objetivo Específico 7: Prevenir el delito y la violencia desde la comunidad, la escuela y \nla familia  \nImplica:  \n Programas de prevención juvenil",
+          "page": 93,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "objetivo",
+            "específico",
+            "prevenir",
+            "delito",
+            "violencia"
+          ]
+        },
+        {
+          "statement": "2.4 Centrales de Seguridad Pública -CESEPUB  \n Que se implantarán e implementarán progresivamente como modelo pi loto a nivel \ndistrital, luego provincial, después regional y finalmente nacional en t",
+          "original_quote": "2.4 Centrales de Seguridad Pública -CESEPUB  \n Que se implantarán e implementarán progresivamente como modelo pi loto a nivel \ndistrital, luego provincial, después regional y finalmente nacional en todo el territorio \nde la república",
+          "page": 96,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "centrales",
+            "seguridad",
+            "pública",
+            "cesepub",
+            "implantarán"
+          ]
+        },
+        {
+          "statement": "Programas alimentarios y educativos vinculados a seguridad  \nLa evidencia muestra que la cohesión social re duce la criminalidad",
+          "original_quote": "Programas alimentarios y educativos vinculados a seguridad  \nLa evidencia muestra que la cohesión social re duce la criminalidad",
+          "page": 108,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "alimentarios",
+            "educativos",
+            "vinculados",
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 1: “PERÚ SEGURO Y EN ORDEN”  \nRecuperación del orden público y gestión del espacio urbano  \n \nObjetivo del Programa  \nRestablecer el orden en ciudades, barrios y espacios públicos me",
+          "original_quote": "PROGRAMA NACIONAL 1: “PERÚ SEGURO Y EN ORDEN”  \nRecuperación del orden público y gestión del espacio urbano  \n \nObjetivo del Programa  \nRestablecer el orden en ciudades, barrios y espacios públicos mediante intervenciones \nurbanas, regulación del transporte, control del comercio informal delictivo y acciones \nmultisectoriales para la convivencia",
+          "page": 108,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "seguro",
+            "recuperación",
+            "público"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 2: “POLICÍA DEL SIGLO XXI”  \nReingeniería policial, pro fesionalización e investigación criminal  \n \nObjetivo del Programa  \nTransformar la Policía Nacional del Perú en una instituci",
+          "original_quote": "PROGRAMA NACIONAL 2: “POLICÍA DEL SIGLO XXI”  \nReingeniería policial, pro fesionalización e investigación criminal  \n \nObjetivo del Programa  \nTransformar la Policía Nacional del Perú en una institución moderna, tecnológica, \nespecializada, íntegra y orientada a resultados, capaz de prevenir, investigar y controlar el \ndelito de manera  eficiente",
+          "page": 109,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "policía",
+            "reingeniería",
+            "policial"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 5: “INTELIGENCIA PERÚ”  \nLucha contra crimen organizado, crimen transnacional y economías ilegales  \n \nObjetivo del Programa  \nDesarticular redes criminales mediante inteligencia est",
+          "original_quote": "PROGRAMA NACIONAL 5: “INTELIGENCIA PERÚ”  \nLucha contra crimen organizado, crimen transnacional y economías ilegales  \n \nObjetivo del Programa  \nDesarticular redes criminales mediante inteligencia estratégica, coordinación interinstitucional \ny control territorial",
+          "page": 113,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "inteligencia",
+            "contra",
+            "crimen"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 4: “MOVILIDAD HUMANA SEGURA Y SOSTENIBLE”  \nTransporte multimodal, seguro, accesible y moderno  \nObjetivo del programa  \nMejorar la movilidad de personas mediante infraestructura mod",
+          "original_quote": "PROGRAMA NACIONAL 4: “MOVILIDAD HUMANA SEGURA Y SOSTENIBLE”  \nTransporte multimodal, seguro, accesible y moderno  \nObjetivo del programa  \nMejorar la movilidad de personas mediante infraestructura moderna, transporte formal, \nsistemas sostenibles y accesibilidad universal",
+          "page": 132,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "movilidad",
+            "humana",
+            "segura"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 5:  “TERRITORIO SEGURO Y CON SANEAMIENTO FÍSICO –\nLEGAL COMPLETO”  \nTitulación masiva, prevenció n de ocupaciones ilegales y seguridad jurídica  \nObjetivo del programa  \nAsegurar el ",
+          "original_quote": "PROGRAMA NACIONAL 5:  “TERRITORIO SEGURO Y CON SANEAMIENTO FÍSICO –\nLEGAL COMPLETO”  \nTitulación masiva, prevenció n de ocupaciones ilegales y seguridad jurídica  \nObjetivo del programa  \nAsegurar el derecho a la propiedad, facilitar la inversión familiar, prevenir el tráfico de tierras \ny consolidar la información territorial del país",
+          "page": 132,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "territorio",
+            "seguro",
+            "saneamiento"
+          ]
+        },
+        {
+          "statement": "El Perú del 2030 que plantea este eje es un país:  \n• Con ci udades ordenadas y seguras",
+          "original_quote": "El Perú del 2030 que plantea este eje es un país:  \n• Con ci udades ordenadas y seguras",
+          "page": 139,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "plantea",
+            "udades",
+            "ordenadas",
+            "seguras"
+          ]
+        },
+        {
+          "statement": "• Asegurar que los programas lleguen oportunamente a las poblaciones más vulnerables \nen todas las regiones",
+          "original_quote": "• Asegurar que los programas lleguen oportunamente a las poblaciones más vulnerables \nen todas las regiones",
+          "page": 163,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "asegurar",
+            "programas",
+            "lleguen",
+            "oportunamente",
+            "poblaciones"
+          ]
+        },
+        {
+          "statement": "• Asegurar que los programas sociales prioricen territorios de pobreza extrema",
+          "original_quote": "• Asegurar que los programas sociales prioricen territorios de pobreza extrema",
+          "page": 165,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "asegurar",
+            "programas",
+            "sociales",
+            "prioricen",
+            "territorios"
+          ]
+        },
+        {
+          "statement": " Reforma 5  \nSeguridad territorial contra el tráfico de tierras  \n(Nuevo delito con agravante en organización criminal y embargo automático)",
+          "original_quote": " Reforma 5  \nSeguridad territorial contra el tráfico de tierras  \n(Nuevo delito con agravante en organización criminal y embargo automático)",
+          "page": 195,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "reforma",
+            "seguridad",
+            "territorial",
+            "contra",
+            "tráfico"
+          ]
+        },
+        {
+          "statement": "Plan Nacional de Habilitación Urbana Segura",
+          "original_quote": "Plan Nacional de Habilitación Urbana Segura",
+          "page": 208,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "nacional",
+            "habilitación",
+            "urbana",
+            "segura"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 2:  “AGUA SEGURA Y LIMPIA PARA TODOS”  \n1",
+          "original_quote": "PROGRAMA NACIONAL 2:  “AGUA SEGURA Y LIMPIA PARA TODOS”  \n1",
+          "page": 266,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "segura",
+            "limpia"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 3:  “AGROPERÚ INTELIGENTE”  \nSeguridad alimentaria, agricultura familiar y agroindustria sostenible",
+          "original_quote": "PROGRAMA NACIONAL 3:  “AGROPERÚ INTELIGENTE”  \nSeguridad alimentaria, agricultura familiar y agroindustria sostenible",
+          "page": 288,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "agroperú",
+            "inteligente",
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Objetivo  \nAsegurar una gestión coordinada entre el gobierno nacional, regional y local mediante \nmecanismos vinculantes de planificación, presupuesto y acción territorial",
+          "original_quote": "Objetivo  \nAsegurar una gestión coordinada entre el gobierno nacional, regional y local mediante \nmecanismos vinculantes de planificación, presupuesto y acción territorial",
+          "page": 356,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "objetivo",
+            "asegurar",
+            "gestión",
+            "coordinada",
+            "gobierno"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 6: “PENITENCIARÍAS SEGURAS Y HUMANAS”  \nReforma total del sistema penitenciario  \n \nObjetivo del programa  \nTransformar el sistema penitenciario hacia un modelo seguro, humanizado y ",
+          "original_quote": "PROGRAMA NACIONAL 6: “PENITENCIARÍAS SEGURAS Y HUMANAS”  \nReforma total del sistema penitenciario  \n \nObjetivo del programa  \nTransformar el sistema penitenciario hacia un modelo seguro, humanizado y orientado a la \nreinserción",
+          "page": 386,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "penitenciarías",
+            "seguras",
+            "humanas"
+          ]
+        },
+        {
+          "statement": " Asegurar planificación conjunta de cuencas, corredores y ecosistemas",
+          "original_quote": " Asegurar planificación conjunta de cuencas, corredores y ecosistemas",
+          "page": 395,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "asegurar",
+            "planificación",
+            "conjunta",
+            "cuencas",
+            "corredores"
+          ]
+        },
+        {
+          "statement": " Construir ciudades planificadas y seguras",
+          "original_quote": " Construir ciudades planificadas y seguras",
+          "page": 404,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "construir",
+            "ciudades",
+            "planificadas",
+            "seguras"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 5: “TERRITORIO SEGURO”  \nIntegración del ordenamiento territorial con la gestión del riesgo y e l cambio climático  \nObjetivo del programa",
+          "original_quote": "PROGRAMA NACIONAL 5: “TERRITORIO SEGURO”  \nIntegración del ordenamiento territorial con la gestión del riesgo y e l cambio climático  \nObjetivo del programa",
+          "page": 417,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "territorio",
+            "seguro",
+            "integración"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Economía",
+      "proposal_count": 7,
+      "proposals": [
+        {
+          "statement": "• Crear programas de empleo verde y economía circular con participación de mujeres y \njóvenes",
+          "original_quote": "• Crear programas de empleo verde y economía circular con participación de mujeres y \njóvenes",
+          "page": 146,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programas",
+            "empleo",
+            "economía",
+            "circular",
+            "participación"
+          ]
+        },
+        {
+          "statement": "Problemas:  \nFiscalización insuficiente y falta de plantas de tratamiento municipales e industriales",
+          "original_quote": "Problemas:  \nFiscalización insuficiente y falta de plantas de tratamiento municipales e industriales",
+          "page": 254,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "problemas",
+            "fiscalización",
+            "insuficiente",
+            "plantas",
+            "tratamiento"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 6:  “ECONOMÍA VERDE Y BIOECONOMÍA PERÚ”  \nTransición hacia actividades sostenibles, innovadoras y de reducción de carbono  \nObjetivo del programa  \nImpulsar una economía basada en el",
+          "original_quote": "PROGRAMA NACIONAL 6:  “ECONOMÍA VERDE Y BIOECONOMÍA PERÚ”  \nTransición hacia actividades sostenibles, innovadoras y de reducción de carbono  \nObjetivo del programa  \nImpulsar una economía basada en el uso sostenible de la biodiversidad, energías renovables, \ntransformación verde e innovación ambiental",
+          "page": 290,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "economía",
+            "bioeconomía",
+            "transición"
+          ]
+        },
+        {
+          "statement": "Se plantea una economía que no sacrifica sostenibilidad por crecimiento inmediato, y que \nentiende que la innovación, el talento humano y la diversificación  son la base de la \nprosperidad futura",
+          "original_quote": "Se plantea una economía que no sacrifica sostenibilidad por crecimiento inmediato, y que \nentiende que la innovación, el talento humano y la diversificación  son la base de la \nprosperidad futura",
+          "page": 294,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "plantea",
+            "economía",
+            "sacrifica",
+            "sostenibilidad",
+            "crecimiento"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 6: “DESCENTRALIZACIÓN FISCAL JUSTA”  \nTransformación del sistema de financiamiento territorial  \nObjetivo del programa  \nImpulsar una descentralización fiscal equitativa, sostenible ",
+          "original_quote": "PROGRAMA NACIONAL 6: “DESCENTRALIZACIÓN FISCAL JUSTA”  \nTransformación del sistema de financiamiento territorial  \nObjetivo del programa  \nImpulsar una descentralización fiscal equitativa, sostenible y basada en desempeño, que \npermita a gobiernos regionales y municipales financiar adecuadamente sus competencias",
+          "page": 418,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "descentralización",
+            "fiscal",
+            "transformación"
+          ]
+        },
+        {
+          "statement": " Verificación:  Instituto Peruano de Economía, CEPLAN",
+          "original_quote": " Verificación:  Instituto Peruano de Economía, CEPLAN",
+          "page": 423,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "verificación",
+            "instituto",
+            "peruano",
+            "economía",
+            "ceplan"
+          ]
+        },
+        {
+          "statement": "PROGRAMA NACIONAL 7: “ECONOMÍA CULTURAL Y CREATIVA PARA LA VIDA”  \nDesarrollo económico basado en identidad, creatividad y patrimonio  \n \nObjetivo del Programa  \nPotenciar la economía cultural como mo",
+          "original_quote": "PROGRAMA NACIONAL 7: “ECONOMÍA CULTURAL Y CREATIVA PARA LA VIDA”  \nDesarrollo económico basado en identidad, creatividad y patrimonio  \n \nObjetivo del Programa  \nPotenciar la economía cultural como motor de desarrollo sostenible y territorial, generando \nempleo digno, oportunidades para jóvenes y mujeres, y fortalecien do industrias culturales \nbasadas en identidad",
+          "page": 450,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "programa",
+            "nacional",
+            "economía",
+            "cultural",
+            "creativa"
+          ]
+        }
+      ]
+    }
+  ],
+  "stances_updated_at": "2026-04-06T23:04:15.743935"
+}

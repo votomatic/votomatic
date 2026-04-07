@@ -1,0 +1,557 @@
+{
+  "party": "Partido Sicreo",
+  "source_pdf": "data/pdfs/partido-sicreo.pdf",
+  "extracted_at": "2026-04-06T07:36:02.742610Z",
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: salario mínimo. Indicadores a favor: 1, en contra: 11."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de impuestos a grandes fortunas en el plan de gobierno."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: beneficios fiscales y aduaneros y con regímenes tributario. Indicadores a favor: 10, en contra: 11."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: pension. Indicadores a favor: 4, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: Libre Comercio, exportación. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: matrimonio igualitario. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: género. Indicadores a favor: 2, en contra: 0."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de política migratoria restrictiva en el plan de gobierno."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de pena de muerte en el plan de gobierno."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Concesión, Privatiza. Indicadores a favor: 8, en contra: 0."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: fósil. Indicadores a favor: 3, en contra: 0."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: educación de calidad se alcanza respetando la libertad de elegir de las familias La educación de calidad se alcanza respetando la libertad de elegir de las familias Para que el agua llegue a todos los peruanos, debemos romper el monopolio del Estado Para que el agua llegue a todos los peruanos, debemos romper el monopolio del Estado Con tecnología de punta, pondremos al Estado en tu celular para que denuncies y te informes Con tecnología de punta, pondremos al Estado en tu celular para que denuncies y te informes Con deporte al alcance de todos, el Perú será sano y competitivo Con deporte al alcance de todos, el Perú será sano y competitivo Crear 5 millones de empleos formales nuevos en un período de 5 años o institucional y transparencia (celeridad de procedimientos, nueva cultura de cumplimiento tributario) VII. INFORMALIDAD Formalización de la economía Barreras Burocráticas 7.1 Crear 5 millones de empleos formales nuevos en un período de 5 año s, de forma transversal en todos los sectores con énfasis en la industrialización . • La pobl ación económicamente activa es de 18.39 millones en total, con aproximadamente 17.41 millones ocupados . • Parques Industriales en Zonas Económicas Especiales • T Reducir la informalidad del 71.1% al 45% para 2031 ón (baños, aulas, falta de mantenimiento) • Moderniza ción tecnológica (simuladores de tiro virtual y sistemas de entrenamiento por escenarios de crisis). Reduce costos de entrenamiento. • Reducir las escuelas de suboficiales a Centros de Alto Rendimiento Policial. • Modernización de l currículo 1.4 Delincuentes primerizos podrán tener libertad condicional con grilletes electrónicos y firma mensual en el Juzgado. Se recuperará el Principio de Autoridad en los penales. Desglose de personas “medio Crear Zonas Económicas Especiales con 0% IGV y 0% de Impuesto a la Renta Logística --- Page 27 --- más fuerte en 6 años ( -4.1%) debido a factores climáticos no mitigados. X. TRIBUTACIÓN PARA EL DESARROLLO 10.1 Crear Zonas Económicas Especiales (ZEE) con 0% IGV y 0% de Impuesto a la Renta, que ofrezcan un entorno de negocios excepcional con beneficios fiscales y aduaneros y con regímenes tributarios y laborales orientados a la exportación e instalando en ellas Institutos Tecnológicos Superiores con certificación internacional a fin de impulsar el capital humano . Cad Llevar al gas de Camisea a la región Puno estableciendo allí una Zona Económica Especial libre de impuestos Llevar al gas de Camisea a la región Puno estableciendo allí una Zona Económica Especial libre de impuestos Eliminar en más del 90% la anemia infantil en 5 años de gobierno trapesos, con mecanismos adecuados de fiscalización. Sostenemos los principios de Libre Mercado, Libre Comercio y Prosperidad Compartida en el afán por impulsar el crecimiento ec onómico y social, eliminar la pobreza y promover la modernización y el desarrollo sostenible. Afirmamos los principios de Pacta Sunt Servanda (las partes deben cumplir de buena fe los tratados vigentes) y el de No Inter vención en los Asuntos Internos de los Países. Nuestra Visión --- Page 4 --- La peruanidad nos distin Implementación nacional del sistema GNU Health para la gobernanza sanitaria con Historia Clínica Electrónica Única Implementación nacional del sistema GNU Health para la gobernanza sanitaria con Historia Clínica Electrónica Única Construcción de al menos tres nuevos penales de máxima seguridad en zonas alejadas Reformas Estructurales y Legislativas - Zonas Económicas Especiales (“ZEE”) - Implementación de bonos educativos - Formación del Ministerio de Infraestructura o Ministerio de Obras Públic. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: sis. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de transporte público gratuito en el plan de gobierno."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: conectividad. Indicadores a favor: 1, en contra: 0."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "en_contra",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Fuerzas Armadas, militar. Indicadores a favor: 0, en contra: 8."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: región, region. Indicadores a favor: 3, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: fiscal, Justicia. Indicadores a favor: 4, en contra: 0."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: elegir de las familias La educación de calidad se alcanza respetando la libertad de elegir de las familias Para que el agua llegue a todos los peruanos, debemos romper el monopolio del Estado Para que el agua llegue a todos los peruanos, debemos romper el monopolio del Estado Con tecnología de punta, pondremos al Estado en tu celular para que denuncies y te informes Con tecnología de punta, pondremos al Estado en tu celular para que denuncies y te informes Con deporte al alcance de todos, el Perú será sano y competitivo Con deporte al alcance de todos, el Perú será sano y competitivo Crear 5 millones de empleos formales nuevos en un período de 5 años o institucional y transparencia (celeridad de procedimientos, nueva cultura de cumplimiento tributario) VII. INFORMALIDAD Formalización de la economía Barreras Burocráticas 7.1 Crear 5 millones de empleos formales nuevos en un período de 5 año s, de forma transversal en todos los sectores con énfasis en la industrialización . • La pobl ación económicamente activa es de 18.39 millones en total, con aproximadamente 17.41 millones ocupados . • Parques Industriales en Zonas Económicas Especiales • T Reducir la informalidad del 71.1% al 45% para 2031 ón (baños, aulas, falta de mantenimiento) • Moderniza ción tecnológica (simuladores de tiro virtual y sistemas de entrenamiento por escenarios de crisis). Reduce costos de entrenamiento. • Reducir las escuelas de suboficiales a Centros de Alto Rendimiento Policial. • Modernización de l currículo 1.4 Delincuentes primerizos podrán tener libertad condicional con grilletes electrónicos y firma mensual en el Juzgado. Se recuperará el Principio de Autoridad en los penales. Desglose de personas “medio Crear Zonas Económicas Especiales con 0% IGV y 0% de Impuesto a la Renta Logística --- Page 27 --- más fuerte en 6 años ( -4.1%) debido a factores climáticos no mitigados. X. TRIBUTACIÓN PARA EL DESARROLLO 10.1 Crear Zonas Económicas Especiales (ZEE) con 0% IGV y 0% de Impuesto a la Renta, que ofrezcan un entorno de negocios excepcional con beneficios fiscales y aduaneros y con regímenes tributarios y laborales orientados a la exportación e instalando en ellas Institutos Tecnológicos Superiores con certificación internacional a fin de impulsar el capital humano . Cad Llevar al gas de Camisea a la región Puno estableciendo allí una Zona Económica Especial libre de impuestos Llevar al gas de Camisea a la región Puno estableciendo allí una Zona Económica Especial libre de impuestos Eliminar en más del 90% la anemia infantil en 5 años de gobierno trapesos, con mecanismos adecuados de fiscalización. Sostenemos los principios de Libre Mercado, Libre Comercio y Prosperidad Compartida en el afán por impulsar el crecimiento ec onómico y social, eliminar la pobreza y promover la modernización y el desarrollo sostenible. Afirmamos los principios de Pacta Sunt Servanda (las partes deben cumplir de buena fe los tratados vigentes) y el de No Inter vención en los Asuntos Internos de los Países. Nuestra Visión --- Page 4 --- La peruanidad nos distin Implementación nacional del sistema GNU Health para la gobernanza sanitaria con Historia Clínica Electrónica Única Implementación nacional del sistema GNU Health para la gobernanza sanitaria con Historia Clínica Electrónica Única Construcción de al menos tres nuevos penales de máxima seguridad en zonas alejadas Reformas Estructurales y Legislativas - Zonas Económicas Especiales (“ZEE”) - Implementación de bonos educativos - Formación del Ministerio de Infraestructura o Ministerio de Obras Públicas - Construcción de nuevos penales de máxima seguridad para cabecillas de organizaciones criminales - Privatización de la videovigilancia en los penales - Reforma penitenciaria - Reforma del Sistema de Justicia y del Sistema Penitenciario --- Page 12 --- • Consolidación - Privatización/Concesión de CORPA C - Lo Captar al 40% de los egresados del servicio militar voluntario como nueva fuerza policial • Candidatos ideales para el reclutamiento, al ya contar con formación en uso de armas de fuego, estrategia e identidad patriótica. • Énfasis en mayor reclutamiento femenino. • Captar al 40% de los egresados del servicio militar voluntario como nueva fuerza policial • Ahorro en entrenamiento básico • Canalizar las capacidades y el prestigio de las FFAA a la PNP 1.3 Reestructuración del currículo e infraestructura de las Academias Policiales a nivel nacional. Procesos de formación, evaluación y s Crear una División Especializada en Tráfico Ilegal de Terrenos de la Policía Nacional Crear una División Especializada en Tráfico Ilegal de Terrenos de la Policía Nacional Reducir en un 25% la vulnerabilidad ante sequías de las comunidades beneficiarias ón (baños, aulas, falta de mantenimiento) • Moderniza ción tecnológica (simuladores de tiro virtual y sistemas de entrenamiento por escenarios de crisis). Reduce costos de entrenamiento. • Reducir las escuelas de suboficiales a Centros de Alto Rendimiento Policial. • Modernización de l currículo 1.4 Delincuentes primerizos podrán tener libertad condicional con grilletes electrónicos y firma mensual en el Juzgado. Se recuperará el Principio de Autoridad en los penales. Desglose de personas “medio Construcción de 7,500 qochas para 2030 stación • Construcción de Qochas: Lograr la construcción y puesta en funcionamiento de 1,500 nuevas qochas (reservorios rústicos) anuales a nivel nacional, alcanzando una meta acumulada de 7,500 qochas para 2030. • Zanjas de Infiltración: Implementar 50,000 kilómetros lineales de zanjas de infiltración para finales de 2027 en laderas con pendiente, --- Page 35 --- reduciendo la escorrentía superficial y la erosión de suelos. • Capacidad de Almacenamiento: Alcanzar una capacidad de infiltración y Implementar 50,000 kilómetros lineales de zanjas de infiltración para finales de 2027 a en funcionamiento de 1,500 nuevas qochas (reservorios rústicos) anuales a nivel nacional, alcanzando una meta acumulada de 7,500 qochas para 2030. • Zanjas de Infiltración: Implementar 50,000 kilómetros lineales de zanjas de infiltración para finales de 2027 en laderas con pendiente, --- Page 35 --- reduciendo la escorrentía superficial y la erosión de suelos. • Capacidad de Almacenamiento: Alcanzar una capacidad de infiltración y almacenamiento en el subsuelo de 150 millones de metros cúbicos Reducir en un mínimo del 50% la minería ilegal a través del control de los insumos químicos Reducir en un mínimo del 50% la minería ilegal a través del control de los insumos químicos Llevar a cabo los Juegos Olímpicos Nacionales para el año 2030 ínica Única e IA - Reducción de impuestos (IR, IGV) y eliminación de impuestos antitécnicos - Desbloqueo de Megaproyectos • Sostenibilidad - Inauguración de Megaproyectos desbloqueados - Jue. Indicadores a favor: 3, en contra: 0."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: período de 5 años o institucional y transparencia (celeridad de procedimientos, nueva cultura de cumplimiento tributario) VII. INFORMALIDAD Formalización de la economía Barreras Burocráticas 7.1 Crear 5 millones de empleos formales nuevos en un período de 5 año s, de forma transversal en todos los sectores con énfasis en la industrialización . • La pobl ación económicamente activa es de 18.39 millones en total, con aproximadamente 17.41 millones ocupados . • Parques Industriales en Zonas Económicas Especiales • T Reducir la informalidad del 71.1% al 45% para 2031 ón (baños, aulas, falta de mantenimiento) • Moderniza ción tecnológica (simuladores de tiro virtual y sistemas de entrenamiento por escenarios de crisis). Reduce costos de entrenamiento. • Reducir las escuelas de suboficiales a Centros de Alto Rendimiento Policial. • Modernización de l currículo 1.4 Delincuentes primerizos podrán tener libertad condicional con grilletes electrónicos y firma mensual en el Juzgado. Se recuperará el Principio de Autoridad en los penales. Desglose de personas “medio Crear Zonas Económicas Especiales con 0% IGV y 0% de Impuesto a la Renta Logística --- Page 27 --- más fuerte en 6 años ( -4.1%) debido a factores climáticos no mitigados. X. TRIBUTACIÓN PARA EL DESARROLLO 10.1 Crear Zonas Económicas Especiales (ZEE) con 0% IGV y 0% de Impuesto a la Renta, que ofrezcan un entorno de negocios excepcional con beneficios fiscales y aduaneros y con regímenes tributarios y laborales orientados a la exportación e instalando en ellas Institutos Tecnológicos Superiores con certificación internacional a fin de impulsar el capital humano . Cad Llevar al gas de Camisea a la región Puno estableciendo allí una Zona Económica Especial libre de impuestos Llevar al gas de Camisea a la región Puno estableciendo allí una Zona Económica Especial libre de impuestos Eliminar en más del 90% la anemia infantil en 5 años de gobierno trapesos, con mecanismos adecuados de fiscalización. Sostenemos los principios de Libre Mercado, Libre Comercio y Prosperidad Compartida en el afán por impulsar el crecimiento ec onómico y social, eliminar la pobreza y promover la modernización y el desarrollo sostenible. Afirmamos los principios de Pacta Sunt Servanda (las partes deben cumplir de buena fe los tratados vigentes) y el de No Inter vención en los Asuntos Internos de los Países. Nuestra Visión --- Page 4 --- La peruanidad nos distin Implementación nacional del sistema GNU Health para la gobernanza sanitaria con Historia Clínica Electrónica Única Implementación nacional del sistema GNU Health para la gobernanza sanitaria con Historia Clínica Electrónica Única Construcción de al menos tres nuevos penales de máxima seguridad en zonas alejadas Reformas Estructurales y Legislativas - Zonas Económicas Especiales (“ZEE”) - Implementación de bonos educativos - Formación del Ministerio de Infraestructura o Ministerio de Obras Públicas - Construcción de nuevos penales de máxima seguridad para cabecillas de organizaciones criminales - Privatización de la videovigilancia en los penales - Reforma penitenciaria - Reforma del Sistema de Justicia y del Sistema Penitenciario --- Page 12 --- • Consolidación - Privatización/Concesión de CORPA C - Lo Captar al 40% de los egresados del servicio militar voluntario como nueva fuerza policial • Candidatos ideales para el reclutamiento, al ya contar con formación en uso de armas de fuego, estrategia e identidad patriótica. • Énfasis en mayor reclutamiento femenino. • Captar al 40% de los egresados del servicio militar voluntario como nueva fuerza policial • Ahorro en entrenamiento básico • Canalizar las capacidades y el prestigio de las FFAA a la PNP 1.3 Reestructuración del currículo e infraestructura de las Academias Policiales a nivel nacional. Procesos de formación, evaluación y s Crear una División Especializada en Tráfico Ilegal de Terrenos de la Policía Nacional Crear una División Especializada en Tráfico Ilegal de Terrenos de la Policía Nacional Reducir en un 25% la vulnerabilidad ante sequías de las comunidades beneficiarias ón (baños, aulas, falta de mantenimiento) • Moderniza ción tecnológica (simuladores de tiro virtual y sistemas de entrenamiento por escenarios de crisis). Reduce costos de entrenamiento. • Reducir las escuelas de suboficiales a Centros de Alto Rendimiento Policial. • Modernización de l currículo 1.4 Delincuentes primerizos podrán tener libertad condicional con grilletes electrónicos y firma mensual en el Juzgado. Se recuperará el Principio de Autoridad en los penales. Desglose de personas “medio Construcción de 7,500 qochas para 2030 stación • Construcción de Qochas: Lograr la construcción y puesta en funcionamiento de 1,500 nuevas qochas (reservorios rústicos) anuales a nivel nacional, alcanzando una meta acumulada de 7,500 qochas para 2030. • Zanjas de Infiltración: Implementar 50,000 kilómetros lineales de zanjas de infiltración para finales de 2027 en laderas con pendiente, --- Page 35 --- reduciendo la escorrentía superficial y la erosión de suelos. • Capacidad de Almacenamiento: Alcanzar una capacidad de infiltración y Implementar 50,000 kilómetros lineales de zanjas de infiltración para finales de 2027 a en funcionamiento de 1,500 nuevas qochas (reservorios rústicos) anuales a nivel nacional, alcanzando una meta acumulada de 7,500 qochas para 2030. • Zanjas de Infiltración: Implementar 50,000 kilómetros lineales de zanjas de infiltración para finales de 2027 en laderas con pendiente, --- Page 35 --- reduciendo la escorrentía superficial y la erosión de suelos. • Capacidad de Almacenamiento: Alcanzar una capacidad de infiltración y almacenamiento en el subsuelo de 150 millones de metros cúbicos Reducir en un mínimo del 50% la minería ilegal a través del control de los insumos químicos Reducir en un mínimo del 50% la minería ilegal a través del control de los insumos químicos Llevar a cabo los Juegos Olímpicos Nacionales para el año 2030 ínica Única e IA - Reducción de impuestos (IR, IGV) y eliminación de impuestos antitécnicos - Desbloqueo de Megaproyectos • Sostenibilidad - Inauguración de Megaproyectos desbloqueados - Juegos Olímpicos Nacionales Asimismo, p ara las principales propuestas de gobierno para el período 2026 -2031 , se ha identificado el problema general (incluyendo palabras clave para facilitar la búsqueda) con problemas , los objetivos estratégicos planteados, los indicadores usados como herramientas de medición Programa de Bono Educativo para devolver el dinero a las familias y que sean ellas quienes elijan dónde canjear el bono Programa de Bono Educativo para devolver el dinero a las familias y que sean ellas quienes elijan dónde canjear el bono Nombrar un Zar Anticorrupción encargado de implementar y dirigir un programa de Inteligencia y Gobierno Digital contra la Corrupción Nombrar un Zar Anticorrupción encargado de implementar y dirigir un programa de Inteligencia y Gobierno Digital contra la Corrupción Desbloquear los grandes proyectos de infraestructura para reactivar la inversión estancada de más de USD 30,000 millones a nivel nacional Desbloquear los grandes proyectos de infraestructura para reactivar la inversión estancada de más de USD 30,000 millones a nivel nacional Instalación de puestos de control y retenes con utilización de cámaras y monitoreo inteligente Instalación de puestos de control y retenes con utilización de cámaras y monitoreo inteligente Actualización y Unificación del Catastro con meta de titulación COFOPRI: 500,000 títulos de propiedad en 5 años Actualización y Unificación del Catastro con meta de titulación COFOPRI: 500,000 títulos de propiedad en 5 años Crear Super-Ministerios integrando direcciones y reparticiones para reducir de 19 a entre 5 y 7 ministerios Crear Super-Ministerios integrando direcciones y reparticiones para reducir de 19 a entre 5 y 7 ministerios No se encontró mención explícita sobre aumento del salario mínimo Crear Zonas Económicas Especiales con 0% IGV y 0% de Impuesto a la Renta; filosofía de libre mercado y reducción de impuestos Para que el agua llegue a todos los peruanos, debemos romper el monopolio del Estado; Privatización de la videovigilancia en los penales No se encontró mención sobre matrimonio igualitario No se encontró mención sobre despenalización del aborto Llevar al gas de Camisea a la región Puno; menciona desarrollo sostenible pero enfocado en combustibles fósiles (gas) Instalación de puestos de control y retenes con utilización de cámaras y monitoreo inteligente Para que nos defiendan debemos revalorar a la Policía y Fuerzas Armadas Con inversión privada habrá millones de nuevos puestos de trabajo formales; Zonas Económicas Especiales con beneficios fiscales No se encontró mención sobre reforma del sistema de pensiones La educación de calidad se alcanza respetando la libertad de elegir de las familias; Programa de Bono Educativo para devolver el dinero a las familias y que sean ellas quienes elijan dónde canjear el bono Eliminar en más del 90% la anemia infantil en 5 años de gobierno. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Principios",
+      "proposals": [
+        {
+          "statement": "Si nadie roba la plata alcanza",
+          "original_quote": "Si nadie roba la plata alcanza",
+          "page": 2,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "principios"
+          ]
+        },
+        {
+          "statement": "Para luchar contra el crimen sacaremos a los delincuentes del Estado",
+          "original_quote": "Para luchar contra el crimen sacaremos a los delincuentes del Estado",
+          "page": 2,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "principios"
+          ]
+        },
+        {
+          "statement": "Para que nos defiendan debemos revalorar a la Policía y Fuerzas Armadas",
+          "original_quote": "Para que nos defiendan debemos revalorar a la Policía y Fuerzas Armadas",
+          "page": 2,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "principios"
+          ]
+        },
+        {
+          "statement": "La soberanía nacional no se negocia, menos aún con las mafias",
+          "original_quote": "La soberanía nacional no se negocia, menos aún con las mafias",
+          "page": 2,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "principios"
+          ]
+        },
+        {
+          "statement": "Con inversión privada habrá millones de nuevos puestos de trabajo formales",
+          "original_quote": "Con inversión privada habrá millones de nuevos puestos de trabajo formales",
+          "page": 2,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "principios"
+          ]
+        },
+        {
+          "statement": "Integrar a todos los peruanos es hacer realidad la infraestructura y la conectividad",
+          "original_quote": "Integrar a todos los peruanos es hacer realidad la infraestructura y la conectividad",
+          "page": 2,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "principios"
+          ]
+        },
+        {
+          "statement": "La educación de calidad se alcanza respetando la libertad de elegir de las familias",
+          "original_quote": "La educación de calidad se alcanza respetando la libertad de elegir de las familias",
+          "page": 2,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "principios"
+          ]
+        },
+        {
+          "statement": "Para que el agua llegue a todos los peruanos, debemos romper el monopolio del Estado",
+          "original_quote": "Para que el agua llegue a todos los peruanos, debemos romper el monopolio del Estado",
+          "page": 2,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "principios"
+          ]
+        },
+        {
+          "statement": "Con tecnología de punta, pondremos al Estado en tu celular para que denuncies y te informes",
+          "original_quote": "Con tecnología de punta, pondremos al Estado en tu celular para que denuncies y te informes",
+          "page": 2,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "principios"
+          ]
+        },
+        {
+          "statement": "Con deporte al alcance de todos, el Perú será sano y competitivo",
+          "original_quote": "Con deporte al alcance de todos, el Perú será sano y competitivo",
+          "page": 2,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "principios"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Economía",
+      "proposals": [
+        {
+          "statement": "Crear 5 millones de empleos formales nuevos en un período de 5 años",
+          "original_quote": "o institucional y transparencia (celeridad de procedimientos, nueva cultura de cumplimiento tributario) VII. INFORMALIDAD Formalización de la economía Barreras Burocráticas 7.1 Crear 5 millones de empleos formales nuevos en un período de 5 año s, de forma transversal en todos los sectores con énfasis en la industrialización . • La pobl ación económicamente activa es de 18.39 millones en total, con aproximadamente 17.41 millones ocupados . • Parques Industriales en Zonas Económicas Especiales • T",
+          "page": 23,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "crear",
+            "economía",
+            "5 millones"
+          ]
+        },
+        {
+          "statement": "Reducir la informalidad del 71.1% al 45% para 2031",
+          "original_quote": "ón (baños, aulas, falta de mantenimiento) • Moderniza ción tecnológica (simuladores de tiro virtual y sistemas de entrenamiento por escenarios de crisis). Reduce costos de entrenamiento. • Reducir las escuelas de suboficiales a Centros de Alto Rendimiento Policial. • Modernización de l currículo 1.4 Delincuentes primerizos podrán tener libertad condicional con grilletes electrónicos y firma mensual en el Juzgado. Se recuperará el Principio de Autoridad en los penales. Desglose de personas “medio",
+          "page": 13,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "economía",
+            "reducir",
+            "1%",
+            "45%"
+          ]
+        },
+        {
+          "statement": "Crear Zonas Económicas Especiales con 0% IGV y 0% de Impuesto a la Renta",
+          "original_quote": "Logística --- Page 27 --- más fuerte en 6 años ( -4.1%) debido a factores climáticos no mitigados. X. TRIBUTACIÓN PARA EL DESARROLLO 10.1 Crear Zonas Económicas Especiales (ZEE) con 0% IGV y 0% de Impuesto a la Renta, que ofrezcan un entorno de negocios excepcional con beneficios fiscales y aduaneros y con regímenes tributarios y laborales orientados a la exportación e instalando en ellas Institutos Tecnológicos Superiores con certificación internacional a fin de impulsar el capital humano . Cad",
+          "page": 27,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "crear",
+            "economía",
+            "0%"
+          ]
+        },
+        {
+          "statement": "Llevar al gas de Camisea a la región Puno estableciendo allí una Zona Económica Especial libre de impuestos",
+          "original_quote": "Llevar al gas de Camisea a la región Puno estableciendo allí una Zona Económica Especial libre de impuestos",
+          "page": null,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "economía"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salud",
+      "proposals": [
+        {
+          "statement": "Eliminar en más del 90% la anemia infantil en 5 años de gobierno",
+          "original_quote": "trapesos, con mecanismos adecuados de fiscalización. Sostenemos los principios de Libre Mercado, Libre Comercio y Prosperidad Compartida en el afán por impulsar el crecimiento ec onómico y social, eliminar la pobreza y promover la modernización y el desarrollo sostenible. Afirmamos los principios de Pacta Sunt Servanda (las partes deben cumplir de buena fe los tratados vigentes) y el de No Inter vención en los Asuntos Internos de los Países. Nuestra Visión --- Page 4 --- La peruanidad nos distin",
+          "page": 3,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "eliminar",
+            "salud",
+            "90%"
+          ]
+        },
+        {
+          "statement": "Implementación nacional del sistema GNU Health para la gobernanza sanitaria con Historia Clínica Electrónica Única",
+          "original_quote": "Implementación nacional del sistema GNU Health para la gobernanza sanitaria con Historia Clínica Electrónica Única",
+          "page": null,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "salud"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Seguridad",
+      "proposals": [
+        {
+          "statement": "Construcción de al menos tres nuevos penales de máxima seguridad en zonas alejadas",
+          "original_quote": "Reformas Estructurales y Legislativas - Zonas Económicas Especiales (“ZEE”) - Implementación de bonos educativos - Formación del Ministerio de Infraestructura o Ministerio de Obras Públicas - Construcción de nuevos penales de máxima seguridad para cabecillas de organizaciones criminales - Privatización de la videovigilancia en los penales - Reforma penitenciaria - Reforma del Sistema de Justicia y del Sistema Penitenciario --- Page 12 --- • Consolidación - Privatización/Concesión de CORPA C - Lo",
+          "page": 11,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Captar al 40% de los egresados del servicio militar voluntario como nueva fuerza policial",
+          "original_quote": "• Candidatos ideales para el reclutamiento, al ya contar con formación en uso de armas de fuego, estrategia e identidad patriótica. • Énfasis en mayor reclutamiento femenino. • Captar al 40% de los egresados del servicio militar voluntario como nueva fuerza policial • Ahorro en entrenamiento básico • Canalizar las capacidades y el prestigio de las FFAA a la PNP 1.3 Reestructuración del currículo e infraestructura de las Academias Policiales a nivel nacional. Procesos de formación, evaluación y s",
+          "page": 13,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "40%",
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Crear una División Especializada en Tráfico Ilegal de Terrenos de la Policía Nacional",
+          "original_quote": "Crear una División Especializada en Tráfico Ilegal de Terrenos de la Policía Nacional",
+          "page": null,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "crear",
+            "seguridad"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Medio Ambiente",
+      "proposals": [
+        {
+          "statement": "Reducir en un 25% la vulnerabilidad ante sequías de las comunidades beneficiarias",
+          "original_quote": "ón (baños, aulas, falta de mantenimiento) • Moderniza ción tecnológica (simuladores de tiro virtual y sistemas de entrenamiento por escenarios de crisis). Reduce costos de entrenamiento. • Reducir las escuelas de suboficiales a Centros de Alto Rendimiento Policial. • Modernización de l currículo 1.4 Delincuentes primerizos podrán tener libertad condicional con grilletes electrónicos y firma mensual en el Juzgado. Se recuperará el Principio de Autoridad en los penales. Desglose de personas “medio",
+          "page": 13,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "25%",
+            "reducir",
+            "medio ambiente"
+          ]
+        },
+        {
+          "statement": "Construcción de 7,500 qochas para 2030",
+          "original_quote": "stación • Construcción de Qochas: Lograr la construcción y puesta en funcionamiento de 1,500 nuevas qochas (reservorios rústicos) anuales a nivel nacional, alcanzando una meta acumulada de 7,500 qochas para 2030. • Zanjas de Infiltración: Implementar 50,000 kilómetros lineales de zanjas de infiltración para finales de 2027 en laderas con pendiente, --- Page 35 --- reduciendo la escorrentía superficial y la erosión de suelos. • Capacidad de Almacenamiento: Alcanzar una capacidad de infiltración y",
+          "page": 34,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "medio ambiente",
+            "7,500"
+          ]
+        },
+        {
+          "statement": "Implementar 50,000 kilómetros lineales de zanjas de infiltración para finales de 2027",
+          "original_quote": "a en funcionamiento de 1,500 nuevas qochas (reservorios rústicos) anuales a nivel nacional, alcanzando una meta acumulada de 7,500 qochas para 2030. • Zanjas de Infiltración: Implementar 50,000 kilómetros lineales de zanjas de infiltración para finales de 2027 en laderas con pendiente, --- Page 35 --- reduciendo la escorrentía superficial y la erosión de suelos. • Capacidad de Almacenamiento: Alcanzar una capacidad de infiltración y almacenamiento en el subsuelo de 150 millones de metros cúbicos",
+          "page": 34,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "medio ambiente",
+            "50,000",
+            "implementar"
+          ]
+        },
+        {
+          "statement": "Reducir en un mínimo del 50% la minería ilegal a través del control de los insumos químicos",
+          "original_quote": "Reducir en un mínimo del 50% la minería ilegal a través del control de los insumos químicos",
+          "page": null,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "medio ambiente",
+            "reducir",
+            "50%"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Deporte",
+      "proposals": [
+        {
+          "statement": "Llevar a cabo los Juegos Olímpicos Nacionales para el año 2030",
+          "original_quote": "ínica Única e IA - Reducción de impuestos (IR, IGV) y eliminación de impuestos antitécnicos - Desbloqueo de Megaproyectos • Sostenibilidad - Inauguración de Megaproyectos desbloqueados - Juegos Olímpicos Nacionales Asimismo, p ara las principales propuestas de gobierno para el período 2026 -2031 , se ha identificado el problema general (incluyendo palabras clave para facilitar la búsqueda) con problemas , los objetivos estratégicos planteados, los indicadores usados como herramientas de medición",
+          "page": 12,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "deporte"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Educación",
+      "proposals": [
+        {
+          "statement": "Programa de Bono Educativo para devolver el dinero a las familias y que sean ellas quienes elijan dónde canjear el bono",
+          "original_quote": "Programa de Bono Educativo para devolver el dinero a las familias y que sean ellas quienes elijan dónde canjear el bono",
+          "page": null,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "educación"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Anticorrupción",
+      "proposals": [
+        {
+          "statement": "Nombrar un Zar Anticorrupción encargado de implementar y dirigir un programa de Inteligencia y Gobierno Digital contra la Corrupción",
+          "original_quote": "Nombrar un Zar Anticorrupción encargado de implementar y dirigir un programa de Inteligencia y Gobierno Digital contra la Corrupción",
+          "page": null,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "nombrar",
+            "implementar",
+            "anticorrupción"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Infraestructura",
+      "proposals": [
+        {
+          "statement": "Desbloquear los grandes proyectos de infraestructura para reactivar la inversión estancada de más de USD 30,000 millones a nivel nacional",
+          "original_quote": "Desbloquear los grandes proyectos de infraestructura para reactivar la inversión estancada de más de USD 30,000 millones a nivel nacional",
+          "page": null,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "desbloquear",
+            "infraestructura",
+            "30,000"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Migración",
+      "proposals": [
+        {
+          "statement": "Instalación de puestos de control y retenes con utilización de cámaras y monitoreo inteligente",
+          "original_quote": "Instalación de puestos de control y retenes con utilización de cámaras y monitoreo inteligente",
+          "page": null,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "migración"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Vivienda",
+      "proposals": [
+        {
+          "statement": "Actualización y Unificación del Catastro con meta de titulación COFOPRI: 500,000 títulos de propiedad en 5 años",
+          "original_quote": "Actualización y Unificación del Catastro con meta de titulación COFOPRI: 500,000 títulos de propiedad en 5 años",
+          "page": null,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "500,000",
+            "vivienda"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Estado",
+      "proposals": [
+        {
+          "statement": "Crear Super-Ministerios integrando direcciones y reparticiones para reducir de 19 a entre 5 y 7 ministerios",
+          "original_quote": "Crear Super-Ministerios integrando direcciones y reparticiones para reducir de 19 a entre 5 y 7 ministerios",
+          "page": null,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "crear",
+            "reducir",
+            "estado"
+          ]
+        }
+      ]
+    }
+  ],
+  "stances_updated_at": "2026-04-06T23:04:32.617150"
+}

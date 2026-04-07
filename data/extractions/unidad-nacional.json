@@ -1,0 +1,736 @@
+{
+  "party": "Unidad Nacional",
+  "source_pdf": "data/pdfs/unidad-nacional.pdf",
+  "extracted_at": "2026-04-06T09:57:52.850728",
+  "topics": [
+    {
+      "topic": "Seguridad",
+      "proposals": [
+        {
+          "statement": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "original_quote": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ideario",
+            "principios",
+            "objetivos",
+            "valores",
+            "vision"
+          ]
+        },
+        {
+          "statement": "Los comités de seguridad ciudadana establecidos en gran medida en los gobiernos locales ha obtenido escasos resultados . Más aún,  se han generado contradicciones en la vinculación directa con las comisarías  cuyas decisiones  conforme  a la Ley Orgánica de la Policía Nacional deben prevalecer.",
+          "original_quote": "Los comités de seguridad ciudadana establecidos en gran medida en los gobiernos locales ha obtenido escasos resultados . Más aún,  se han generado contradicciones en la vinculación directa con las comisarías  cuyas decisiones  conforme  a la Ley Orgánica de la Policía Nacional deben prevalecer.",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "comités",
+            "seguridad",
+            "ciudadana",
+            "establecidos",
+            "medida"
+          ]
+        },
+        {
+          "statement": "Consideramos que ha existido una falta de estrategia integral eficaz y de liderazgo que se acumula por más de 20 años y que ha ocasionado una distorsión por la falta de consideración a la importante experiencia acumulada de décadas anteriores de nuestra Policía Nacional, la ausencia de especialización e inteligencia para la prevención y",
+          "original_quote": "Consideramos que ha existido una falta de estrategia integral eficaz y de liderazgo que se acumula por más de 20 años y que ha ocasionado una distorsión por la falta de consideración a la importante experiencia acumulada de décadas anteriores de nuestra Policía Nacional, la ausencia de especialización e inteligencia para la prevención y",
+          "page": 1,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "falta",
+            "consideramos",
+            "existido",
+            "estrategia",
+            "integral"
+          ]
+        },
+        {
+          "statement": "acceder a servicios similares no subvencionados y como meta a largo plazo el que las contribuciones de impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población;",
+          "original_quote": "acceder a servicios similares no subvencionados y como meta a largo plazo el que las contribuciones de impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población;",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "acceder",
+            "servicios",
+            "similares",
+            "subvencionados",
+            "largo"
+          ]
+        },
+        {
+          "statement": "Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas.",
+          "original_quote": "Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas.",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "distritos",
+            "dificultades",
+            "geográficas",
+            "nuestro",
+            "poder"
+          ]
+        },
+        {
+          "statement": "La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas.",
+          "original_quote": "La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas.",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "ausencia",
+            "incentivos",
+            "emprendimientos",
+            "desarrollo",
+            "distritos"
+          ]
+        },
+        {
+          "statement": "La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico",
+          "original_quote": "La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "ausencia",
+            "programas",
+            "incentivo",
+            "emprendedores",
+            "establecer"
+          ]
+        },
+        {
+          "statement": "La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las",
+          "original_quote": "La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "social",
+            "agitación",
+            "impide",
+            "emprendimientos",
+            "logren"
+          ]
+        },
+        {
+          "statement": "No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de",
+          "original_quote": "No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "programas",
+            "desarrollado",
+            "eficiencia",
+            "canales",
+            "educación"
+          ]
+        },
+        {
+          "statement": "Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que",
+          "original_quote": "Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "programas",
+            "protección",
+            "nadie",
+            "existido",
+            "resistencia"
+          ]
+        },
+        {
+          "statement": "Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos",
+          "original_quote": "Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "programas",
+            "administradores",
+            "protección",
+            "social",
+            "cuentan"
+          ]
+        },
+        {
+          "statement": "con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes.",
+          "original_quote": "con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes.",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "propuestas",
+            "mejoras",
+            "eficiencia",
+            "resulta",
+            "burocratizació"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Defensa Nacional",
+      "proposals": [
+        {
+          "statement": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "original_quote": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ideario",
+            "principios",
+            "objetivos",
+            "valores",
+            "vision"
+          ]
+        },
+        {
+          "statement": "adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados que intenten coaccionar al gobierno c on amenazas de cualquier índole. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional",
+          "original_quote": "adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados que intenten coaccionar al gobierno c on amenazas de cualquier índole. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "cualquier",
+            "adecuada",
+            "disuasión",
+            "permita",
+            "reacción"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Relaciones Internacionales",
+      "proposals": [
+        {
+          "statement": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "original_quote": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ideario",
+            "principios",
+            "objetivos",
+            "valores",
+            "vision"
+          ]
+        },
+        {
+          "statement": "B) PROPUESTA B.1  Como hemos señalado desde la presentación de este Plan de Gobierno, nuestra alianza ha señalado como  un interés fundamental de la Nación su hegemonía en el Pacífico Sur.  Ello supone, por un lado llevar adelante las acciones de fortalecimiento económ ico, social e",
+          "original_quote": "B) PROPUESTA B.1  Como hemos señalado desde la presentación de este Plan de Gobierno, nuestra alianza ha señalado como  un interés fundamental de la Nación su hegemonía en el Pacífico Sur.  Ello supone, por un lado llevar adelante las acciones de fortalecimiento económ ico, social e",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "señalado",
+            "propuesta",
+            "hemos",
+            "desde",
+            "presentación"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Empleo y Competitividad",
+      "proposals": [
+        {
+          "statement": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "original_quote": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ideario",
+            "principios",
+            "objetivos",
+            "valores",
+            "vision"
+          ]
+        },
+        {
+          "statement": "metas logradas , que hay que recup erar. Por ello es un reto devolver competitividad a nuestra economía  así como brindar la estabilidad que le corresponde al Estado brindar. A) PROBLEMAS DETECTADOS. -",
+          "original_quote": "metas logradas , que hay que recup erar. Por ello es un reto devolver competitividad a nuestra economía  así como brindar la estabilidad que le corresponde al Estado brindar. A) PROBLEMAS DETECTADOS. -",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "brindar",
+            "metas",
+            "logradas",
+            "recup",
+            "devolver"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Recursos Naturales y Medio Ambiente",
+      "proposals": [
+        {
+          "statement": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "original_quote": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ideario",
+            "principios",
+            "objetivos",
+            "valores",
+            "vision"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Infraestructura",
+      "proposals": [
+        {
+          "statement": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "original_quote": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ideario",
+            "principios",
+            "objetivos",
+            "valores",
+            "vision"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Agricultura, Pesca, Minería y Turismo",
+      "proposals": [
+        {
+          "statement": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "original_quote": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ideario",
+            "principios",
+            "objetivos",
+            "valores",
+            "vision"
+          ]
+        },
+        {
+          "statement": "entre las comunidades y las empresas privadas, con el objetivo de destrabar proyectos mineros actualmente paralizados por motivos sociales. Gran parte de estos conflictos obedecen a mala información recibida por las comunidades respecto a los compromisos de los inversionistas de desarrollar sus actividades con pleno",
+          "original_quote": "entre las comunidades y las empresas privadas, con el objetivo de destrabar proyectos mineros actualmente paralizados por motivos sociales. Gran parte de estos conflictos obedecen a mala información recibida por las comunidades respecto a los compromisos de los inversionistas de desarrollar sus actividades con pleno",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "comunidades",
+            "entre",
+            "empresas",
+            "privadas",
+            "objetivo"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Educación, Salud y Deporte",
+      "proposals": [
+        {
+          "statement": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "original_quote": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ideario",
+            "principios",
+            "objetivos",
+            "valores",
+            "vision"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Vivienda y Agua",
+      "proposals": [
+        {
+          "statement": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "original_quote": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ideario",
+            "principios",
+            "objetivos",
+            "valores",
+            "vision"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Programas Sociales",
+      "proposals": [
+        {
+          "statement": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "original_quote": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ideario",
+            "principios",
+            "objetivos",
+            "valores",
+            "vision"
+          ]
+        },
+        {
+          "statement": "acceder a servicios similares no subvencionados y como meta a largo plazo el que las contribuciones de impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población;",
+          "original_quote": "acceder a servicios similares no subvencionados y como meta a largo plazo el que las contribuciones de impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población;",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "acceder",
+            "servicios",
+            "similares",
+            "subvencionados",
+            "largo"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Modernización del Estado",
+      "proposals": [
+        {
+          "statement": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "original_quote": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ideario",
+            "principios",
+            "objetivos",
+            "valores",
+            "vision"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Solidaridad Focalizada",
+      "proposals": [
+        {
+          "statement": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "original_quote": "IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19",
+          "page": 1,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ideario",
+            "principios",
+            "objetivos",
+            "valores",
+            "vision"
+          ]
+        },
+        {
+          "statement": "Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas.",
+          "original_quote": "Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas.",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "distritos",
+            "dificultades",
+            "geográficas",
+            "nuestro",
+            "poder"
+          ]
+        },
+        {
+          "statement": "La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas.",
+          "original_quote": "La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas.",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "ausencia",
+            "incentivos",
+            "emprendimientos",
+            "desarrollo",
+            "distritos"
+          ]
+        },
+        {
+          "statement": "La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico",
+          "original_quote": "La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "ausencia",
+            "programas",
+            "incentivo",
+            "emprendedores",
+            "establecer"
+          ]
+        },
+        {
+          "statement": "La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las",
+          "original_quote": "La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "social",
+            "agitación",
+            "impide",
+            "emprendimientos",
+            "logren"
+          ]
+        },
+        {
+          "statement": "No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de",
+          "original_quote": "No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "programas",
+            "desarrollado",
+            "eficiencia",
+            "canales",
+            "educación"
+          ]
+        },
+        {
+          "statement": "Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que",
+          "original_quote": "Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "programas",
+            "protección",
+            "nadie",
+            "existido",
+            "resistencia"
+          ]
+        },
+        {
+          "statement": "Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos",
+          "original_quote": "Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "programas",
+            "administradores",
+            "protección",
+            "social",
+            "cuentan"
+          ]
+        },
+        {
+          "statement": "con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes.",
+          "original_quote": "con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes.",
+          "page": 1,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "propuestas",
+            "mejoras",
+            "eficiencia",
+            "resulta",
+            "burocratizació"
+          ]
+        }
+      ]
+    }
+  ],
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: salario mínimo. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población; acceder a servicios similares no subvencionados y como meta a largo plazo el que las contribuciones de impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población; Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados que intenten coaccionar al gobierno c on amenazas de cualquier índole. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados que intenten coaccionar al gobierno c on amenazas de cualquier índole. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 B) PROPUESTA B.1  Como hemos señalado desde la presentación de este Plan de Gobierno, nuestra alianza ha señalado como  un interés fundamental de la Nación su hegemonía en el Pacífico Sur.  Ello supone, por un lado llevar adelante las acciones de fortalecimiento económ ico, social e B) PROPUESTA B.1  Como hemos señalado desde la presentación de este Plan de Gobierno, nuestra alianza ha señalado como  un interés fundamental de la Nación su hegemonía en el Pacífico Sur.  Ello supone, por un lado llevar adelante las acciones de fortalecimiento económ ico, social e IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 metas logradas , que hay que recup erar. Por ello es un reto devolver competitividad a nuestra economía  así como brindar la estabilidad que le corresponde al Estado brindar. A) PROBLEMAS DETECTADOS. - metas logradas , que hay que recup erar. Por ello es un reto devolver competitividad a nuestra economía  así como brindar la estabilidad que le corresponde al Estado brindar. A) PROBLEMAS DETECTADOS. - IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 entre las comunidades y las empresas privadas, con el objetivo de destrabar proyectos mineros actualmente paralizados por motivos sociales. Gran parte de estos conflictos obedecen a mala información recibida por las comunidades respecto a los compromisos de los inversionistas de desarrollar sus actividades con pleno entre las comunidades y las empresas privadas, con el objetivo de destrabar proyectos mineros actualmente paralizados por motivos sociales. Gran parte de estos conflictos obedecen a mala información recibida por las comunidades respecto a los compromisos de los inversionistas de desarrollar sus actividades con pleno IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 acceder a servicios similares no subvencionados y como meta a largo plazo el que las contribuciones de impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población; acceder a servicios similares no subvencionados y como meta a largo plazo el que las contribuciones de impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población; IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. No se menciona el salario mínimo en el documento No se menciona impuestos a grandes fortuna. Indicadores a favor: 12, en contra: 0."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados que intenten coaccionar al gobierno c on amenazas de cualquier índole. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados que intenten coaccionar al gobierno c on amenazas de cualquier índole. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 B) PROPUESTA B.1  Como hemos señalado desde la presentación de este Plan de Gobierno, nuestra alianza ha señalado como  un interés fundamental de la Nación su hegemonía en el Pacífico Sur.  Ello supone, por un lado llevar adelante las acciones de fortalecimiento económ ico, social e B) PROPUESTA B.1  Como hemos señalado desde la presentación de este Plan de Gobierno, nuestra alianza ha señalado como  un interés fundamental de la Nación su hegemonía en el Pacífico Sur.  Ello supone, por un lado llevar adelante las acciones de fortalecimiento económ ico, social e IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 metas logradas , que hay que recup erar. Por ello es un reto devolver competitividad a nuestra economía  así como brindar la estabilidad que le corresponde al Estado brindar. A) PROBLEMAS DETECTADOS. - metas logradas , que hay que recup erar. Por ello es un reto devolver competitividad a nuestra economía  así como brindar la estabilidad que le corresponde al Estado brindar. A) PROBLEMAS DETECTADOS. - IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 entre las comunidades y las empresas privadas, con el objetivo de destrabar proyectos mineros actualmente paralizados por motivos sociales. Gran parte de estos conflictos obedecen a mala información recibida por las comunidades respecto a los compromisos de los inversionistas de desarrollar sus actividades con pleno entre las comunidades y las empresas privadas, con el objetivo de destrabar proyectos mineros actualmente paralizados por motivos sociales. Gran parte de estos conflictos obedecen a mala información recibida por las comunidades respecto a los compromisos de los inversionistas de desarrollar sus actividades con pleno IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 acceder a servicios similares no subvencionados y como meta a largo plazo el que las contribuciones de impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población; acceder a servicios similares no subvencionados y como meta a largo plazo el que las contribuciones de impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población; IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. No se menciona el salario mínimo en el documento No se menciona impuestos a grandes fortunas en el documento No se menciona privatización explícita en el documento No se menciona el matrimonio igualitario en el documento No se menciona el aborto en el documento No se mencionan políticas energéticas específicas en el documento No se menciona política migratoria en el documento Adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional La ausencia de incentivos para emprendimientos de desarrollo en distritos - sugiere apoyo a incentivos empresa, apoyo técnico La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados que intenten coaccionar al gobierno c on amenazas de cualquier índole. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados que intenten coaccionar al gobierno c on amenazas de cualquier índole. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 B) PROPUESTA B.1  Como hemos señalado desde la presentación de este Plan de Gobierno, nuestra alianza ha señalado como  un interés fundamental de la Nación su hegemonía en el Pacífico Sur.  Ello supone, por un lado llevar adelante las acciones de fortalecimiento económ ico, social e B) PROPUESTA B.1  Como hemos señalado desde la presentación de este Plan de Gobierno, nuestra alianza ha señalado como  un interés fundamental de la Nación su hegemonía en el Pacífico Sur.  Ello supone, por un lado llevar adelante las acciones de fortalecimiento económ ico, social e IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 metas logradas , que hay que recup erar. Por ello es un reto devolver competitividad a nuestra economía  así como brindar la estabilidad que le corresponde al Estado brindar. A) PROBLEMAS DETECTADOS. - metas logradas , que hay que recup erar. Por ello es un reto devolver competitividad a nuestra economía  así como brindar la estabilidad que le corresponde al Estado brindar. A) PROBLEMAS DETECTADOS. - IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 entre las comunidades y las empresas privadas, con el objetivo de destrabar proyectos mineros actualmente paralizados por motivos sociales. Gran parte de estos conflictos obedecen a mala información recibida por las comunidades respecto a los compromisos de los inversionistas de desarrollar sus actividades con pleno entre las comunidades y las empresas privadas, con el objetivo de destrabar proyectos mineros actualmente paralizados por motivos sociales. Gran parte de estos conflictos obedecen a mala información recibida por las comunidades respecto a los compromisos de los inversionistas de desarrollar sus actividades con pleno IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 acceder a servicios similares no subvencionados y como meta a largo plazo el que las contribuciones de impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población; acceder a servicios similares no subvencionados y como meta a largo plazo el que las contribuciones de impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población; IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. No se menciona el salario mínimo en el documento No se menciona impuestos a grandes fortunas en el documento No se menciona privatización explícita en el documento No se menciona el matrimonio igualitario en el documento No se menciona el aborto en el documento No se mencionan políticas energéticas específicas en el documento No se menciona política migratoria en el documento Adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional La ausencia de incentivos para emprendimientos de desarrollo en distritos - sugiere apoyo a incentivos empresa. Indicadores a favor: 4, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: pension. Indicadores a favor: 1, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de libre comercio vs proteccionismo en el plan de gobierno."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: matrimonio igualitario. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: género. Indicadores a favor: 4, en contra: 0."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "en_contra",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: migra, frontera. Indicadores a favor: 0, en contra: 2."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de pena de muerte en el plan de gobierno."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: privatiza. Indicadores a favor: 4, en contra: 0."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de energías renovables vs combustibles fósiles en el plan de gobierno."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: educación y comunicación a las La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados que intenten coaccionar al gobierno c on amenazas de cualquier índole. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados que intenten coaccionar al gobierno c on amenazas de cualquier índole. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 B) PROPUESTA B.1  Como hemos señalado desde la presentación de este Plan de Gobierno, nuestra alianza ha señalado como  un interés fundamental de la Nación su hegemonía en el Pacífico Sur.  Ello supone, por un lado llevar adelante las acciones de fortalecimiento económ ico, social e B) PROPUESTA B.1  Como hemos señalado desde la presentación de este Plan de Gobierno, nuestra alianza ha señalado como  un interés fundamental de la Nación su hegemonía en el Pacífico Sur.  Ello supone, por un lado llevar adelante las acciones de fortalecimiento económ ico, social e IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 metas logradas , que hay que recup erar. Por ello es un reto devolver competitividad a nuestra economía  así como brindar la estabilidad que le corresponde al Estado brindar. A) PROBLEMAS DETECTADOS. - metas logradas , que hay que recup erar. Por ello es un reto devolver competitividad a nuestra economía  así como brindar la estabilidad que le corresponde al Estado brindar. A) PROBLEMAS DETECTADOS. - IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 entre las comunidades y las empresas privadas, con el objetivo de destrabar proyectos mineros actualmente paralizados por motivos sociales. Gran parte de estos conflictos obedecen a mala información recibida por las comunidades respecto a los compromisos de los inversionistas de desarrollar sus actividades con pleno entre las comunidades y las empresas privadas, con el objetivo de destrabar proyectos mineros actualmente paralizados por motivos sociales. Gran parte de estos conflictos obedecen a mala información recibida por las comunidades respecto a los compromisos de los inversionistas de desarrollar sus actividades con pleno IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 acceder a servicios similares no subvencionados y como meta a largo plazo el que las contribuciones de impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población; acceder a servicios similares no subvencionados y como meta a largo plazo el que las contribuciones de impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población; IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. No se menciona el salario mínimo en el documento No se menciona impuestos a grandes fortunas en el documento No se menciona privatización explícita en el documento No se menciona el matrimonio igualitario en el documento No se menciona el aborto en el documento No se mencionan políticas energéticas específicas en el documento No se menciona política migratoria en el documento Adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional La ausencia de incentivos para emprendimientos de desarrollo en distritos - sugiere apoyo a incentivos empresariales No se menciona reforma del sistema de pensiones en el documento No se menciona educación públic, educación y comunicación a las La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados que intenten coaccionar al gobierno c on amenazas de cualquier índole. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados que intenten coaccionar al gobierno c on amenazas de cualquier índole. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 B) PROPUESTA B.1  Como hemos señalado desde la presentación de este Plan de Gobierno, nuestra alianza ha señalado como  un interés fundamental de la Nación su hegemonía en el Pacífico Sur.  Ello supone, por un lado llevar adelante las acciones de fortalecimiento económ ico, social e B) PROPUESTA B.1  Como hemos señalado desde la presentación de este Plan de Gobierno, nuestra alianza ha señalado como  un interés fundamental de la Nación su hegemonía en el Pacífico Sur.  Ello supone, por un lado llevar adelante las acciones de fortalecimiento económ ico, social e IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 metas logradas , que hay que recup erar. Por ello es un reto devolver competitividad a nuestra economía  así como brindar la estabilidad que le corresponde al Estado brindar. A) PROBLEMAS DETECTADOS. - metas logradas , que hay que recup erar. Por ello es un reto devolver competitividad a nuestra economía  así como brindar la estabilidad que le corresponde al Estado brindar. A) PROBLEMAS DETECTADOS. - IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 entre las comunidades y las empresas privadas, con el objetivo de destrabar proyectos mineros actualmente paralizados por motivos sociales. Gran parte de estos conflictos obedecen a mala información recibida por las comunidades respecto a los compromisos de los inversionistas de desarrollar sus actividades con pleno entre las comunidades y las empresas privadas, con el objetivo de destrabar proyectos mineros actualmente paralizados por motivos sociales. Gran parte de estos conflictos obedecen a mala información recibida por las comunidades respecto a los compromisos de los inversionistas de desarrollar sus actividades con pleno IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 acceder a servicios similares no subvencionados y como meta a largo plazo el que las contribuciones de impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población; acceder a servicios similares no subvencionados y como meta a largo plazo el que las contribuciones de impuestos de los ciudadanos cuyos emprendimientos y retribuciones lo permitan en una base de contribución  mucho  más  amplia  el  promover  que  los  mismos programas, de óptima calidad, sean utilizados y beneficien a la mayor  parte de la población; IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 IDEARIO . PRINCIPIOS - OBJETIVOS Y VALORES  2 VISION DEL PLAN DE GOBIERNO  2-3 SECTOR 1 : SEGURIDAD CIUDADANA – ORDEN INTERNO Y ADMINISTRACION DE JUSTICIA  4-19 Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. Las dificultades geográficas de nuestro país para poder lograr un adecuado beneficio de protección social a distritos más pobres y alejados. • La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. La ausencia de incentivos para emprendimientos de desarrollo en distritos donde existe poco potencial de recursos naturales o de cualquier índole que interesen a inversionistas. • La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico La ausencia de programas de incentivo a emprendedores para establecer desarrollos con lucro en estas zonas. • La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las La agitación social que impide a su vez emprendimientos que logren éxito y como consecuencia de ello permitan una mejor distribución de sus contribuciones y el apoyo técnico necesario para establecer y mantener infraestructura de protección social. • No se han desarrollado con eficiencia canales de educación y comunicación a las No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de No se han desarrollado con eficiencia canales de educación y comunicación a las poblaciones beneficiadas para un uso óptimo de los recursos de estos programas y el apoyo de esa misma población en difundir los beneficios alcanzados para incorporar más usu arios. • Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Ha existido resistencia a sincerar las bases de usuarios que utilizan los programas de protección a fin de que nadie que realmente los requiera deje de acceder así como nadie que no se encuentre en tal situación reste la oportunidad de quienes lo necesit an. • Los administradores de los programas de protección social no cuentan con sistemas que Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos Los administradores de los programas de protección social no cuentan con sistemas que puedan medir con objetividad los resultados de sus gestiones ni retroalimentan los programas con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. con propuestas de mejoras y eficiencia lo que resulta en una burocratizació n de recursos y mal empleo de los mismos los que terminan por no articularse en una estandarización de procesos comunes. No se menciona el salario mínimo en el documento No se menciona impuestos a grandes fortunas en el documento No se menciona privatización explícita en el documento No se menciona el matrimonio igualitario en el documento No se menciona el aborto en el documento No se mencionan políticas energéticas específicas en el documento No se menciona política migratoria en el documento Adecuada disuasión y que permita una reacción inmediata ante cualquier vulneración de nuestras fronteras o de grupos armados. La planificación permanente es indispensable para lograr un sistema de Defensa Nacional La ausencia de incentivos para emprendimientos de desarrollo en distritos - sugiere apoyo a incentivos empresariales No se menciona reforma del sistema de pensiones en el documento No se menciona educación pública gratuit. Indicadores a favor: 1, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: sis, salud universal. Indicadores a favor: 1, en contra: 0."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de transporte público gratuito en el plan de gobierno."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de internet como derecho básico en el plan de gobierno."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: Defensa. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: descentraliza. Indicadores a favor: 4, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: JUSTICIA. Indicadores a favor: 1, en contra: 0."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de elección popular de jueces en el plan de gobierno."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de límites a la reelección en el plan de gobierno."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "stances_updated_at": "2026-04-06T23:04:33.925389"
+}

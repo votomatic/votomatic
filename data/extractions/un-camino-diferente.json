@@ -1,0 +1,1259 @@
+{
+  "party": "Un Camino Diferente",
+  "source_pdf": "data/pdfs/un-camino-diferente.pdf",
+  "extracted_at": "2026-04-06T10:03:09.621091",
+  "topics": [
+    {
+      "topic": "General",
+      "proposals": [
+        {
+          "statement": "OBJETIVOS Y METAS A REALIZAR EN PERU",
+          "original_quote": "OBJETIVOS Y METAS A REALIZAR EN PERU",
+          "page": 1,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "objetivos",
+            "metas",
+            "realizar",
+            "peru"
+          ]
+        },
+        {
+          "statement": " Toda movilidad de operaciones debe  estar en función  \nactiva",
+          "original_quote": " Toda movilidad de operaciones debe  estar en función  \nactiva",
+          "page": 2,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "toda",
+            "movilidad",
+            "operaciones",
+            "estar",
+            "función"
+          ]
+        },
+        {
+          "statement": "Objetivo  general:  Implementar el bachillerato \nautomático y la homologación universitaria,  \ninspirados en el modelo europeo, para facilitar la \nmovilidad estudiantil, el acceso a posgrados y la \ninserción laboral internacional",
+          "original_quote": "Objetivo  general:  Implementar el bachillerato \nautomático y la homologación universitaria,  \ninspirados en el modelo europeo, para facilitar la \nmovilidad estudiantil, el acceso a posgrados y la \ninserción laboral internacional",
+          "page": 3,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "objetivo",
+            "general",
+            "implementar",
+            "bachillerato",
+            "automático"
+          ]
+        },
+        {
+          "statement": "Objetivos Específicos  \n Otorgar automáticamente el grado de bachiller al \nculminar los estudios universitarios",
+          "original_quote": "Objetivos Específicos  \n Otorgar automáticamente el grado de bachiller al \nculminar los estudios universitarios",
+          "page": 3,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "objetivos",
+            "específicos",
+            "otorgar",
+            "automáticamente",
+            "grado"
+          ]
+        },
+        {
+          "statement": "Bachillerato Automático  \nMovilidad y Cooperación  \n Implementar el Programa Perú –Europa de Movilidad \nAcadémica (PREMA),  similar al programa Erasmus",
+          "original_quote": "Bachillerato Automático  \nMovilidad y Cooperación  \n Implementar el Programa Perú –Europa de Movilidad \nAcadémica (PREMA),  similar al programa Erasmus",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "bachillerato",
+            "automático",
+            "movilidad",
+            "cooperación",
+            "implementar"
+          ]
+        },
+        {
+          "statement": " Consultoría estratégica y política:  Ayudamos a diseñar y \nmejorar las políticas públicas en diferentes áreas",
+          "original_quote": " Consultoría estratégica y política:  Ayudamos a diseñar y \nmejorar las políticas públicas en diferentes áreas",
+          "page": 6,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "consultoría",
+            "estratégica",
+            "política",
+            "ayudamos",
+            "diseñar"
+          ]
+        },
+        {
+          "statement": " Consultoría en gestión pública:  Asesoramiento para mejorar la \neficiencia y la eficacia de la administración pública",
+          "original_quote": " Consultoría en gestión pública:  Asesoramiento para mejorar la \neficiencia y la eficacia de la administración pública",
+          "page": 6,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "consultoría",
+            "gestión",
+            "pública",
+            "asesoramiento",
+            "mejorar"
+          ]
+        },
+        {
+          "statement": "Estas \nconsultoras, tanto internas como externas, suelen trabajar en \nestrecha colaboración con la administración pública italiana, que se \nestima emplea a más de tres millones de personas  \nTipos de consultoría y servicios  \nConsultoría estratégica y política: Ayudamos a diseñar y mejorar las \npolíticas públicas en diferentes áreas",
+          "original_quote": "Estas \nconsultoras, tanto internas como externas, suelen trabajar en \nestrecha colaboración con la administración pública italiana, que se \nestima emplea a más de tres millones de personas  \nTipos de consultoría y servicios  \nConsultoría estratégica y política: Ayudamos a diseñar y mejorar las \npolíticas públicas en diferentes áreas",
+          "page": 7,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "consultoras",
+            "tanto",
+            "internas",
+            "externas",
+            "suelen"
+          ]
+        },
+        {
+          "statement": "Consultoría en gestión pública: Asesoramiento para mejorar la \neficiencia y la eficacia de la administración pública",
+          "original_quote": "Consultoría en gestión pública: Asesoramiento para mejorar la \neficiencia y la eficacia de la administración pública",
+          "page": 7,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "consultoría",
+            "gestión",
+            "pública",
+            "asesoramiento",
+            "mejorar"
+          ]
+        },
+        {
+          "statement": " Manualidades:  Se pueden utilizar para crear manuales \ny objetos decorativos",
+          "original_quote": " Manualidades:  Se pueden utilizar para crear manuales \ny objetos decorativos",
+          "page": 9,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "manualidades",
+            "utilizar",
+            "crear",
+            "manuales",
+            "objetos"
+          ]
+        },
+        {
+          "statement": "DESARROLLO DEL CAPIT AL HUMANO Y \nCOMPETITIVIDAD  \nFormación y Capacitación:  Crear una estrategia nacional \npara mejorar las competencias (habilidades) de las personas \ndesempleadas y adaptar la formación a las demandas del \nmercado laboral actual, incluyendo habilidades tecnológicas \nrelevantes para la \"cuarta revolución industrial\"",
+          "original_quote": "DESARROLLO DEL CAPIT AL HUMANO Y \nCOMPETITIVIDAD  \nFormación y Capacitación:  Crear una estrategia nacional \npara mejorar las competencias (habilidades) de las personas \ndesempleadas y adaptar la formación a las demandas del \nmercado laboral actual, incluyendo habilidades tecnológicas \nrelevantes para la \"cuarta revolución industrial\"",
+          "page": 11,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "desarrollo",
+            "capit",
+            "humano",
+            "competitividad",
+            "formación"
+          ]
+        },
+        {
+          "statement": "CREAR UN INSTITUTO DE  HABILIDADES \nESPECIALES",
+          "original_quote": "CREAR UN INSTITUTO DE  HABILIDADES \nESPECIALES",
+          "page": 11,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "crear",
+            "instituto",
+            "habilidades",
+            "especiales"
+          ]
+        },
+        {
+          "statement": " Restauración de ecosistemas:  Implementar planes \nefectivos de reforestación y restauración de las áreas \nafectadas por la minería una vez finalizadas las \noperaciones",
+          "original_quote": " Restauración de ecosistemas:  Implementar planes \nefectivos de reforestación y restauración de las áreas \nafectadas por la minería una vez finalizadas las \noperaciones",
+          "page": 12,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "restauración",
+            "ecosistemas",
+            "implementar",
+            "planes",
+            "efectivos"
+          ]
+        },
+        {
+          "statement": " Logística predictiva:  Desarrollar un modelo  logístico \npredictivo y trazable que garantice la disponibilidad de \nrecepciones y suministros justo a tiempo, evitando \ninterrupciones operativas",
+          "original_quote": " Logística predictiva:  Desarrollar un modelo  logístico \npredictivo y trazable que garantice la disponibilidad de \nrecepciones y suministros justo a tiempo, evitando \ninterrupciones operativas",
+          "page": 12,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "logística",
+            "predictiva",
+            "desarrollar",
+            "modelo",
+            "logístico"
+          ]
+        },
+        {
+          "statement": " Planificación optimizada:  Mejorar la planificación \nminera y la gestión de riesgos para optimizar las \noperacion es y minimizar los costes operativos",
+          "original_quote": " Planificación optimizada:  Mejorar la planificación \nminera y la gestión de riesgos para optimizar las \noperacion es y minimizar los costes operativos",
+          "page": 12,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "planificación",
+            "optimizada",
+            "mejorar",
+            "minera",
+            "gestión"
+          ]
+        },
+        {
+          "statement": " Caliza:  Fabricación de cemento, cal y como \nfundente en la metalurgia",
+          "original_quote": " Caliza:  Fabricación de cemento, cal y como \nfundente en la metalurgia",
+          "page": 14,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "caliza",
+            "fabricación",
+            "cemento",
+            "fundente",
+            "metalurgia"
+          ]
+        },
+        {
+          "statement": "Sostenibilidad y resiliencia:  El modelo debe ser capaz de \nresistir  futuras crisis (climáticas, sanitarias):",
+          "original_quote": "Sostenibilidad y resiliencia:  El modelo debe ser capaz de \nresistir  futuras crisis (climáticas, sanitarias):",
+          "page": 16,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "sostenibilidad",
+            "resiliencia",
+            "modelo",
+            "capaz",
+            "resistir"
+          ]
+        },
+        {
+          "statement": "Asistencia té cnica y desarrollo normativo:  \n Modernización regulatoria :  Expertos y \norganizaciones internacionales como la OCDE \npueden cooperar con el Ministerio de Energía y \nMinas (MINEM) para desarrollar y perfeccionar \nmarcos regulatorios estables, transparentes y \nmode rnos que promuevan la reversión y faciliten la",
+          "original_quote": "Asistencia té cnica y desarrollo normativo:  \n Modernización regulatoria :  Expertos y \norganizaciones internacionales como la OCDE \npueden cooperar con el Ministerio de Energía y \nMinas (MINEM) para desarrollar y perfeccionar \nmarcos regulatorios estables, transparentes y \nmode rnos que promuevan la reversión y faciliten la",
+          "page": 18,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "asistencia",
+            "cnica",
+            "desarrollo",
+            "normativo",
+            "modernización"
+          ]
+        },
+        {
+          "statement": "El silicio se \nextrae y purifica a temperaturas superiores a 2000 \n°C en un horno p ara obtener silicio de grado \nmetalúrgico e incluso de grado solar",
+          "original_quote": "El silicio se \nextrae y purifica a temperaturas superiores a 2000 \n°C en un horno p ara obtener silicio de grado \nmetalúrgico e incluso de grado solar",
+          "page": 20,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "silicio",
+            "extrae",
+            "purifica",
+            "temperaturas",
+            "superiores"
+          ]
+        },
+        {
+          "statement": " Tratam iento y recuperación de la superficie :  Los \nobjetos se tratan químicamente para eliminar \nimpurezas y se texturizan para reducir el reflejo de \nla luz solar",
+          "original_quote": " Tratam iento y recuperación de la superficie :  Los \nobjetos se tratan químicamente para eliminar \nimpurezas y se texturizan para reducir el reflejo de \nla luz solar",
+          "page": 20,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "tratam",
+            "iento",
+            "recuperación",
+            "superficie",
+            "objetos"
+          ]
+        },
+        {
+          "statement": "Se aplica una capa antirreflectante de \nnitruro de silicio para mejorar la absorción de la luz",
+          "original_quote": "Se aplica una capa antirreflectante de \nnitruro de silicio para mejorar la absorción de la luz",
+          "page": 20,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "aplica",
+            "capa",
+            "antirreflectante",
+            "nitruro",
+            "silicio"
+          ]
+        },
+        {
+          "statement": "En la \nparte posterior se encuentra una caja de \nconexiones para recoger la electricidad generada y \ngarantizar el flujo unidireccional de la corriente",
+          "original_quote": "En la \nparte posterior se encuentra una caja de \nconexiones para recoger la electricidad generada y \ngarantizar el flujo unidireccional de la corriente",
+          "page": 21,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "parte",
+            "posterior",
+            "encuentra",
+            "caja",
+            "conexiones"
+          ]
+        },
+        {
+          "statement": "Objetivos principales de la defensa europea en 2025",
+          "original_quote": "Objetivos principales de la defensa europea en 2025",
+          "page": 21,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "objetivos",
+            "principales",
+            "defensa",
+            "europea"
+          ]
+        },
+        {
+          "statement": "En resumen, la defensa europea en 2025 se \nencuentra en una fase de profunda transformación, \ncon un compromiso renovado y un mayor esfuerzo \npara cerrar las brechas de capacidad y garantizar la \npreparación militar en todo el continente",
+          "original_quote": "En resumen, la defensa europea en 2025 se \nencuentra en una fase de profunda transformación, \ncon un compromiso renovado y un mayor esfuerzo \npara cerrar las brechas de capacidad y garantizar la \npreparación militar en todo el continente",
+          "page": 22,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "resumen",
+            "defensa",
+            "europea",
+            "encuentra",
+            "fase"
+          ]
+        },
+        {
+          "statement": "Objetivos principales del MINDEF para 2026  \n Modernización y equipamiento:  El objetivo \nprincipal es continuar y acelerar el \"mega plan\" de \nmodernización del Ejército, la Armada y la Fuerza \nAérea q ue se extiende más allá de 2026",
+          "original_quote": "Objetivos principales del MINDEF para 2026  \n Modernización y equipamiento:  El objetivo \nprincipal es continuar y acelerar el \"mega plan\" de \nmodernización del Ejército, la Armada y la Fuerza \nAérea q ue se extiende más allá de 2026",
+          "page": 22,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "objetivos",
+            "principales",
+            "mindef",
+            "modernización",
+            "equipamiento"
+          ]
+        },
+        {
+          "statement": "IDEARIO: PRINCIPIOS, OBJETIVOS Y VALORES DE LA \nORGANIZACIÓN POLÍTICA",
+          "original_quote": "IDEARIO: PRINCIPIOS, OBJETIVOS Y VALORES DE LA \nORGANIZACIÓN POLÍTICA",
+          "page": 26,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ideario",
+            "principios",
+            "objetivos",
+            "valores",
+            "organización"
+          ]
+        },
+        {
+          "statement": " Gestión Eficiente de Recursos  \n Optimizar los recursos públicos para garantizar obras y servicios de calidad sin derroche",
+          "original_quote": " Gestión Eficiente de Recursos  \n Optimizar los recursos públicos para garantizar obras y servicios de calidad sin derroche",
+          "page": 26,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "gestión",
+            "eficiente",
+            "recursos",
+            "optimizar",
+            "públicos"
+          ]
+        },
+        {
+          "statement": " Familias como Pilar del Desarrollo  \n Crear programas integrales que fortalezcan el rol de las familias en la sociedad",
+          "original_quote": " Familias como Pilar del Desarrollo  \n Crear programas integrales que fortalezcan el rol de las familias en la sociedad",
+          "page": 26,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "familias",
+            "pilar",
+            "desarrollo",
+            "crear",
+            "programas"
+          ]
+        },
+        {
+          "statement": "Actividades  \n Evaluación i ntegral de la estructura del Poder Ejecutivo para reducir progresivamente el \nnúmero de ministerios de diecinueve (19) a ocho (8), eliminando duplicidades funcionales y \nfortaleciendo la coordinación intersectorial",
+          "original_quote": "Actividades  \n Evaluación i ntegral de la estructura del Poder Ejecutivo para reducir progresivamente el \nnúmero de ministerios de diecinueve (19) a ocho (8), eliminando duplicidades funcionales y \nfortaleciendo la coordinación intersectorial",
+          "page": 30,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "actividades",
+            "evaluación",
+            "ntegral",
+            "estructura",
+            "poder"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Economía",
+      "proposals": [
+        {
+          "statement": "EMPLEOS MASIVO Y VIV IENDAS POPULARES    \nPOLÍTICAS GUBERNAMEN TALES Y PROGRAMAS \nPARA EMPLEADOS  \nEl gobierno peruano puede implementar o hacer cumplir las \nsiguientes medidas:",
+          "original_quote": "EMPLEOS MASIVO Y VIV IENDAS POPULARES    \nPOLÍTICAS GUBERNAMEN TALES Y PROGRAMAS \nPARA EMPLEADOS  \nEl gobierno peruano puede implementar o hacer cumplir las \nsiguientes medidas:",
+          "page": 9,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "empleos",
+            "masivo",
+            "iendas",
+            "populares",
+            "políticas"
+          ]
+        },
+        {
+          "statement": " Formalización laboral:  Promover la formalización de la \nfuerza laboral mediante la moderniz ación de la \nlegislación laboral, ofreciendo incentivos a las empresas \ny garantizando el acceso a la seguridad social y las \npensiones para los trabajadores",
+          "original_quote": " Formalización laboral:  Promover la formalización de la \nfuerza laboral mediante la moderniz ación de la \nlegislación laboral, ofreciendo incentivos a las empresas \ny garantizando el acceso a la seguridad social y las \npensiones para los trabajadores",
+          "page": 10,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "formalización",
+            "laboral",
+            "promover",
+            "fuerza",
+            "moderniz"
+          ]
+        },
+        {
+          "statement": " Servicios y comercio:  Estos sectores han liderado el \ncreci miento de la fuerza laboral formal en los últimos \naños y deben ser un foco de apoyo",
+          "original_quote": " Servicios y comercio:  Estos sectores han liderado el \ncreci miento de la fuerza laboral formal en los últimos \naños y deben ser un foco de apoyo",
+          "page": 10,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "servicios",
+            "comercio",
+            "sectores",
+            "liderado",
+            "creci"
+          ]
+        },
+        {
+          "statement": "Integración Tecnológica:  Integrar las zonas rurales a la \ntecnología para mejorar su competitividad y  \nacceso  a oportunidades de empleo a nivel nacional e \ninternacional",
+          "original_quote": "Integración Tecnológica:  Integrar las zonas rurales a la \ntecnología para mejorar su competitividad y  \nacceso  a oportunidades de empleo a nivel nacional e \ninternacional",
+          "page": 11,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "integración",
+            "tecnológica",
+            "integrar",
+            "zonas",
+            "rurales"
+          ]
+        },
+        {
+          "statement": " Economía circular:  Promover la reutilización, el \nreciclaje y la recuperación de residuos y materiales de \ndesecho para reducir la generación de residuos y \nrecuperar ti erras degradadas",
+          "original_quote": " Economía circular:  Promover la reutilización, el \nreciclaje y la recuperación de residuos y materiales de \ndesecho para reducir la generación de residuos y \nrecuperar ti erras degradadas",
+          "page": 12,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "economía",
+            "circular",
+            "promover",
+            "reutilización",
+            "reciclaje"
+          ]
+        },
+        {
+          "statement": "“Crear empresas para la \nproducción como el alambre y otros ”",
+          "original_quote": "“Crear empresas para la \nproducción como el alambre y otros ”",
+          "page": 13,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "crear",
+            "empresas",
+            "producción",
+            "alambre",
+            "otros"
+          ]
+        },
+        {
+          "statement": "Economía ara 2026,  el modelo económico debe ser  sostenible, \ninclusivo y resiliente, integrando pilares clave como  la estabilidad \nfiscal, la recuperación del capital humano y  la infraestructura, y la \nsostenibilidad ambiental",
+          "original_quote": "Economía ara 2026,  el modelo económico debe ser  sostenible, \ninclusivo y resiliente, integrando pilares clave como  la estabilidad \nfiscal, la recuperación del capital humano y  la infraestructura, y la \nsostenibilidad ambiental",
+          "page": 15,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "economía",
+            "modelo",
+            "económico",
+            "sostenible",
+            "inclusivo"
+          ]
+        },
+        {
+          "statement": "o Consolidación fiscal:  Reducir el déficit fiscal para \nasegurar que el patrimonio público se mantenga en un  nivel \nmanejable y sostenible durante un largo periodo de tiempo",
+          "original_quote": "o Consolidación fiscal:  Reducir el déficit fiscal para \nasegurar que el patrimonio público se mantenga en un  nivel \nmanejable y sostenible durante un largo periodo de tiempo",
+          "page": 15,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "consolidación",
+            "fiscal",
+            "reducir",
+            "déficit",
+            "asegurar"
+          ]
+        },
+        {
+          "statement": "o Mercado laboral inclusivo:  Promover la creación de \nempleos formales, garantizar  la igualdad salarial y \nfortalecer los mecanismos de protección social",
+          "original_quote": "o Mercado laboral inclusivo:  Promover la creación de \nempleos formales, garantizar  la igualdad salarial y \nfortalecer los mecanismos de protección social",
+          "page": 15,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "mercado",
+            "laboral",
+            "inclusivo",
+            "promover",
+            "creación"
+          ]
+        },
+        {
+          "statement": "o Economía verde/circular:  Promover tecnologías y \nprácticas sostenibles, diversificando la economía  más allá \nde la dependencia de las materias prim as",
+          "original_quote": "o Economía verde/circular:  Promover tecnologías y \nprácticas sostenibles, diversificando la economía  más allá \nde la dependencia de las materias prim as",
+          "page": 16,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "economía",
+            "verde",
+            "circular",
+            "promover",
+            "tecnologías"
+          ]
+        },
+        {
+          "statement": " Reforzar la base industrial y tecnológica:  La UE \nbusca fortalecer la industria de defensa ampliando \nlos programas financieros existentes, permitiendo \nel uso de fondos de desarrollo regional y la \ninnovación para proyectos de defensa, y \nfomentando la producción en serie (por ejemplo, \ndrones kamikaze )",
+          "original_quote": " Reforzar la base industrial y tecnológica:  La UE \nbusca fortalecer la industria de defensa ampliando \nlos programas financieros existentes, permitiendo \nel uso de fondos de desarrollo regional y la \ninnovación para proyectos de defensa, y \nfomentando la producción en serie (por ejemplo, \ndrones kamikaze )",
+          "page": 21,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "reforzar",
+            "base",
+            "industrial",
+            "tecnológica",
+            "busca"
+          ]
+        },
+        {
+          "statement": " Incremento previ sto: La provisión para el sector \nde defensa para el año fiscal 2026 asciende a más \nde 9.600 millones de soles (aproximadamente \n2.700 millones de dólares), un aumento en \ncomparación con años anteriores, con el objetivo de \nconsolidar inversiones y garantizar  una alta \nejecución prevista",
+          "original_quote": " Incremento previ sto: La provisión para el sector \nde defensa para el año fiscal 2026 asciende a más \nde 9.600 millones de soles (aproximadamente \n2.700 millones de dólares), un aumento en \ncomparación con años anteriores, con el objetivo de \nconsolidar inversiones y garantizar  una alta \nejecución prevista",
+          "page": 22,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "incremento",
+            "previ",
+            "provisión",
+            "sector",
+            "defensa"
+          ]
+        },
+        {
+          "statement": " Promoción de negocios sostenibles:  Se asignarán \nfondos, como los 7 millones previstos para 2026, para \nfortalecer las empresas locales que contribuyen a la \nconservación y mejora de la calidad de vida de las \nfamilias",
+          "original_quote": " Promoción de negocios sostenibles:  Se asignarán \nfondos, como los 7 millones previstos para 2026, para \nfortalecer las empresas locales que contribuyen a la \nconservación y mejora de la calidad de vida de las \nfamilias",
+          "page": 24,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "promoción",
+            "negocios",
+            "sostenibles",
+            "asignarán",
+            "fondos"
+          ]
+        },
+        {
+          "statement": " Fuer za Regional Productiva  \n Fortalecer las economías regionales con programas específicos de capacitación y acceso al \nmercado",
+          "original_quote": " Fuer za Regional Productiva  \n Fortalecer las economías regionales con programas específicos de capacitación y acceso al \nmercado",
+          "page": 26,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fuer",
+            "regional",
+            "productiva",
+            "fortalecer",
+            "economías"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Medio Ambiente",
+      "proposals": [
+        {
+          "statement": "MINERIA     \nMejorar la minería, esto implica un enfoque integral centrado en \nla sostenibilidad, la eficiencia tecnológica, la formalización y una \nmejor gestión social y ambiental",
+          "original_quote": "MINERIA     \nMejorar la minería, esto implica un enfoque integral centrado en \nla sostenibilidad, la eficiencia tecnológica, la formalización y una \nmejor gestión social y ambiental",
+          "page": 11,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "mineria",
+            "mejorar",
+            "minería",
+            "esto",
+            "implica"
+          ]
+        },
+        {
+          "statement": "Acceso al GLP:  Persisten los problemas para garantizar \nque el gas de petróleo (GLP) sea accesible, se guro y \nsostenible para miles de trabajadores, especialmente en \nzonas vulnerables",
+          "original_quote": "Acceso al GLP:  Persisten los problemas para garantizar \nque el gas de petróleo (GLP) sea accesible, se guro y \nsostenible para miles de trabajadores, especialmente en \nzonas vulnerables",
+          "page": 17,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "acceso",
+            "persisten",
+            "problemas",
+            "garantizar",
+            "petróleo"
+          ]
+        },
+        {
+          "statement": "Objetivos y enfoques principales : \n Control de la contaminación y gestión de residuos:  \nPriorizar el control de la contaminación ambiental y \nmejorar la gestión de residuos sólidos, incluyendo \nproyectos regulatorios para la clasificación temprana de \nproyectos de reversión en esta área",
+          "original_quote": "Objetivos y enfoques principales : \n Control de la contaminación y gestión de residuos:  \nPriorizar el control de la contaminación ambiental y \nmejorar la gestión de residuos sólidos, incluyendo \nproyectos regulatorios para la clasificación temprana de \nproyectos de reversión en esta área",
+          "page": 23,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "objetivos",
+            "enfoques",
+            "principales",
+            "control",
+            "contaminación"
+          ]
+        },
+        {
+          "statement": "En resumen, el MINAM en 2026 está orientado hacia una \ngestión ambiental proactiva, con una base preposicional \ndefinida y objetivos estratégicos claros para abordar los \nriesgos ambientales del país en el marco de la Política \nAmbiental Nacional ha sta 2030 y los Objetivos de \nDesarrollo Sostenible (ODS)",
+          "original_quote": "En resumen, el MINAM en 2026 está orientado hacia una \ngestión ambiental proactiva, con una base preposicional \ndefinida y objetivos estratégicos claros para abordar los \nriesgos ambientales del país en el marco de la Política \nAmbiental Nacional ha sta 2030 y los Objetivos de \nDesarrollo Sostenible (ODS)",
+          "page": 24,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "resumen",
+            "minam",
+            "está",
+            "orientado",
+            "hacia"
+          ]
+        },
+        {
+          "statement": "Estrategia  \nPromover el aprovechamiento responsable de los recursos naturales con sostenibilidad ambiental y \nbeneficio directo para las comunidades",
+          "original_quote": "Estrategia  \nPromover el aprovechamiento responsable de los recursos naturales con sostenibilidad ambiental y \nbeneficio directo para las comunidades",
+          "page": 28,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "estrategia",
+            "promover",
+            "aprovechamiento",
+            "responsable",
+            "recursos"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Infraestructura",
+      "proposals": [
+        {
+          "statement": "Metales Base e Industriales  \nSon la base de l a mayoría de las industrias manufactureras y \nde la construcción:",
+          "original_quote": "Metales Base e Industriales  \nSon la base de l a mayoría de las industrias manufactureras y \nde la construcción:",
+          "page": 13,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "metales",
+            "base",
+            "industriales",
+            "mayoría",
+            "industrias"
+          ]
+        },
+        {
+          "statement": "o Inversión de infraestructura:  Cerrar las brechas en la \ninfraestructura física (transporte, energía,  conectividad \ndigital) para reducir los costos operativos y mejorar  la \nlogística",
+          "original_quote": "o Inversión de infraestructura:  Cerrar las brechas en la \ninfraestructura física (transporte, energía,  conectividad \ndigital) para reducir los costos operativos y mejorar  la \nlogística",
+          "page": 16,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "inversión",
+            "infraestructura",
+            "cerrar",
+            "brechas",
+            "física"
+          ]
+        },
+        {
+          "statement": "Interconexión Regional e Integración de Mercados:  \n Infraestructura de Interconexión:  Cooperar en el \ndesarrollo de la infraestructura de interconexión \neléctrica con países vecinos como Ecuador y \nColombia, lo que permitiría el intercambio de \nelectricidad y garantizaría un suministro más \nseguro y fiable para todos los participantes",
+          "original_quote": "Interconexión Regional e Integración de Mercados:  \n Infraestructura de Interconexión:  Cooperar en el \ndesarrollo de la infraestructura de interconexión \neléctrica con países vecinos como Ecuador y \nColombia, lo que permitiría el intercambio de \nelectricidad y garantizaría un suministro más \nseguro y fiable para todos los participantes",
+          "page": 19,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "interconexión",
+            "regional",
+            "integración",
+            "mercados",
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "Estrategia  \nCerrar brechas de infraestructura y fortalecer la descentralización para mejorar la calidad de vida y \nla competitividad regional",
+          "original_quote": "Estrategia  \nCerrar brechas de infraestructura y fortalecer la descentralización para mejorar la calidad de vida y \nla competitividad regional",
+          "page": 29,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "estrategia",
+            "cerrar",
+            "brechas",
+            "infraestructura",
+            "fortalecer"
+          ]
+        },
+        {
+          "statement": "Estrategia  \nDesarrollar infraestructura de transporte estratégico que integre las regiones y potencie el desarrollo \neconómico",
+          "original_quote": "Estrategia  \nDesarrollar infraestructura de transporte estratégico que integre las regiones y potencie el desarrollo \neconómico",
+          "page": 30,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "estrategia",
+            "desarrollar",
+            "infraestructura",
+            "transporte",
+            "estratégico"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tecnología",
+      "proposals": [
+        {
+          "statement": "Digitalización  \n Desarrollar la plataforma Bachiller y Título Digital Perú,  \ncon registro en línea, firma electrónica y código QR \nverificable",
+          "original_quote": "Digitalización  \n Desarrollar la plataforma Bachiller y Título Digital Perú,  \ncon registro en línea, firma electrónica y código QR \nverificable",
+          "page": 4,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "digitalización",
+            "desarrollar",
+            "plataforma",
+            "bachiller",
+            "título"
+          ]
+        },
+        {
+          "statement": "Implementar tecnologías limpias: Tecnologías de efi ciencia \nenergética inversa y energías limpias para reducir la huella de \ncarbono de las operaciones mineras",
+          "original_quote": "Implementar tecnologías limpias: Tecnologías de efi ciencia \nenergética inversa y energías limpias para reducir la huella de \ncarbono de las operaciones mineras",
+          "page": 12,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "implementar",
+            "tecnologías",
+            "limpias",
+            "ciencia",
+            "energética"
+          ]
+        },
+        {
+          "statement": " Eficiencia y Tecnología  \n Digitalización y automatización:  Incorporar nuevas \ntecnologías como la automatización, la inteligencia \nartificial y la monitorización en tiempo real para optimizar \nlos procesos de producción, mejorar la seguridad y \nreducir el impacto ambiental",
+          "original_quote": " Eficiencia y Tecnología  \n Digitalización y automatización:  Incorporar nuevas \ntecnologías como la automatización, la inteligencia \nartificial y la monitorización en tiempo real para optimizar \nlos procesos de producción, mejorar la seguridad y \nreducir el impacto ambiental",
+          "page": 12,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "eficiencia",
+            "tecnología",
+            "digitalización",
+            "automatización",
+            "incorporar"
+          ]
+        },
+        {
+          "statement": "o Transformación digital:  Aprobar tecnologías digitales \npara mejorar la eficiencia  de los sectores público y privado \ny desarrollar nuevos  sectores económicos",
+          "original_quote": "o Transformación digital:  Aprobar tecnologías digitales \npara mejorar la eficiencia  de los sectores público y privado \ny desarrollar nuevos  sectores económicos",
+          "page": 16,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "transformación",
+            "digital",
+            "aprobar",
+            "tecnologías",
+            "digitales"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Seguridad",
+      "proposals": [
+        {
+          "statement": "o Estado de derecho:  Garantizar la seguridad jurídica para \nfomentar la reversión  y la confianza",
+          "original_quote": "o Estado de derecho:  Garantizar la seguridad jurídica para \nfomentar la reversión  y la confianza",
+          "page": 16,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "estado",
+            "derecho",
+            "garantizar",
+            "seguridad",
+            "jurídica"
+          ]
+        },
+        {
+          "statement": "Seguridad energética y diversificación matricial  \nDependencia del gas natural y vulnerabilidad de costos:  \nSi bien la masificación del gas natural es un objetivo principal, \nla dependencia actual de esta fuente y la falta de \ndiversificación total con otras fuentes renovables \n(hidroeléctrica, solar, eólica) aumentan los riesgos de \nvolatilidad en los costos medio s de generación de electricidad \na plazo",
+          "original_quote": "Seguridad energética y diversificación matricial  \nDependencia del gas natural y vulnerabilidad de costos:  \nSi bien la masificación del gas natural es un objetivo principal, \nla dependencia actual de esta fuente y la falta de \ndiversificación total con otras fuentes renovables \n(hidroeléctrica, solar, eólica) aumentan los riesgos de \nvolatilidad en los costos medio s de generación de electricidad \na plazo",
+          "page": 17,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "seguridad",
+            "energética",
+            "diversificación",
+            "matricial",
+            "dependencia"
+          ]
+        },
+        {
+          "statement": "Objetivos  \n Construyendo un Perú justo y próspero para todos  \n Orden y Justicia para Todos  \n Priorizar un sistema de justicia rápido y accesible que garantice el respeto a las leyes",
+          "original_quote": "Objetivos  \n Construyendo un Perú justo y próspero para todos  \n Orden y Justicia para Todos  \n Priorizar un sistema de justicia rápido y accesible que garantice el respeto a las leyes",
+          "page": 26,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "objetivos",
+            "construyendo",
+            "perú",
+            "justo",
+            "próspero"
+          ]
+        },
+        {
+          "statement": " Ciudades Seguras y Modernas  \n Desarrollar infraestructura urbana que priorice la seguridad y la calidad de vida",
+          "original_quote": " Ciudades Seguras y Modernas  \n Desarrollar infraestructura urbana que priorice la seguridad y la calidad de vida",
+          "page": 26,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "ciudades",
+            "seguras",
+            "modernas",
+            "desarrollar",
+            "infraestructura"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Política Social",
+      "proposals": [
+        {
+          "statement": " Formalización y aspectos sociales  \n Lucha contra la minería ilegal:  Fortalecer la estrategia \nnacional para combatir la minería ilegal, reduciendo las \nactividades no autorizadas y el transporte ilícito de \ninsumos como ex plosivos e hidrocarburos",
+          "original_quote": " Formalización y aspectos sociales  \n Lucha contra la minería ilegal:  Fortalecer la estrategia \nnacional para combatir la minería ilegal, reduciendo las \nactividades no autorizadas y el transporte ilícito de \ninsumos como ex plosivos e hidrocarburos",
+          "page": 12,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "formalización",
+            "aspectos",
+            "sociales",
+            "lucha",
+            "contra"
+          ]
+        },
+        {
+          "statement": "expectativas y asegurar la \"licencia social\" para operar, \nque es fundamental para la viabilidad de los proyectos",
+          "original_quote": "expectativas y asegurar la \"licencia social\" para operar, \nque es fundamental para la viabilidad de los proyectos",
+          "page": 13,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "expectativas",
+            "asegurar",
+            "licencia",
+            "social",
+            "operar"
+          ]
+        },
+        {
+          "statement": " Desarr ollo local:  Asegurar que los beneficios de la \nminería (como el canon y las regalías) se traduzcan en \nun gasto público eficiente y visible en las zonas de \ninfluencia, cerrando brechas sociales y mejorando la \ncalidad de vida de los peruanos",
+          "original_quote": " Desarr ollo local:  Asegurar que los beneficios de la \nminería (como el canon y las regalías) se traduzcan en \nun gasto público eficiente y visible en las zonas de \ninfluencia, cerrando brechas sociales y mejorando la \ncalidad de vida de los peruanos",
+          "page": 13,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "desarr",
+            "ollo",
+            "local",
+            "asegurar",
+            "beneficios"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salud",
+      "proposals": [
+        {
+          "statement": "o Eficiencia del gas:  Asegurar que el gas público se destine \na inversiones productivas (infraestructura, educación, \nsalud) en lugar de  a usos ineficientes actuales",
+          "original_quote": "o Eficiencia del gas:  Asegurar que el gas público se destine \na inversiones productivas (infraestructura, educación, \nsalud) en lugar de  a usos ineficientes actuales",
+          "page": 15,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "eficiencia",
+            "asegurar",
+            "público",
+            "destine",
+            "inversiones"
+          ]
+        },
+        {
+          "statement": "o Educación y salud de calidad:  Mejorar el acceso y la \ncalidad de  los servicios educativos y sanitarios para \naumentar  la productividad y el bienestar general",
+          "original_quote": "o Educación y salud de calidad:  Mejorar el acceso y la \ncalidad de  los servicios educativos y sanitarios para \naumentar  la productividad y el bienestar general",
+          "page": 15,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "educación",
+            "salud",
+            "calidad",
+            "mejorar",
+            "acceso"
+          ]
+        },
+        {
+          "statement": " Salud Preventiva y Comunitaria  \n Promover campañas de prevención y acceso a servicios médicos en las zon as más necesitadas",
+          "original_quote": " Salud Preventiva y Comunitaria  \n Promover campañas de prevención y acceso a servicios médicos en las zon as más necesitadas",
+          "page": 26,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "salud",
+            "preventiva",
+            "comunitaria",
+            "promover",
+            "campañas"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Agricultura",
+      "proposals": [
+        {
+          "statement": "Alcanzar la meta del 96 % de \nelectrificación rural para 2026 presenta desafíos logísticos y \nde reversión",
+          "original_quote": "Alcanzar la meta del 96 % de \nelectrificación rural para 2026 presenta desafíos logísticos y \nde reversión",
+          "page": 17,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "alcanzar",
+            "meta",
+            "electrificación",
+            "rural",
+            "presenta"
+          ]
+        },
+        {
+          "statement": "Electrificación rural y acceso universal:  \n Proyectos a pequ eña escala:  Los donantes y \nvendedores pueden financiar proyectos para \ndesarrollar sistemas a pequeña escala que utilicen \nenergía solar fotovoltaica para comunidades \nrurales en las laderas, contribuyendo directamente \na cerrar la brecha en el acceso a la ele ctricidad",
+          "original_quote": "Electrificación rural y acceso universal:  \n Proyectos a pequ eña escala:  Los donantes y \nvendedores pueden financiar proyectos para \ndesarrollar sistemas a pequeña escala que utilicen \nenergía solar fotovoltaica para comunidades \nrurales en las laderas, contribuyendo directamente \na cerrar la brecha en el acceso a la ele ctricidad",
+          "page": 19,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "electrificación",
+            "rural",
+            "acceso",
+            "universal",
+            "proyectos"
+          ]
+        },
+        {
+          "statement": " Formación de lingotes :  El silicio purificado se \nfunde y se mezcla con boro o fósforo para doparlo \ny crear un campo eléctrico (unión PN)",
+          "original_quote": " Formación de lingotes :  El silicio purificado se \nfunde y se mezcla con boro o fósforo para doparlo \ny crear un campo eléctrico (unión PN)",
+          "page": 20,
+          "measurable": true,
+          "specificity": "baja",
+          "keywords": [
+            "formación",
+            "lingotes",
+            "silicio",
+            "purificado",
+            "funde"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Gobernanza",
+      "proposals": [
+        {
+          "statement": " Fortalecimiento de la industria de defensa \nnacional: Planeamos presentar al Congreso un \nproye cto de ley para garantizar que la industria de \ndefensa se convierta en una política estatal \npermanente que trascienda los cambios de \ngobierno",
+          "original_quote": " Fortalecimiento de la industria de defensa \nnacional: Planeamos presentar al Congreso un \nproye cto de ley para garantizar que la industria de \ndefensa se convierta en una política estatal \npermanente que trascienda los cambios de \ngobierno",
+          "page": 22,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "fortalecimiento",
+            "industria",
+            "defensa",
+            "nacional",
+            "planeamos"
+          ]
+        },
+        {
+          "statement": "Estrategia  \nFortalecer las instituciones públicas promoviendo transparencia, eficiencia y control permanente",
+          "original_quote": "Estrategia  \nFortalecer las instituciones públicas promoviendo transparencia, eficiencia y control permanente",
+          "page": 29,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "estrategia",
+            "fortalecer",
+            "instituciones",
+            "públicas",
+            "promoviendo"
+          ]
+        },
+        {
+          "statement": "Estrategia  \nOptimizar la estructura del Esta do mediante la reducción y fusión de ministerios, así como el \nfortalecimiento de los mecanismos de control y evaluación de idoneidad de los funcionarios \npúblicos, con el fin de mejorar la eficiencia, transparencia y gobernabilidad",
+          "original_quote": "Estrategia  \nOptimizar la estructura del Esta do mediante la reducción y fusión de ministerios, así como el \nfortalecimiento de los mecanismos de control y evaluación de idoneidad de los funcionarios \npúblicos, con el fin de mejorar la eficiencia, transparencia y gobernabilidad",
+          "page": 30,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "estrategia",
+            "optimizar",
+            "estructura",
+            "reducción",
+            "fusión"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Educación",
+      "proposals": [
+        {
+          "statement": " Promover la  movilidad estudiantil y docente",
+          "original_quote": " Promover la  movilidad estudiantil y docente",
+          "page": 4,
+          "measurable": false,
+          "specificity": "baja",
+          "keywords": [
+            "promover",
+            "movilidad",
+            "estudiantil",
+            "docente"
+          ]
+        }
+      ]
+    }
+  ],
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: salario mínimo. Indicadores a favor: 8, en contra: 18."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: impuestos a grandes fortuna. Indicadores a favor: 26, en contra: 18."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: incentivos a las empresa. Indicadores a favor: 46, en contra: 18."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: pension. Indicadores a favor: 68, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de libre comercio vs proteccionismo en el plan de gobierno."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: matrimonio igualitario. Indicadores a favor: 2, en contra: 0."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: género. Indicadores a favor: 36, en contra: 0."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: migra. Indicadores a favor: 8, en contra: 13."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de pena de muerte en el plan de gobierno."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: privatiza. Indicadores a favor: 27, en contra: 0."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: renovable, solar. Indicadores a favor: 16, en contra: 0."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: educación públic, educación pública gratuit. Indicadores a favor: 35, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: sis. Indicadores a favor: 20, en contra: 0."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de transporte público gratuito en el plan de gobierno."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: conectividad. Indicadores a favor: 22, en contra: 0."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: defensa, militar. Indicadores a favor: 19, en contra: 16."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: descentraliza, region. Indicadores a favor: 32, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: justicia, Justicia. Indicadores a favor: 50, en contra: 0."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de elección popular de jueces en el plan de gobierno."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de límites a la reelección en el plan de gobierno."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "stances_updated_at": "2026-04-06T23:04:33.894980"
+}

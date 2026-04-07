@@ -1,0 +1,290 @@
+{
+  "generated_at": "2026-04-06T23:04:55.362396",
+  "category": "governance",
+  "total_parties": 37,
+  "formula": "(a_favor × (en_contra + neutral)) / total²",
+  "issues": [
+    {
+      "issue": "Aumento del gasto militar",
+      "counts": {
+        "a_favor": 2,
+        "en_contra": 1,
+        "neutral": 33,
+        "no_mencionado": 1
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "partido-politico-nacional-peru-libre",
+        "partido-civico-obras"
+      ],
+      "parties_contra": [
+        "partido-sicreo"
+      ],
+      "parties_neutral": [
+        "un-camino-diferente",
+        "ahora-nacion",
+        "podemos-peru",
+        "partido-frente-de-la-esperanza-2021",
+        "progresemos",
+        "partido-politico-cooperacion-popular",
+        "partido-del-buen-gobierno",
+        "juntos-por-el-peru",
+        "partido-politico-prin",
+        "fuerza-popular",
+        "alianza-para-el-progreso",
+        "peru-moderno",
+        "frente-popular-agricola-fia-del-peru",
+        "fe-en-el-peru",
+        "fuerza-y-libertad",
+        "partido-aprista-peruano",
+        "partido-democrata-verde",
+        "partido-politico-peru-accion",
+        "avanza-pais",
+        "unidad-nacional",
+        "libertad-popular",
+        "partido-de-los-trabajadores-y-emprendedores",
+        "renovacion-popular",
+        "primero-la-gente",
+        "partido-politico-integridad-democratica",
+        "partido-politico-peru-primero",
+        "partido-democratico-somos-peru",
+        "partido-pais-para-todos",
+        "partido-democratico-federal",
+        "alianza-electoral-venceremos",
+        "salvemos-al-peru",
+        "partido-patriotico-del-peru",
+        "partido-morado"
+      ],
+      "divergence_score": 0.0497,
+      "coverage": "high",
+      "recommended_for_questions": false
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "counts": {
+        "a_favor": 28,
+        "en_contra": 1,
+        "neutral": 8,
+        "no_mencionado": 0
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "un-camino-diferente",
+        "podemos-peru",
+        "partido-politico-nacional-peru-libre",
+        "progresemos",
+        "partido-politico-cooperacion-popular",
+        "juntos-por-el-peru",
+        "partido-politico-prin",
+        "alianza-para-el-progreso",
+        "peru-moderno",
+        "fe-en-el-peru",
+        "partido-civico-obras",
+        "fuerza-y-libertad",
+        "partido-aprista-peruano",
+        "partido-democrata-verde",
+        "partido-politico-peru-accion",
+        "unidad-nacional",
+        "libertad-popular",
+        "partido-de-los-trabajadores-y-emprendedores",
+        "renovacion-popular",
+        "primero-la-gente",
+        "partido-politico-peru-primero",
+        "partido-democratico-somos-peru",
+        "partido-pais-para-todos",
+        "partido-democratico-federal",
+        "alianza-electoral-venceremos",
+        "salvemos-al-peru",
+        "partido-sicreo",
+        "partido-morado"
+      ],
+      "parties_contra": [
+        "partido-democrata-unido-peru"
+      ],
+      "parties_neutral": [
+        "ahora-nacion",
+        "partido-frente-de-la-esperanza-2021",
+        "partido-del-buen-gobierno",
+        "fuerza-popular",
+        "frente-popular-agricola-fia-del-peru",
+        "avanza-pais",
+        "partido-politico-integridad-democratica",
+        "partido-patriotico-del-peru"
+      ],
+      "divergence_score": 0.1841,
+      "coverage": "high",
+      "recommended_for_questions": true
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "counts": {
+        "a_favor": 34,
+        "en_contra": 0,
+        "neutral": 0,
+        "no_mencionado": 3
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "un-camino-diferente",
+        "ahora-nacion",
+        "partido-politico-nacional-peru-libre",
+        "partido-frente-de-la-esperanza-2021",
+        "progresemos",
+        "partido-politico-cooperacion-popular",
+        "partido-del-buen-gobierno",
+        "juntos-por-el-peru",
+        "partido-politico-prin",
+        "fuerza-popular",
+        "alianza-para-el-progreso",
+        "peru-moderno",
+        "frente-popular-agricola-fia-del-peru",
+        "fe-en-el-peru",
+        "partido-civico-obras",
+        "fuerza-y-libertad",
+        "partido-aprista-peruano",
+        "partido-democrata-verde",
+        "partido-politico-peru-accion",
+        "avanza-pais",
+        "unidad-nacional",
+        "libertad-popular",
+        "partido-de-los-trabajadores-y-emprendedores",
+        "renovacion-popular",
+        "primero-la-gente",
+        "partido-politico-integridad-democratica",
+        "partido-politico-peru-primero",
+        "partido-democratico-somos-peru",
+        "partido-pais-para-todos",
+        "alianza-electoral-venceremos",
+        "salvemos-al-peru",
+        "partido-patriotico-del-peru",
+        "partido-sicreo",
+        "partido-morado"
+      ],
+      "parties_contra": [],
+      "parties_neutral": [],
+      "divergence_score": 0.0,
+      "coverage": "high",
+      "recommended_for_questions": false
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "counts": {
+        "a_favor": 4,
+        "en_contra": 3,
+        "neutral": 9,
+        "no_mencionado": 21
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "partido-politico-cooperacion-popular",
+        "frente-popular-agricola-fia-del-peru",
+        "alianza-electoral-venceremos",
+        "partido-sicreo"
+      ],
+      "parties_contra": [
+        "partido-politico-integridad-democratica",
+        "partido-democratico-somos-peru",
+        "salvemos-al-peru"
+      ],
+      "parties_neutral": [
+        "ahora-nacion",
+        "partido-frente-de-la-esperanza-2021",
+        "progresemos",
+        "partido-del-buen-gobierno",
+        "fuerza-popular",
+        "avanza-pais",
+        "primero-la-gente",
+        "partido-pais-para-todos",
+        "partido-morado"
+      ],
+      "divergence_score": 0.0351,
+      "coverage": "medium",
+      "recommended_for_questions": false
+    },
+    {
+      "issue": "Límites a la reelección",
+      "counts": {
+        "a_favor": 6,
+        "en_contra": 0,
+        "neutral": 14,
+        "no_mencionado": 17
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "ahora-nacion",
+        "partido-del-buen-gobierno",
+        "avanza-pais",
+        "partido-politico-integridad-democratica",
+        "partido-politico-peru-primero",
+        "partido-pais-para-todos"
+      ],
+      "parties_contra": [],
+      "parties_neutral": [
+        "podemos-peru",
+        "partido-frente-de-la-esperanza-2021",
+        "partido-politico-cooperacion-popular",
+        "juntos-por-el-peru",
+        "fuerza-popular",
+        "peru-moderno",
+        "fe-en-el-peru",
+        "renovacion-popular",
+        "primero-la-gente",
+        "partido-democratico-somos-peru",
+        "salvemos-al-peru",
+        "partido-patriotico-del-peru",
+        "partido-sicreo",
+        "partido-morado"
+      ],
+      "divergence_score": 0.0614,
+      "coverage": "medium",
+      "recommended_for_questions": true
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "counts": {
+        "a_favor": 2,
+        "en_contra": 0,
+        "neutral": 2,
+        "no_mencionado": 33
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "partido-politico-peru-accion",
+        "partido-morado"
+      ],
+      "parties_contra": [],
+      "parties_neutral": [
+        "ahora-nacion",
+        "partido-patriotico-del-peru"
+      ],
+      "divergence_score": 0.0029,
+      "coverage": "low",
+      "recommended_for_questions": false
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "counts": {
+        "a_favor": 5,
+        "en_contra": 0,
+        "neutral": 2,
+        "no_mencionado": 30
+      },
+      "total_parties": 37,
+      "parties_favor": [
+        "ahora-nacion",
+        "partido-frente-de-la-esperanza-2021",
+        "partido-democratico-somos-peru",
+        "partido-democratico-federal",
+        "partido-morado"
+      ],
+      "parties_contra": [],
+      "parties_neutral": [
+        "partido-del-buen-gobierno",
+        "partido-politico-peru-primero"
+      ],
+      "divergence_score": 0.0073,
+      "coverage": "low",
+      "recommended_for_questions": false
+    }
+  ]
+}

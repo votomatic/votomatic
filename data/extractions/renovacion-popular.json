@@ -1,0 +1,1099 @@
+{
+  "party": "Renovación Popular",
+  "source_pdf": "data/pdfs/renovacion-popular.pdf",
+  "extracted_at": "2026-04-06T10:03:03.816633",
+  "topics": [
+    {
+      "topic": "Economía",
+      "proposals": [
+        {
+          "statement": "Nuestro gobierno, seguirá implementando y fortaleciendo los servicios  públicos  \nbásicos, con prioridad en la Alimentación, la Educación, la Salud y la Seguridad; así \nmismo, implementando grandes proyectos en Infraestructura e Inversión, por lo que \npromoveremos y fortaleceremos medidas drásticas contra la corrupción en todo el \nPerú",
+          "original_quote": "Nuestro gobierno, seguirá implementando y fortaleciendo los servicios  públicos  \nbásicos, con prioridad en la Alimentación, la Educación, la Salud y la Seguridad; así \nmismo, implementando grandes proyectos en Infraestructura e Inversión, por lo que \npromoveremos y fortaleceremos medidas drásticas contra la corrupción en todo el \nPerú",
+          "page": 2,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "inversión"
+          ]
+        },
+        {
+          "statement": "Crearemos la \nOficina Nacional \nde Salud \nOcupacional  \n \nDIMENSIÓN INSTITUCIONAL   \n \nPROBLEMAS \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nDeficiente \norganización y  \nfuncionamiento \nde los Ministerios  Eliminaremos las barreras \nburocráticas por medio de \nuna intensiva simplificación \nadministrativa, alentando y \npromoviendo la inversión \nprivada",
+          "original_quote": "Crearemos la \nOficina Nacional \nde Salud \nOcupacional  \n \nDIMENSIÓN INSTITUCIONAL   \n \nPROBLEMAS \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nDeficiente \norganización y  \nfuncionamiento \nde los Ministerios  Eliminaremos las barreras \nburocráticas por medio de \nuna intensiva simplificación \nadministrativa, alentando y \npromoviendo la inversión \nprivada",
+          "page": 8,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "inversión"
+          ]
+        },
+        {
+          "statement": "reducir la cantidad \nde Ministerios y \nredistribuir el \npersonal a las \nsedes \ndesconcentradas  \nDeficiente gestión \nde los gobiernos \nregionales y \nmunicipales  Estableceremos incentivos \neconómicos en pro de la \nmejora en la gestión de los \nGobiernos Regionales y \nLocales, los mismos que se \ndistribuirán de acuerdo a los \ncambios positivos de los \nindicadores de necesidades \nbásicas insatisfechas",
+          "original_quote": "reducir la cantidad \nde Ministerios y \nredistribuir el \npersonal a las \nsedes \ndesconcentradas  \nDeficiente gestión \nde los gobiernos \nregionales y \nmunicipales  Estableceremos incentivos \neconómicos en pro de la \nmejora en la gestión de los \nGobiernos Regionales y \nLocales, los mismos que se \ndistribuirán de acuerdo a los \ncambios positivos de los \nindicadores de necesidades \nbásicas insatisfechas",
+          "page": 9,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "económico"
+          ]
+        },
+        {
+          "statement": "Promoveremos la \nPromulgación de \nla Ley del \nContribuyente  \n \nDIMENSIÓN ECONÓMICA   \n \nPROBLEMAS \nIDENTIFICADOS  OBJETIVOS  \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nInestabilidad \nEconómico -\nfinanciera a causa \nde la inestabilidad \npolítica de los \núltimos 10 años  Garantizaremos medidas que \npermitan un crecimiento \nsostenido del PBI y una \nreducida  inflación promedio \npara los próximos 5 años, así \ncomo un tipo de cambio que \nfavorezca la exportación  \nmanteniendo la fortaleza de \nnuestra moneda",
+          "original_quote": "Promoveremos la \nPromulgación de \nla Ley del \nContribuyente  \n \nDIMENSIÓN ECONÓMICA   \n \nPROBLEMAS \nIDENTIFICADOS  OBJETIVOS  \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nInestabilidad \nEconómico -\nfinanciera a causa \nde la inestabilidad \npolítica de los \núltimos 10 años  Garantizaremos medidas que \npermitan un crecimiento \nsostenido del PBI y una \nreducida  inflación promedio \npara los próximos 5 años, así \ncomo un tipo de cambio que \nfavorezca la exportación  \nmanteniendo la fortaleza de \nnuestra moneda",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "económico",
+            "crecimiento",
+            "pbi"
+          ]
+        },
+        {
+          "statement": "Trabajaremos por \nel incremento anual \ndel 2% del PBI \nhasta llegar al 7% \nal quinto año",
+          "original_quote": "Trabajaremos por \nel incremento anual \ndel 2% del PBI \nhasta llegar al 7% \nal quinto año",
+          "page": 15,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "pbi"
+          ]
+        },
+        {
+          "statement": "Trabajaremos en la \ngeneración de ventajas \ncompetitivas en nuestra \neconomía, dotando al \naparato productivo de un \nmayor contenido tecnológico, \naltos niveles de innovación y \ncreatividad, a fin de elevar de Déficit de \nsectores \nproductivos en \nla generación de \nempleos y \ncarencia en el \ncontrol de los \nestándares de \ncalidad  Promoveremos un \naparato productivo \nmás \nindustrializado, lo \nque permitirá la \ngeneración de dos \nmillones de \nempleos nuevos y \nun incremento de la \nparticipación de la \nindustria nacional \nen todas las \nindustrias e  \ninversiones \nextranjeras en el \nPerú con mayores",
+          "original_quote": "Trabajaremos en la \ngeneración de ventajas \ncompetitivas en nuestra \neconomía, dotando al \naparato productivo de un \nmayor contenido tecnológico, \naltos niveles de innovación y \ncreatividad, a fin de elevar de Déficit de \nsectores \nproductivos en \nla generación de \nempleos y \ncarencia en el \ncontrol de los \nestándares de \ncalidad  Promoveremos un \naparato productivo \nmás \nindustrializado, lo \nque permitirá la \ngeneración de dos \nmillones de \nempleos nuevos y \nun incremento de la \nparticipación de la \nindustria nacional \nen todas las \nindustrias e  \ninversiones \nextranjeras en el \nPerú con mayores",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "economía",
+            "empleo"
+          ]
+        },
+        {
+          "statement": "16 \n PROBLEMAS \nIDENTIFICADOS  OBJETIVOS  \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nlos niveles de productividad \nen todos los sectores",
+          "original_quote": "16 \n PROBLEMAS \nIDENTIFICADOS  OBJETIVOS  \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nlos niveles de productividad \nen todos los sectores",
+          "page": 16,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "productividad"
+          ]
+        },
+        {
+          "statement": "Muy reducidas \nZonas Libres de \nImpuestos (zonas \nfrancas) para el \ndesarrollo \nturístico, \nindustrial y \ncomercial  Impulsaremos el desarrollo de \nParques Logísticos y de \nComercio Internacional, así \ncomo Zonas Libres de \nImpuestos con países \nlimítrofes, especialmente en \njurisdicciones con alto \npotencial de inversión",
+          "original_quote": "Muy reducidas \nZonas Libres de \nImpuestos (zonas \nfrancas) para el \ndesarrollo \nturístico, \nindustrial y \ncomercial  Impulsaremos el desarrollo de \nParques Logísticos y de \nComercio Internacional, así \ncomo Zonas Libres de \nImpuestos con países \nlimítrofes, especialmente en \njurisdicciones con alto \npotencial de inversión",
+          "page": 17,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "inversión"
+          ]
+        },
+        {
+          "statement": "Estas permitirán el desarrollo \neconómico y social, y a lo \nlargo de su recorrido se \nincrementará el turismo \nreceptivo y mejorará las \ncadenas productivas para el \ndespegue de las regiones",
+          "original_quote": "Estas permitirán el desarrollo \neconómico y social, y a lo \nlargo de su recorrido se \nincrementará el turismo \nreceptivo y mejorará las \ncadenas productivas para el \ndespegue de las regiones",
+          "page": 18,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "económico"
+          ]
+        },
+        {
+          "statement": "Deficiente \ninfraestructura y \nservicios \nportuarios, \nferroviarios y \naeroportuarios  Potenciaremos los puertos \ndel país, para consolidar al \nPerú como eje del transporte \nde carga en Sudamérica con \nla finalidad de aumentar \nnuestras exportaciones y el \nempleo",
+          "original_quote": "Deficiente \ninfraestructura y \nservicios \nportuarios, \nferroviarios y \naeroportuarios  Potenciaremos los puertos \ndel país, para consolidar al \nPerú como eje del transporte \nde carga en Sudamérica con \nla finalidad de aumentar \nnuestras exportaciones y el \nempleo",
+          "page": 18,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "empleo"
+          ]
+        },
+        {
+          "statement": "Deficiente manejo \nde los recursos \nhídricos  \n  Estableceremos \nmecanismos de carácter \nobligatorio para evitar que las \nmunicipalidades y las \nempresas públicas y \nprivadas viertan desechos \npeligrosos, desperdicios y \naguas residuales a los \ncuerpos de agua naturales, y \nfomentaremos el tratamiento \nde aguas co ntaminadas con  \nasociaciones público  \nprivadas",
+          "original_quote": "Deficiente manejo \nde los recursos \nhídricos  \n  Estableceremos \nmecanismos de carácter \nobligatorio para evitar que las \nmunicipalidades y las \nempresas públicas y \nprivadas viertan desechos \npeligrosos, desperdicios y \naguas residuales a los \ncuerpos de agua naturales, y \nfomentaremos el tratamiento \nde aguas co ntaminadas con  \nasociaciones público  \nprivadas",
+          "page": 21,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "empresas"
+          ]
+        },
+        {
+          "statement": "Reducida \ninversión en la \nAmazonía   Fomentaremos la pequeña \ny mediana inversión \nnacional en la Amazonía en \nalianza con las \ncomunidades nativas \nlocales, para lo cual \nrecibirán capacitación y \nacompañamiento por parte \ndel Estado, a fin de que \nestos emprendimientos en \nespecies propias como el \ncafé, el cacao, el camu -\ncamu, entre otras materias \nprimas, permitan disminuir \nla brecha de pobreza y \nmejorar la calidad de vida",
+          "original_quote": "Reducida \ninversión en la \nAmazonía   Fomentaremos la pequeña \ny mediana inversión \nnacional en la Amazonía en \nalianza con las \ncomunidades nativas \nlocales, para lo cual \nrecibirán capacitación y \nacompañamiento por parte \ndel Estado, a fin de que \nestos emprendimientos en \nespecies propias como el \ncafé, el cacao, el camu -\ncamu, entre otras materias \nprimas, permitan disminuir \nla brecha de pobreza y \nmejorar la calidad de vida",
+          "page": 23,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "inversión"
+          ]
+        },
+        {
+          "statement": "Deficiente \ngeneración de \nenergía limpia  Como parte de nuestro Plan \nEnergético Nacional, \npriorizaremos la generación \nde energía limpia \nhidroeléctrica, \ndesarrollando concesiones \nde generación, transmisión \ny distribución eléctrica, y \nfomentaremos, mediante \nincentivos a la inversión \nprivada, electri cidad para \nlos pueblos rurales y \naislados, destinada a \nmejorar la calidad de vida \nde todos los ciudadanos",
+          "original_quote": "Deficiente \ngeneración de \nenergía limpia  Como parte de nuestro Plan \nEnergético Nacional, \npriorizaremos la generación \nde energía limpia \nhidroeléctrica, \ndesarrollando concesiones \nde generación, transmisión \ny distribución eléctrica, y \nfomentaremos, mediante \nincentivos a la inversión \nprivada, electri cidad para \nlos pueblos rurales y \naislados, destinada a \nmejorar la calidad de vida \nde todos los ciudadanos",
+          "page": 24,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "inversión"
+          ]
+        },
+        {
+          "statement": "Deficiente empleo \nde gas natural  Impulsaremos proyectos que \nutilicen el gas natural para Falta de \nagilización en el Trabajaremos para \nProporcionar",
+          "original_quote": "Deficiente empleo \nde gas natural  Impulsaremos proyectos que \nutilicen el gas natural para Falta de \nagilización en el Trabajaremos para \nProporcionar",
+          "page": 24,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "empleo"
+          ]
+        },
+        {
+          "statement": "Deficiente \nparticipación \nnacional en la \nmodernización de \nla minería  Impulsaremos la inversión en \ntecnología y procedimientos \nde última generación para la \nminería, con la finalidad de \ncontar con una industria \nmoderna, limpia y cuidadosa \ndel medio ambiente",
+          "original_quote": "Deficiente \nparticipación \nnacional en la \nmodernización de \nla minería  Impulsaremos la inversión en \ntecnología y procedimientos \nde última generación para la \nminería, con la finalidad de \ncontar con una industria \nmoderna, limpia y cuidadosa \ndel medio ambiente",
+          "page": 25,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "inversión"
+          ]
+        },
+        {
+          "statement": "Por otro lado, nuestro compromiso en la disciplina fiscal es tener una inflación \ninferior al 2.5% y proyectamos el crecimiento anual del PBI al 7%, al culminar \nnuestro mandato",
+          "original_quote": "Por otro lado, nuestro compromiso en la disciplina fiscal es tener una inflación \ninferior al 2.5% y proyectamos el crecimiento anual del PBI al 7%, al culminar \nnuestro mandato",
+          "page": 25,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "crecimiento",
+            "pbi"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salud",
+      "proposals": [
+        {
+          "statement": "Nuestro gobierno, seguirá implementando y fortaleciendo los servicios  públicos  \nbásicos, con prioridad en la Alimentación, la Educación, la Salud y la Seguridad; así \nmismo, implementando grandes proyectos en Infraestructura e Inversión, por lo que \npromoveremos y fortaleceremos medidas drásticas contra la corrupción en todo el \nPerú",
+          "original_quote": "Nuestro gobierno, seguirá implementando y fortaleciendo los servicios  públicos  \nbásicos, con prioridad en la Alimentación, la Educación, la Salud y la Seguridad; así \nmismo, implementando grandes proyectos en Infraestructura e Inversión, por lo que \npromoveremos y fortaleceremos medidas drásticas contra la corrupción en todo el \nPerú",
+          "page": 2,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "salud"
+          ]
+        },
+        {
+          "statement": "Poca atención \nante el friaje en \nzonas \naltoandinas  Crearemos el Sistema de \nTambos para tener \nabastecimiento preventivo y \nmedicinas",
+          "original_quote": "Poca atención \nante el friaje en \nzonas \naltoandinas  Crearemos el Sistema de \nTambos para tener \nabastecimiento preventivo y \nmedicinas",
+          "page": 5,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "medicina"
+          ]
+        },
+        {
+          "statement": "Postas Médicas \ndeficientes  Dotaremos y fortaleceremos \nlas Postas Médicas con \ninfraestructura, materiales, \nmedicinas genéricas y \nprofesionales de salud",
+          "original_quote": "Postas Médicas \ndeficientes  Dotaremos y fortaleceremos \nlas Postas Médicas con \ninfraestructura, materiales, \nmedicinas genéricas y \nprofesionales de salud",
+          "page": 6,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "salud",
+            "medicina"
+          ]
+        },
+        {
+          "statement": "Elevar la cobertura de \natención en los Centros de \nAtención Primaria para reducir \nla sobredemanda hospitalaria \nen todos los Centros del \nSector Salud",
+          "original_quote": "Elevar la cobertura de \natención en los Centros de \nAtención Primaria para reducir \nla sobredemanda hospitalaria \nen todos los Centros del \nSector Salud",
+          "page": 7,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "salud",
+            "hospital"
+          ]
+        },
+        {
+          "statement": "Impulsar la educación \nsanitaria, los estilos de vida \nsaludables y la \nimplementación de programas \ndesde el ministerio \ncorrespondiente",
+          "original_quote": "Impulsar la educación \nsanitaria, los estilos de vida \nsaludables y la \nimplementación de programas \ndesde el ministerio \ncorrespondiente",
+          "page": 7,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "salud"
+          ]
+        },
+        {
+          "statement": "Impulsar la especialidad en \nSalud Familiar, a nivel  \nnacional,  Escasez de \nprofesionales \nespecializados \ncomo Médicos de \nFamilia  Promoveremos el \nPlan Nacional de \nPromoción de la \nSalud, con acento \nen Salud Familiar",
+          "original_quote": "Impulsar la especialidad en \nSalud Familiar, a nivel  \nnacional,  Escasez de \nprofesionales \nespecializados \ncomo Médicos de \nFamilia  Promoveremos el \nPlan Nacional de \nPromoción de la \nSalud, con acento \nen Salud Familiar",
+          "page": 8,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "salud",
+            "médicos"
+          ]
+        },
+        {
+          "statement": "Maltrato en la \natención por una \nparte de los \nprofesionales del \nsector Salud  Crear centros de desarrollo \npersonal y gestión del trato \nhumanizado",
+          "original_quote": "Maltrato en la \natención por una \nparte de los \nprofesionales del \nsector Salud  Crear centros de desarrollo \npersonal y gestión del trato \nhumanizado",
+          "page": 8,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "salud"
+          ]
+        },
+        {
+          "statement": "Crearemos la \nOficina Nacional \nde Salud \nOcupacional  \n \nDIMENSIÓN INSTITUCIONAL   \n \nPROBLEMAS \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nDeficiente \norganización y  \nfuncionamiento \nde los Ministerios  Eliminaremos las barreras \nburocráticas por medio de \nuna intensiva simplificación \nadministrativa, alentando y \npromoviendo la inversión \nprivada",
+          "original_quote": "Crearemos la \nOficina Nacional \nde Salud \nOcupacional  \n \nDIMENSIÓN INSTITUCIONAL   \n \nPROBLEMAS \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nDeficiente \norganización y  \nfuncionamiento \nde los Ministerios  Eliminaremos las barreras \nburocráticas por medio de \nuna intensiva simplificación \nadministrativa, alentando y \npromoviendo la inversión \nprivada",
+          "page": 8,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "salud"
+          ]
+        },
+        {
+          "statement": "12 \n PROBLEMAS \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \npuede comparar con el \nMinsa o Es Salud, pues su \nprioridad es atender la salud \ndel combatiente de manera \ninmediata y donde se \npresente el requerimiento",
+          "original_quote": "12 \n PROBLEMAS \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \npuede comparar con el \nMinsa o Es Salud, pues su \nprioridad es atender la salud \ndel combatiente de manera \ninmediata y donde se \npresente el requerimiento",
+          "page": 12,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "salud"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Educación",
+      "proposals": [
+        {
+          "statement": "Nuestro gobierno, seguirá implementando y fortaleciendo los servicios  públicos  \nbásicos, con prioridad en la Alimentación, la Educación, la Salud y la Seguridad; así \nmismo, implementando grandes proyectos en Infraestructura e Inversión, por lo que \npromoveremos y fortaleceremos medidas drásticas contra la corrupción en todo el \nPerú",
+          "original_quote": "Nuestro gobierno, seguirá implementando y fortaleciendo los servicios  públicos  \nbásicos, con prioridad en la Alimentación, la Educación, la Salud y la Seguridad; así \nmismo, implementando grandes proyectos en Infraestructura e Inversión, por lo que \npromoveremos y fortaleceremos medidas drásticas contra la corrupción en todo el \nPerú",
+          "page": 2,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "educación"
+          ]
+        },
+        {
+          "statement": "Reducción de la \nparticipación de \nlos padres de \nfamilia en la Aseguraremos la participación \nefectiva de los padres de \nfamilia en la evaluación y \nfiscalización de la calidad \neducativa y el desempeño de Ausencia de los \nPadres de Familia \nen la supervisión \nde la calidad \neducativa escolar Mejoraremos de \nmanera \nprogresiva la \ncalidad de la \neducación escolar",
+          "original_quote": "Reducción de la \nparticipación de \nlos padres de \nfamilia en la Aseguraremos la participación \nefectiva de los padres de \nfamilia en la evaluación y \nfiscalización de la calidad \neducativa y el desempeño de Ausencia de los \nPadres de Familia \nen la supervisión \nde la calidad \neducativa escolar Mejoraremos de \nmanera \nprogresiva la \ncalidad de la \neducación escolar",
+          "page": 6,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "educación"
+          ]
+        },
+        {
+          "statement": "7 \n PROBLEMAS  \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \ngestión \neducativa  los profesores",
+          "original_quote": "7 \n PROBLEMAS  \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \ngestión \neducativa  los profesores",
+          "page": 7,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "profesores"
+          ]
+        },
+        {
+          "statement": "Impulsar la educación \nsanitaria, los estilos de vida \nsaludables y la \nimplementación de programas \ndesde el ministerio \ncorrespondiente",
+          "original_quote": "Impulsar la educación \nsanitaria, los estilos de vida \nsaludables y la \nimplementación de programas \ndesde el ministerio \ncorrespondiente",
+          "page": 7,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "educación"
+          ]
+        },
+        {
+          "statement": "Falta de \nconciencia y \neducación \nambiental   Garantizaremos el derecho \ndel acceso a la información \npública sobre las políticas, \nnormas y medidas a tomar \npor el gobierno, en caso de Ausencia por \nparte del \ngobierno en la \nconcientización \ndel ciudadano Fomentaremos la \neducación y \nconservación del \nmedio ambiente a \ntravés del acceso a",
+          "original_quote": "Falta de \nconciencia y \neducación \nambiental   Garantizaremos el derecho \ndel acceso a la información \npública sobre las políticas, \nnormas y medidas a tomar \npor el gobierno, en caso de Ausencia por \nparte del \ngobierno en la \nconcientización \ndel ciudadano Fomentaremos la \neducación y \nconservación del \nmedio ambiente a \ntravés del acceso a",
+          "page": 23,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "educación"
+          ]
+        },
+        {
+          "statement": "Promoveremos la \neducación ambiental \nefectiva, a fin de formar \nciudadanos participativos, \nresponsables, pensadores \ncríticos, participativos, \nconscientes y respetuosos \ndel medio ambiente y el \ncuidado a la ecología",
+          "original_quote": "Promoveremos la \neducación ambiental \nefectiva, a fin de formar \nciudadanos participativos, \nresponsables, pensadores \ncríticos, participativos, \nconscientes y respetuosos \ndel medio ambiente y el \ncuidado a la ecología",
+          "page": 24,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "educación"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Seguridad",
+      "proposals": [
+        {
+          "statement": "Nuestro gobierno, seguirá implementando y fortaleciendo los servicios  públicos  \nbásicos, con prioridad en la Alimentación, la Educación, la Salud y la Seguridad; así \nmismo, implementando grandes proyectos en Infraestructura e Inversión, por lo que \npromoveremos y fortaleceremos medidas drásticas contra la corrupción en todo el \nPerú",
+          "original_quote": "Nuestro gobierno, seguirá implementando y fortaleciendo los servicios  públicos  \nbásicos, con prioridad en la Alimentación, la Educación, la Salud y la Seguridad; así \nmismo, implementando grandes proyectos en Infraestructura e Inversión, por lo que \npromoveremos y fortaleceremos medidas drásticas contra la corrupción en todo el \nPerú",
+          "page": 2,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Utilización de \ntecnología para \nlabores de \nvigilancia  Nos proponemos \nreducir \nsignificativamente \nlos índices de \nviolencia, \ndelincuencia \ncomún, terrorismo \nurbano, extorsión, \ny la \ncomercialización \nde drogas",
+          "original_quote": "Utilización de \ntecnología para \nlabores de \nvigilancia  Nos proponemos \nreducir \nsignificativamente \nlos índices de \nviolencia, \ndelincuencia \ncomún, terrorismo \nurbano, extorsión, \ny la \ncomercialización \nde drogas",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "delincuencia"
+          ]
+        },
+        {
+          "statement": "Dotaremos de las \nherramientas legales que \npermitan a la Policía \ndesarrollar sin limitaciones \nsu mandato legal y \nconstitucional en favor de la \nciudadanía",
+          "original_quote": "Dotaremos de las \nherramientas legales que \npermitan a la Policía \ndesarrollar sin limitaciones \nsu mandato legal y \nconstitucional en favor de la \nciudadanía",
+          "page": 12,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "policía"
+          ]
+        },
+        {
+          "statement": "Crearemos el Instituto de \nInvestigación y Desarrollo de \nla Policía y la Seguridad, con \nel fin de elevar el nivel \ncientífico, tecnológico y \noperativo de la Policía \nNacional",
+          "original_quote": "Crearemos el Instituto de \nInvestigación y Desarrollo de \nla Policía y la Seguridad, con \nel fin de elevar el nivel \ncientífico, tecnológico y \noperativo de la Policía \nNacional",
+          "page": 12,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "seguridad",
+            "policía"
+          ]
+        },
+        {
+          "statement": "Impulsaremos la \ncreación de la \nPolicía Municipal",
+          "original_quote": "Impulsaremos la \ncreación de la \nPolicía Municipal",
+          "page": 12,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "policía"
+          ]
+        },
+        {
+          "statement": "Mayor \nrecaudación fiscal  \nNo existe \nlegislación para el \ncontribuyente, \nsólo regulación \nescasa en el \nCódigo Tributario  Promoveremos la \npromulgación de la Ley del \nContribuyente, lo que \nevitará arbitrariedades de la \nAdministración Tributaria, \nmejor recaudación y \nseguridad jurídica  La problemática \nen el sistema \ntributario \nidentificado como \nabuso hacia el \ncontribuyente",
+          "original_quote": "Mayor \nrecaudación fiscal  \nNo existe \nlegislación para el \ncontribuyente, \nsólo regulación \nescasa en el \nCódigo Tributario  Promoveremos la \npromulgación de la Ley del \nContribuyente, lo que \nevitará arbitrariedades de la \nAdministración Tributaria, \nmejor recaudación y \nseguridad jurídica  La problemática \nen el sistema \ntributario \nidentificado como \nabuso hacia el \ncontribuyente",
+          "page": 15,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Impulsaremos la \nmodernización, el desarrollo \ny l a seguridad de \naeropuertos del país, El incremento \ndel tránsito en \nlos Aeropuertos \ny Puertos del \nPerú, han \nmostrado la \nimportante tarea \nde ampliar la \ncapacidad de \nrecepción de \npasajeros y de \ncarga",
+          "original_quote": "Impulsaremos la \nmodernización, el desarrollo \ny l a seguridad de \naeropuertos del país, El incremento \ndel tránsito en \nlos Aeropuertos \ny Puertos del \nPerú, han \nmostrado la \nimportante tarea \nde ampliar la \ncapacidad de \nrecepción de \npasajeros y de \ncarga",
+          "page": 18,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "seguridad"
+          ]
+        },
+        {
+          "statement": "Fortaleceremos la \nprotección de las \ncomunidades \nnativas y \noriginarias  \nbrindándoles \nseguridad sobre \nsus recursos y el \nmantenimiento de \nsu cultura",
+          "original_quote": "Fortaleceremos la \nprotección de las \ncomunidades \nnativas y \noriginarias  \nbrindándoles \nseguridad sobre \nsus recursos y el \nmantenimiento de \nsu cultura",
+          "page": 23,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "seguridad"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Medio Ambiente",
+      "proposals": [
+        {
+          "statement": "20 \n PROBLEMAS \nIDENTIFICADOS  OBJETIVOS  \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nlograr una \neficiente \nadministración y \ndistribución de \nlos  \nrecursos hídricos  gestionar de manera \nintegrada la infraestructura \nfísica de los sistemas \nproductivos y el manejo de \nlos recursos naturales, por \nmedio de las regulaciones \nambientales, las normas de \ncomercialización y sanitarias, \nconcertando a las \norganizaciones de \nproductor es con los \ngobiernos locales y \nregionales",
+          "original_quote": "20 \n PROBLEMAS \nIDENTIFICADOS  OBJETIVOS  \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nlograr una \neficiente \nadministración y \ndistribución de \nlos  \nrecursos hídricos  gestionar de manera \nintegrada la infraestructura \nfísica de los sistemas \nproductivos y el manejo de \nlos recursos naturales, por \nmedio de las regulaciones \nambientales, las normas de \ncomercialización y sanitarias, \nconcertando a las \norganizaciones de \nproductor es con los \ngobiernos locales y \nregionales",
+          "page": 20,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ambiental",
+            "recursos naturales"
+          ]
+        },
+        {
+          "statement": "DIMENSIÓN TERRITORIAL - AMBIENTAL   \n \nPROBLEMAS \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nDeficiente control \nde las emisiones \nde gases de \nefecto \ninvernadero   Controlaremos las emisiones \nde gases de efecto \ninvernadero y contaminantes \ndebido a que el Perú, uno de \nlos 10 países con mayor \nbiodiversidad en el mundo y \nfirmante del Convenio de \nKyoto, es sumamente \nsensible a los desastres \nnaturales que el cambio \nclimát ico origina",
+          "original_quote": "DIMENSIÓN TERRITORIAL - AMBIENTAL   \n \nPROBLEMAS \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nDeficiente control \nde las emisiones \nde gases de \nefecto \ninvernadero   Controlaremos las emisiones \nde gases de efecto \ninvernadero y contaminantes \ndebido a que el Perú, uno de \nlos 10 países con mayor \nbiodiversidad en el mundo y \nfirmante del Convenio de \nKyoto, es sumamente \nsensible a los desastres \nnaturales que el cambio \nclimát ico origina",
+          "page": 21,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "ambiental"
+          ]
+        },
+        {
+          "statement": "Deficiente \nprotección de los \nrecursos marinos   Promoveremos la pesca \nsostenible y responsable con \nlos recursos marinos, \nmitigando el impacto de los \nresiduos sólidos y líquidos \npropios de esta actividad \nindustrial",
+          "original_quote": "Deficiente \nprotección de los \nrecursos marinos   Promoveremos la pesca \nsostenible y responsable con \nlos recursos marinos, \nmitigando el impacto de los \nresiduos sólidos y líquidos \npropios de esta actividad \nindustrial",
+          "page": 22,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "sostenible"
+          ]
+        },
+        {
+          "statement": "Impulsaremos la \npromoción de la \npesca sostenible e \nimplementación de \nPYMES de \nacuicultura en \nforma transversal, \nentre la costa y la \nselva",
+          "original_quote": "Impulsaremos la \npromoción de la \npesca sostenible e \nimplementación de \nPYMES de \nacuicultura en \nforma transversal, \nentre la costa y la \nselva",
+          "page": 22,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "sostenible"
+          ]
+        },
+        {
+          "statement": "Deficiente gestión \nde los recursos \nrenovables y no \nrenovables   Garantizaremos el uso \nsostenible de los recursos \nnaturales renovables y no \nrenovables, a través de \nherramientas efectivas que \ngaranticen una adecuada \ngestión de la explotación \nminera, pesquera, \nagroindustrial, forestal y \ndemás sectores",
+          "original_quote": "Deficiente gestión \nde los recursos \nrenovables y no \nrenovables   Garantizaremos el uso \nsostenible de los recursos \nnaturales renovables y no \nrenovables, a través de \nherramientas efectivas que \ngaranticen una adecuada \ngestión de la explotación \nminera, pesquera, \nagroindustrial, forestal y \ndemás sectores",
+          "page": 22,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "sostenible"
+          ]
+        },
+        {
+          "statement": "Falta de \nconciencia y \neducación \nambiental   Garantizaremos el derecho \ndel acceso a la información \npública sobre las políticas, \nnormas y medidas a tomar \npor el gobierno, en caso de Ausencia por \nparte del \ngobierno en la \nconcientización \ndel ciudadano Fomentaremos la \neducación y \nconservación del \nmedio ambiente a \ntravés del acceso a",
+          "original_quote": "Falta de \nconciencia y \neducación \nambiental   Garantizaremos el derecho \ndel acceso a la información \npública sobre las políticas, \nnormas y medidas a tomar \npor el gobierno, en caso de Ausencia por \nparte del \ngobierno en la \nconcientización \ndel ciudadano Fomentaremos la \neducación y \nconservación del \nmedio ambiente a \ntravés del acceso a",
+          "page": 23,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "medio ambiente",
+            "ambiental"
+          ]
+        },
+        {
+          "statement": "Promoveremos la \neducación ambiental \nefectiva, a fin de formar \nciudadanos participativos, \nresponsables, pensadores \ncríticos, participativos, \nconscientes y respetuosos \ndel medio ambiente y el \ncuidado a la ecología",
+          "original_quote": "Promoveremos la \neducación ambiental \nefectiva, a fin de formar \nciudadanos participativos, \nresponsables, pensadores \ncríticos, participativos, \nconscientes y respetuosos \ndel medio ambiente y el \ncuidado a la ecología",
+          "page": 24,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "medio ambiente",
+            "ambiental"
+          ]
+        },
+        {
+          "statement": "Deficiente \nparticipación \nnacional en la \nmodernización de \nla minería  Impulsaremos la inversión en \ntecnología y procedimientos \nde última generación para la \nminería, con la finalidad de \ncontar con una industria \nmoderna, limpia y cuidadosa \ndel medio ambiente",
+          "original_quote": "Deficiente \nparticipación \nnacional en la \nmodernización de \nla minería  Impulsaremos la inversión en \ntecnología y procedimientos \nde última generación para la \nminería, con la finalidad de \ncontar con una industria \nmoderna, limpia y cuidadosa \ndel medio ambiente",
+          "page": 25,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "medio ambiente"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Política Social",
+      "proposals": [
+        {
+          "statement": "RESUMEN DEL PLAN DE GOBIERNO  \n \nDIMENSIÓN SOCIAL   \n \nPROBLEMAS  \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nCorrupción \nendémica en \ntodos los niveles \ndel aparato \npúblico  Crearemos una Central de \nlucha Contra la Corrupción \n(CCC), la cual dotaremos de \nplenos poderes para \ndetectar, infiltrar y capturar el \ndelito cometido en flagrancia, \nasí como las  \nirregularidades funcionales \nen todas sus modalidades y \nniveles de gobierno",
+          "original_quote": "RESUMEN DEL PLAN DE GOBIERNO  \n \nDIMENSIÓN SOCIAL   \n \nPROBLEMAS  \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nCorrupción \nendémica en \ntodos los niveles \ndel aparato \npúblico  Crearemos una Central de \nlucha Contra la Corrupción \n(CCC), la cual dotaremos de \nplenos poderes para \ndetectar, infiltrar y capturar el \ndelito cometido en flagrancia, \nasí como las  \nirregularidades funcionales \nen todas sus modalidades y \nniveles de gobierno",
+          "page": 3,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "social"
+          ]
+        },
+        {
+          "statement": "4 \n PROBLEMAS  \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nPobreza extrema \ncomo lastre para \nel desarrollo  Reforzaremos las \norganizaciones populares, \npara distribuir la ayuda \nalimentaria a grupos de \nextrema pobreza; la meta es \nconvertirlos en una pujante \nclase de emprendedores",
+          "original_quote": "4 \n PROBLEMAS  \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nPobreza extrema \ncomo lastre para \nel desarrollo  Reforzaremos las \norganizaciones populares, \npara distribuir la ayuda \nalimentaria a grupos de \nextrema pobreza; la meta es \nconvertirlos en una pujante \nclase de emprendedores",
+          "page": 4,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "Escasez de áreas \nde esparcimiento \nfamiliar  Extenderemos a todo el país \nla experiencia de los Clubes \nZonales para fortalecer los \nlazos y, por consiguiente, los \nvalores familiares, \nreconociendo el esfuerzo \ndesplegado día a día por la \npoblación más vulnerable, \notorgándoles lugares de \nesparcimiento y e ncuentro \nfamiliar de calidad",
+          "original_quote": "Escasez de áreas \nde esparcimiento \nfamiliar  Extenderemos a todo el país \nla experiencia de los Clubes \nZonales para fortalecer los \nlazos y, por consiguiente, los \nvalores familiares, \nreconociendo el esfuerzo \ndesplegado día a día por la \npoblación más vulnerable, \notorgándoles lugares de \nesparcimiento y e ncuentro \nfamiliar de calidad",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "vulnerable"
+          ]
+        },
+        {
+          "statement": "Déficit de \nviviendas \npopulares  Habilitaremos terrenos de \npropiedad del Estado con \nacceso a redes de \nelectrificación, agua y \ndesagüe, rutas de transporte, Falta de \naccesibilidad a \nproyectos de \nfinanciación con \nfacilidades para Mejoraremos las \nviviendas \nsociales, durante \nlos 5 años de \ngestión",
+          "original_quote": "Déficit de \nviviendas \npopulares  Habilitaremos terrenos de \npropiedad del Estado con \nacceso a redes de \nelectrificación, agua y \ndesagüe, rutas de transporte, Falta de \naccesibilidad a \nproyectos de \nfinanciación con \nfacilidades para Mejoraremos las \nviviendas \nsociales, durante \nlos 5 años de \ngestión",
+          "page": 4,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "social"
+          ]
+        },
+        {
+          "statement": "Implementaremos \nel servicio de \ntanques de agua \npara facilitar a la \nciudadanía este \nservicio básico y \nprimordial en \nzonas de extrema \npobreza",
+          "original_quote": "Implementaremos \nel servicio de \ntanques de agua \npara facilitar a la \nciudadanía este \nservicio básico y \nprimordial en \nzonas de extrema \npobreza",
+          "page": 5,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "Déficit de deporte \ncomo prioridad \nen  \nel desarrollo de la \npersona  El deporte será una política de \nEstado para mejorar el \nbienestar general de la \npersona, con prioridad en los \ncolegios",
+          "original_quote": "Déficit de deporte \ncomo prioridad \nen  \nel desarrollo de la \npersona  El deporte será una política de \nEstado para mejorar el \nbienestar general de la \npersona, con prioridad en los \ncolegios",
+          "page": 6,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "bienestar"
+          ]
+        },
+        {
+          "statement": "Impulsaremos el \ntrabajo digno e \nigualitario en las \npropias zonas \nrurales de los \nhabitantes, para \nrestar la pobreza \nextrema",
+          "original_quote": "Impulsaremos el \ntrabajo digno e \nigualitario en las \npropias zonas \nrurales de los \nhabitantes, para \nrestar la pobreza \nextrema",
+          "page": 16,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "pobreza"
+          ]
+        },
+        {
+          "statement": "Estas permitirán el desarrollo \neconómico y social, y a lo \nlargo de su recorrido se \nincrementará el turismo \nreceptivo y mejorará las \ncadenas productivas para el \ndespegue de las regiones",
+          "original_quote": "Estas permitirán el desarrollo \neconómico y social, y a lo \nlargo de su recorrido se \nincrementará el turismo \nreceptivo y mejorará las \ncadenas productivas para el \ndespegue de las regiones",
+          "page": 18,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "social"
+          ]
+        },
+        {
+          "statement": "Reducida \ninversión en la \nAmazonía   Fomentaremos la pequeña \ny mediana inversión \nnacional en la Amazonía en \nalianza con las \ncomunidades nativas \nlocales, para lo cual \nrecibirán capacitación y \nacompañamiento por parte \ndel Estado, a fin de que \nestos emprendimientos en \nespecies propias como el \ncafé, el cacao, el camu -\ncamu, entre otras materias \nprimas, permitan disminuir \nla brecha de pobreza y \nmejorar la calidad de vida",
+          "original_quote": "Reducida \ninversión en la \nAmazonía   Fomentaremos la pequeña \ny mediana inversión \nnacional en la Amazonía en \nalianza con las \ncomunidades nativas \nlocales, para lo cual \nrecibirán capacitación y \nacompañamiento por parte \ndel Estado, a fin de que \nestos emprendimientos en \nespecies propias como el \ncafé, el cacao, el camu -\ncamu, entre otras materias \nprimas, permitan disminuir \nla brecha de pobreza y \nmejorar la calidad de vida",
+          "page": 23,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "pobreza"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Infraestructura",
+      "proposals": [
+        {
+          "statement": "Nuestro gobierno, seguirá implementando y fortaleciendo los servicios  públicos  \nbásicos, con prioridad en la Alimentación, la Educación, la Salud y la Seguridad; así \nmismo, implementando grandes proyectos en Infraestructura e Inversión, por lo que \npromoveremos y fortaleceremos medidas drásticas contra la corrupción en todo el \nPerú",
+          "original_quote": "Nuestro gobierno, seguirá implementando y fortaleciendo los servicios  públicos  \nbásicos, con prioridad en la Alimentación, la Educación, la Salud y la Seguridad; así \nmismo, implementando grandes proyectos en Infraestructura e Inversión, por lo que \npromoveremos y fortaleceremos medidas drásticas contra la corrupción en todo el \nPerú",
+          "page": 2,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "Déficit de \nviviendas \npopulares  Habilitaremos terrenos de \npropiedad del Estado con \nacceso a redes de \nelectrificación, agua y \ndesagüe, rutas de transporte, Falta de \naccesibilidad a \nproyectos de \nfinanciación con \nfacilidades para Mejoraremos las \nviviendas \nsociales, durante \nlos 5 años de \ngestión",
+          "original_quote": "Déficit de \nviviendas \npopulares  Habilitaremos terrenos de \npropiedad del Estado con \nacceso a redes de \nelectrificación, agua y \ndesagüe, rutas de transporte, Falta de \naccesibilidad a \nproyectos de \nfinanciación con \nfacilidades para Mejoraremos las \nviviendas \nsociales, durante \nlos 5 años de \ngestión",
+          "page": 4,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "transporte"
+          ]
+        },
+        {
+          "statement": "Postas Médicas \ndeficientes  Dotaremos y fortaleceremos \nlas Postas Médicas con \ninfraestructura, materiales, \nmedicinas genéricas y \nprofesionales de salud",
+          "original_quote": "Postas Médicas \ndeficientes  Dotaremos y fortaleceremos \nlas Postas Médicas con \ninfraestructura, materiales, \nmedicinas genéricas y \nprofesionales de salud",
+          "page": 6,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "18 \n PROBLEMAS \nIDENTIFICADOS  OBJETIVOS  \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nDeficiente \nSistema de \ntransporte  Potenciaremos el Sistema \n“Metropolitano” en el Perú, en \nestrecha cooperación con las \nMunicipalidades, para \nsolucionar definitivamente el \nproblema del transporte \nurbano",
+          "original_quote": "18 \n PROBLEMAS \nIDENTIFICADOS  OBJETIVOS  \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nDeficiente \nSistema de \ntransporte  Potenciaremos el Sistema \n“Metropolitano” en el Perú, en \nestrecha cooperación con las \nMunicipalidades, para \nsolucionar definitivamente el \nproblema del transporte \nurbano",
+          "page": 18,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "transporte"
+          ]
+        },
+        {
+          "statement": "Deficiente \nInfraestructura \nvial a nivel \nnacional  Promoveremos \ndecididamente la \nrehabilitación y ampliación \nde la Red Vial Nacional, en \nespecial las carreteras de \npenetración, que serán \nautopistas de cuatro carriles; \nparticiparán en su \nconstrucción batallones de \ningeniería de las FFAA",
+          "original_quote": "Deficiente \nInfraestructura \nvial a nivel \nnacional  Promoveremos \ndecididamente la \nrehabilitación y ampliación \nde la Red Vial Nacional, en \nespecial las carreteras de \npenetración, que serán \nautopistas de cuatro carriles; \nparticiparán en su \nconstrucción batallones de \ningeniería de las FFAA",
+          "page": 18,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "infraestructura",
+            "carreteras",
+            "construcción"
+          ]
+        },
+        {
+          "statement": "Impulsaremos la \nconstrucción de \nautopistas y vías en \nbuenas \ncondiciones a nivel \nnacional para las \nconexiones entre \npueblos vecinos, \nejemplo: conectar \nJaén, Cajamarca, \nChota, Cutervo, \nPomalca y otras \nciudades del Perú",
+          "original_quote": "Impulsaremos la \nconstrucción de \nautopistas y vías en \nbuenas \ncondiciones a nivel \nnacional para las \nconexiones entre \npueblos vecinos, \nejemplo: conectar \nJaén, Cajamarca, \nChota, Cutervo, \nPomalca y otras \nciudades del Perú",
+          "page": 18,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "construcción"
+          ]
+        },
+        {
+          "statement": "Deficiente \ninfraestructura y \nservicios \nportuarios, \nferroviarios y \naeroportuarios  Potenciaremos los puertos \ndel país, para consolidar al \nPerú como eje del transporte \nde carga en Sudamérica con \nla finalidad de aumentar \nnuestras exportaciones y el \nempleo",
+          "original_quote": "Deficiente \ninfraestructura y \nservicios \nportuarios, \nferroviarios y \naeroportuarios  Potenciaremos los puertos \ndel país, para consolidar al \nPerú como eje del transporte \nde carga en Sudamérica con \nla finalidad de aumentar \nnuestras exportaciones y el \nempleo",
+          "page": 18,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "infraestructura",
+            "transporte"
+          ]
+        },
+        {
+          "statement": "Impulsar el inicio \nde la construcción \nde la 2da pista del \nAIJCH y continuar \ncon la ampliación \nde los muelles del \npuerto del Callao",
+          "original_quote": "Impulsar el inicio \nde la construcción \nde la 2da pista del \nAIJCH y continuar \ncon la ampliación \nde los muelles del \npuerto del Callao",
+          "page": 18,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "construcción"
+          ]
+        },
+        {
+          "statement": "Promoveremos la \nconstrucción de la \nlínea ferroviaria \nque una Tumbes y \nTacna con la \nfinalidad de \nconcluirla al 5to \naño de nuestro \nGobierno",
+          "original_quote": "Promoveremos la \nconstrucción de la \nlínea ferroviaria \nque una Tumbes y \nTacna con la \nfinalidad de \nconcluirla al 5to \naño de nuestro \nGobierno",
+          "page": 19,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "construcción"
+          ]
+        },
+        {
+          "statement": "20 \n PROBLEMAS \nIDENTIFICADOS  OBJETIVOS  \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nlograr una \neficiente \nadministración y \ndistribución de \nlos  \nrecursos hídricos  gestionar de manera \nintegrada la infraestructura \nfísica de los sistemas \nproductivos y el manejo de \nlos recursos naturales, por \nmedio de las regulaciones \nambientales, las normas de \ncomercialización y sanitarias, \nconcertando a las \norganizaciones de \nproductor es con los \ngobiernos locales y \nregionales",
+          "original_quote": "20 \n PROBLEMAS \nIDENTIFICADOS  OBJETIVOS  \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nlograr una \neficiente \nadministración y \ndistribución de \nlos  \nrecursos hídricos  gestionar de manera \nintegrada la infraestructura \nfísica de los sistemas \nproductivos y el manejo de \nlos recursos naturales, por \nmedio de las regulaciones \nambientales, las normas de \ncomercialización y sanitarias, \nconcertando a las \norganizaciones de \nproductor es con los \ngobiernos locales y \nregionales",
+          "page": 20,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "infraestructura"
+          ]
+        },
+        {
+          "statement": "Promoveremos la \nconstrucción de \ngaseoductos regionales \npara satisfacer la demanda \ncon concesiones de \ndistribución del gas hasta la \npuerta de cada casa",
+          "original_quote": "Promoveremos la \nconstrucción de \ngaseoductos regionales \npara satisfacer la demanda \ncon concesiones de \ndistribución del gas hasta la \npuerta de cada casa",
+          "page": 24,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "construcción"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Corrupción",
+      "proposals": [
+        {
+          "statement": "Nuestro gobierno, seguirá implementando y fortaleciendo los servicios  públicos  \nbásicos, con prioridad en la Alimentación, la Educación, la Salud y la Seguridad; así \nmismo, implementando grandes proyectos en Infraestructura e Inversión, por lo que \npromoveremos y fortaleceremos medidas drásticas contra la corrupción en todo el \nPerú",
+          "original_quote": "Nuestro gobierno, seguirá implementando y fortaleciendo los servicios  públicos  \nbásicos, con prioridad en la Alimentación, la Educación, la Salud y la Seguridad; así \nmismo, implementando grandes proyectos en Infraestructura e Inversión, por lo que \npromoveremos y fortaleceremos medidas drásticas contra la corrupción en todo el \nPerú",
+          "page": 2,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "corrupción"
+          ]
+        },
+        {
+          "statement": "RESUMEN DEL PLAN DE GOBIERNO  \n \nDIMENSIÓN SOCIAL   \n \nPROBLEMAS  \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nCorrupción \nendémica en \ntodos los niveles \ndel aparato \npúblico  Crearemos una Central de \nlucha Contra la Corrupción \n(CCC), la cual dotaremos de \nplenos poderes para \ndetectar, infiltrar y capturar el \ndelito cometido en flagrancia, \nasí como las  \nirregularidades funcionales \nen todas sus modalidades y \nniveles de gobierno",
+          "original_quote": "RESUMEN DEL PLAN DE GOBIERNO  \n \nDIMENSIÓN SOCIAL   \n \nPROBLEMAS  \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nCorrupción \nendémica en \ntodos los niveles \ndel aparato \npúblico  Crearemos una Central de \nlucha Contra la Corrupción \n(CCC), la cual dotaremos de \nplenos poderes para \ndetectar, infiltrar y capturar el \ndelito cometido en flagrancia, \nasí como las  \nirregularidades funcionales \nen todas sus modalidades y \nniveles de gobierno",
+          "page": 3,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "corrupción"
+          ]
+        },
+        {
+          "statement": "Reduciremos de \nforma sustancial \nlos niveles de \ncorrupción y \nrecuperaremos la \nconfianza del \npueblo",
+          "original_quote": "Reduciremos de \nforma sustancial \nlos niveles de \ncorrupción y \nrecuperaremos la \nconfianza del \npueblo",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "corrupción"
+          ]
+        },
+        {
+          "statement": "Falta de \ntransparencia en \nel Estado  Aseguraremos el acceso \nmasivo a la información vía \nInternet, no solamente para \nmejorar la transparencia y el \nacceso a la información del \nEstado, sino para comunicar, \nmás rápida y eficazmente, las \ndecisiones de los organismos \npúblicos referentes a trámites \nrealizados por los \nciudadanos",
+          "original_quote": "Falta de \ntransparencia en \nel Estado  Aseguraremos el acceso \nmasivo a la información vía \nInternet, no solamente para \nmejorar la transparencia y el \nacceso a la información del \nEstado, sino para comunicar, \nmás rápida y eficazmente, las \ndecisiones de los organismos \npúblicos referentes a trámites \nrealizados por los \nciudadanos",
+          "page": 10,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "transparencia"
+          ]
+        },
+        {
+          "statement": "Corrupción al \ninterior del Poder \nJudicial y del \nMinisterio Público  Estableceremos mecanismos \ny canales destinados a \ndenunciar  irregularidades \ndentro del Poder Judicial y del \nMinisterio Público",
+          "original_quote": "Corrupción al \ninterior del Poder \nJudicial y del \nMinisterio Público  Estableceremos mecanismos \ny canales destinados a \ndenunciar  irregularidades \ndentro del Poder Judicial y del \nMinisterio Público",
+          "page": 10,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "corrupción"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Agricultura",
+      "proposals": [
+        {
+          "statement": "Impulsaremos el \ntrabajo digno e \nigualitario en las \npropias zonas \nrurales de los \nhabitantes, para \nrestar la pobreza \nextrema",
+          "original_quote": "Impulsaremos el \ntrabajo digno e \nigualitario en las \npropias zonas \nrurales de los \nhabitantes, para \nrestar la pobreza \nextrema",
+          "page": 16,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "rural"
+          ]
+        },
+        {
+          "statement": "Deficiente apoyo \na la actividad \nagropecuaria  Implementaremos la Ley de \nla Defensoría del Campesino \ny un marco jurídico facilitador \ny predecible",
+          "original_quote": "Deficiente apoyo \na la actividad \nagropecuaria  Implementaremos la Ley de \nla Defensoría del Campesino \ny un marco jurídico facilitador \ny predecible",
+          "page": 19,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "campesino"
+          ]
+        },
+        {
+          "statement": "Deficiente \ncomercialización \nde los productos \nagrarios  \n  Apoyaremos a las \norganizaciones de los \nempresarios agrarios para \ngestionar los clusters y \ncadenas productivas de los \nprincipales productos de sus \nregiones y promoveremos \nmás y mejores mecanismos \nde asociatividad, a efectos \nde lograr mejoras en la Para el comercio \nde los \nprincipales \nproductos \nagropecuarios \ncrea  la \nnecesidad de \nimpulsar \nclusters en el \nsector",
+          "original_quote": "Deficiente \ncomercialización \nde los productos \nagrarios  \n  Apoyaremos a las \norganizaciones de los \nempresarios agrarios para \ngestionar los clusters y \ncadenas productivas de los \nprincipales productos de sus \nregiones y promoveremos \nmás y mejores mecanismos \nde asociatividad, a efectos \nde lograr mejoras en la Para el comercio \nde los \nprincipales \nproductos \nagropecuarios \ncrea  la \nnecesidad de \nimpulsar \nclusters en el \nsector",
+          "page": 20,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "agrario"
+          ]
+        },
+        {
+          "statement": "Deficiente \ngeneración de \nenergía limpia  Como parte de nuestro Plan \nEnergético Nacional, \npriorizaremos la generación \nde energía limpia \nhidroeléctrica, \ndesarrollando concesiones \nde generación, transmisión \ny distribución eléctrica, y \nfomentaremos, mediante \nincentivos a la inversión \nprivada, electri cidad para \nlos pueblos rurales y \naislados, destinada a \nmejorar la calidad de vida \nde todos los ciudadanos",
+          "original_quote": "Deficiente \ngeneración de \nenergía limpia  Como parte de nuestro Plan \nEnergético Nacional, \npriorizaremos la generación \nde energía limpia \nhidroeléctrica, \ndesarrollando concesiones \nde generación, transmisión \ny distribución eléctrica, y \nfomentaremos, mediante \nincentivos a la inversión \nprivada, electri cidad para \nlos pueblos rurales y \naislados, destinada a \nmejorar la calidad de vida \nde todos los ciudadanos",
+          "page": 24,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "rural"
+          ]
+        },
+        {
+          "statement": "Promoveremos la \nmodernización de \nla minería con \nrespeto al Medio \nAmbiente y \ncompatible con la \nAgricultura",
+          "original_quote": "Promoveremos la \nmodernización de \nla minería con \nrespeto al Medio \nAmbiente y \ncompatible con la \nAgricultura",
+          "page": 25,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "agricultura"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Energía",
+      "proposals": [
+        {
+          "statement": "Utilización de \ntecnología para \nlabores de \nvigilancia  Nos proponemos \nreducir \nsignificativamente \nlos índices de \nviolencia, \ndelincuencia \ncomún, terrorismo \nurbano, extorsión, \ny la \ncomercialización \nde drogas",
+          "original_quote": "Utilización de \ntecnología para \nlabores de \nvigilancia  Nos proponemos \nreducir \nsignificativamente \nlos índices de \nviolencia, \ndelincuencia \ncomún, terrorismo \nurbano, extorsión, \ny la \ncomercialización \nde drogas",
+          "page": 3,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gas"
+          ]
+        },
+        {
+          "statement": "9 \n PROBLEMAS \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \ntomando como preceptos \npara dicha reducción la \nineficiencia, el \nsobredimensionamiento de la \nburocracia estatal y el alto \ngasto corriente, \nprincipalmente aquellos que \nse destinan a asesorías sin \nsustento técnico, ni beneficio \nreal hacia los ciudadanos",
+          "original_quote": "9 \n PROBLEMAS \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \ntomando como preceptos \npara dicha reducción la \nineficiencia, el \nsobredimensionamiento de la \nburocracia estatal y el alto \ngasto corriente, \nprincipalmente aquellos que \nse destinan a asesorías sin \nsustento técnico, ni beneficio \nreal hacia los ciudadanos",
+          "page": 9,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "gas"
+          ]
+        },
+        {
+          "statement": "DIMENSIÓN TERRITORIAL - AMBIENTAL   \n \nPROBLEMAS \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nDeficiente control \nde las emisiones \nde gases de \nefecto \ninvernadero   Controlaremos las emisiones \nde gases de efecto \ninvernadero y contaminantes \ndebido a que el Perú, uno de \nlos 10 países con mayor \nbiodiversidad en el mundo y \nfirmante del Convenio de \nKyoto, es sumamente \nsensible a los desastres \nnaturales que el cambio \nclimát ico origina",
+          "original_quote": "DIMENSIÓN TERRITORIAL - AMBIENTAL   \n \nPROBLEMAS \nIDENTIFICADOS  OBJETIVOS \nESTRATÉGICOS  INDICADORES  METAS AL 2026  \nDeficiente control \nde las emisiones \nde gases de \nefecto \ninvernadero   Controlaremos las emisiones \nde gases de efecto \ninvernadero y contaminantes \ndebido a que el Perú, uno de \nlos 10 países con mayor \nbiodiversidad en el mundo y \nfirmante del Convenio de \nKyoto, es sumamente \nsensible a los desastres \nnaturales que el cambio \nclimát ico origina",
+          "page": 21,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "gas"
+          ]
+        },
+        {
+          "statement": "Deficiente \ngeneración de \nenergía limpia  Como parte de nuestro Plan \nEnergético Nacional, \npriorizaremos la generación \nde energía limpia \nhidroeléctrica, \ndesarrollando concesiones \nde generación, transmisión \ny distribución eléctrica, y \nfomentaremos, mediante \nincentivos a la inversión \nprivada, electri cidad para \nlos pueblos rurales y \naislados, destinada a \nmejorar la calidad de vida \nde todos los ciudadanos",
+          "original_quote": "Deficiente \ngeneración de \nenergía limpia  Como parte de nuestro Plan \nEnergético Nacional, \npriorizaremos la generación \nde energía limpia \nhidroeléctrica, \ndesarrollando concesiones \nde generación, transmisión \ny distribución eléctrica, y \nfomentaremos, mediante \nincentivos a la inversión \nprivada, electri cidad para \nlos pueblos rurales y \naislados, destinada a \nmejorar la calidad de vida \nde todos los ciudadanos",
+          "page": 24,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "energía"
+          ]
+        },
+        {
+          "statement": "Falta de \nadopción de \npolíticas en \ngenerar energía \nlimpia y el \nmantenimiento \nde la energía \ntérmica \ngenerada por \nhidrocarburos, \ncomo gas, \npetróleo y \ndiesel, \ngenerando \npartículas (PM \n2.5), dióxido de \nazufre y de \nnitrógeno que \nafectan la \ncalidad del aire",
+          "original_quote": "Falta de \nadopción de \npolíticas en \ngenerar energía \nlimpia y el \nmantenimiento \nde la energía \ntérmica \ngenerada por \nhidrocarburos, \ncomo gas, \npetróleo y \ndiesel, \ngenerando \npartículas (PM \n2.5), dióxido de \nazufre y de \nnitrógeno que \nafectan la \ncalidad del aire",
+          "page": 24,
+          "measurable": true,
+          "specificity": "media",
+          "keywords": [
+            "energía",
+            "gas",
+            "petróleo"
+          ]
+        },
+        {
+          "statement": "Promoveremos y \npriorizaremos las \nfuentes de \nenergías limpias \ngeneradas desde la \nHidráulica, Eólica y \nSolar  \nDeficiente \ndistribución de \ngas  El gas de Camisea será \ndestinado principalmente \npara atender la demanda \ninterna",
+          "original_quote": "Promoveremos y \npriorizaremos las \nfuentes de \nenergías limpias \ngeneradas desde la \nHidráulica, Eólica y \nSolar  \nDeficiente \ndistribución de \ngas  El gas de Camisea será \ndestinado principalmente \npara atender la demanda \ninterna",
+          "page": 24,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "energía",
+            "gas"
+          ]
+        },
+        {
+          "statement": "Promoveremos la \nconstrucción de \ngaseoductos regionales \npara satisfacer la demanda \ncon concesiones de \ndistribución del gas hasta la \npuerta de cada casa",
+          "original_quote": "Promoveremos la \nconstrucción de \ngaseoductos regionales \npara satisfacer la demanda \ncon concesiones de \ndistribución del gas hasta la \npuerta de cada casa",
+          "page": 24,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gas"
+          ]
+        },
+        {
+          "statement": "Incrementaremos \nde mane ra \nsostenida el \nconsumo de gas \ndurante los 5 años \nde gestión",
+          "original_quote": "Incrementaremos \nde mane ra \nsostenida el \nconsumo de gas \ndurante los 5 años \nde gestión",
+          "page": 24,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "gas"
+          ]
+        },
+        {
+          "statement": "Deficiente empleo \nde gas natural  Impulsaremos proyectos que \nutilicen el gas natural para Falta de \nagilización en el Trabajaremos para \nProporcionar",
+          "original_quote": "Deficiente empleo \nde gas natural  Impulsaremos proyectos que \nutilicen el gas natural para Falta de \nagilización en el Trabajaremos para \nProporcionar",
+          "page": 24,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "gas"
+          ]
+        }
+      ]
+    }
+  ],
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: salario mínimo. Indicadores a favor: 17, en contra: 16."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: impuestos a grandes fortuna. Indicadores a favor: 30, en contra: 16."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de subsidios a empresas privadas en el plan de gobierno."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: pension. Indicadores a favor: 55, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: exportación, exportacion. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: matrimonio igualitario. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: género. Indicadores a favor: 65, en contra: 0."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: migra. Indicadores a favor: 11, en contra: 4."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de pena de muerte en el plan de gobierno."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: droga. Indicadores a favor: 7, en contra: 0."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: concesion. Indicadores a favor: 78, en contra: 0."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: renovable. Indicadores a favor: 80, en contra: 0."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Educación, la Salud y la Seguridad (página 2); Mejoraremos de manera progresiva la calidad de la educación escolar (página 6) Nuestro gobierno, seguirá implementando y fortaleciendo los servicios públicos básicos, con prioridad en la Alimentación, la Educación, la Salud y la Seguridad (página 2); Dotaremos y fortaleceremos las Postas Médicas con infraestructura, materiales, medicinas genéricas y profesionales de salud (página 6); Promoveremos el Plan Nacional de Promoción de la Salud (página 8) reducir la cantidad de Ministerios y redistribuir el personal a las sedes desconcentradas (página 9); Estableceremos incentivos económicos en pro de la mejora en la gestión de los Gobiernos Regionales y Locales, los mismos que se distribuirán de acuerdo a los cambios positivos de los indicadores de necesidades básicas insatisfechas (página 9) Estableceremos mecanismos y canales destinados a denunciar irregularidades dentro del Poder Judicial y del Ministerio Públic. Indicadores a favor: 31, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: sis, Sis. Indicadores a favor: 10, en contra: 0."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de transporte público gratuito en el plan de gobierno."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Internet. Indicadores a favor: 28, en contra: 0."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: militar. Indicadores a favor: 31, en contra: 11."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: region, Region. Indicadores a favor: 95, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: Judicial. Indicadores a favor: 47, en contra: 0."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de elección popular de jueces en el plan de gobierno."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: mandato. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "stances_updated_at": "2026-04-06T23:04:33.621260"
+}

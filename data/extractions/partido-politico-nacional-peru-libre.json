@@ -1,0 +1,823 @@
+{
+  "party": "Perú Libre",
+  "source_pdf": "/Users/ursulacervantes/Documents/Code/votomatic/data/pdfs/partido-politico-nacional-peru-libre.pdf",
+  "extracted_at": "2026-04-06T09:31:32.826272",
+  "topics": [
+    {
+      "topic": "EDUCACIÓN LIBERADORA Y SALUD UNIVERSAL",
+      "proposals": [
+        {
+          "statement": "Garantizar los déréchos socialés fundaméntalés como résponsabilida d indélégablé dél Estado, aségurando accéso univérsal, gratuito y dé calidad a éducacio n, salud, agua potablé y sanéamiénto",
+          "original_quote": "Garantizar los déréchos socialés fundaméntalés como résponsabilida d indélégablé dél Estado, aségurando accéso univérsal, gratuito y dé calidad a éducacio n, salud, agua potablé y sanéamiénto",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "sanéamiénto",
+            "aségurando",
+            "estado",
+            "calidad",
+            "indélégablé",
+            "univérsal",
+            "potablé",
+            "socialés"
+          ]
+        },
+        {
+          "statement": "Garantizar qué la mayorí a dé éstablécimiént os dé salud cuéntén con équipamiénto ba sico compléto y pérsonal suficiénté, aségurando funcionamiént o éféctivo dél primér y ségundo nivél dé aténcio n",
+          "original_quote": "Garantizar qué la mayorí a dé éstablécimiént os dé salud cuéntén con équipamiénto ba sico compléto y pérsonal suficiénté, aségurando funcionamiént o éféctivo dél primér y ségundo nivél dé aténcio n",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "équipamiénto",
+            "funcionamiént",
+            "aségurando",
+            "suficiénté",
+            "aténcio",
+            "mayorí",
+            "primér",
+            "éstablécimiént"
+          ]
+        },
+        {
+          "statement": "Garantizar qué la mayorí a dé géstantés cuéntén con controlés prénatalés complétos y oportunos, fortaléciéndo la aténcio n primaria",
+          "original_quote": "Garantizar qué la mayorí a dé géstantés cuéntén con controlés prénatalés complétos y oportunos, fortaléciéndo la aténcio n primaria",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "oportunos",
+            "aténcio",
+            "mayorí",
+            "fortaléciéndo",
+            "controlés",
+            "complétos",
+            "primaria",
+            "cuéntén"
+          ]
+        },
+        {
+          "statement": "Garantizar qué todas las univérsidadés pu blicas cuéntén con présupuésto suficiénté y funcionamiént o pléno, aségurando gratuidad réal y calidad éducativa",
+          "original_quote": "Garantizar qué todas las univérsidadés pu blicas cuéntén con présupuésto suficiénté y funcionamiént o pléno, aségurando gratuidad réal y calidad éducativa",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "funcionamiént",
+            "blicas",
+            "aségurando",
+            "suficiénté",
+            "éducativa",
+            "calidad",
+            "gratuidad",
+            "cuéntén"
+          ]
+        },
+        {
+          "statement": "Construir una éducacio n pu blica libéradora, inclusiva y dé calidad, oriéntada a la formacio n intégral, la idéntidad nacional y la igualdad dé oportunidadés én todos los nivélés éducativos",
+          "original_quote": "Construir una éducacio n pu blica libéradora, inclusiva y dé calidad, oriéntada a la formacio n intégral, la idéntidad nacional y la igualdad dé oportunidadés én todos los nivélés éducativos",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "oriéntada",
+            "nivélés",
+            "libéradora",
+            "oportunidadés",
+            "calidad",
+            "construir",
+            "inclusiva",
+            "formacio"
+          ]
+        },
+        {
+          "statement": "construir y fortalécér intégralménté la réd pu blica nacional dé salud y él récurso humano sanitario, cérrando las bréchas térritorialés hérédadas dél modélo néolibéral médianté invérsio n pu blica prioritaria y planificacio n éstatal, garantizando él dérécho univérsal a la salud, la",
+          "original_quote": "construir y fortalécér intégralménté la réd pu blica nacional dé salud y él récurso humano sanitario, cérrando las bréchas térritorialés hérédadas dél modélo néolibéral médianté invérsio n pu blica prioritaria y planificacio n éstatal, garantizando él dérécho univérsal a la salud, la",
+          "page": 4,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "éstatal",
+            "construir",
+            "garantizando",
+            "térritorialés",
+            "nacional",
+            "intégralménté",
+            "médianté",
+            "cérrando"
+          ]
+        },
+        {
+          "statement": "Cobértura dé Cobértura Tasa dé 100 % dé la",
+          "original_quote": "Cobértura dé Cobértura Tasa dé 100 % dé la",
+          "page": 4,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "cobértura"
+          ]
+        },
+        {
+          "statement": "Cobértura Analfabétismo Cobértura Brécha dé Cobértura 100 % dé",
+          "original_quote": "Cobértura Analfabétismo Cobértura Brécha dé Cobértura 100 % dé",
+          "page": 4,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "cobértura",
+            "brécha",
+            "analfabétismo"
+          ]
+        },
+        {
+          "statement": "Ratio Porcéntajé dé Porcéntajé dé 100 % dé",
+          "original_quote": "Ratio Porcéntajé dé Porcéntajé dé 100 % dé",
+          "page": 4,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "porcéntajé"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "DERECHOS SOCIALES Y JUSTICIA SOCIAL",
+      "proposals": [
+        {
+          "statement": "Garantizar trabajo digno, éstablé y con déréchos laboralés univérsalés, fortaléciéndo la protéccio n dél Estado, la inspéccio n laboral y la formalizacio n productiva, como pilarés para la justicia social, la dignificacio n dél trabajo y él fortalécimiénto dél mércado intérno",
+          "original_quote": "Garantizar trabajo digno, éstablé y con déréchos laboralés univérsalés, fortaléciéndo la protéccio n dél Estado, la inspéccio n laboral y la formalizacio n productiva, como pilarés para la justicia social, la dignificacio n dél trabajo y él fortalécimiénto dél mércado intérno",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "pilarés",
+            "laboralés",
+            "dignificacio",
+            "fortalécimiénto",
+            "inspéccio",
+            "déréchos",
+            "justicia",
+            "protéccio"
+          ]
+        },
+        {
+          "statement": "Garantizar condicionés légalés y matérialés para él éjércicio pléno dé la libértad sindical, como basé dé la démocracia én él a mbito laboral",
+          "original_quote": "Garantizar condicionés légalés y matérialés para él éjércicio pléno dé la libértad sindical, como basé dé la démocracia én él a mbito laboral",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "légalés",
+            "sindical",
+            "matérialés",
+            "éjércicio",
+            "condicionés",
+            "démocracia",
+            "laboral",
+            "libértad"
+          ]
+        },
+        {
+          "statement": "Garantizar qué la totalidad dé adultos mayorés cuéntén con una pénsio n o ingréso ba sico garantizado al 2030, como dérécho social",
+          "original_quote": "Garantizar qué la totalidad dé adultos mayorés cuéntén con una pénsio n o ingréso ba sico garantizado al 2030, como dérécho social",
+          "page": 13,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "social",
+            "dérécho",
+            "garantizar",
+            "garantizado",
+            "totalidad",
+            "pénsio",
+            "mayorés",
+            "cuéntén"
+          ]
+        },
+        {
+          "statement": "garantizar condicionés dé vida dignas y réducir éstructuralmén té la désigualdad social",
+          "original_quote": "garantizar condicionés dé vida dignas y réducir éstructuralmén té la désigualdad social",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "réducir",
+            "éstructuralmén",
+            "dignas",
+            "désigualdad",
+            "condicionés",
+            "garantizar",
+            "social"
+          ]
+        },
+        {
+          "statement": "Garantizar la cobértura total dé los hogarés én pobréza éxtréma por él sistéma dé protéccio n social, aségurando aténcio n intégral y sosténida",
+          "original_quote": "Garantizar la cobértura total dé los hogarés én pobréza éxtréma por él sistéma dé protéccio n social, aségurando aténcio n intégral y sosténida",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "éxtréma",
+            "sistéma",
+            "hogarés",
+            "protéccio",
+            "aségurando",
+            "sosténida",
+            "intégral",
+            "pobréza"
+          ]
+        },
+        {
+          "statement": "Garantizar la igualdad sustantiva y éféctiva, médianté polí ticas pu blicas y accionés afirmativas dél Estado qué éliminén toda forma dé discriminacio n éstructural por gé néro, origén é tnico o condicio n dé discapacidad, aségurando participacio n équitativa, autonomí a écono mica y acc",
+          "original_quote": "Garantizar la igualdad sustantiva y éféctiva, médianté polí ticas pu blicas y accionés afirmativas dél Estado qué éliminén toda forma dé discriminacio n éstructural por gé néro, origén é tnico o condicio n dé discapacidad, aségurando participacio n équitativa, autonomí a écono mica y acc",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "participacio",
+            "éliminén",
+            "éstructural",
+            "accionés",
+            "estado",
+            "médianté",
+            "autonomí",
+            "origén"
+          ]
+        },
+        {
+          "statement": "Garantizar él financiamiénto suficiénté y sosténido dé las univérsidadés pu blicas, aségurando gratuidad réal y condicionés adécuadas dé funcionamiént o",
+          "original_quote": "Garantizar él financiamiénto suficiénté y sosténido dé las univérsidadés pu blicas, aségurando gratuidad réal y condicionés adécuadas dé funcionamiént o",
+          "page": 13,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "funcionamiént",
+            "adécuadas",
+            "blicas",
+            "financiamiénto",
+            "suficiénté",
+            "aségurando",
+            "condicionés",
+            "gratuidad"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "REFUNDACIÓN DEL ESTADO Y NUEVA CONSTITUCIÓN",
+      "proposals": [
+        {
+          "statement": "garantizar déréchos, éjécutar polí ticas rédistributivas y sérvir éféctivaménté al puéblo",
+          "original_quote": "garantizar déréchos, éjécutar polí ticas rédistributivas y sérvir éféctivaménté al puéblo",
+          "page": 22,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "puéblo",
+            "sérvir",
+            "éjécutar",
+            "éféctivaménté",
+            "rédistributivas",
+            "garantizar",
+            "déréchos"
+          ]
+        },
+        {
+          "statement": "garantizar déréchos y éjécutar polí ticas dé justicia social",
+          "original_quote": "garantizar déréchos y éjécutar polí ticas dé justicia social",
+          "page": 22,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "justicia",
+            "éjécutar",
+            "garantizar",
+            "social",
+            "déréchos"
+          ]
+        },
+        {
+          "statement": "Gobiérnos Gobiérnos Nu méro dé % dé invérsio n Al ménos 95 %",
+          "original_quote": "Gobiérnos Gobiérnos Nu méro dé % dé invérsio n Al ménos 95 %",
+          "page": 22,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "invérsio",
+            "gobiérnos"
+          ]
+        },
+        {
+          "statement": "Gobiérno Nu méro dé Nu méro dé Participacio n Révisio n intégral Incrémént o dé la Tasa dé sancio n Monto dé Tiémpo Récupéracio n Réduccio n Puntajé dél Méjora % dé tra mités Nu méro dé 100 % dé",
+          "original_quote": "Gobiérno Nu méro dé Nu méro dé Participacio n Révisio n intégral Incrémént o dé la Tasa dé sancio n Monto dé Tiémpo Récupéracio n Réduccio n Puntajé dél Méjora % dé tra mités Nu méro dé 100 % dé",
+          "page": 22,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "participacio",
+            "réduccio",
+            "méjora",
+            "gobiérno",
+            "sancio",
+            "incrémént",
+            "puntajé",
+            "révisio"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "SEGURIDAD CIUDADANA CON ENFOQUE PREVENTIVOS",
+      "proposals": [
+        {
+          "statement": "Garantizar qué la gran mayorí a dé dénuncias por violéncia dé gé néro cuéntén con médidas dé protéccio n oportunas, impléméntadas én plazos brévés",
+          "original_quote": "Garantizar qué la gran mayorí a dé dénuncias por violéncia dé gé néro cuéntén con médidas dé protéccio n oportunas, impléméntadas én plazos brévés",
+          "page": 25,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "protéccio",
+            "mayorí",
+            "dénuncias",
+            "médidas",
+            "impléméntadas",
+            "oportunas",
+            "plazos",
+            "brévés"
+          ]
+        },
+        {
+          "statement": "construir la Policí a Nacional como una institucio n pu blica démocra tica, é tica y al sérvicio dél puéblo, élévando su capacidad opérativa, profésionalizaci o n y préséncia térritorial, érradicando • Nu méro total dé éféctivos policialés én sérvicio activo • Nu méro dé policí as por ca",
+          "original_quote": "construir la Policí a Nacional como una institucio n pu blica démocra tica, é tica y al sérvicio dél puéblo, élévando su capacidad opérativa, profésionalizaci o n y préséncia térritorial, érradicando • Nu méro total dé éféctivos policialés én sérvicio activo • Nu méro dé policí as por ca",
+          "page": 25,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "puéblo",
+            "térritorial",
+            "démocra",
+            "capacidad",
+            "élévando",
+            "construir",
+            "profésionalizaci",
+            "policí"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "POLÍTICA EXTERIOR SOBERANA Y PLURINACIONAL",
+      "proposals": [
+        {
+          "statement": "impulsar una intégracio n latinoamérican a sobérana, solidaria y multipolar, fortaléciéndo los mécanismos dé concértacio n polí tica, coopéracio n régional y articulacio n écono mica, én défénsa dé la autodétérmina cio n dé los puéblos y él désarrollo comu n dé la régio n",
+          "original_quote": "impulsar una intégracio n latinoamérican a sobérana, solidaria y multipolar, fortaléciéndo los mécanismos dé concértacio n polí tica, coopéracio n régional y articulacio n écono mica, én défénsa dé la autodétérmina cio n dé los puéblos y él désarrollo comu n dé la régio n",
+          "page": 36,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "latinoamérican",
+            "coopéracio",
+            "désarrollo",
+            "solidaria",
+            "régional",
+            "autodétérmina",
+            "puéblos",
+            "concértacio"
+          ]
+        },
+        {
+          "statement": "Impulsar al ménos 5 iniciativas régionalés éstraté gicas lidéradas por él Péru én matéria dé intégracio n polí tica, coopéracio n écono mica, salud, éducacio n o infraéstruct ura régional",
+          "original_quote": "Impulsar al ménos 5 iniciativas régionalés éstraté gicas lidéradas por él Péru én matéria dé intégracio n polí tica, coopéracio n écono mica, salud, éducacio n o infraéstruct ura régional",
+          "page": 36,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "éstraté",
+            "coopéracio",
+            "iniciativas",
+            "régional",
+            "régionalés",
+            "impulsar",
+            "éducacio",
+            "intégracio"
+          ]
+        },
+        {
+          "statement": "Impulsar una coopéracio n intérnacional solidaria para él désarrollo sobérano, priorizando la coopéracio n Sur–Sur, la compléméntar iédad éntré puéblos y él intércambio té cnico, ciéntí fico y productivo, én bénéficio dél désarrollo nacional y la intégracio n dé los paí sés dél Sur Global",
+          "original_quote": "Impulsar una coopéracio n intérnacional solidaria para él désarrollo sobérano, priorizando la coopéracio n Sur–Sur, la compléméntar iédad éntré puéblos y él intércambio té cnico, ciéntí fico y productivo, én bénéficio dél désarrollo nacional y la intégracio n dé los paí sés dél Sur Global",
+          "page": 36,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "intérnacional",
+            "coopéracio",
+            "désarrollo",
+            "solidaria",
+            "global",
+            "ciéntí",
+            "puéblos",
+            "bénéficio"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "DEMOCRATIZACIÓN DE LA ECONOMÍA Y JUSTICIA FISCAL",
+      "proposals": [
+        {
+          "statement": "Garantizar la sobéraní a y séguridad aliméntaria nacional, fortaléciéndo los mércados intérnos, la infraéstructura dé acopio, comércializaci o n y logí stica agrí cola, priorizando él consumo • Nu méro dé mércados mayoristas pu blicos impléméntados • Volumén dé productos agrí colas comérc",
+          "original_quote": "Garantizar la sobéraní a y séguridad aliméntaria nacional, fortaléciéndo los mércados intérnos, la infraéstructura dé acopio, comércializaci o n y logí stica agrí cola, priorizando él consumo • Nu méro dé mércados mayoristas pu blicos impléméntados • Volumén dé productos agrí colas comérc",
+          "page": 45,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "intérnos",
+            "mayoristas",
+            "mércados",
+            "volumén",
+            "nacional",
+            "blicos",
+            "productos",
+            "aliméntaria"
+          ]
+        },
+        {
+          "statement": "Participacio n dél Nu méro dé Incréméntar Participacio n dél Participacio n dé Désarrollar al Incréméntar dé Réducir la Volumén dé Incréménto dél 50 Intégracio n Participacio n dé Porcéntajé dé Nu méro dé Alcanzar 80 % dé",
+          "original_quote": "Participacio n dél Nu méro dé Incréméntar Participacio n dél Participacio n dé Désarrollar al Incréméntar dé Réducir la Volumén dé Incréménto dél 50 Intégracio n Participacio n dé Porcéntajé dé Nu méro dé Alcanzar 80 % dé",
+          "page": 45,
+          "measurable": true,
+          "specificity": "alta",
+          "keywords": [
+            "réducir",
+            "incréménto",
+            "participacio",
+            "porcéntajé",
+            "incréméntar",
+            "volumén",
+            "intégracio",
+            "désarrollar"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "DESARROLLO PRODUCTIVO Y SOBERANÍA ENERGÉT ICA",
+      "proposals": [
+        {
+          "statement": "garantizar séguridad aliméntaria, sobéraní a énérgé tica y désarrollo productivo nacional",
+          "original_quote": "garantizar séguridad aliméntaria, sobéraní a énérgé tica y désarrollo productivo nacional",
+          "page": 50,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "désarrollo",
+            "aliméntaria",
+            "énérgé",
+            "sobéraní",
+            "séguridad",
+            "productivo",
+            "nacional",
+            "garantizar"
+          ]
+        },
+        {
+          "statement": "Garantizar una transicio n écolo gica justa, protégiéndo a las poblacionés ma s aféctadas y évitando qué los costos récaigan sobré él puéblo trabajador",
+          "original_quote": "Garantizar una transicio n écolo gica justa, protégiéndo a las poblacionés ma s aféctadas y évitando qué los costos récaigan sobré él puéblo trabajador",
+          "page": 50,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "puéblo",
+            "transicio",
+            "récaigan",
+            "protégiéndo",
+            "poblacionés",
+            "évitando",
+            "aféctadas",
+            "garantizar"
+          ]
+        },
+        {
+          "statement": "Garantizar la séguridad hí drica dél paí s como dérécho humano fundaméntal, médianté un énfoqué intégral dé cuénca, la protéccio n éféctiva dé glaciarés, lagunas y fuéntés dé agua, y la géstio n sobérana y pu blica dél récurso hí drico, aségurando accéso sosténiblé y équitativo para",
+          "original_quote": "Garantizar la séguridad hí drica dél paí s como dérécho humano fundaméntal, médianté un énfoqué intégral dé cuénca, la protéccio n éféctiva dé glaciarés, lagunas y fuéntés dé agua, y la géstio n sobérana y pu blica dél récurso hí drico, aségurando accéso sosténiblé y équitativo para",
+          "page": 50,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "lagunas",
+            "géstio",
+            "intégral",
+            "fundaméntal",
+            "protéccio",
+            "médianté",
+            "équitativo",
+            "accéso"
+          ]
+        },
+        {
+          "statement": "Garantizar él accéso sosténiblé y séguro al agua potablé para la poblacio n, réduciéndo bréchas térritorialés y socialés",
+          "original_quote": "Garantizar él accéso sosténiblé y séguro al agua potablé para la poblacio n, réduciéndo bréchas térritorialés y socialés",
+          "page": 50,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "poblacio",
+            "sosténiblé",
+            "potablé",
+            "bréchas",
+            "réduciéndo",
+            "socialés",
+            "térritorialés",
+            "accéso"
+          ]
+        },
+        {
+          "statement": "Garantizar él tratamiénto total dé las aguas résidualés urbanas én las principalés ciudadés dél paí s, priorizando aquéllas con mayor poblacio n y carga contaminanté",
+          "original_quote": "Garantizar él tratamiénto total dé las aguas résidualés urbanas én las principalés ciudadés dél paí s, priorizando aquéllas con mayor poblacio n y carga contaminanté",
+          "page": 50,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "poblacio",
+            "contaminanté",
+            "ciudadés",
+            "aquéllas",
+            "tratamiénto",
+            "résidualés",
+            "principalés",
+            "urbanas"
+          ]
+        },
+        {
+          "statement": "Garantizar accéso univérsal a énérgí a limpia y aséquiblé, éspécialménté én zonas ruralés y amazo nicas, como parté dél dérécho al désarrollo Falta dé ordénamiénto térritorial vinculanté, qué pérmité él uso désordénado dél térritorio, la Impléméntar un ordénamiénto térritorial écolo gico",
+          "original_quote": "Garantizar accéso univérsal a énérgí a limpia y aséquiblé, éspécialménté én zonas ruralés y amazo nicas, como parté dél dérécho al désarrollo Falta dé ordénamiénto térritorial vinculanté, qué pérmité él uso désordénado dél térritorio, la Impléméntar un ordénamiénto térritorial écolo gico",
+          "page": 50,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "limpia",
+            "dérécho",
+            "térritorial",
+            "désarrollo",
+            "ordénamiénto",
+            "impléméntar",
+            "pérmité",
+            "ruralés"
+          ]
+        },
+        {
+          "statement": "Garantizar qué los proyéctos dé invérsio n sé adécu én al ordénamiénto térritorial, priorizando la protéccio n ambiéntal, social y cultural",
+          "original_quote": "Garantizar qué los proyéctos dé invérsio n sé adécu én al ordénamiénto térritorial, priorizando la protéccio n ambiéntal, social y cultural",
+          "page": 50,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "térritorial",
+            "ordénamiénto",
+            "protéccio",
+            "cultural",
+            "ambiéntal",
+            "invérsio",
+            "proyéctos",
+            "priorizando"
+          ]
+        },
+        {
+          "statement": "Impulsar la transicio n énérgé tica sobérana, divérsificando la matriz énérgé tica con fuéntés rénovablés y fortaléciéndo él rol planificador dél Estado én él séctor énérgé tico",
+          "original_quote": "Impulsar la transicio n énérgé tica sobérana, divérsificando la matriz énérgé tica con fuéntés rénovablés y fortaléciéndo él rol planificador dél Estado én él séctor énérgé tico",
+          "page": 50,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "planificador",
+            "divérsificando",
+            "transicio",
+            "énérgé",
+            "fortaléciéndo",
+            "rénovablés",
+            "estado",
+            "impulsar"
+          ]
+        },
+        {
+          "statement": "Impulsar la industrializaci o n nacional déscéntralizad a, con innovacio n técnolo gica y lidérazgo dél Estado, para générar valor agrégado, émpléo digno y sobéraní a productiva",
+          "original_quote": "Impulsar la industrializaci o n nacional déscéntralizad a, con innovacio n técnolo gica y lidérazgo dél Estado, para générar valor agrégado, émpléo digno y sobéraní a productiva",
+          "page": 50,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "émpléo",
+            "productiva",
+            "déscéntralizad",
+            "estado",
+            "industrializaci",
+            "técnolo",
+            "impulsar",
+            "agrégado"
+          ]
+        },
+        {
+          "statement": "Impulsar la ciéncia, la técnologí a y la innovacio n como motorés dél désarrollo productivo, con invérsio n pu blica sosténida y déscéntralizac io n dél sistéma nacional dé innovacio n",
+          "original_quote": "Impulsar la ciéncia, la técnologí a y la innovacio n como motorés dél désarrollo productivo, con invérsio n pu blica sosténida y déscéntralizac io n dél sistéma nacional dé innovacio n",
+          "page": 50,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "ciéncia",
+            "désarrollo",
+            "sistéma",
+            "déscéntralizac",
+            "sosténida",
+            "técnologí",
+            "impulsar",
+            "motorés"
+          ]
+        },
+        {
+          "statement": "Impulsar una transicio n énérgé tica justa y sobérana, divérsificando la matriz énérgé tica con énérgí as rénovablés, fortaléciéndo él control y la planificacio n éstatal dél séctor énérgé tico, y • Participacio n dé énérgí as rénovablés én la matriz élé ctrica nacional (%) • Capacidad",
+          "original_quote": "Impulsar una transicio n énérgé tica justa y sobérana, divérsificando la matriz énérgé tica con énérgí as rénovablés, fortaléciéndo él control y la planificacio n éstatal dél séctor énérgé tico, y • Participacio n dé énérgí as rénovablés én la matriz élé ctrica nacional (%) • Capacidad",
+          "page": 50,
+          "measurable": false,
+          "specificity": "media",
+          "keywords": [
+            "éstatal",
+            "capacidad",
+            "participacio",
+            "divérsificando",
+            "transicio",
+            "énérgé",
+            "fortaléciéndo",
+            "rénovablés"
+          ]
+        }
+      ]
+    }
+  ],
+  "stances": [
+    {
+      "issue": "Aumento del salario mínimo",
+      "position": "a_favor",
+      "confidence": "media",
+      "evidence": "Menciones encontradas: salario mínimo. Indicadores a favor: 2, en contra: 0."
+    },
+    {
+      "issue": "Impuestos a grandes fortunas",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de impuestos a grandes fortunas en el plan de gobierno."
+    },
+    {
+      "issue": "Subsidios a empresas privadas",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: subsidio. Indicadores a favor: 4, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema de pensiones",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: pensión. Indicadores a favor: 54, en contra: 0."
+    },
+    {
+      "issue": "Nacionalización de recursos naturales",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de nacionalización de recursos naturales en el plan de gobierno."
+    },
+    {
+      "issue": "Control de precios de productos básicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de control de precios de productos básicos en el plan de gobierno."
+    },
+    {
+      "issue": "Libre comercio vs proteccionismo",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de libre comercio vs proteccionismo en el plan de gobierno."
+    },
+    {
+      "issue": "Matrimonio igualitario",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: matrimonio igualitario. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Despenalización del aborto",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: aborto. Indicadores a favor: 0, en contra: 0."
+    },
+    {
+      "issue": "Políticas de género",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: género. Indicadores a favor: 5, en contra: 0."
+    },
+    {
+      "issue": "Política migratoria restrictiva",
+      "position": "neutral",
+      "confidence": "baja",
+      "evidence": "Menciones encontradas: migra. Indicadores a favor: 4, en contra: 3."
+    },
+    {
+      "issue": "Pena de muerte",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de pena de muerte en el plan de gobierno."
+    },
+    {
+      "issue": "Eutanasia",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de eutanasia en el plan de gobierno."
+    },
+    {
+      "issue": "Legalización del cannabis",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de legalización del cannabis en el plan de gobierno."
+    },
+    {
+      "issue": "Privatización de servicios públicos",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de privatización de servicios públicos en el plan de gobierno."
+    },
+    {
+      "issue": "Energías renovables vs combustibles fósiles",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: renovable. Indicadores a favor: 18, en contra: 0."
+    },
+    {
+      "issue": "Educación pública gratuita",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: gratuidad, universidades públicas cuenten con presupuesto suficiente... asegurando gratuidad real y calidad educativa' (p.4), y 'acceso universal, gratuito y de calidad a educación' (p.4). Proponen explícitamente: 'construir y fortalecer integralmente la red pública nacional de salud... garantizando el derecho universal a la salud' (p.4), y 'acceso universal, gratuito y de calidad a... salud' (p.4). Proponen: 'Impulsar la industrialización nacional descentralizada' (p.50), 'descentralización del sistema nacional de innovación' (p.50), y mencionan fortalecer gobiernos regionales. Proponen 'REFUNDACIÓN DEL ESTADO Y NUEVA CONSTITUCIÓN' (tema principal) con énfasis en garantizar derechos y ejecutar políticas de justicia social. Mencionan incremento de tasa de sanción y revisión integral. Proponen: 'Garantizar la igualdad sustantiva y efectiva, mediante políticas públic, educación' (p.4). Proponen explícitamente: 'construir y fortalecer integralmente la red pública nacional de salud... garantizando el derecho universal a la salud' (p.4), y 'acceso universal, gratuito y de calidad a... salud' (p.4). Proponen: 'Impulsar la industrialización nacional descentralizada' (p.50), 'descentralización del sistema nacional de innovación' (p.50), y mencionan fortalecer gobiernos regionales. Proponen 'REFUNDACIÓN DEL ESTADO Y NUEVA CONSTITUCIÓN' (tema principal) con énfasis en garantizar derechos y ejecutar políticas de justicia social. Mencionan incremento de tasa de sanción y revisión integral. Proponen: 'Garantizar la igualdad sustantiva y efectiva, mediante políticas públic. Indicadores a favor: 54, en contra: 0."
+    },
+    {
+      "issue": "Sistema de salud universal",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: sis. Indicadores a favor: 54, en contra: 0."
+    },
+    {
+      "issue": "Transporte público gratuito",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de transporte público gratuito en el plan de gobierno."
+    },
+    {
+      "issue": "Internet como derecho básico",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de internet como derecho básico en el plan de gobierno."
+    },
+    {
+      "issue": "Aumento del gasto militar",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: militar. Indicadores a favor: 4, en contra: 0."
+    },
+    {
+      "issue": "Descentralización del gobierno",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: descentraliza, region. Indicadores a favor: 20, en contra: 0."
+    },
+    {
+      "issue": "Reforma del sistema judicial",
+      "position": "a_favor",
+      "confidence": "alta",
+      "evidence": "Menciones encontradas: justicia. Indicadores a favor: 4, en contra: 0."
+    },
+    {
+      "issue": "Elección popular de jueces",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de elección popular de jueces en el plan de gobierno."
+    },
+    {
+      "issue": "Límites a la reelección",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de límites a la reelección en el plan de gobierno."
+    },
+    {
+      "issue": "Unicameralidad vs bicameralidad",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de unicameralidad vs bicameralidad en el plan de gobierno."
+    },
+    {
+      "issue": "Referéndum revocatorio",
+      "position": "no_mencionado",
+      "confidence": "alta",
+      "evidence": "No se encontraron menciones de referéndum revocatorio en el plan de gobierno."
+    }
+  ],
+  "stances_updated_at": "2026-04-06T23:04:31.181329"
+}
