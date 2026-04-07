@@ -137,26 +137,6 @@ El modelo se ha replicado en más de 50 países en todos los continentes:
 4. **Sesgo partidario** - Ser estrictamente neutral
 5. **Falta de transparencia** - Publicar todo el proceso
 
-## Diferencias con Votomatic
-
-Votomatic se adapta al contexto peruano:
-
-### Mismo ADN:
-- ✅ Proceso de talleres con jóvenes
-- ✅ 25-38 preguntas de alta calidad
-- ✅ Partidos controlan sus respuestas
-- ✅ Algoritmo transparente
-- ✅ Sin recopilación de datos
-- ✅ Neutralidad estricta
-
-### Adaptaciones para Perú:
-- 🇵🇪 Equipo más pequeño (12-15 vs 20-25 jóvenes)
-- 🇵🇪 Proceso más corto (6-8 semanas vs 3 meses)
-- 🇵🇪 Inicio con 25-30 preguntas (expandible a 38)
-- 🇵🇪 Operación independiente (no gubernamental)
-- 🇵🇪 Contexto de menor confianza institucional
-- 🇵🇪 Sistema presidencial (no parlamentario)
-
 ## Por qué seguimos este modelo
 
 El Wahl-O-Mat no es perfecto, pero:

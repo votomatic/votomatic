@@ -4,6 +4,7 @@ export interface Party {
   abbreviation: string
   logoUrl?: string | null
   description?: string
+  isInCongress?: boolean
 }
 
 export interface PartyAnswer {

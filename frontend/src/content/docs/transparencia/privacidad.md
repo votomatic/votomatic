@@ -139,8 +139,7 @@ Desde el principio, tu uso es completamente privado.
 
 Si tienes dudas sobre privacidad:
 
-- Revisa nuestro código en GitHub
-- Contáctanos por email
+- Revisa nuestro código en [GitHub](https://github.com/votomatic/votomatic)
 - Pregunta a expertos independientes en seguridad
 - Lee esta documentación con calma
 

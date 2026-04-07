@@ -31,5 +31,12 @@ export const partyType = defineType({
       type: 'text',
       title: 'Description',
     }),
+    defineField({
+      name: 'isInCongress',
+      type: 'boolean',
+      title: 'Is in Congress',
+      description: 'Does this party currently have representation in Congress?',
+      initialValue: false,
+    }),
   ],
 })

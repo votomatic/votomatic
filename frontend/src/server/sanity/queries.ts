@@ -23,7 +23,8 @@ export const ELECTION_BY_SLUG_QUERY = `
         name,
         abbreviation,
         logo,
-        description
+        description,
+        isInCongress
       },
       answers[] {
         thesisKey,

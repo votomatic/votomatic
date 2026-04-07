@@ -1,170 +1,106 @@
 ---
-title: "Participación de los partidos"
-description: "Cómo los partidos políticos participan en Votomatic"
+title: "Datos de los partidos"
+description: "Cómo obtenemos las posiciones de los partidos políticos"
 category: "proceso"
 order: 3
 ---
 
-Para que Votomatic funcione, necesitamos la participación de los partidos políticos. Aquí te explicamos cómo participan y qué garantías tienen.
+Para que Votomatic funcione, necesitamos conocer las posiciones de los partidos políticos. Aquí te explicamos de dónde provienen estos datos.
 
-## ¿Qué partidos pueden participar?
+## Fuente de información
 
-**Todos los partidos con listas oficiales de candidatos** pueden participar en Votomatic. No importa si son:
+Las posiciones de los partidos en Votomatic provienen de los **planes de gobierno oficiales** que cada partido presenta al Jurado Nacional de Elecciones (JNE) para participar en las elecciones.
+
+### ¿Por qué los planes de gobierno?
+
+- Son documentos **oficiales y públicos**
+- Son **obligatorios** para todos los partidos que participan
+- Representan las **propuestas formales** de cada partido
+- Están disponibles en el portal del JNE para cualquier ciudadano
+
+## ¿Qué partidos están incluidos?
+
+**Todos los 37 partidos** con inscripción vigente para las Elecciones Generales 2026 están incluidos en Votomatic.
+
+**Principio de igualdad**: Todos los partidos reciben exactamente el mismo trato, sin importar si son:
 
 - Grandes o pequeños
 - Nuevos o tradicionales
 - Con representación actual en el Congreso o sin ella
 
-**Principio de igualdad**: Todos los partidos reciben exactamente el mismo trato.
+## Proceso de extracción
 
-## Cómo funciona el proceso
+### 1. Obtención de documentos
+- Descargamos los planes de gobierno del portal oficial del JNE
+- Procesamos los archivos PDF para extraer el texto
 
-### 1. Invitación (2-3 meses antes de elecciones)
-- Contactamos a todos los partidos con listas oficiales
-- Les explicamos el proyecto y el proceso
-- Les damos acceso a un sistema seguro para responder
+### 2. Análisis con inteligencia artificial
+- La IA analiza el contenido de cada plan de gobierno
+- Identifica las propuestas y posiciones del partido
+- Extrae citas relevantes que respaldan cada posición
 
-### 2. Envío de preguntas (después del Taller 1)
-Los partidos reciben:
-- 50-60 preguntas sobre temas políticos
-- Instrucciones claras sobre cómo responder
-- Un plazo de 2-3 semanas para responder
+### 3. Asignación de posiciones
+Para cada pregunta de Votomatic, la IA determina:
 
-### 3. Respuesta de los partidos (2-3 semanas)
-Para cada pregunta, el partido debe:
+**a) La posición del partido:**
+- De acuerdo (+1)
+- Neutral (0)
+- En desacuerdo (-1)
 
-**a) Elegir una posición:**
-- De acuerdo
-- Neutral
-- En desacuerdo
+**b) La justificación:**
+- Extracto o resumen del plan de gobierno
+- Cita de las propuestas relevantes
+- Contexto de la posición del partido
 
-**b) Escribir una justificación (200-300 palabras):**
-- Explicar por qué tienen esa posición
-- Dar contexto o detalles de su propuesta
-- En lenguaje claro y directo
+## Diferencia con el Wahl-O-Mat
 
-### 4. Revisión y confirmación
-- Nuestro equipo revisa las respuestas
-- Si algo no está claro o parece un error, contactamos al partido
-- El partido puede revisar y confirmar sus respuestas
-- La **decisión final siempre es del partido**
+En el Wahl-O-Mat alemán, los propios partidos responden directamente las preguntas. En Votomatic, las posiciones son **extraídas por IA** de los planes de gobierno.
 
-### 5. Selección de preguntas finales
-- Los jóvenes del equipo editorial seleccionan 25-38 preguntas
-- Los partidos son informados de cuáles fueron seleccionadas
-- Solo las respuestas a esas preguntas se publican
+### Ventajas de nuestro enfoque:
+- No depende de la participación activa de los partidos
+- Todos los partidos están incluidos
+- Basado en documentos oficiales y verificables
 
-## Garantías para los partidos
+### Limitaciones de nuestro enfoque:
+- La IA puede malinterpretar algunas posiciones
+- Los planes de gobierno no cubren todos los temas
+- No refleja cambios de posición posteriores a la publicación del plan
 
-### Control total sobre sus respuestas
-- Nosotros **NUNCA editamos** las respuestas de los partidos
-- Nosotros **NUNCA interpretamos** lo que quisieron decir
-- La respuesta publicada es exactamente lo que el partido escribió
+## Transparencia
 
-### Autorización oficial
-- Las respuestas deben ser autorizadas por:
-  - La dirección ejecutiva del partido, o
-  - El comité electoral del partido, o
-  - El candidato principal
+Para cada posición de cada partido, mostramos:
 
-Esto asegura que las respuestas representan la posición oficial del partido.
+- La posición asignada (a favor, neutral, en contra)
+- La justificación basada en el plan de gobierno
+- El contexto de las propuestas del partido
 
-### Oportunidad de corrección
-Si detectamos:
-- Contradicciones entre la respuesta y la justificación
-- Posibles errores de interpretación de la pregunta
-- Problemas técnicos al enviar
+Esto permite que los usuarios:
+- Verifiquen si la posición asignada es correcta
+- Lean las propuestas originales del partido
+- Formen su propia opinión
 
-Le damos al partido la oportunidad de revisar y corregir antes de publicar.
+## ¿Qué pasa si un partido no tiene posición clara?
 
-### Transparencia
-Los partidos saben:
-- Exactamente cómo se calcularán los resultados
-- Qué otras preguntas respondieron los demás partidos
-- Cuándo se lanzará la herramienta
-- Que todo el proceso está documentado públicamente
+Si el plan de gobierno de un partido no menciona un tema específico:
 
-## ¿Qué pasa si un partido no participa?
+- Se asigna posición **Neutral (0)**
+- Se indica que el tema no está cubierto en el plan de gobierno
+- El usuario puede decidir si esto es relevante para su comparación
 
-Si un partido decide no participar:
+## Verificación de datos
 
-- ✅ Respetamos su decisión
-- ✅ No penalizamos al partido de ninguna forma
-- ✅ Informamos transparentemente qué partidos no participaron
-- ✅ Los usuarios pueden ver la lista completa de partidos invitados
+Reconocemos que el proceso de extracción por IA puede tener errores. Por eso:
 
-**Los usuarios no pueden compararse con partidos que no participaron**, porque no tenemos sus posiciones oficiales.
+1. **Publicamos las justificaciones** - Para que cualquiera pueda verificar
+2. **El código es abierto** - El proceso es transparente y auditable [aquí](https://github.com/votomatic/votomatic)
+3. **Aceptamos correcciones** - Si detectas un error, puedes reportarlo [aquí](https://github.com/votomatic/votomatic/issues)
 
-## Reglas del contenido
+## Nota importante
 
-Las justificaciones de los partidos deben cumplir reglas básicas:
+Las posiciones mostradas en Votomatic son una **interpretación automatizada** de los planes de gobierno. Para conocer la posición oficial de un partido sobre cualquier tema, te recomendamos:
 
-### ✅ Permitido:
-- Explicar sus propuestas con detalle
-- Dar contexto o datos que respalden su posición
-- Explicar por qué otras opciones no les parecen adecuadas
-- Usar lenguaje persuasivo sobre sus ideas
+- Leer el plan de gobierno completo
+- Consultar las declaraciones oficiales del partido
+- Revisar las propuestas de los candidatos
 
-### ❌ No permitido:
-- Insultos o lenguaje ofensivo hacia otros partidos
-- Llamados a la violencia
-- Lenguaje discriminatorio (racismo, sexismo, etc.)
-- Información falsa demostrable
-
-Si una justificación viola estas reglas:
-1. Contactamos al partido
-2. Le pedimos que corrija el contenido
-3. Si no corrige, no publicamos esa justificación (pero sí la posición de acuerdo/neutral/desacuerdo)
-
-## ¿Por qué algunos partidos no responden todas las preguntas?
-
-Hay varias razones legítimas:
-
-- El tema no está en su agenda política
-- No tienen una posición definida aún
-- Prefieren no pronunciarse sobre ese tema específico
-- Consideran que la pregunta no aplica a su propuesta
-
-**Esto es normal y aceptable.** Los partidos no están obligados a responder todo.
-
-En el cálculo de resultados, las preguntas sin respuesta se excluyen para ese partido.
-
-## Verificación de respuestas
-
-Para asegurar la calidad:
-
-1. **Revisión de coherencia** - Científicos políticos verifican que la respuesta coincida con la justificación
-2. **Verificación de fuente** - Confirmamos que las respuestas vienen del partido oficial
-3. **Control de calidad** - Verificamos que las justificaciones sean claras y completas
-
-Pero siempre recordando: **el partido tiene la última palabra**.
-
-## Comunicación con los partidos
-
-Mantenemos contacto transparente:
-
-- Email de contacto específico para cada partido
-- Recordatorios amables del plazo
-- Disponibilidad para resolver dudas
-- Confirmaciones de recepción
-- Notificaciones de cualquier problema detectado
-
-## Después del lanzamiento
-
-Una vez publicado Votomatic:
-
-- Los partidos pueden ver cómo se muestran sus respuestas
-- Si hay un error técnico real, lo corregimos inmediatamente
-- No permitimos cambios de opinión después de publicar
-- Las respuestas quedan como documento público
-
-## ¿Por qué es importante la participación?
-
-Cuando los partidos participan:
-
-- Los ciudadanos pueden tomar decisiones más informadas
-- Aumenta la transparencia del proceso electoral
-- Se facilita el debate sobre temas importantes
-- Los partidos pequeños tienen la misma visibilidad que los grandes
-
-**La participación de los partidos hace que Votomatic sea una herramienta de educación cívica para todos.**
+Votomatic es un punto de partida para tu investigación, no la última palabra sobre las posiciones de los partidos.

@@ -5,7 +5,7 @@ category: "introduccion"
 order: 1
 ---
 
-Votomatic es una herramienta gratuita que te ayuda a entender mejor las propuestas de los partidos políticos en Perú. Es similar al Wahl-O-Mat alemán, una herramienta que lleva más de 20 años ayudando a millones de ciudadanos en Alemania.
+Votomatic es una herramienta gratuita que te ayuda a entender mejor las propuestas de los partidos políticos en Perú. Está inspirada en el Wahl-O-Mat alemán, una herramienta que lleva más de 20 años ayudando a millones de ciudadanos en Alemania.
 
 ## ¿Para qué sirve?
 
@@ -14,7 +14,7 @@ Votomatic te permite:
 - **Responder preguntas** sobre temas políticos importantes en Perú
 - **Comparar tus respuestas** con las posiciones de cada partido político
 - **Ver qué partidos** se acercan más a tus ideas
-- **Leer las explicaciones** de cada partido sobre sus posiciones
+- **Leer las justificaciones** extraídas de los planes de gobierno de cada partido
 
 ## ¿Es una recomendación de voto?
 
@@ -29,20 +29,34 @@ Piensa en Votomatic como el **inicio de tu investigación**, no como el final. T
 
 ## ¿Quién está detrás de Votomatic?
 
-Votomatic es un proyecto independiente creado por:
+Votomatic es un proyecto independiente creado por dos ingenieros web que desarrollaron la plataforma de forma voluntaria y gratuita, con el objetivo de promover la participación ciudadana informada.
 
-- **Equipo editorial**: Jóvenes votantes peruanos que crean las preguntas y aseguran que sean relevantes para nuestra realidad
-- **Equipo de desarrollo**: Voluntarios internacionales que desarrollan la plataforma web de forma gratuita
+### Uso de Inteligencia Artificial
 
-Seguimos el modelo del Wahl-O-Mat alemán, que ha demostrado durante más de 20 años que este tipo de herramientas pueden ayudar a los ciudadanos a tomar decisiones más informadas.
+Las posiciones de los partidos políticos fueron generadas utilizando **inteligencia artificial** a partir del análisis de los **planes de gobierno oficiales** de cada partido, publicados en el portal del Jurado Nacional de Elecciones (JNE).
+
+Este enfoque permite:
+- Procesar los 37 planes de gobierno de manera consistente
+- Extraer posiciones basadas en documentos oficiales
+- Mantener transparencia sobre la fuente de la información
 
 ## ¿Por qué confiar en Votomatic?
 
 Nuestro compromiso es con la **transparencia** y la **neutralidad**:
 
-- Las preguntas son creadas por jóvenes votantes peruanos
-- Los partidos políticos responden directamente sus posiciones
-- No editamos ni interpretamos las respuestas de los partidos
+- Las posiciones de los partidos provienen de sus planes de gobierno oficiales
+- Usamos IA para procesar los datos de manera consistente y objetiva
 - No recopilamos ni vendemos tus datos personales
 - Nuestro código es abierto para que cualquiera pueda revisarlo
 - Documentamos todo nuestro proceso públicamente
+
+## Limitaciones
+
+Es importante entender las limitaciones de Votomatic:
+
+- Las posiciones fueron extraídas por IA, no respondidas directamente por los partidos
+- La IA puede cometer errores de interpretación
+- Los planes de gobierno no siempre cubren todos los temas
+- Las posiciones de los partidos pueden cambiar con el tiempo
+
+Por eso, te recomendamos usar Votomatic como punto de partida, no como única fuente de información.

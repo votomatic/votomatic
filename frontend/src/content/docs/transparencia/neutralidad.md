@@ -11,7 +11,7 @@ Para que Votomatic sea útil, debe ser completamente neutral. Aquí te explicamo
 
 ### 1. Independencia política
 - No estamos afiliados a ningún partido político
-- No recibimos financiamiento de partidos
+- No recibimos financiamiento de partidos ni del gobierno
 - No promovemos candidatos específicos
 - Tratamos a todos los partidos por igual
 
@@ -21,39 +21,25 @@ Para que Votomatic sea útil, debe ser completamente neutral. Aquí te explicamo
 - Publicamos nuestra metodología completa
 - Cualquiera puede revisar nuestro trabajo
 
-### 3. Igualdad de oportunidades
-- Todos los partidos pueden participar
-- Todos reciben el mismo tiempo para responder
+### 3. Igualdad de trato
+- Todos los 37 partidos están incluidos
+- Todos reciben el mismo proceso de extracción
 - Todos aparecen en los resultados de la misma forma
 - No hay preferencias por tamaño o popularidad
 
 ## Cómo evitamos el sesgo
 
-### En la creación de preguntas
+### En la extracción de posiciones
 
 **✅ Lo que hacemos:**
-- Equipo diverso de jóvenes con diferentes opiniones políticas
-- Cobertura balanceada de todos los temas importantes
-- Preguntas formuladas de forma neutral
-- Revisión por expertos independientes
+- Usamos la misma metodología de IA para todos los partidos
+- Basamos las posiciones en documentos oficiales (planes de gobierno)
+- Publicamos las justificaciones para verificación
+- Aceptamos correcciones si hay errores
 
 **❌ Lo que NO hacemos:**
-- Formular preguntas que favorezcan a un partido
-- Usar lenguaje emotivo o cargado
-- Incluir solo temas que beneficien a ciertos partidos
-- Dejar que expertos o políticos elijan las preguntas
-
-### En las respuestas de los partidos
-
-**✅ Lo que hacemos:**
-- Los partidos controlan completamente sus respuestas
-- Publicamos exactamente lo que el partido escribió
-- Damos el mismo tiempo a todos para responder
-- Verificamos errores técnicos, no posiciones políticas
-
-**❌ Lo que NO hacemos:**
-- Editar las respuestas de los partidos
-- Interpretar lo que "realmente quiso decir" un partido
+- Inventar posiciones que no están en los planes de gobierno
+- Editar o modificar las propuestas de los partidos
 - Favorecer a partidos que nos parecen "mejores"
 - Censurar posiciones con las que no estamos de acuerdo
 
@@ -71,28 +57,20 @@ Para que Votomatic sea útil, debe ser completamente neutral. Aquí te explicamo
 - Ponderar artificialmente ciertas respuestas
 - Manipular los porcentajes de coincidencia
 
-## Salvaguardas institucionales
+## Limitaciones de la neutralidad con IA
 
-### Equipo editorial independiente
-- Jóvenes sin afiliación partidaria
-- Diversidad de opiniones políticas en el equipo
-- Decisiones por consenso, no por imposición
-- Expertos asesoran pero no deciden
+Reconocemos que usar IA introduce desafíos para la neutralidad:
 
-### Revisión externa
-- Científicos políticos independientes revisan la metodología
-- El código es público para auditoría
-- Organizaciones de la sociedad civil pueden supervisar
-- Medios independientes pueden verificar el proceso
+### La IA puede tener sesgos
+- Los modelos de lenguaje pueden tener sesgos inherentes
+- La interpretación de textos ambiguos puede variar
+- Algunos temas pueden ser más difíciles de extraer que otros
 
-### Documentación pública
-Todo está documentado:
-- Cómo se seleccionaron las preguntas
-- Qué partidos participaron
-- Cómo funciona el algoritmo
-- Quiénes forman el equipo
-
-Esto permite que cualquiera detecte si hay sesgo.
+### Mitigación de sesgos
+- Usamos prompts neutrales y consistentes
+- Verificamos la coherencia de las posiciones extraídas
+- Publicamos todo para revisión pública
+- Aceptamos correcciones de la comunidad
 
 ## Lo que Votomatic NO es
 
@@ -105,119 +83,64 @@ Para mantener neutralidad, Votomatic NO es:
 
 Votomatic solo muestra: **"Tus respuestas coinciden X% con el partido Y"**
 
-## Manejo de controversias
+## Financiamiento transparente
 
-Si alguien cuestiona nuestra neutralidad:
+Votomatic fue creado de forma **completamente voluntaria y gratuita** por dos ingenieros web.
 
-1. **Escuchamos** - Consideramos toda crítica seriamente
-2. **Investigamos** - Revisamos si hay un problema real
-3. **Explicamos** - Mostramos nuestra metodología transparente
-4. **Corregimos** - Si hay un error genuino, lo admitimos y corregimos
-5. **Documentamos** - Publicamos lo que pasó y cómo lo resolvimos
+**No recibimos:**
+- Financiamiento de partidos políticos
+- Dinero del gobierno
+- Pagos de grupos de interés
+- Patrocinios condicionados
 
-## Casos difíciles
-
-### Partidos extremistas
-- Invitamos a todos los partidos legalmente registrados
-- No censuramos posiciones políticas
-- Aplicamos reglas contra lenguaje de odio (no contra ideas)
-- Los usuarios pueden leer las justificaciones y decidir
-
-### Temas polarizados
-- Buscamos formular preguntas neutrales
-- Permitimos que cada partido explique su posición
-- No juzgamos qué posición es "mejor"
-- Dejamos que el usuario decida
-
-### Presión política
-- No cambiamos preguntas por presión de partidos
-- No editamos respuestas que no nos gustan
-- No favorecemos partidos influyentes o poderosos
-- Mantenemos independencia incluso ante críticas
+**Esto garantiza nuestra independencia total.**
 
 ## Verificación de neutralidad
 
 Cualquiera puede verificar nuestra neutralidad:
 
 ### Revisa el código
-- GitHub: código completamente abierto
+- [GitHub](https://github.com/votomatic/votomatic): código completamente abierto
 - Algoritmo de coincidencia visible
-- Sin funciones ocultas de manipulación
+- Proceso de extracción documentado
 
-### Analiza las preguntas
-- ¿Cubren todos los temas importantes?
-- ¿Están formuladas de forma justa?
-- ¿Hay balance entre diferentes perspectivas?
+### Verifica las fuentes
+- Las justificaciones citan los planes de gobierno
+- Los planes de gobierno están disponibles en el JNE
+- Puedes comparar nuestras extracciones con los documentos originales
 
-### Compara con otros países
-- Seguimos el modelo del Wahl-O-Mat alemán
-- 20+ años de experiencia probada
-- 160+ millones de usos sin compromiso de neutralidad
-
-### Consulta a expertos
-- Científicos políticos pueden revisar la metodología
-- Organizaciones de la sociedad civil pueden auditar
-- Periodistas pueden investigar el proceso
-
-## Financiamiento transparente
-
-Para mantener independencia:
-
-**✅ Aceptamos:**
-- Donaciones de ciudadanos individuales
-- Apoyo de fundaciones de educación cívica
-- Colaboración con universidades
-- Patrocinio de medios de comunicación neutrales
-
-**❌ No aceptamos:**
-- Financiamiento de partidos políticos
-- Dinero condicionado a favorecer posiciones
-- Pagos por mostrar ciertos resultados
-- Influencia de grupos de interés político
-
-## Señales de advertencia que NO verás
-
-Si Votomatic fuera sesgado, verías:
-
-- 🚩 Preguntas formuladas de forma parcial
-- 🚩 Resultados que siempre favorecen a ciertos partidos
-- 🚩 Edición de respuestas de los partidos
-- 🚩 Algoritmo oculto o secreto
-- 🚩 Negativa a documentar el proceso
-- 🚩 Exclusión arbitraria de partidos
-- 🚩 Falta de transparencia en el financiamiento
-
-**No verás nada de esto en Votomatic** porque nuestro compromiso es con la neutralidad.
+### Reporta errores
+- Si encuentras una posición incorrecta, repórtala [aquí](https://github.com/votomatic/votomatic/issues)
+- Investigaremos y corregiremos si es necesario
+- Todo el proceso de corrección será transparente
 
 ## Por qué importa la neutralidad
 
 Si Votomatic no fuera neutral:
 
 - Los ciudadanos no podrían confiar en los resultados
-- Los partidos no querrían participar
 - Se convertiría en propaganda, no educación
 - Perdería su valor como herramienta cívica
 
 **La neutralidad no es solo un principio ético, es necesaria para que Votomatic funcione.**
 
-## Tu papel en mantener la neutralidad
+## Tu papel
 
-Tú también puedes ayudar:
+Tú también puedes ayudar a mantener la neutralidad:
 
-- 🔍 Revisa nuestro código y proceso
-- 🗣️ Reporta si detectas sesgo
+- 🔍 Revisa nuestro código y proceso [aquí](https://github.com/votomatic/votomatic/issues)
+- 🗣️ Reporta si detectas errores o sesgo [aquí](https://github.com/votomatic/votomatic/issues)
 - 📢 Exige transparencia
 - 🤔 Usa Votomatic de forma crítica (no como verdad absoluta)
 - 💬 Discute con otros sobre los resultados
 
 ## Compromiso continuo
 
-La neutralidad no es algo que logras una vez y ya está. Es un compromiso continuo:
+La neutralidad es un compromiso continuo:
 
 - Revisión constante de nuestros procesos
 - Apertura a críticas y mejoras
 - Documentación actualizada
-- Transparencia en cada elección
-- Responsabilidad ante los ciudadanos
+- Transparencia en cada paso
 
 **Nuestro éxito se mide no por qué partido "gana" en Votomatic, sino por qué tantos ciudadanos confían en la herramienta para informarse.**

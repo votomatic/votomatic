@@ -9,7 +9,7 @@ Usar Votomatic es fácil y toma solo unos minutos. Aquí te explicamos cómo fun
 
 ## Paso 1: Responde las preguntas
 
-Te presentaremos entre 25 y 38 afirmaciones sobre temas políticos importantes en Perú. Para cada una, puedes elegir:
+Te presentaremos afirmaciones sobre temas políticos importantes en Perú. Para cada una, puedes elegir:
 
 - **De acuerdo** - Si estás de acuerdo con la afirmación
 - **En desacuerdo** - Si no estás de acuerdo
@@ -50,11 +50,7 @@ Te mostraremos qué tan cerca están tus respuestas de cada partido, en porcenta
 
 ## Paso 5: Explora los detalles
 
-Después de ver tus resultados, puedes:
-
-- **Ver las justificaciones** - Lee por qué cada partido respondió de cierta manera
-- **Comparar partidos** - Mira lado a lado las respuestas de hasta 3 partidos
-- **Ajustar tus respuestas** - Cambia alguna respuesta y ve cómo afecta tus resultados
+Después de ver tus resultados, puedes ajustar tus respuestas. Solo cambia alguna respuesta y ve cómo afecta tus resultados
 
 ## ¿Cómo se calculan los resultados?
 
@@ -75,16 +71,15 @@ Lo convertimos a porcentaje para que sea más fácil de entender. Un 85% de coin
 
 ## ¿Cuánto tiempo toma?
 
-Responder todas las preguntas toma aproximadamente **4 a 5 minutos**. Explorar los resultados y comparar partidos puede tomar el tiempo que quieras.
+Responder todas las preguntas toma aproximadamente **2 a 4 minutos**. Explorar los resultados y comparar partidos puede tomar el tiempo que quieras.
 
 ## ¿Y después?
 
 Recuerda que Votomatic es solo el inicio. Te recomendamos:
 
-1. Leer las justificaciones de los partidos que coincidieron contigo
-2. Investigar los programas completos de esos partidos
-3. Conocer a los candidatos y su trayectoria
-4. Conversar con amigos y familia sobre lo que aprendiste
-5. Seguir informándote hasta el día de las elecciones
+1. Investigar los programas completos de esos partidos
+2. Conocer a los candidatos y su trayectoria
+3. Conversar con amigos y familia sobre lo que aprendiste
+4. Seguir informándote hasta el día de las elecciones
 
 **Si quieres ver un ejemplo en acción, prueba Votomatic aquí: [/como-funciona](/como-funciona)**

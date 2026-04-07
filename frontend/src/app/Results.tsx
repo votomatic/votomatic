@@ -15,13 +15,17 @@ interface ResultsProps {
 }
 
 interface PartyResult {
+  id: string;
   name: string;
   abbreviation: string;
   logoUrl?: string | null;
   description?: string;
+  isInCongress: boolean;
   matchPercentage: number;
   thesisScores: ThesisScore[];
 }
+
+type FilterMode = 'all' | 'inCongress' | 'notInCongress' | 'custom';
 
 // Helper to get agreement status
 function getAgreementStatus(userAnswer: number | null, partyAnswer: number): "agree" | "partial" | "disagree" | "skipped" {
@@ -39,6 +43,9 @@ export function Results({
   onBack,
 }: ResultsProps) {
   const [expandedParty, setExpandedParty] = useState<string | null>(null);
+  const [filterMode, setFilterMode] = useState<FilterMode>('all');
+  const [selectedPartyIds, setSelectedPartyIds] = useState<Set<string>>(new Set());
+  const [showPartySelector, setShowPartySelector] = useState(false);
 
   // Create a map of thesis key to thesis for quick lookup
   const thesisMap = useMemo(() => {
@@ -46,15 +53,17 @@ export function Results({
   }, [theses]);
 
   // Calculate matches for all parties
-  const partyResults: PartyResult[] = useMemo(() => {
+  const allPartyResults: PartyResult[] = useMemo(() => {
     const results = partyParticipations.map((participation) => {
       const match = calculateMatch(answers, participation.answers, weights);
 
       return {
+        id: participation.party.id,
         name: participation.party.name,
         abbreviation: participation.party.abbreviation,
         logoUrl: participation.party.logoUrl,
         description: participation.party.description,
+        isInCongress: participation.party.isInCongress ?? false,
         matchPercentage: match.matchPercentage,
         thesisScores: match.thesisScores,
       };
@@ -64,8 +73,41 @@ export function Results({
     return results.sort((a, b) => b.matchPercentage - a.matchPercentage);
   }, [answers, weights, partyParticipations]);
 
+  // Filter parties based on selected filter mode
+  const partyResults = useMemo(() => {
+    switch (filterMode) {
+      case 'inCongress':
+        return allPartyResults.filter(p => p.isInCongress);
+      case 'notInCongress':
+        return allPartyResults.filter(p => !p.isInCongress);
+      case 'custom':
+        return allPartyResults.filter(p => selectedPartyIds.has(p.id));
+      default:
+        return allPartyResults;
+    }
+  }, [allPartyResults, filterMode, selectedPartyIds]);
+
   const toggleParty = (partyName: string) => {
     setExpandedParty(expandedParty === partyName ? null : partyName);
+  };
+
+  const togglePartySelection = (partyId: string) => {
+    setSelectedPartyIds(prev => {
+      const newSet = new Set(prev);
+      if (newSet.has(partyId)) {
+        newSet.delete(partyId);
+      } else {
+        newSet.add(partyId);
+      }
+      return newSet;
+    });
+  };
+
+  const handleFilterChange = (mode: FilterMode) => {
+    if (mode === 'custom') {
+      setShowPartySelector(true);
+    }
+    setFilterMode(mode);
   };
 
   return (
@@ -94,9 +136,57 @@ export function Results({
               </svg>
               Volver a ponderación
             </button>
-            <h1 className="text-[min(7vw,3rem)] leading-[1.1] text-foreground mb-1">
+            <h1 className="text-[min(7vw,3rem)] leading-[1.1] text-foreground mb-4">
               Tus resultados
             </h1>
+
+            {/* Filter tabs */}
+            <div className="flex flex-wrap gap-2">
+              <button
+                onClick={() => handleFilterChange('all')}
+                className={cn(
+                  "px-4 py-2 rounded-full text-sm font-medium transition-colors",
+                  filterMode === 'all'
+                    ? "bg-primary text-primary-foreground"
+                    : "bg-surface text-foreground-secondary hover:bg-surface/80"
+                )}
+              >
+                Todos ({allPartyResults.length})
+              </button>
+              <button
+                onClick={() => handleFilterChange('inCongress')}
+                className={cn(
+                  "px-4 py-2 rounded-full text-sm font-medium transition-colors",
+                  filterMode === 'inCongress'
+                    ? "bg-primary text-primary-foreground"
+                    : "bg-surface text-foreground-secondary hover:bg-surface/80"
+                )}
+              >
+                En el Congreso ({allPartyResults.filter(p => p.isInCongress).length})
+              </button>
+              <button
+                onClick={() => handleFilterChange('notInCongress')}
+                className={cn(
+                  "px-4 py-2 rounded-full text-sm font-medium transition-colors",
+                  filterMode === 'notInCongress'
+                    ? "bg-primary text-primary-foreground"
+                    : "bg-surface text-foreground-secondary hover:bg-surface/80"
+                )}
+              >
+                Fuera del Congreso ({allPartyResults.filter(p => !p.isInCongress).length})
+              </button>
+              <button
+                onClick={() => handleFilterChange('custom')}
+                className={cn(
+                  "px-4 py-2 rounded-full text-sm font-medium transition-colors",
+                  filterMode === 'custom'
+                    ? "bg-primary text-primary-foreground"
+                    : "bg-surface text-foreground-secondary hover:bg-surface/80"
+                )}
+              >
+                Seleccionar partidos {filterMode === 'custom' && selectedPartyIds.size > 0 && `(${selectedPartyIds.size})`}
+              </button>
+            </div>
           </div>
         </div>
       </header>
@@ -263,6 +353,91 @@ export function Results({
           {/* No primary CTA needed - this is the final page */}
         </div>
       </footer>
+
+      {/* Party selector modal */}
+      {showPartySelector && (
+        <div className="fixed inset-0 bg-black/50 z-50 flex items-end md:items-center justify-center">
+          <div className="bg-background w-full md:max-w-lg md:rounded-3xl rounded-t-3xl max-h-[80vh] flex flex-col">
+            {/* Modal header */}
+            <div className="p-6 border-b border-surface flex items-center justify-between">
+              <h2 className="text-xl font-bold text-foreground">Seleccionar partidos</h2>
+              <button
+                onClick={() => setShowPartySelector(false)}
+                className="p-2 hover:bg-surface rounded-full transition-colors"
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <line x1="18" y1="6" x2="6" y2="18" />
+                  <line x1="6" y1="6" x2="18" y2="18" />
+                </svg>
+              </button>
+            </div>
+
+            {/* Party list */}
+            <div className="flex-1 overflow-y-auto p-4">
+              <div className="space-y-2">
+                {allPartyResults.map((party) => (
+                  <button
+                    key={party.id}
+                    onClick={() => togglePartySelection(party.id)}
+                    className={cn(
+                      "w-full p-4 rounded-2xl flex items-center gap-4 transition-colors text-left",
+                      selectedPartyIds.has(party.id)
+                        ? "bg-primary/10 border-2 border-primary"
+                        : "bg-surface hover:bg-surface/80 border-2 border-transparent"
+                    )}
+                  >
+                    {/* Checkbox */}
+                    <div className={cn(
+                      "w-6 h-6 rounded-md border-2 flex items-center justify-center flex-shrink-0",
+                      selectedPartyIds.has(party.id)
+                        ? "bg-primary border-primary"
+                        : "border-foreground-secondary"
+                    )}>
+                      {selectedPartyIds.has(party.id) && (
+                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+                          <polyline points="20 6 9 17 4 12" />
+                        </svg>
+                      )}
+                    </div>
+
+                    {/* Logo */}
+                    {party.logoUrl && (
+                      <div className="w-10 h-10 rounded-lg overflow-hidden bg-background flex-shrink-0">
+                        <img
+                          src={party.logoUrl}
+                          alt={`${party.name} logo`}
+                          className="w-full h-full object-cover"
+                        />
+                      </div>
+                    )}
+
+                    {/* Party name and badge */}
+                    <div className="flex-1 min-w-0">
+                      <p className="font-medium text-foreground truncate">{party.name}</p>
+                      {party.isInCongress && (
+                        <span className="text-xs text-foreground-secondary">En el Congreso</span>
+                      )}
+                    </div>
+
+                    {/* Match percentage */}
+                    <span className="text-sm font-medium text-accent">{Math.round(party.matchPercentage)}%</span>
+                  </button>
+                ))}
+              </div>
+            </div>
+
+            {/* Modal footer */}
+            <div className="p-4 border-t border-surface">
+              <button
+                onClick={() => setShowPartySelector(false)}
+                className={cn(button({ variant: "primary", size: "lg" }), "w-full")}
+              >
+                Ver resultados ({selectedPartyIds.size} partidos)
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

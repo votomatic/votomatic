@@ -1,11 +1,11 @@
 ---
 title: "Nuestra metodología"
-description: "Cómo creamos las preguntas de Votomatic"
+description: "Cómo generamos las preguntas y posiciones de Votomatic"
 category: "proceso"
 order: 1
 ---
 
-La calidad de Votomatic depende de la calidad de las preguntas. Por eso seguimos un proceso riguroso y transparente para crearlas. Aquí te explicamos cómo lo hacemos.
+La calidad de Votomatic depende de la calidad de las preguntas y de cómo se extraen las posiciones de los partidos. Aquí te explicamos cómo funciona nuestro proceso.
 
 ## Principios fundamentales
 
@@ -16,7 +16,7 @@ Cada pregunta en Votomatic debe cumplir con estos requisitos:
 - Evitamos términos muy técnicos o especializados
 - Una sola idea por pregunta (no mezclamos varios temas)
 
-### 2. Controversial
+### 2. Diferenciadora
 - Los partidos deben tener posiciones diferentes
 - Si todos los partidos están de acuerdo, la pregunta no sirve
 - Buscamos temas donde hay debate real
@@ -31,81 +31,94 @@ Cada pregunta en Votomatic debe cumplir con estos requisitos:
 - No usa lenguaje emotivo o cargado
 - Permite que todos los partidos expresen su posición
 
-## Proceso de selección
+## Fuente de datos: Planes de gobierno oficiales
 
-### Generación inicial (50-60 preguntas)
-En el primer taller, los jóvenes participantes:
+Toda la información de los partidos proviene de los **planes de gobierno oficiales** publicados en el portal del Jurado Nacional de Elecciones (JNE). Estos documentos son:
 
-1. Leen los planes de gobierno de todos los partidos
-2. Identifican los temas más debatidos
-3. Formulan preguntas claras sobre esos temas
-4. Trabajan en grupos temáticos:
-   - Economía, trabajo y finanzas
-   - Educación, salud y familia
-   - Seguridad y justicia
-   - Medio ambiente e infraestructura
-   - Democracia y derechos
+- Obligatorios para todos los partidos que participan en las elecciones
+- De acceso público
+- La fuente oficial de las propuestas de cada partido
 
-### Respuesta de los partidos (2 semanas)
-- Enviamos todas las preguntas a los partidos políticos
-- Los partidos tienen 2-3 semanas para responder
-- Deben responder "de acuerdo", "neutral" o "en desacuerdo"
-- Deben escribir una explicación de su respuesta
+## Proceso de extracción con IA
 
-### Selección final (25-38 preguntas)
-En el segundo taller:
+### 1. Recopilación de planes de gobierno
+- Descargamos los 37 planes de gobierno del portal del JNE
+- Procesamos los documentos PDF para extraer el texto
 
-1. Revisamos todas las respuestas de los partidos
-2. Analizamos estadísticamente qué preguntas diferencian mejor a los partidos
-3. Verificamos que cubrimos todos los temas importantes
-4. Seleccionamos las mejores 25-38 preguntas
+### 2. Análisis por inteligencia artificial
+Utilizamos modelos de lenguaje (IA) para:
+- Identificar los temas principales de cada plan de gobierno
+- Extraer las propuestas específicas de cada partido
+- Determinar la posición del partido en cada tema (a favor, neutral, en contra)
 
-## Criterios de selección final
+### 3. Generación de preguntas
+Las preguntas se generan basándose en:
+- Temas donde los partidos tienen posiciones diferentes
+- Propuestas concretas mencionadas en los planes de gobierno
+- Asuntos de interés público para las elecciones
 
-Una pregunta llega a la versión final si:
+### 4. Asignación de posiciones
+Para cada pregunta, la IA determina la posición de cada partido:
+- **De acuerdo (+1)**: El plan de gobierno apoya claramente esta posición
+- **Neutral (0)**: El plan no menciona el tema o tiene una posición ambigua
+- **En desacuerdo (-1)**: El plan de gobierno se opone a esta posición
 
-- ✅ Los partidos respondieron de forma variada (no todos igual)
-- ✅ El tema es importante para la elección
-- ✅ La pregunta es clara y fácil de entender
-- ✅ Está dentro de lo que puede decidir el gobierno o Congreso
-- ✅ Ayuda a diferenciar entre partidos
-- ✅ Cubre un tema que aún no está bien representado
+### 5. Justificaciones
+Cada posición incluye una justificación extraída o resumida del plan de gobierno original, citando las propuestas relevantes del partido.
 
 ## Lo que NO hacemos
 
 Es importante que sepas lo que **no** hacemos:
 
-- ❌ **No editamos** las respuestas de los partidos
-- ❌ **No interpretamos** lo que los partidos quisieron decir
-- ❌ **No decidimos solos** - el equipo de jóvenes decide en conjunto
+- ❌ **No inventamos** posiciones que no están en los planes de gobierno
+- ❌ **No editamos** las propuestas de los partidos
 - ❌ **No favorecemos** a ningún partido
 - ❌ **No incluimos** preguntas trampa o ambiguas
 
+## Limitaciones del proceso
+
+Reconocemos las siguientes limitaciones:
+
+### La IA puede cometer errores
+- Puede malinterpretar el contexto de una propuesta
+- Puede no detectar matices importantes
+- Puede asignar posiciones incorrectas en casos ambiguos
+
+### Los planes de gobierno tienen limitaciones
+- No todos los partidos cubren todos los temas
+- Algunos planes son más detallados que otros
+- Las propuestas pueden ser vagas o generales
+
+### Las posiciones pueden cambiar
+- Los partidos pueden modificar sus posiciones después de publicar el plan
+- Las declaraciones públicas pueden contradecir el plan de gobierno
+- La realidad política es más compleja que un documento
+
 ## Control de calidad
 
-Antes de publicar:
+Para minimizar errores:
 
-1. **Revisión técnica** - Expertos verifican que las preguntas sean claras
-2. **Revisión de respuestas** - Científicos políticos verifican que las respuestas de los partidos sean coherentes
-3. **Si hay errores** - Contactamos al partido para confirmar o corregir
-4. **Autoridad final** - El partido siempre tiene la última palabra sobre su respuesta
+1. **Revisión de coherencia** - Verificamos que las posiciones asignadas sean coherentes con las justificaciones
+2. **Verificación de fuentes** - Las justificaciones deben estar respaldadas por el plan de gobierno
+3. **Transparencia** - Publicamos las justificaciones para que los usuarios puedan verificar
 
 ## Transparencia
 
 Publicamos:
 
-- Los criterios que usamos para seleccionar preguntas
-- El proceso completo de creación
-- Qué partidos respondieron y cuáles no
+- Los criterios que usamos para generar preguntas
+- El proceso completo de extracción
+- Las justificaciones de cada posición
 - La metodología de cálculo de resultados
+- El código fuente de la plataforma
 
-## ¿Por qué este proceso?
+## ¿Por qué usar IA?
 
-Este método está probado. El Wahl-O-Mat alemán lo ha usado durante más de 20 años con más de 160 millones de usos. Funciona porque:
+Usamos inteligencia artificial porque:
 
-- Los jóvenes votantes entienden qué preguntas son importantes
-- Los expertos aseguran la calidad técnica
-- Los partidos mantienen control sobre sus respuestas
-- La transparencia genera confianza
+- Permite procesar 37 planes de gobierno de manera consistente
+- Reduce el sesgo humano en la interpretación
+- Hace el proceso más rápido y escalable
+- Es transparente sobre sus limitaciones
 
-Preferimos tener **menos preguntas de alta calidad** que muchas preguntas débiles o confusas.
+Sin embargo, reconocemos que el método ideal sería que los propios partidos respondan directamente las preguntas, como hace el Wahl-O-Mat en Alemania.

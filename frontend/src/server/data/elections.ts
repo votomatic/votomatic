@@ -26,6 +26,7 @@ export async function getElectionBySlug(slug: string): Promise<Election | null> 
         abbreviation: p.party.abbreviation,
         logoUrl: getImageUrl(p.party.logo, 80, 80),
         description: p.party.description,
+        isInCongress: p.party.isInCongress ?? false,
       },
       answers: p.answers || [],
     })),
