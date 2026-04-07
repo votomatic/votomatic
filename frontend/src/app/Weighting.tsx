@@ -1,8 +1,57 @@
 
 import { useState, useMemo } from "react";
-import type { Answer } from "../lib/types/answer";
+import type { Answer, AnswerValue } from "../lib/types/answer";
 import type { Thesis } from "../lib/types/election";
 import { cn, button } from "../lib/styles";
+
+// Icon components for user answers
+function AgreeIcon() {
+  return (
+    <span className="inline-flex items-center justify-center w-6 h-6 rounded-full bg-green-500/20 text-green-500">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+        <polyline points="20 6 9 17 4 12" />
+      </svg>
+    </span>
+  );
+}
+
+function NeutralIcon() {
+  return (
+    <span className="inline-flex items-center justify-center w-6 h-6 rounded-full bg-yellow-500/20 text-yellow-500">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+        <line x1="5" y1="12" x2="19" y2="12" />
+      </svg>
+    </span>
+  );
+}
+
+function DisagreeIcon() {
+  return (
+    <span className="inline-flex items-center justify-center w-6 h-6 rounded-full bg-red-500/20 text-red-500">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+        <line x1="18" y1="6" x2="6" y2="18" />
+        <line x1="6" y1="6" x2="18" y2="18" />
+      </svg>
+    </span>
+  );
+}
+
+function SkippedIcon() {
+  return (
+    <span className="inline-flex items-center justify-center w-6 h-6 rounded-full bg-gray-500/20 text-gray-500">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M5 12h14M12 5l7 7-7 7" />
+      </svg>
+    </span>
+  );
+}
+
+function AnswerIcon({ value }: { value: AnswerValue }) {
+  if (value === 1) return <AgreeIcon />;
+  if (value === 0) return <NeutralIcon />;
+  if (value === -1) return <DisagreeIcon />;
+  return <SkippedIcon />;
+}
 
 interface WeightingProps {
   theses: Thesis[];
@@ -34,6 +83,11 @@ export function Weighting({ theses, answers, weights: initialWeights, onComplete
   const thesesWithAnswers = useMemo(() => {
     return theses.filter(thesis => answers.some(answer => answer.thesisKey === thesis._key));
   }, [theses, answers]);
+
+  // Create a map of thesis key to answer for quick lookup
+  const answerMap = useMemo(() => {
+    return new Map(answers.map((a) => [a.thesisKey, a.value]));
+  }, [answers]);
 
   return (
     <div className="h-[100dvh] flex flex-col bg-background">
@@ -78,6 +132,7 @@ export function Weighting({ theses, answers, weights: initialWeights, onComplete
             {thesesWithAnswers.map((thesis) => {
               const isWeighted = weights[thesis._key] === 2;
               const isExpanded = expandedThesis === thesis._key;
+              const userAnswer = answerMap.get(thesis._key) ?? null;
 
               return (
                 <div
@@ -88,11 +143,17 @@ export function Weighting({ theses, answers, weights: initialWeights, onComplete
                   )}
                 >
                   <div className="p-6 flex items-center justify-between gap-4">
+                    {/* User answer icon */}
+                    <div className="flex-shrink-0">
+                      <AnswerIcon value={userAnswer} />
+                    </div>
+
                     {/* Expandable title area */}
                     <button
                       onClick={() => toggleExpand(thesis._key)}
                       className="flex items-center gap-2 flex-1 min-w-0 text-left"
                     >
+                      <span className="font-semibold">{thesis.title}</span>
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="20"
@@ -104,14 +165,13 @@ export function Weighting({ theses, answers, weights: initialWeights, onComplete
                         strokeLinecap="round"
                         strokeLinejoin="round"
                         className={cn(
-                          "flex-shrink-0 transition-transform",
+                          "flex-shrink-0 transition-transform ml-auto",
                           isWeighted ? "text-accent-foreground/70" : "text-foreground-secondary",
                           isExpanded && "rotate-180"
                         )}
                       >
                         <path d="M6 9l6 6 6-6" />
                       </svg>
-                      <span className="font-semibold">{thesis.title}</span>
                     </button>
                     <button
                       onClick={() => toggleWeight(thesis._key)}
@@ -132,7 +192,7 @@ export function Weighting({ theses, answers, weights: initialWeights, onComplete
                       isWeighted ? "border-t border-accent-foreground/20" : "border-t border-background"
                     )}>
                       <p className={cn(
-                        "text-sm leading-relaxed pt-4 pl-7",
+                        "text-sm leading-relaxed pt-4 pl-10",
                         isWeighted ? "text-accent-foreground/80" : "text-foreground-secondary"
                       )}>
                         {thesis.text}
