@@ -183,7 +183,7 @@ const categoryNames = {
 					a.href = `#${heading.id}`
 					a.textContent = heading.textContent
 					a.className =
-						"block text-foreground-secondary hover:text-foreground transition-colors py-1 border-l-2 border-transparent hover:border-primary pl-3 -ml-3"
+						"block text-foreground-secondary hover:text-foreground transition-colors py-1 border-l-2 border-transparent hover:border-accent pl-3 -ml-3"
 					li.appendChild(a)
 					toc.appendChild(li)
 				})
@@ -205,7 +205,7 @@ const categoryNames = {
 						// Remove active class from all links
 						document.querySelectorAll("#toc a").forEach((link) => {
 							link.classList.remove(
-								"border-primary",
+								"border-accent",
 								"text-foreground",
 								"font-medium",
 							)
@@ -215,7 +215,7 @@ const categoryNames = {
 						if (tocLink) {
 							tocLink.classList.remove("border-transparent")
 							tocLink.classList.add(
-								"border-primary",
+								"border-accent",
 								"text-foreground",
 								"font-medium",
 							)

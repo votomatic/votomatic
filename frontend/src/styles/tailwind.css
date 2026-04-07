@@ -32,6 +32,7 @@
   /* Purple palette */
   --color-purple-light: #b3b3ff;
   --color-purple: #7366FF;
+  --color-purple-dark: #5548cc;
 
   /* ============================================
      SEMANTIC TOKENS (Public API - Use These!)
@@ -53,6 +54,7 @@
 
   /* Accent - Purple for highlights */
   --color-accent: var(--color-purple);
+  --color-accent-hover: var(--color-purple-dark);
   --color-accent-foreground: #ffffff;
 
   /* Border */
@@ -86,6 +88,7 @@
 
     /* Accent - Lighter purple for visibility */
     --color-accent: var(--color-purple-light);
+    --color-accent-hover: var(--color-purple);
     --color-accent-foreground: var(--color-gray-900);
 
     /* Border - Adjust for dark backgrounds */
