@@ -139,9 +139,8 @@ export function Results({
                           </div>
                         )}
 
-                        {/* Abbreviation */}
                         <h2 className="text-xl md:text-2xl font-bold text-foreground">
-                          {party.abbreviation}
+                          {party.name}
                         </h2>
                       </div>
 
@@ -193,10 +192,6 @@ export function Results({
                   {isExpanded && (
                     <div className="px-6 pb-6 pt-0">
                       <div className="pt-4 border-t border-background space-y-4">
-                        {/* Full party name */}
-                        <h3 className="text-lg md:text-xl font-bold text-foreground">
-                          {party.name}
-                        </h3>
 
                         {/* Description */}
                         {party.description && (
